@@ -1,0 +1,303 @@
+FSError.m3 70
+StableError.m3 88
+LogManager.m3 1337
+StableLog.m3 526
+Log.m3 60
+FSError.i3 85
+StableError.i3 163
+LogManager.i3 705
+StableLog.i3 1317
+Log.i3 305
+$ 0
+@FSError.m3
+AFSError
+DFSError
+CUerror
+COSErrorPosix
+COSError
+CRTHooks
+@StableError.m3
+AStableError
+DStableError
+CProcess
+CThread
+CWr
+CStdio
+CRdUtils
+CRTHooks
+@LogManager.m3
+ALogManager
+Vc8ecbca0 6d30983b 0 0 0 0 LogManager_^%#%^__0001M
+R756208d0 1 50f86574 1
+Snm 50f86574
+TOSError.E
+Va37d730b c7114a63 0 5 8 0 LogManager_^%#%^__0002M
+Wcpfn 756208d0 LogManager.Cpfn
+Wnewcpfn 756208d0 LogManager.NewCpfn
+Woldcpfn 756208d0 LogManager.OldCpfn
+Wdummycp 756208d0 LogManager.DummyCp
+Wlogfn 756208d0 LogManager.Logfn
+Xinit LogManager.Init
+XreOpenLog LogManager.ReOpenLog
+XbeginCheckpoint LogManager.BeginCheckpoint
+XendCheckpoint LogManager.EndCheckpoint
+Xrecover LogManager.Recover
+Xrecoverable LogManager.Recoverable
+XemptyLog LogManager.EmptyLog
+Xdispose LogManager.Dispose
+Ra555e8a7 2 50f86574 0
+Slm c7114a60
+Snm 50f86574
+Rda4a5051 2 50f86574 1
+Slm c7114a60
+Snm 50f86574
+TOSError.E
+R0c41ef37 1 c7114a60 0
+Slm c7114a60
+R0303e524 2 62761487 1
+Slm c7114a60
+Snm 50f86574
+TOSError.E
+Q059810d0 fa67ef2f
+R7730b0f6 4 00000000 1
+Slm c7114a60
+Snm 50f86574
+Slog 059810d0
+Scheckp 059810d0
+TOSError.E
+R707c25a1 2 1e59237d 0
+Slm c7114a60
+Snm 50f86574
+R06887f18 2 1e59237d 1
+Slm c7114a60
+Snm 50f86574
+TOSError.E
+Rf78bcfe3 2 00000000 1
+Slm c7114a60
+Snm 50f86574
+TOSError.E
+Rcc666ce1 1 1e59237d 1
+Sfname 50f86574
+TOSError.E
+R16b56c73 1 00000000 1
+Sdir 50f86574
+TOSError.E
+DLogManager
+CLog
+CFSError
+CAtomList
+CAtom
+COSError
+CFS
+CFileRd
+CRd
+CFileWr
+CWr
+CThread
+CPathname
+CRTHooks
+Zc7114a60 a37d730b
+Z3b4a8854 c8ecbca0
+@StableLog.m3
+AStableLog
+Oa2d87e75 48e16572
+Rc5dffdde 2 00000000 0
+Slog 62761487
+Sr 94fe32f6
+O600784a3 94fe32f6
+Re0362123 2 00000000 0
+Slog 62761487
+Sr 9ee024e3
+O45ee585e 9ee024e3
+Ra64d891e 2 00000000 0
+Slog 62761487
+Stext 50f86574
+R3268f937 2 08402063 0
+Swr 62761487
+Salign 97e237e2
+R0bfad69e 1 50f86574 1
+Slog fa67ef2f
+TStableLog.Error
+R8703f650 2 08402063 1
+Srd fa67ef2f
+Snb 97e237e2
+TStableLog.Error
+DStableLog
+CWord
+CRdUtils
+CStableError
+CPickle
+CThread
+CTextF
+CText
+CRdClass
+CWrClass
+CWr
+CRd
+CRTHooks
+Q7632cb42 89cd34bd
+@Log.m3
+ALog
+DLog
+CStdio
+CProcess
+CThread
+CFmt
+CWr
+CRTHooks
+@FSError.i3
+BFSError
+Rc15c0ec8 1 1e59237d 0
+Serr ad398276
+DFSError
+COSError
+CRTHooks
+@StableError.i3
+BStableError
+Rbd00d9c5 1 50f86574 0
+Scode ad398276
+Rc5673195 1 00000000 0
+Smsg 50f86574
+DStableError
+CAtomList
+CRTHooks
+Ead398276 StableError.Code
+@LogManager.i3
+BLogManager
+Rac2bbda5 1 62761487 1
+Snm 50f86574
+TOSError.E
+Q059810d0 fa67ef2f
+Rd5e07c9a 3 00000000 1
+Snm 50f86574
+Slog 059810d0
+Scheckp 059810d0
+TOSError.E
+Ra9a02799 1 1e59237d 1
+Snm 50f86574
+TOSError.E
+Rbd63265d 1 00000000 1
+Snm 50f86574
+TOSError.E
+V6d30983b 9d8fb489 0 7 0 0
+WbeginCheckpoint ac2bbda5
+WendCheckpoint ac2bbda5
+WreOpenLog ac2bbda5
+Wrecover d5e07c9a
+Wrecoverable a9a02799
+WemptyLog a9a02799
+Wdispose bd63265d
+Y3b4a8854 6d30983b
+Yc7114a60 c7114a63
+Rc7114a62 0 c7114a60 0
+Vc7114a63 3b4a8854 0 1 0 0
+Winit c7114a62
+DLogManager
+COSError
+CRd
+CWr
+CPathname
+CRTHooks
+E3b4a8854 LogManager.T
+E6d30983b LogManager.Public
+Ec7114a63 LogManager.DefaultPublic
+Ec7114a60 LogManager.Default
+@StableLog.i3
+BStableLog
+Red95ebbf 2 00000000 0
+Slog 62761487
+SprocId 97e237e2
+R9b5c3460 1 00000000 0
+Slog 62761487
+Rce09abf3 2 97e237e2 1
+Slog fa67ef2f
+Smax 97e237e2
+TStableLog.Error
+Rd0c07e43 1 1e59237d 0
+Slog fa67ef2f
+Rc1709996 2 00000000 0
+Slog 62761487
+Sr 1c1c45e6
+R6c356811 1 1c1c45e6 1
+Slog fa67ef2f
+TStableLog.Error
+Rb26bf092 2 00000000 0
+Slog 62761487
+Sc 56e16863
+Q7632cb42 89cd34bd
+Ra222250a 2 00000000 0
+Slog 62761487
+Schars 7632cb42
+Rcfa637fe 2 00000000 0
+Slog 62761487
+Si 195c2a74
+Rb271fab2 2 00000000 0
+Slog 62761487
+Scard 97e237e2
+Ra18e8da6 2 00000000 0
+Slog 62761487
+Sbool 1e59237d
+R07000708 2 00000000 0
+Slog 62761487
+Sr 48e16572
+Rc5dffdc8 2 00000000 0
+Slog 62761487
+Sd 94fe32f6
+Re0362129 2 00000000 0
+Slog 62761487
+Sx 9ee024e3
+R1f2e0104 1 56e16863 1
+Slog fa67ef2f
+TStableLog.Error
+Rd034a1a1 1 97e237e2 1
+Slog fa67ef2f
+TStableLog.Error
+R2a6eac25 2 00000000 1
+Slog fa67ef2f
+Schars 7632cb42
+TStableLog.Error
+R0a9b2404 3 195c2a74 1
+Slog fa67ef2f
+Smin 195c2a74
+Smax 195c2a74
+TStableLog.Error
+R67968839 2 97e237e2 1
+Slog fa67ef2f
+Slim 97e237e2
+TStableLog.Error
+Rded31b98 1 1e59237d 1
+Slog fa67ef2f
+TStableLog.Error
+Raa45f68f 1 48e16572 1
+Slog fa67ef2f
+TStableLog.Error
+R689a0c59 1 94fe32f6 1
+Slog fa67ef2f
+TStableLog.Error
+R4d73d0a4 1 9ee024e3 1
+Slog fa67ef2f
+TStableLog.Error
+DStableLog
+CWr
+CRd
+CRTHooks
+@Log.i3
+BLog
+R038ccfa9 2 00000000 0
+Sname 50f86574
+Slev 195c2a74
+Rdbbdf71b 2 00000000 0
+Scomment 50f86574
+Slev 195c2a74
+R8b51b0aa 2 00000000 0
+St 50f86574
+Slev 195c2a74
+Rf5a53b31 2 00000000 0
+Si 195c2a74
+Slev 195c2a74
+Rb2a574d0 1 00000000 0
+Slev 195c2a74
+R9129e53a 1 00000000 0
+Snr 195c2a74
+DLog
+CRTHooks

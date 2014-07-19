@@ -1,0 +1,417 @@
+PixmapFromXData.m3 608
+FaceCards.m3 541
+CardSuit.m3 219
+CardRank.m3 185
+Card.m3 2782
+PixmapFromXData.i3 230
+FaceCards.i3 216
+CardSuit.i3 123
+CardRank.i3 91
+Card.i3 1858
+$ 0
+@PixmapFromXData.m3
+APixmapFromXData
+Re8d639cd 1 195c2a74 0
+Srd fa67ef2f
+R8af46cb9 2 00000000 0
+St a38fa121
+Shalftone 1e59237d
+Rf667f246 2 00000000 0
+Sbw 23e73f69
+Scolor 23e73f69
+V9f5c6a62 69dcd774 2 0 1 64
+Xapply PixmapFromXData.TTApply
+Lbw 0 32 23e73f69
+Lcolor 32 32 23e73f69
+Rcc563921 2 25cc4270 0
+Scl 9f5c6a62
+Sst 3b98b6b7
+DPixmapFromXData
+CThread
+CScreenType
+CPalette
+CPoint
+CRect
+CWord
+CRd
+CTextRd
+CScrnPixmap
+CPixmap
+CRTHooks
+Qdc18c096 23e73f69
+E9f5c6a62 PixmapFromXData.TTClosure
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+N2da6581d 195c2a74 0 31 8
+R6fb7d834 2 195c2a74 0
+Sx 195c2a74
+Sn 2da6581d
+@FaceCards.m3
+AFaceCards
+F5641d93f e4a2e5f3 23e73f69 96
+Fb4f39c9a 023e31f0 5641d93f 384
+F8c17d31a e4a2e5f3 7120f944 192
+F2e12fdbd 023e31f0 8c17d31a 768
+Fba13d245 e4a2e5f3 a38fa121 288
+Q62e61cd8 9d19e327
+Recb6f289 1 50f86574 0
+Sa 62e61cd8
+F55456bc0 023e31f0 ba13d245 1152
+N29a1581d 195c2a74 0 45 8
+F8fd9c4e6 29a1581d 50f86574 1472
+DFaceCards
+CCard
+CCardSuit
+CPoint
+CPixmapFromXData
+CPixmap
+CRTHooks
+Qdc18c096 23e73f69
+Q8edf06bb 7120f944
+Eba13d245 FaceCards.SuitData
+E8c17d31a FaceCards.SuitDelta
+E7120f944 FaceCards.Pt
+E9d19e327 FaceCards.AT
+@CardSuit.m3
+ACardSuit
+Ffa00b404 023e31f0 23e73f69 128
+F1652bf7e 023e31f0 a38fa121 384
+Rcf6429f4 1 00000000 0
+Ss 023e31f0
+DCardSuit
+CCard
+CPixmapFromXData
+CPixmap
+CRTHooks
+Qdc18c096 23e73f69
+E1652bf7e CardSuit.SuitData
+@CardRank.m3
+ACardRank
+F0aa6d158 37c076af 23e73f69 416
+Fe6f4da22 37c076af a38fa121 1248
+DCardRank
+CCard
+CPixmapFromXData
+CPixmap
+CRTHooks
+Qdc18c096 23e73f69
+Ee6f4da22 CardRank.RankData
+@Card.m3
+ACard
+Vd1ffb900 3093f4f3 0 0 0 0 Card_^%#%^__0001M
+V115eb50f b7b2b915 1 0 2 32 Card_^%#%^__0002M
+Xmouse Card.Mouse
+Xposition Card.Position
+Lnexthigh 0 32 b7b2b916
+F969685ee 7f272398 50f86574 512
+F69678657 1869fc04 50f86574 160
+Kcab8146f 128 4
+Lcard 0 32 b7b2b916
+LprevBelow 32 32 b7b2b916
+LnewBelow 64 32 b7b2b916
+LuserMade 96 8 1e59237d
+G48b2998e cab8146f 64
+P78f21969 48b2998e
+K588ff9a7 96 3
+Lundo 0 32 78f21969
+LnextUndo 32 32 195c2a74
+LlastUndo 64 32 195c2a74
+P7761745d 588ff9a7
+R716193ce 1 1e59237d 0
+Sslowly 1e59237d
+R63cfc098 4 00000000 0
+Scd b7b2b916
+SpBelow b7b2b916
+SnBelow b7b2b916
+SuMade 1e59237d
+Re1f25057 3 00000000 0
+Sch 3b6c825d
+Sax 9952f271
+Sn 97e237e2
+Q484d46e9 b7b2b916
+R1cff4dde 1 00000000 0
+Shigh 484d46e9
+R6f363379 2 00000000 0
+Shigh 484d46e9
+Sch b7b2b916
+Q5984e95f a67b16a0
+Racd6ff0a 2 00000000 0
+Sch b7b2b916
+Scd 5984e95f
+V631e8719 e545939d 4 0 1 96
+Xapply Card.LumenApply
+Ldest 0 32 b7b2b916
+Lup 32 8 1e59237d
+Lquick 40 8 1e59237d
+LkillGen 64 32 195c2a74
+R0f28d58a 1 1c1c45e6 0
+Sself 631e8719
+Qc9b824cc 3647db33
+Rdeb2e42f 2 00000000 0
+Sch b7b2b916
+Scd c9b824cc
+Rc3541f71 2 00000000 0
+Sc b7b2b916
+Sp b7b2b916
+Q8edf06bb 7120f944
+Rd79ced27 5 b7b2b916 0
+Sval 7f272398
+Sst 1869fc04
+Sloc 8edf06bb
+SzSplit 79cf0c2e
+Sfaced 1e59237d
+Raa1f8fff 3 00000000 0
+Sc b7b2b916
+Sloc 8edf06bb
+SzSplit 79cf0c2e
+V830efc7b 85e80fcd 1 0 2 32 Card_^%#%^__0003M
+Xrepaint Card.Repaint
+Xshape Card.Shape
+Lround 0 8 1e59237d
+Q2df25d5d d20da2a2
+R852999cd 2 00000000 0
+Sv fdb1ef27
+Sbad 2df25d5d
+Q51bb1fa1 ae44e05e
+R5aaf04cf 2 00000000 0
+Sv fdb1ef27
+Sclip 51bb1fa1
+Refbb6dae 6 00000000 0
+Sv fdb1ef27
+Sop 79a5aebb
+Sclip 51bb1fa1
+Spm 23e73f69
+Smidpt 8edf06bb
+Sdelta 8edf06bb
+R9f344ad9 11 00000000 0
+Sv fdb1ef27
+Sop 79a5aebb
+Stop 79a5aebb
+Sclip 51bb1fa1
+Spm 23e73f69
+Smidpt 8edf06bb
+Sdelta 8edf06bb
+Spix 23e73f69
+Sxip 23e73f69
+Ss 023e31f0
+Sr e4a2e5f3
+Q8ceb9d56 731462a9
+R4f2466fe 4 195c2a74 0
+Sa 8ceb9d56
+Sb 8ceb9d56
+Sdelta 8edf06bb
+Sclip 51bb1fa1
+N892831d7 195c2a74 0 3 8
+Fe848eb7d 892831d7 ae44e05e 512
+F74b25fae 8b2831d7 ae44e05e 256
+N8f2831d7 195c2a74 0 5 8
+F4068f797 8f2831d7 ae44e05e 768
+N2da4581d 195c2a74 0 11 8
+F457123cf 2da4581d ae44e05e 1536
+Qdc18c096 23e73f69
+Q865a5144 79a5aebb
+R992f1e64 3 00000000 0
+Sv fdb1ef27
+Stxt dc18c096
+Sop 865a5144
+Fc8371bdc 8a2831d7 ae44e05e 128
+R67781fd6 5 3093f4f3 0
+S_self_ 3093f4f3
+Sch 3b6c825d
+Sop 79a5aebb
+Stxt 23e73f69
+Sdelta 8edf06bb
+DCard
+CTwoTone
+CThread
+CSplit
+CMouseSplit
+CFilter
+CVBTRep
+CRegion
+CPaintOp
+CAxis
+CPixmap
+CHighlightVBT
+CGray
+CFaceCards
+CCardSuit
+CCardRank
+CRandom
+CRect
+CZSplit
+CVBT
+CPoint
+CRTHooks
+Q06c69b93 f939646c
+Qff49de26 00b621d9
+Ecab8146f Card.UndoRec
+E78f21969 Card.UndoLog
+E7761745d Card.Log
+E631e8719 Card.Lumen
+Q04a8b044 fb574fbb
+Zfdb1ef27 830efc7b
+Zb7b2b916 115eb50f
+Zc31c04c5 d1ffb900
+Q3547eb90 cab8146f
+@PixmapFromXData.i3
+BPixmapFromXData
+Ka38fa121 96 3
+Lwidth 0 32 97e237e2
+Lheight 32 32 97e237e2
+Lt 64 32 50f86574
+R907964b6 2 00000000 0
+St a38fa121
+Shalftone 1e59237d
+DPixmapFromXData
+CPixmap
+CRTHooks
+Ea38fa121 PixmapFromXData.T
+@FaceCards.i3
+BFaceCards
+Ne4a2e5f3 7f272398 11 13 8
+R29734080 2 00000000 0
+Ss 023e31f0
+Sr e4a2e5f3
+Rf3254aa5 2 00000000 0
+Ss 023e31f0
+Sr e4a2e5f3
+DFaceCards
+CCard
+CPoint
+CPixmap
+CRTHooks
+Ee4a2e5f3 FaceCards.FaceRank
+@CardSuit.i3
+BCardSuit
+Rf5de995d 1 00000000 0
+Sr 023e31f0
+F0f0874e4 023e31f0 97e237e2 128
+DCardSuit
+CCard
+CPixmap
+CRTHooks
+@CardRank.i3
+BCardRank
+R0578fc01 1 00000000 0
+Sr 37c076af
+DCardRank
+CCard
+CPixmap
+CRTHooks
+@Card.i3
+BCard
+H7f272398 16 8
+IMin
+IAce
+IDeuce
+IThree
+IFour
+IFive
+ISix
+ISeven
+IEight
+INine
+ITen
+IJack
+IQueen
+IKing
+IMax
+ITalon
+N37c076af 7f272398 1 13 8
+H1869fc04 5 8
+IAny
+ISpades
+IHearts
+IDiamonds
+IClubs
+N023e31f0 1869fc04 1 4 8
+Yc31c04c5 3b6c825d
+Yb7b2b916 b7b2b915
+Vb7b2b915 c31c04c5 5 0 0 96
+Lvalue 0 8 7f272398
+Lfamily 8 8 1869fc04
+LfaceUp 16 8 1e59237d
+Labove 32 32 b7b2b916
+Lbelow 64 32 b7b2b916
+N2da0581d 195c2a74 0 51 8
+Ff939646c 2da0581d b7b2b916 1664
+V85e80fcd 3f4e1f24 3 0 0 32
+Lvalue 0 8 7f272398
+Lfamily 8 8 1869fc04
+LfaceUp 16 8 1e59237d
+Yfdb1ef27 85e80fcd
+Q06c69b93 f939646c
+Rebbd0d4d 2 00000000 0
+Sdeck 06c69b93
+SzSplit 79cf0c2e
+G00b621d9 b7b2b916 64
+Qff49de26 00b621d9
+Rf976ce64 1 00000000 0
+Sdeck ff49de26
+Q8edf06bb 7120f944
+R97581e7c 5 b7b2b916 0
+Svalue 7f272398
+Ssuit 1869fc04
+Sloc 8edf06bb
+SzSplit 79cf0c2e
+SfaceUp 1e59237d
+R3ab3df01 3 fdb1ef27 0
+Svalue 7f272398
+Ssuit 1869fc04
+SfaceUp 1e59237d
+R211174f5 1 00000000 0
+Sc b7b2b916
+Rf1a51fd3 2 00000000 1
+Sc b7b2b916
+Sp b7b2b916
+TCard.BadDeal
+R52ab93a7 0 1e59237d 0
+Rac5d7659 1 1e59237d 0
+Sslowly 1e59237d
+Rcc1dbb4f 2 00000000 0
+Sc b7b2b916
+Sup 1e59237d
+Rf705bbb7 2 00000000 0
+Sc fdb1ef27
+Sup 1e59237d
+R34a3dd89 1 1e59237d 0
+Sc b7b2b916
+R0fbbdd71 1 1e59237d 0
+Sc fdb1ef27
+R7c25d271 1 b7b2b916 0
+Sc b7b2b916
+R7ea6bd93 2 1e59237d 0
+Sa b7b2b916
+Sb b7b2b916
+Q484d46e9 b7b2b916
+Rb27f28e6 2 1e59237d 0
+Sa 484d46e9
+Sb 484d46e9
+Rbea7efe4 1 b7b2b916 0
+Sa b7b2b916
+Re030b94f 1 00000000 0
+Senable 1e59237d
+Rafedf667 2 00000000 0
+Senable 1e59237d
+Schain 195c2a74
+DCard
+CPoint
+CZSplit
+CVBT
+CTwoTone
+CRTHooks
+E7f272398 Card.Value
+E37c076af Card.Rank
+E1869fc04 Card.Family
+E023e31f0 Card.Suit
+Ec31c04c5 Card.Private
+Eb7b2b915 Card.Public
+Eb7b2b916 Card.T
+Ef939646c Card.StandardDeck
+E85e80fcd Card.CardPublic
+Efdb1ef27 Card.Card
+E7ea6bd93 Card.AttachProc
+Eb27f28e6 Card.PlayProc
+Ebea7efe4 Card.MoveProc

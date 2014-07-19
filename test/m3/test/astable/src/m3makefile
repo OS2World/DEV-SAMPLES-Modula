@@ -1,0 +1,13 @@
+% Copyright (C) 1994, Digital Equipment Corporation.
+% All rights reserved.
+% See the file COPYRIGHT for a full description.
+%
+% Last modified on Thu Jan 19 13:57:22 PST 1995 by kalsow
+
+import ("libm3")
+import ("stable")
+
+module ("Counter")
+stableobj ("Counter", ["Counter"])
+implementation ("Example")
+program("Example")

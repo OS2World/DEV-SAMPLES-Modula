@@ -1,0 +1,600 @@
+ImageRd.m3 4413
+ImageVBT.m3 1889
+Images.m3 729
+ImagesBundle.m3 323
+ImageRd.i3 660
+ImageVBT.i3 679
+Images.i3 1619
+ImagesBundle.i3 85
+$ 0
+@ImageRd.m3
+AImageRd
+Vcd1d3822 61f8d472 21 1 7 672 ImageRd_^%#%^__0001M
+WisBitmap 7b78c34f ImageRd.IsBitmap
+Xinit ImageRd.Init
+Xdomain ImageRd.Domain
+Xpaint ImageRd.Paint
+Xrender ImageRd.Render
+Xcontents ImageRd.GetContents
+Xclose ImageRd.Close
+XtoEPSF ImageRd.ToEPSF
+Lmu 0 32 1541f475
+LincMu 32 32 1541f475
+LdomMu 64 32 1541f475
+Lrd 96 32 fa67ef2f
+Lstart 128 32 97e237e2
+Llength 160 32 97e237e2
+Lop 192 32 79a5aebb
+Lincarnation 224 32 195c2a74
+LdomainValid 256 8 1e59237d
+LcachedDomain 288 128 ae44e05e
+LrawValid 416 8 1e59237d
+Lraw 448 32 df441a5a
+Lst 480 32 3b98b6b7
+LpixelToRGB 512 32 b4742c35
+LisBW 544 8 1e59237d
+LisGray 552 8 1e59237d
+LisGrayRamp 560 8 1e59237d
+Lformat 568 8 a03c517f
+Lcooked 576 32 25cc4270
+Lgamma 608 32 48e16572
+Ldata 640 32 878be988
+R8beebd2f 1 38bcf9e1 0
+St 61f8d471
+R84830fc2 2 195c2a74 1
+St 61f8d471
+Srgb 725f8c74
+TImages.Error
+Rb6c52e6f 4 195c2a74 1
+St 61f8d471
+Srgb 725f8c74
+SrgbToPixel 38bcf9e1
+SnextValue 195c2a74
+TImages.Error
+Rdc0b5045 2 217fba22 1
+St 61f8d471
+SmaxVal 195c2a74
+TImages.Error
+Q51bb1fa1 ae44e05e
+R0cd96b65 2 df441a5a 0
+Sres df441a5a
+Sbnds 51bb1fa1
+Ra807e580 5 df441a5a 0
+St 61f8d471
+Sbitmap 1e59237d
+SmaxVal 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+F8b3a530f 56e16863 56e16863 2048
+R5056ed37 1 195c2a74 3
+Srd fa67ef2f
+TImages.Error
+TRd.Failure
+TThread.Alerted
+M330ebcd7 56e16863 256
+Rf2a4609b 4 00000000 3
+Srd fa67ef2f
+SscanLine 878be988
+SmaxVal 195c2a74
+Sbinary 1e59237d
+TImages.Error
+TRd.Failure
+TThread.Alerted
+Qe6a3d58b 195c2a74
+Qe1a6dc82 1e59237d
+R0734675f 6 a03c517f 3
+St 61f8d471
+SbodyStart e6a3d58b
+Swidth e6a3d58b
+Sheight e6a3d58b
+Sbinary e1a6dc82
+ShasMap e1a6dc82
+TImages.Error
+TRd.Failure
+TThread.Alerted
+R9e3d2ee5 5 df441a5a 3
+St 61f8d471
+SbodyStart 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+Sbinary 1e59237d
+TImages.Error
+TRd.Failure
+TThread.Alerted
+N69a2b000 195c2a74 0 999999 32
+F14ef87ef 69a2b000 56e16863 8000000
+O27f03425 14ef87ef
+Rdcc230fa 1 195c2a74 0
+Spos 195c2a74
+Rc657c718 1 195c2a74 1
+Spos 195c2a74
+TImages.Error
+Ra71ff9de 1 195c2a74 0
+SmaxVal 195c2a74
+Q4b8bd3ca b4742c35
+Rc76f5989 7 878be988 3
+St 61f8d471
+SbodyStart 195c2a74
+ShasMap 1e59237d
+Sscale e6a3d58b
+SmaxVal e6a3d58b
+SdataLength e6a3d58b
+SsrcRGBMap 4b8bd3ca
+TImages.Error
+TRd.Failure
+TThread.Alerted
+R2a5edc91 5 df441a5a 3
+St 61f8d471
+SbodyStart 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+ShasMap 1e59237d
+TImages.Error
+TRd.Failure
+TThread.Alerted
+Na7b889d2 195c2a74 0 99999 32
+Fe1c44aa2 a7b889d2 56e16863 800000
+O188d0006 e1c44aa2
+N892831d7 195c2a74 0 3 8
+F1291bd69 892831d7 56e16863 32
+F1eef4d53 56e16863 1291bd69 8192
+N822831d7 195c2a74 0 8 8
+F1da6e4e7 822831d7 195c2a74 288
+O826697a2 1291bd69
+Vbbfe1f59 e545939d 2 0 1 64
+Xapply ImageRd.PreCompute
+Lt 0 32 61f8d471
+Lst 32 32 3b98b6b7
+Rdd68adda 1 1c1c45e6 0
+Sself bbfe1f59
+Raaeb3d83 7 61f8d471 0
+St 61f8d471
+Srd fa67ef2f
+Sstart 97e237e2
+Slength 97e237e2
+Sop 79a5aebb
+Sst 3b98b6b7
+Sgamma 48e16572
+Re4b2fd1b 1 00000000 0
+St 61f8d471
+Re8858bb9 2 00000000 2
+St 61f8d471
+Sst 3b98b6b7
+TImages.Error
+TThread.Alerted
+R50c1bc1a 2 00000000 0
+St 61f8d471
+Sv 3f4e1f24
+Q8edf06bb 7120f944
+Ra6dba2fa 5 00000000 2
+St 61f8d471
+Sv 3f4e1f24
+Sclip 51bb1fa1
+Sdelta 8edf06bb
+SpaintChunk 195c2a74
+TImages.Error
+TThread.Alerted
+R3d2ef75f 2 df441a5a 2
+St 61f8d471
+Sv 3f4e1f24
+TImages.Error
+TThread.Alerted
+Rc596c476 1 9280d71b 2
+St 61f8d471
+TImages.Error
+TThread.Alerted
+Rb2db005c 3 00000000 3
+St 61f8d471
+Swr 62761487
+Sbinary 1e59237d
+TImages.Error
+TThread.Alerted
+TWr.Failure
+N473673bb 195c2a74 0 2079 16
+F02ed7f79 473673bb 56e16863 16640
+R7baa5d80 0 00000000 1
+TThread.Alerted
+Q7632cb42 89cd34bd
+R783539a5 1 00000000 2
+Sdata 7632cb42
+TThread.Alerted
+TWr.Failure
+R4bed9f5b 0 00000000 2
+TThread.Alerted
+TWr.Failure
+Fec042cc8 8b2831d7 725f8c74 64
+N29a4581d 195c2a74 0 15 8
+F8b72dde2 29a4581d 56e16863 128
+DImageRd
+CWr
+CWord
+CVBT
+CTrestleComm
+CTime
+CThread
+CScrnPixmap
+CScrnColorMap
+CScreenType
+CRect
+CRd
+CPoint
+CPaintPrivate
+CPaintOp
+CMath
+CIntIntTbl
+CImagesBundle
+CImages
+CFmt
+CBundle
+CRTHooks
+E217fba22 ImageRd.SrcToPixel
+E38bcf9e1 ImageRd.RGBToPixel
+Ebbfe1f59 ImageRd.PreComputeClosure
+Ea7b889d2 ImageRd.lgm.RowIndex
+E188d0006 ImageRd.lgm.Row
+E1291bd69 ImageRd.lgm.Char4
+Z61f8d471 cd1d3822
+Q8da0738b 725f8c74
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+Rc52a772e 2 195c2a74 0
+Sx 195c2a74
+Sn 195c2a74
+N2da6581d 195c2a74 0 31 8
+R6fb7d834 2 195c2a74 0
+Sx 195c2a74
+Sn 2da6581d
+R8c0935ac 4 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+Si 97e237e2
+Sn 97e237e2
+@ImageVBT.m3
+AImageVBT
+V53fbfde5 21712188 13 0 10 544 ImageVBT_^%#%^__0001M
+Xinit ImageVBT.Init
+Xput ImageVBT.Put
+Xget ImageVBT.Get
+XgetDelta ImageVBT.GetDelta
+XmoveTo ImageVBT.MoveTo
+Xredisplay ImageVBT.Redisplay
+Xrepaint ImageVBT.Repaint
+Xshape ImageVBT.Shape
+Xflash ImageVBT.Flash
+Xpaint ImageVBT.Paint
+LimageMu 0 32 1541f475
+LreadMu 32 32 1541f475
+Lpm 64 32 9a1eb09b
+Lbg 96 32 79a5aebb
+Lshadow 128 8 1e59237d
+LpaintChunk 160 32 195c2a74
+Ldelta 192 64 7120f944
+Lhighlight 256 160 d20da2a2
+Lunhighlighter 416 32 4b16b0ed
+Lredisplayer 448 32 4b16b0ed
+LwillRedisplay 480 8 1e59237d
+Lredisplaying 488 8 1e59237d
+LredisplayDone 512 32 57f0a1b6
+R4d7eaccf 3 00000000 0
+Sv 3f4e1f24
+Sdomain ae44e05e
+SimageDomainInV ae44e05e
+Q2df25d5d d20da2a2
+R013a2716 2 00000000 2
+Sv 2171218b
+Srgn 2df25d5d
+TImages.Error
+TThread.Alerted
+V3e90bcdd e545939d 2 0 1 96
+Xapply ImageVBT.ForkedUnhighlighter
+Lv 0 32 2171218b
+Lexpiry 32 64 94fe32f6
+Rb15a54e5 1 1c1c45e6 0
+Sself 3e90bcdd
+Vc703b528 e545939d 1 0 1 32
+Xapply ImageVBT.ForkedRedisplay
+Lv 0 32 2171218b
+Rc20eb8c9 1 1c1c45e6 0
+Sself c703b528
+R7ef1b69d 5 2171218b 0
+Sv 2171218b
+Spm 9a1eb09b
+Sbg 79a5aebb
+Sshadow 1e59237d
+SpaintChunk 195c2a74
+R76f90d0d 5 00000000 0
+Sv 2171218b
+Spm 9a1eb09b
+Sbg 79a5aebb
+Sshadow 1e59237d
+SpaintChunk 195c2a74
+R196d8943 1 9a1eb09b 0
+Sv 2171218b
+R07bce55a 1 00000000 0
+Sv 2171218b
+Rb235eb77 4 00000000 0
+Sv 2171218b
+Sdelta 7120f944
+SpixelRate 48e16572
+Shighlighting 1e59237d
+R27020d90 1 00000000 2
+Samount 7120f944
+TImages.Error
+TThread.Alerted
+Rf96b5224 1 00000000 0
+Sv 2171218b
+R1981db62 2 00000000 0
+Sv 2171218b
+Srgn 2df25d5d
+R61dd4b07 3 00000000 0
+Sv 2171218b
+Sax 9952f271
+Sn 97e237e2
+DImageVBT
+CVBTClass
+CVBT
+CTime
+CThread
+CRegion
+CRect
+CPoint
+CPixmap
+CPaintOp
+CMath
+CImages
+CAxis
+CRTHooks
+E3e90bcdd ImageVBT.UnhilighterClosure
+Ec703b528 ImageVBT.RedisplayerClosure
+Q8edf06bb 7120f944
+Q04a8b044 fb574fbb
+Z2171218b 53fbfde5
+@Images.m3
+AImages
+N69a2b000 195c2a74 0 999999 32
+F69224089 69a2b000 195c2a74 32000000
+O8104678f 69224089
+V81755280 9a1eb09b 0 0 4 0 Images_^%#%^__0001M
+Xdomain Images.EmptyDomain
+Xpaint Images.EmptyPaint
+Xrender Images.EmptyRender
+Xcontents Images.EmptyContents
+Rb8342ad2 2 00000000 0
+Si 9a1eb09b
+Sv 3f4e1f24
+Q51bb1fa1 ae44e05e
+Q8edf06bb 7120f944
+R94240e14 5 00000000 0
+Si 9a1eb09b
+Sv 3f4e1f24
+Sclip 51bb1fa1
+Sdelta 8edf06bb
+SpaintChunk 195c2a74
+Rb0146c04 2 df441a5a 0
+Si 9a1eb09b
+Sv 3f4e1f24
+Rd8783411 1 9280d71b 0
+Si 9a1eb09b
+DImages
+CWr
+CWord
+CVBT
+CThread
+CScrnPixmap
+CRect
+CPoint
+CPaintPrivate
+CFmt
+CRTHooks
+Q0bff0c24 f400f3db
+Q8da0738b 725f8c74
+Z6fb70f68 81755280
+R86d8c6e1 3 195c2a74 0
+Sx 195c2a74
+Si 97e237e2
+Sn 97e237e2
+@ImagesBundle.m3
+AImagesBundle
+Vdf796f76 6d1d59dd 0 0 1 0
+Xget ImagesBundle.LookUp
+R478375c5 2 50f86574 0
+Sself df796f76
+Selement 50f86574
+N8b2831d7 195c2a74 0 1 8
+F9abfde20 8b2831d7 50f86574 64
+R9694734d 1 50f86574 0
+Sn 195c2a74
+DImagesBundle
+CTextWr
+CWr
+CThread
+CText
+CBundleRep
+CBundle
+CRTHooks
+Edf796f76 ImagesBundle.T
+@ImageRd.i3
+BImageRd
+Y61f8d471 61f8d472
+R61f8d473 6 61f8d471 0
+Srd fa67ef2f
+Sstart 97e237e2
+Slength 97e237e2
+Sop 79a5aebb
+Sst 3b98b6b7
+Sgamma 48e16572
+Rb6398560 2 00000000 3
+Swr 62761487
+Sbinary 1e59237d
+TImages.Error
+TThread.Alerted
+TWr.Failure
+V61f8d472 9a1eb09b 0 3 0 0
+Winit 61f8d473
+Wclose 7b78c34f
+WtoEPSF b6398560
+Ha03c517f 4 8
+IPBM
+IPGM
+IPPM
+ILGM
+V920a0efb 06af8fd0 1 0 0 32
+Lformat 0 8 a03c517f
+Ree9c5288 2 00000000 4
+Srd fa67ef2f
+Swr 62761487
+TImages.Error
+TRd.Failure
+TThread.Alerted
+TWr.Failure
+DImageRd
+CWr
+CVBT
+CThread
+CRd
+CPaintOp
+CImages
+CRTHooks
+E61f8d471 ImageRd.T
+Ea03c517f ImageRd.Format
+E920a0efb ImageRd.Contents
+E61f8d472 ImageRd.Public
+@ImageVBT.i3
+BImageVBT
+Y2171218b 21712188
+R21712189 4 2171218b 0
+Spm 9a1eb09b
+Sbg 79a5aebb
+Sshadow 1e59237d
+SpaintChunk 195c2a74
+Rc29671cf 4 00000000 0
+Spm 9a1eb09b
+Sbg 79a5aebb
+Sshadow 1e59237d
+SpaintChunk 195c2a74
+R6dc38f42 0 9a1eb09b 0
+R7312e35b 0 00000000 0
+Rf77460e1 3 00000000 0
+Sdelta 7120f944
+SpixelRate 48e16572
+Shighlighting 1e59237d
+Q2df25d5d d20da2a2
+Rd14d77be 1 00000000 2
+Srgn 2df25d5d
+TImages.Error
+TThread.Alerted
+V21712188 3f4e1f24 0 7 0 0
+Winit 21712189
+Wput c29671cf
+Wget 6dc38f42
+WgetDelta 7312e35b
+WmoveTo f77460e1
+Wflash 7b78c34f
+Wpaint d14d77be
+DImageVBT
+CVBT
+CThread
+CRegion
+CPoint
+CPaintOp
+CImages
+CRTHooks
+E2171218b ImageVBT.T
+E21712188 ImageVBT.Public
+@Images.i3
+BImages
+R9ff2c62f 1 00000000 0
+Sv 3f4e1f24
+Q51bb1fa1 ae44e05e
+Q8edf06bb 7120f944
+R7d5fab48 4 00000000 2
+Sv 3f4e1f24
+Sclip 51bb1fa1
+Sdelta 8edf06bb
+SpaintChunk 195c2a74
+TImages.Error
+TThread.Alerted
+Rbf600bb4 1 df441a5a 2
+Sv 3f4e1f24
+TImages.Error
+TThread.Alerted
+Q0bff0c24 f400f3db
+Rb037f771 2 00000000 0
+Sv 195c2a74
+Sline 0bff0c24
+J0e3fc5cb 8 0b5b30aa
+K725f8c74 32 4
+Lr 0 8 0e3fc5cb
+Lg 8 8 0e3fc5cb
+Lb 16 8 0e3fc5cb
+Lspare 24 8 0e3fc5cb
+Geba211cf 725f8c74 64
+Pb4742c35 eba211cf
+V9280d71b 9d8fb489 6 1 0 128
+WgetLine b037f771
+Lwidth 0 32 195c2a74
+Lheight 32 32 195c2a74
+Lmap 64 32 b4742c35
+LisBW 96 8 1e59237d
+LisGray 104 8 1e59237d
+LisGrayRamp 112 8 1e59237d
+Rcd5bff9d 0 9280d71b 2
+TImages.Error
+TThread.Alerted
+V9a1eb09b 9d8fb489 0 4 0 0
+Wdomain 9ff2c62f
+Wpaint 7d5fab48
+Wrender bf600bb4
+Wcontents cd5bff9d
+G97ef2214 0e3fc5cb 64
+Pc0ff4a17 97ef2214
+V06af8fd0 9280d71b 1 0 1 32
+XgetLine Images.RawGetLine
+Lraw 0 32 df441a5a
+R2c35c06f 3 00000000 0
+Sc 06af8fd0
+Sv 195c2a74
+Sline 0bff0c24
+R9bf4532e 1 8b2831d7 0
+Sg 0e3fc5cb
+Rccb9ad2b 1 0e3fc5cb 0
+Sb 8b2831d7
+Rc7b198e2 1 0e3fc5cb 0
+Srgb 725f8c74
+R62c0084c 1 00000000 0
+Sg 0e3fc5cb
+Rfb9c1755 1 c0ff4a17 0
+Smap b4742c35
+R700da65f 1 00000000 0
+Scontents 06af8fd0
+Re1059859 2 00000000 2
+Scontents 9280d71b
+Swr 62761487
+TThread.Alerted
+TWr.Failure
+Y6fb70f68 9a1eb09b
+DImages
+CWr
+CVBT
+CThread
+CScrnPixmap
+CRect
+CPoint
+CRTHooks
+E9a1eb09b Images.T
+E8b2831d7 Images.Bit
+E0e3fc5cb Images.Channel
+E0e3fc5cb Images.Gray
+E725f8c74 Images.RGB
+Eb4742c35 Images.RGBMap
+Ec0ff4a17 Images.GrayMap
+E9280d71b Images.Contents
+E06af8fd0 Images.RawContents
+E6fb70f68 Images.EmptyImage
+@ImagesBundle.i3
+BImagesBundle
+R04e57c9c 0 6d1d59dd 0
+DImagesBundle
+CBundle
+CRTHooks

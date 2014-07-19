@@ -1,0 +1,4497 @@
+XtR.m3 34
+XtN.m3 34
+XtE.m3 34
+XtC.m3 34
+Xaw.i3 4040
+XtR.i3 58
+XtN.i3 58
+XtE.i3 58
+XtC.i3 58
+Xt.i3 19325
+Xmu.i3 3211
+Xrm.i3 2483
+Xct.i3 935
+Xmbuf.i3 2774
+Xatom.i3 33
+X.i3 54550
+XMachine.i3 152
+$ 0
+@XtR.m3
+AXtR
+DXtR
+CM3toC
+CRTHooks
+@XtN.m3
+AXtN
+DXtN
+CM3toC
+CRTHooks
+@XtE.m3
+AXtE
+DXtE
+CM3toC
+CRTHooks
+@XtC.m3
+AXtC
+DXtC
+CM3toC
+CRTHooks
+@Xaw.i3
+BXaw
+R82fa5ff0 1 00000000 0
+Sw 08402063
+R4b5905a0 1 66a2a904 0
+Sw 08402063
+R3eddc6d5 2 66a2a904 0
+Sw 08402063
+Sname ab374d58
+Rad2e0aea 4 00000000 0
+Sparent 08402063
+Sname ab374d58
+Sfunction f4082005
+Sparam 08402063
+Rae43ed9c 1 ab374d58 0
+Sw 08402063
+R9cdb074b 2 00000000 0
+Swidget 08402063
+Sdoit 66a2a904
+K881fc8b9 96 3
+Levent 0 32 2a5451fc
+Lparams 32 32 4e2da564
+Lnum_params 64 32 195c2a74
+O47d8ae57 881fc8b9
+Kde5ce73e 64 2
+Lstring 0 32 ab374d58
+Llist_index 32 32 195c2a74
+Oacc67609 de5ce73e
+R5a059350 5 00000000 0
+Sw 08402063
+Slist 4e2da564
+Snitems 195c2a74
+Slongest 195c2a74
+Sresize 66a2a904
+R7fa82970 2 00000000 0
+Sw 08402063
+Sitem 195c2a74
+R17c8f690 1 acc67609 0
+Sw 08402063
+Rc66df11d 3 00000000 0
+Swidget 08402063
+Smin 195c2a74
+Smax 195c2a74
+R346b91e6 3 00000000 0
+Swidget 08402063
+Smin 7b6709ea
+Smax 7b6709ea
+R029058a7 2 00000000 0
+Sw 08402063
+Smode 66a2a904
+R8a100660 1 195c2a74 0
+Sw 08402063
+Rf6140b72 2 00000000 0
+Swidget 08402063
+Sallow_resize 66a2a904
+R47dee3f3 3 00000000 0
+SscrollBar 08402063
+Stop 48e16572
+Sshown 48e16572
+Rc94dff67 1 08402063 0
+Sw 08402063
+Ka72656f4 128 4
+LfirstPos 0 32 195c2a74
+Llength 32 32 195c2a74
+Lptr 64 32 ab374d58
+Lformat 96 32 195c2a74
+Oc86994f3 a72656f4
+Rc8e9e0e3 2 00000000 0
+Sw 08402063
+Ssarray 7b6709ea
+Ra7718f67 3 00000000 0
+Sw 08402063
+Sleft 7b6709ea
+Sright 7b6709ea
+R01fe45c1 3 00000000 0
+Sw 08402063
+Ssource 08402063
+SstartPos adc6066d
+Rc552cc8e 4 195c2a74 0
+Sw 08402063
+SstartPos adc6066d
+SendPos adc6066d
+Stext c86994f3
+R9b094112 1 adc6066d 0
+Sw 08402063
+R3141b7ca 2 00000000 0
+Sw 08402063
+Sposition adc6066d
+Raaea378a 3 00000000 0
+Sw 08402063
+Sleft adc6066d
+Sright adc6066d
+R754d0f3e 3 00000000 0
+Sw 08402063
+Sfrom adc6066d
+Sto adc6066d
+Ra46b745c 3 adc6066d 0
+Sw 08402063
+Sdir adc6066d
+Stext c86994f3
+Rd70176af 6 00000000 0
+Sw 08402063
+Sx 7300e1e8
+Sy 7300e1e8
+Spos1 adc6066d
+Spos2 adc6066d
+Shighlight 66a2a904
+R3870050e 4 00000000 0
+Sw 08402063
+Sx 7300e1e8
+Sy 7300e1e8
+Sstate adc6066d
+R9efbdad0 5 00000000 0
+Sw 08402063
+Sx 7300e1e8
+Sy 7300e1e8
+Swidth a4b285de
+Sheight a4b285de
+Rbf1b7400 8 00000000 0
+Sw 08402063
+SfromPos adc6066d
+Sfromx 195c2a74
+Swidth 195c2a74
+SstopAtWordBreak 66a2a904
+SresPos 7b6709ea
+SresWidth 7b6709ea
+SresHeight 7b6709ea
+R64d13875 6 00000000 0
+Sw 08402063
+SfromPos adc6066d
+Sfromx 195c2a74
+StoPos adc6066d
+SresPos 7b6709ea
+SresHeight 7b6709ea
+R1391ee37 5 00000000 0
+Sw 08402063
+Spos adc6066d
+Sfromx 195c2a74
+Swidth 195c2a74
+SresPos 7b6709ea
+R58616c71 2 195c2a74 0
+Sw 08402063
+Sheight a4b285de
+Rbdd86512 2 195c2a74 0
+Sw 08402063
+Slines 195c2a74
+Rcc692b53 3 00000000 0
+Sw 08402063
+Stab_count 195c2a74
+Stabs 7b6709ea
+Ra4a99c66 2 00000000 0
+Sw 08402063
+Srect 816d7b1b
+R26b1130c 4 adc6066d 0
+Sw 08402063
+Spos adc6066d
+Stext c86994f3
+Slength 195c2a74
+R2ea628e5 6 adc6066d 0
+Sw 08402063
+Sposition adc6066d
+Stype adc6066d
+Sdir adc6066d
+Scount 195c2a74
+Sinclude 66a2a904
+R800fb92e 4 adc6066d 0
+Sw 08402063
+Sposition adc6066d
+Sdir adc6066d
+Stext c86994f3
+R0f5328ca 7 66a2a904 0
+Sw 08402063
+Sselection 6a7e4e98
+Starget 6a7e4e98
+Stype 6a7e4e98
+Svalue 08402063
+Slength 6a7e4e98
+Sformat 7b6709ea
+R50ed197b 4 00000000 0
+Sw 08402063
+Sleft adc6066d
+Sright adc6066d
+Sselection 195c2a74
+R6584ad34 2 00000000 0
+Sw 08402063
+Sradio_group 08402063
+R5b00b8c3 1 08402063 0
+Sradio_group 08402063
+Rc067d453 2 00000000 0
+Sradio_group 08402063
+Sradio_data 08402063
+Rb6341a18 1 00000000 0
+Sradio_group 08402063
+DXaw
+CXmu
+CXt
+CX
+CCtypes
+CRTHooks
+Eadc6066d Xaw.AsciiType
+Eadc6066d Xaw.EdgeType
+E881fc8b9 Xaw.GripCallDataRec
+E47d8ae57 Xaw.GripCallDataStar
+Ede5ce73e Xaw.ListReturnStruct
+Eacc67609 Xaw.ListReturnStructStar
+Eadc6066d Xaw.TextScrollMode
+Eadc6066d Xaw.TextWrapMode
+Eadc6066d Xaw.TextResizeMode
+Eadc6066d Xaw.TextScanDirection
+Eadc6066d Xaw.TextEditType
+Eadc6066d Xaw.TextSelectType
+E7b6709ea Xaw.TextSelectTypeStar
+Ea72656f4 Xaw.TextBlock
+Ec86994f3 Xaw.TextBlockStar
+Eadc6066d Xaw.TextInsertState
+Eadc6066d Xaw.TextScanType
+Eadc6066d Xaw.highlightType
+Eadc6066d Xaw.TextSelectionMode
+Eadc6066d Xaw.TextSelectionAction
+Eadc6066d Xaw.TextPosition
+E7b6709ea Xaw.TextPositionStar
+@XtR.i3
+BXtR
+R7b78c34f 0 00000000 0
+DXtR
+CCtypes
+CRTHooks
+@XtN.i3
+BXtN
+R7b78c34f 0 00000000 0
+DXtN
+CCtypes
+CRTHooks
+@XtE.i3
+BXtE
+R7b78c34f 0 00000000 0
+DXtE
+CCtypes
+CRTHooks
+@XtC.i3
+BXtC
+R7b78c34f 0 00000000 0
+DXtC
+CCtypes
+CRTHooks
+@Xt.i3
+BXt
+F7dfd20eb 2fa3581d ab374d58 2048
+Oa5083170 7dfd20eb
+O2923b79f 08402063
+Rda65fe69 4 00000000 0
+Swidget 08402063
+Sevent 77043e51
+Sparams 4e2da564
+Snum_params 6a7e4e98
+Kd9b989e2 64 2
+Lstring 0 32 ab374d58
+Lproc 32 32 da65fe69
+F949738aa 2fa3581d d9b989e2 4096
+Of1004727 949738aa
+K36e1ea46 96 3
+Laddress_mode 0 32 adc6066d
+Laddress_id 32 32 ab374d58
+Lsize 64 32 195c2a74
+F6aa5b046 2fa3581d 36e1ea46 6144
+O2eff378b 6aa5b046
+R7773a3ab 3 00000000 0
+Swidget 08402063
+Ssize 6a7e4e98
+Svalue 0c370896
+Kf893fc2b 192 8
+Lrequest_mode 0 32 195c2a74
+Lx 32 16 7300e1e8
+Ly 48 16 7300e1e8
+Lwidth 64 16 a4b285de
+Lheight 80 16 a4b285de
+Lborder_width 96 16 a4b285de
+Lsibling 128 32 08402063
+Lstack_mode 160 32 adc6066d
+Oc1bb6b02 f893fc2b
+Rd14da777 4 00000000 0
+Sargs 0c370896
+Snum_args 6a7e4e98
+Sfrom 0c370896
+Sto 0c370896
+R2a9a7843 6 66a2a904 0
+Sdpy 4412203d
+Sargs 0c370896
+Snum_args 6a7e4e98
+Sfrom 0c370896
+Sto 0c370896
+Sconverter_data 4e2da564
+Ra062fe71 5 00000000 0
+Sapp 08402063
+Sto 0c370896
+Sconverter_data ab374d58
+Sargs 0c370896
+Snum_args 6a7e4e98
+R82b67fa1 6 00000000 0
+Sw 08402063
+Sclient_data ab374d58
+Saction_name ab374d58
+Sevent 2a5451fc
+Sparams 4e2da564
+Snum_params 6a7e4e98
+R1a44c0e6 5 00000000 0
+Sdpy 4412203d
+Skeycode bc5fd8f5
+Smodifiers 6a7e4e98
+Smodifiers_return 6a7e4e98
+Skeysym_return 6a7e4e98
+R0f784ae4 3 00000000 0
+Skeysym 6a7e4e98
+Slower_return 6a7e4e98
+Supper_return 6a7e4e98
+R0a02558b 4 00000000 0
+Swidget 08402063
+Sclosure ab374d58
+Sevent 77043e51
+Scontinue_to_dispatch ab374d58
+Re37cdb8f 2 00000000 0
+Sclosure ab374d58
+Sid 6a7e4e98
+R5717e391 3 00000000 0
+Sclosure ab374d58
+Ssource 7b6709ea
+Sid 6a7e4e98
+K5e3f567d 64 2
+Lname 0 32 ab374d58
+Lvalue 32 32 08402063
+F00d8c670 2fa3581d 5e3f567d 4096
+O245db466 00d8c670
+Rf4082005 3 00000000 0
+Swidget 08402063
+Sclosure ab374d58
+Scall_data ab374d58
+Ke9d45503 64 2
+Lcallback 0 32 f4082005
+Lclosure 32 32 ab374d58
+Fa340faff 2fa3581d e9d45503 4096
+O8f47cf2e a340faff
+K2a7ea68a 64 2
+Lshell_widget 0 32 08402063
+Lenable_widget 32 32 08402063
+O2bdf5b91 2a7ea68a
+Kc07cb723 224 7
+Lresource_name 0 32 ab374d58
+Lresource_class 32 32 ab374d58
+Lresource_type 64 32 ab374d58
+Lresource_size 96 32 195c2a74
+Lresource_offset 128 32 195c2a74
+Ldefault_type 160 32 ab374d58
+Ldefault_addr 192 32 ab374d58
+F9c3ca47a 2fa3581d c07cb723 14336
+O0bd430c7 9c3ca47a
+Rf8785459 6 00000000 0
+Sname ab374d58
+Stype ab374d58
+Sclass ab374d58
+Sdefaultp ab374d58
+Sparams 4e2da564
+Snum_params 6a7e4e98
+R882dca95 1 00000000 0
+Smsg ab374d58
+R10f534d0 1 66a2a904 0
+Sclosure ab374d58
+Kfe8b487a 64 2
+Lmatch 0 8 66a2a904
+Lsubstitution 32 32 ab374d58
+Occ1defe8 fe8b487a
+Rf3f89a68 1 66a2a904 0
+Sfilename ab374d58
+R8f982212 7 66a2a904 0
+Swidget 08402063
+Sselection 6a7e4e98
+Starget 6a7e4e98
+Stype_return 6a7e4e98
+Svalue_return 4e2da564
+Slength_return 6a7e4e98
+Sformat_return 7b6709ea
+R2305490d 2 00000000 0
+Swidget 08402063
+Sselection 6a7e4e98
+R509a47ff 3 00000000 0
+Swidget 08402063
+Sselection 6a7e4e98
+Starget 6a7e4e98
+Rf3d096e0 7 00000000 0
+Swidget 08402063
+Sclosure ab374d58
+Sselection 6a7e4e98
+Stype 6a7e4e98
+Svalue ab374d58
+Slength 6a7e4e98
+Sformat 7b6709ea
+R3ce6524c 3 00000000 0
+Swidget 08402063
+Sselection 6a7e4e98
+Sclient_data ab374d58
+R977fc236 5 00000000 0
+Swidget 08402063
+Sselection 6a7e4e98
+Starget 6a7e4e98
+Sreceiver_id 4e2da564
+Sclient_data ab374d58
+Rc4bd19b2 10 66a2a904 0
+Swidget 08402063
+Sselection 6a7e4e98
+Starget 6a7e4e98
+Stype 6a7e4e98
+Svalue 4e2da564
+Slength 6a7e4e98
+Sformat 7b6709ea
+Smax_length 6a7e4e98
+Sclient_data ab374d58
+Sreceiver_id 4e2da564
+Rd203f9a0 5 66a2a904 0
+Swidget 08402063
+Sfrom_type ab374d58
+Sfrom 0c370896
+Sto_type ab374d58
+Sto_in_out 0c370896
+R4406231d 7 66a2a904 0
+Sdpy 4412203d
+Sconverter 2a9a7843
+Sargs 0c370896
+Snum_args 195c2a74
+Sfrom 0c370896
+Sto_return 0c370896
+Scache_ref_return 4e2da564
+R308a58aa 1 66a2a904 0
+Sevent 2a5451fc
+R3c27de09 2 66a2a904 0
+Swidget 08402063
+St 6a7e4e98
+R1be1ff37 2 66a2a904 0
+SappContext 08402063
+Sevent 2a5451fc
+R6d2df33a 2 66a2a904 0
+Swidget 08402063
+SwidgetClass 08402063
+R76174259 1 66a2a904 0
+Sobject 08402063
+Rd7d0e4f9 2 66a2a904 0
+Sobject 08402063
+Stype_flag 0b5b30aa
+Rd440806f 4 66a2a904 0
+Sobject 08402063
+Swidget_class 08402063
+Sflag_class 08402063
+Stype_flag 0b5b30aa
+R8eeb1c55 1 66a2a904 0
+Srectobj 08402063
+Ra6588745 1 66a2a904 0
+Swidget 08402063
+R7cb378d4 6 66a2a904 0
+Swidget 08402063
+Sselection 195c2a74
+Stime 195c2a74
+Sconvert 8f982212
+Slose 2305490d
+Sdone 509a47ff
+R3fc833c8 8 66a2a904 0
+Swidget 08402063
+Sselection 195c2a74
+Stime 195c2a74
+Sconvert_callback c4bd19b2
+Slose_callback 3ce6524c
+Sdone_callback 977fc236
+Scancel_callback 977fc236
+Sclient_data ab374d58
+Re55798f3 5 adc6066d 0
+Swidget 08402063
+Swidth a4b285de
+Sheight a4b285de
+SreplyWidth 79e2bb5e
+SreplyHeight 79e2bb5e
+Raa4f375a 5 00000000 0
+Swidget 08402063
+Sx 7300e1e8
+Sy 7300e1e8
+Srootx 87128772
+Srooty 87128772
+Rea4bc9af 2 00000000 0
+Sfrom ab374d58
+StoType ab374d58
+R9d7758ee 3 00000000 0
+Sdpy 4412203d
+Sfrom ab374d58
+StoType ab374d58
+Ra8254694 6 00000000 0
+Sapp 08402063
+Sfrom_type ab374d58
+Sto_type ab374d58
+Sconverter d14da777
+Sconvert_args 2eff378b
+Snum_args 195c2a74
+R45dfe04b 5 00000000 0
+Sfrom_type ab374d58
+Sto_type ab374d58
+Sconverter d14da777
+Sconvert_args 2eff378b
+Snum_args 195c2a74
+R36d4947c 7 00000000 0
+Sfrom_type ab374d58
+Sto_type ab374d58
+Sconverter 2a9a7843
+Sconvert_args 2eff378b
+Snum_args 195c2a74
+Scache_type adc6066d
+Sdestructor a062fe71
+Reede1f26 8 00000000 0
+Sapp_context 08402063
+Sfrom_type ab374d58
+Sto_type ab374d58
+Sconverter 2a9a7843
+Sconvert_args 2eff378b
+Snum_args 195c2a74
+Scache_type adc6066d
+Sdestructor a062fe71
+R84b11e2c 5 00000000 0
+Swidget 08402063
+Sfrom_type ab374d58
+Sfrom 0c370896
+Sto_type ab374d58
+Sto_return 0c370896
+Rf48c6c8c 5 00000000 0
+Sconverter d14da777
+Sargs 0c370896
+Snum_args 195c2a74
+Sfrom 0c370896
+Sto_return 0c370896
+R8de1d180 1 08402063 0
+Ssource ab374d58
+R11980e82 2 00000000 0
+Swidget 08402063
+Snew 08402063
+Rf1bdb8f1 2 00000000 0
+Sdestination 08402063
+Ssource 08402063
+R978c3929 1 00000000 0
+Swidget 08402063
+Rbc8fc4c6 3 00000000 0
+Sapp 08402063
+Sactions f1004727
+Snum_actions 195c2a74
+Rbde24fdd 2 00000000 0
+Sactions f1004727
+Snum_actions 195c2a74
+R6d4247b8 3 ab374d58 0
+Sapp 08402063
+Sproc 82b67fa1
+Sclient_data ab374d58
+R81619181 1 00000000 0
+Sid ab374d58
+R3fc7a75e 5 00000000 0
+Swidget 08402063
+Saction ab374d58
+Sevent 2a5451fc
+Sparams 4e2da564
+Snum_params 195c2a74
+R30f49380 5 00000000 0
+Saction_proc da65fe69
+Sowner_events 66a2a904
+Sevent_mask 195c2a74
+Spointer_mode adc6066d
+Skeyboard_mode adc6066d
+Rc12e8474 2 00000000 0
+Sdpy 4412203d
+Smilliseconds adc6066d
+Ree6bb64b 1 adc6066d 0
+Sdpy 4412203d
+R04257696 2 195c2a74 0
+Sevent 2a5451fc
+Smodifiers_return 6a7e4e98
+R9165eb9d 5 00000000 0
+Sdpy 4412203d
+Skeycode 0b5b30aa
+Smodifiers 195c2a74
+Smodifiers_return 6a7e4e98
+Skeysym_return 6a7e4e98
+R8ec40e58 2 00000000 0
+Sdpy 4412203d
+Sproc 1a44c0e6
+R9f698533 4 00000000 0
+Sdpy 4412203d
+Sproc 0f784ae4
+Sstart 195c2a74
+Sstop 195c2a74
+Rffdbef4a 4 00000000 0
+Sdpy 4412203d
+Skeysym 195c2a74
+Slower_return 6a7e4e98
+Supper_return 6a7e4e98
+R2e42c912 3 6a7e4e98 0
+Sdpy 4412203d
+Smin_keycode_return bc5fd8f5
+Skeysyms_per_keycode_return 7b6709ea
+R6eed30e4 4 00000000 0
+Sdpy 4412203d
+Skeysym 195c2a74
+Skeycodes_return 7264e4cb
+Skeycount_return 6a7e4e98
+R2ec0cf75 6 00000000 0
+Swidget 08402063
+SeventMask 195c2a74
+Snonmaskable 66a2a904
+Sproc 0a02558b
+Sclosure ab374d58
+Sposition adc6066d
+R81ac496d 5 00000000 0
+Swidget 08402063
+SeventMask 195c2a74
+Snonmaskable 66a2a904
+Sproc 0a02558b
+Sclosure ab374d58
+R67118485 1 195c2a74 0
+Swidget 08402063
+R6f0c3b67 3 00000000 0
+Swidget 08402063
+Sexclusive 66a2a904
+Sspring_loaded 66a2a904
+R7fecbf00 1 00000000 0
+Smask 195c2a74
+Rf03c1c7c 2 00000000 0
+Sapp 08402063
+Smask 195c2a74
+R822c8efa 1 00000000 0
+Sapp 08402063
+R364b91b1 2 00000000 0
+Sevent 2a5451fc
+Sregion 08402063
+R3526ef66 2 00000000 0
+Ssubtree 08402063
+Sdescendent 08402063
+Rff72f139 1 195c2a74 0
+Sdpy 4412203d
+Ra47521fc 3 195c2a74 0
+Sinterval 195c2a74
+Sproc e37cdb8f
+Sclosure ab374d58
+R049eddd6 4 195c2a74 0
+Sapp 08402063
+Sinterval 195c2a74
+Sproc e37cdb8f
+Sclosure ab374d58
+R4e724287 1 00000000 0
+Stimer 195c2a74
+R35fa9cb7 4 195c2a74 0
+Ssource adc6066d
+Scondition ab374d58
+Sproc 5717e391
+Sclosure ab374d58
+R9264dbe4 5 195c2a74 0
+Sapp 08402063
+Ssource adc6066d
+Scondition ab374d58
+Sproc 5717e391
+Sclosure ab374d58
+Ra5327a7d 1 00000000 0
+Sid 195c2a74
+R9e6749f9 1 00000000 0
+Sevent 2a5451fc
+R3e915e62 2 00000000 0
+SappContext 08402063
+Sevent 2a5451fc
+R4f18b75d 1 195c2a74 0
+SappContext 08402063
+Rd8f894a5 2 00000000 0
+Swidget 08402063
+Ssensitive 66a2a904
+Ra03e7171 2 00000000 0
+Swidget 08402063
+SmappedWhenManaged 66a2a904
+Rd8c9a9a3 2 08402063 0
+Sroot 08402063
+Sname ab374d58
+R24db2478 2 08402063 0
+Sdisplay 4412203d
+Swindow 195c2a74
+Re9a67d28 4 245db466 0
+Sargs1 245db466
+Snum_args1 195c2a74
+Sargs2 245db466
+Snum_args2 195c2a74
+Rb442adfe 1 4412203d 0
+Swidget 08402063
+R640d68e2 1 4412203d 0
+Sobject 08402063
+R4c15fea1 1 4412203f 0
+Swidget 08402063
+R9c5a3bbd 1 4412203f 0
+Sobject 08402063
+Rb75e4199 1 195c2a74 0
+Sobject 08402063
+R930daa65 1 ab374d58 0
+Sobject 08402063
+Rf403b89e 1 08402063 0
+Sobject 08402063
+R244c7d82 1 08402063 0
+Swidget 08402063
+Rc6b98233 4 00000000 0
+Swidget 08402063
+Scallback_name ab374d58
+Scallback f4082005
+Sclosure ab374d58
+R637a1b73 3 00000000 0
+Swidget 08402063
+Scallback_name ab374d58
+Scallbacks 8f47cf2e
+Rcb685bc0 2 00000000 0
+Swidget 08402063
+Scallback_name ab374d58
+Rb1f5c76f 3 00000000 0
+Swidget 08402063
+Scallback_name ab374d58
+Scall_data ab374d58
+R567cf4d9 3 00000000 0
+Swidget 08402063
+Scallbacks 8f47cf2e
+Scall_data ab374d58
+R4df245cc 2 adc6066d 0
+Swidget 08402063
+Scallback_name ab374d58
+R9e496960 3 adc6066d 0
+Swidget 08402063
+Srequest c1bb6b02
+Sreply_return c1bb6b02
+R9ee708ca 3 adc6066d 0
+Swidget 08402063
+Sintended c1bb6b02
+Sreply_return c1bb6b02
+R0e4a05cf 5 08402063 0
+Sname ab374d58
+SwidgetClass 08402063
+Sparent 08402063
+Sargs 245db466
+Snum_args 195c2a74
+R9bf76f11 3 08402063 0
+Sname ab374d58
+SwidgetClass 08402063
+Sparent 08402063
+Racf47107 2 00000000 0
+Swidget 08402063
+Sgrab_kind adc6066d
+Rc86372ec 3 00000000 0
+Swidget 08402063
+Sclosure ab374d58
+Scall_data ab374d58
+R98cc155a 4 00000000 0
+Swidget 08402063
+Sevent 2a5451fc
+Sparams 4e2da564
+Snum_params 6a7e4e98
+R7d4cf46e 5 08402063 0
+Sname ab374d58
+Swidget_class 08402063
+Sparent 08402063
+Sargs 245db466
+Snum_args 195c2a74
+R1fe42756 3 08402063 0
+Sname ab374d58
+Swidget 08402063
+Sparent 08402063
+R81d152a6 3 08402063 0
+Sname ab374d58
+Swidget_class 08402063
+Sparent 08402063
+Rf38f1eb4 4 08402063 0
+Sname ab374d58
+Swidget_class 08402063
+Sargs 245db466
+Snum_args 195c2a74
+Rd53542d6 6 08402063 0
+Sname ab374d58
+Sclass ab374d58
+Swidget_class 08402063
+Sdisplay 4412203d
+Sargs 245db466
+Snum_args 195c2a74
+R9f2769b6 4 08402063 0
+Sname ab374d58
+Sclass ab374d58
+Swidget_class 08402063
+Sdisplay 4412203d
+Qe6a3d58b 195c2a74
+Rd4798cd9 8 00000000 0
+SappContext 08402063
+Sdpy 4412203d
+Sname ab374d58
+Sclass ab374d58
+Soptions 58950869
+Snum_options 195c2a74
+Sargc e6a3d58b
+Sargv 53a053a0
+Qf7bfdf9c 08402063
+R606ea67f 9 08402063 0
+Sapp_context_return f7bfdf9c
+Sapplication_class ab374d58
+Soptions 58950869
+Snum_options 195c2a74
+Sargc_in_out e6a3d58b
+Sargv_in_out 53a053a0
+Sfallback_resources a5083170
+Sargs 245db466
+Snum_args 195c2a74
+R7ce269d3 7 08402063 0
+Sapp_context_return f7bfdf9c
+Sapplication_class ab374d58
+Soptions 58950869
+Snum_options 195c2a74
+Sargc_in_out e6a3d58b
+Sargv_in_out 53a053a0
+Sfallback_resources 4e2da564
+R6efa3921 6 08402063 0
+Sname ab374d58
+Sclass ab374d58
+Soptions 58950869
+Snum_options 195c2a74
+Sargc e6a3d58b
+Sargv 53a053a0
+Rbc4b713a 8 4412203d 0
+SappContext 08402063
+SdisplayName ab374d58
+SapplName ab374d58
+SclassName ab374d58
+Surlist 58950869
+Snum_urs 195c2a74
+Sargc e6a3d58b
+Sargv 53a053a0
+Rff763bde 2 00000000 0
+Sapp_context 08402063
+Sspecification_list 4e2da564
+R0b5fbff2 1 00000000 0
+SappContext 08402063
+R292f1631 1 00000000 0
+Swidget_class 08402063
+Rbc2f083e 1 08402063 0
+Sdpy 4412203d
+R1b225e83 1 00000000 0
+Sdpy 4412203d
+Rf6d278b5 3 00000000 0
+Swidget 08402063
+Soffset adc6066d
+Svalue 0c370896
+R5a6b78d8 2 00000000 0
+Sresources 0bd430c7
+Snum_resources 195c2a74
+Rf94db301 6 00000000 0
+Swidget 08402063
+Sbase ab374d58
+Sresources 0bd430c7
+Snum_resources 195c2a74
+Sargs 245db466
+Snum_args 195c2a74
+R7fba9f57 4 00000000 0
+Swidget 08402063
+Sbase ab374d58
+Sresources 0bd430c7
+Snum_resources 195c2a74
+R8bd1d9c5 8 00000000 0
+Swidget 08402063
+Sbase ab374d58
+Sname ab374d58
+Sclass ab374d58
+Sresources 0bd430c7
+Snum_resources 195c2a74
+Sargs 245db466
+Snum_args 195c2a74
+R47a8805a 6 00000000 0
+Swidget 08402063
+Sbase ab374d58
+Sname ab374d58
+Sclass ab374d58
+Sresources 0bd430c7
+Snum_resources 195c2a74
+R9daa2907 3 00000000 0
+Swidget 08402063
+Sargs 245db466
+Snum_args 195c2a74
+R0a7d386e 5 00000000 0
+Sbase ab374d58
+Sresources 0bd430c7
+Snum_resources 195c2a74
+Sargs 245db466
+Snum_args 195c2a74
+R725a4952 3 00000000 0
+Sbase ab374d58
+Sresources 0bd430c7
+Snum_resources 195c2a74
+Rf64b1758 3 00000000 0
+Swidget_class 08402063
+Sresources_return 0bd430c7
+Snum_resources_return 6a7e4e98
+R1369aa38 2 f8785459 0
+Sapp 08402063
+Shandler f8785459
+R8d872edc 1 00000000 0
+Shandler f8785459
+R14e6fcfb 7 00000000 0
+Sapp 08402063
+Sname ab374d58
+Stype ab374d58
+Sclass ab374d58
+Sdefaultp ab374d58
+Sparams 4e2da564
+Snum_params 6a7e4e98
+Re70fa610 2 882dca95 0
+Sapp 08402063
+Shandler 882dca95
+R89f575a6 1 00000000 0
+Shandler 882dca95
+R8f3d4803 2 00000000 0
+Sapp 08402063
+Smessage ab374d58
+R0e90cde8 1 00000000 0
+Smessage ab374d58
+R3855f772 1 08402063 0
+Sapp 08402063
+R8b6a81c5 8 00000000 0
+Sapp 08402063
+Sname ab374d58
+Stype ab374d58
+Sclass ab374d58
+Sdefaultp ab374d58
+Sbuffer ab374d58
+Snbytes adc6066d
+Sdatabase 08402063
+R0990bc63 6 00000000 0
+Sname ab374d58
+Stype ab374d58
+Sclass ab374d58
+Sdefaultp ab374d58
+Sbuffer ab374d58
+Snbytes adc6066d
+Re3e1125c 1 ab374d58 0
+Ssize 195c2a74
+Reff9b6aa 2 ab374d58 0
+Snum 195c2a74
+Ssize 195c2a74
+Rdd1b7c1e 2 ab374d58 0
+Sptr ab374d58
+Snum 195c2a74
+Rbf3655cf 1 00000000 0
+Sptr ab374d58
+Rfe4da197 2 195c2a74 0
+Sproc 10f534d0
+Sclosure ab374d58
+R6ce81e9d 3 195c2a74 0
+Sapp 08402063
+Sproc 10f534d0
+Sclosure ab374d58
+Ra3161a37 3 a284868a 0
+Swidget 08402063
+SvalueMask 195c2a74
+Svalues 1383d12d
+Rce6c57fc 1 00000000 0
+Sgc a284868a
+R1820489d 2 00000000 0
+Sobject 08402063
+Sgc a284868a
+R96b3c67b 1 00000000 0
+Scache_ref 4e2da564
+R5458ad4d 3 00000000 0
+Swidget 08402063
+Slist 2923b79f
+Scount 195c2a74
+Rf3e92585 4 ab374d58 0
+Spath ab374d58
+Ssubstitutions cc1defe8
+Snum_substitutions 195c2a74
+Spredicate f3f89a68
+Rd3942b40 6 ab374d58 0
+Sdpy 4412203d
+Stype ab374d58
+Sfilename ab374d58
+Ssuffix ab374d58
+Spath ab374d58
+Spredicate f3f89a68
+Rcd7f7e76 3 00000000 0
+Swidget 08402063
+Sselection 195c2a74
+Stime 195c2a74
+R5ad0b4a1 6 00000000 0
+Swidget 08402063
+Sselection 195c2a74
+Starget 195c2a74
+Scallback f3d096e0
+Sclosure ab374d58
+Stime 195c2a74
+R6852cc6f 7 00000000 0
+Swidget 08402063
+Sselection 195c2a74
+Stargets 6a7e4e98
+Scount adc6066d
+Scallback f3d096e0
+Sclosures 4e2da564
+Stime 195c2a74
+R66bcb64b 2 00000000 0
+Sapp 08402063
+Stimeout 195c2a74
+Rab88d954 1 00000000 0
+Stimeout 195c2a74
+R7b080e75 1 195c2a74 0
+Sapp 08402063
+R984d8bf7 3 fd72498a 0
+Swidget 08402063
+Sselection 195c2a74
+Srequest_id ab374d58
+R1d5f7999 6 00000000 0
+Swidget 08402063
+Sselection 195c2a74
+Starget 195c2a74
+Sselection_callback f3d096e0
+Sclient_data ab374d58
+Stime 195c2a74
+R7282f8c6 7 00000000 0
+Swidget 08402063
+Sselection 195c2a74
+Stargets 6a7e4e98
+Scount adc6066d
+Scallback f3d096e0
+Sclient_data 4e2da564
+Stime 195c2a74
+Rf53e6775 6 00000000 0
+Swidget 08402063
+Skeysym 195c2a74
+Smodifiers 195c2a74
+Sowner_events 66a2a904
+Spointer_mode adc6066d
+Skeyboard_mode adc6066d
+Rb50758b3 3 00000000 0
+Swidget 08402063
+Skeysym 195c2a74
+Smodifiers 195c2a74
+Rebb9fa73 5 adc6066d 0
+Swidget 08402063
+Sowner_events 66a2a904
+Spointer_mode adc6066d
+Skeyboard_mode adc6066d
+Stime 195c2a74
+R97ee4f44 2 00000000 0
+Swidget 08402063
+Stime 195c2a74
+R8e3e0715 9 00000000 0
+Swidget 08402063
+Sbutton adc6066d
+Smodifiers 195c2a74
+Sowner_events 66a2a904
+Sevent_mask 195c2a74
+Spointer_mode adc6066d
+Skeyboard_mode adc6066d
+Sconfine_to 195c2a74
+Scursor 195c2a74
+Rc95876e1 3 00000000 0
+Swidget 08402063
+Sbutton 195c2a74
+Smodifiers 195c2a74
+R691ae7dc 8 adc6066d 0
+Swidget 08402063
+Sowner_events 66a2a904
+Sevent_mask 195c2a74
+Spointer_mode adc6066d
+Skeyboard_mode adc6066d
+Sconfine_to 195c2a74
+Scursor 195c2a74
+Stime 195c2a74
+R5e803828 3 00000000 0
+Sdpy 4412203d
+Sname_return 4e2da564
+Sclass_return 4e2da564
+R578eb5ff 2 00000000 0
+Schildren f49dfa41
+Snum_children 195c2a74
+R98e0c145 1 00000000 0
+Schild 08402063
+R972481a1 5 adc6066d 0
+Swidget 08402063
+Swidth a4b285de
+Sheight a4b285de
+SreplyWidth 08402063
+SreplyHeight 08402063
+Rceaa4044 4 00000000 0
+Swidget 08402063
+Sheight a4b285de
+Swidth a4b285de
+SborderWidth a4b285de
+R5fc54850 6 00000000 0
+Swidget 08402063
+Sx 7300e1e8
+Sy 7300e1e8
+Sheight a4b285de
+Swidth a4b285de
+SborderWidth a4b285de
+Rf60a5bdf 3 00000000 0
+Swidget 08402063
+Sx 7300e1e8
+Sy 7300e1e8
+DXt
+CXMachine
+CXrm
+CWord
+CX
+CCtypes
+CRTHooks
+Eadc6066d Xt.Int
+E7300e1e8 Xt.Short
+E66a2a904 Xt.Char
+Eab374d58 Xt.String
+E4e2da564 Xt.StringStar
+Eab374d58 Xt.ConstString
+E4e2da564 Xt.ConstStringStar
+Ea5083170 Xt.StringList
+E08402063 Xt.Widget
+E2923b79f Xt.WidgetStar
+Ef49dfa41 Xt.WidgetList
+E08402063 Xt.WidgetClass
+E08402063 Xt.CompositeWidget
+Ef1004727 Xt.ActionList
+E08402063 Xt.EventTable
+E08402063 Xt.BoundAccActions
+E08402063 Xt.AppContext
+E195c2a74 Xt.ValueMask
+E195c2a74 Xt.IntervalId
+E6a7e4e98 Xt.IntervalIdStar
+E195c2a74 Xt.InputId
+E6a7e4e98 Xt.InputIdStar
+E195c2a74 Xt.WorkProcId
+E195c2a74 Xt.GeometryMask
+E195c2a74 Xt.GCMask
+E195c2a74 Xt.Pixel
+Eadc6066d Xt.CacheType
+E08402063 Xt.ArgVal
+E66a2a904 Xt.Boolean
+Eab374d58 Xt.BooleanStar
+E195c2a74 Xt.Cardinal
+E6a7e4e98 Xt.CardinalStar
+Ea4b285de Xt.Dimension
+E79e2bb5e Xt.DimensionStar
+E0b5b30aa Xt.Enum
+Eab374d58 Xt.Opaque
+Eab374d58 Xt.Pointer
+E4e2da564 Xt.PointerStar
+E7300e1e8 Xt.Position
+E87128772 Xt.PositionStar
+E08402063 Xt.Translations
+E08402063 Xt.Accelerators
+E195c2a74 Xt.Modifiers
+E6a7e4e98 Xt.ModifiersStar
+Eda65fe69 Xt.ActionProc
+Ed9b989e2 Xt.ActionsRec
+Eadc6066d Xt.AddressMode
+E36e1ea46 Xt.ConvertArgRec
+E2eff378b Xt.ConvertArgList
+E7773a3ab Xt.ConvertArgProc
+Ef893fc2b Xt.WidgetGeometry
+Ec1bb6b02 Xt.WidgetGeometryStar
+Ed14da777 Xt.Converter
+E2a9a7843 Xt.TypeConverter
+Ea062fe71 Xt.Destructor
+Eab374d58 Xt.CacheRef
+E4e2da564 Xt.CacheRefStar
+Eab374d58 Xt.ActionHookId
+E4e2da564 Xt.ActionHookIdStar
+E82b67fa1 Xt.ActionHookProc
+E1a44c0e6 Xt.KeyProc
+E0f784ae4 Xt.CaseProc
+E0a02558b Xt.EventHandler
+E195c2a74 Xt.EventMask
+E195c2a74 Xt.InputMask
+Eadc6066d Xt.ListPosition
+Ee37cdb8f Xt.TimerCallbackProc
+E5717e391 Xt.InputCallbackProc
+E5e3f567d Xt.Arg
+E245db466 Xt.ArgList
+Eab374d58 Xt.VarArgsList
+Ef4082005 Xt.CallbackProc
+Ee9d45503 Xt.CallbackRec
+E8f47cf2e Xt.CallbackList
+Eadc6066d Xt.CallbackStatus
+Eadc6066d Xt.GeometryResult
+Eadc6066d Xt.GrabKind
+E2a7ea68a Xt.PopdownIDRec
+E2bdf5b91 Xt.PopdownIDStar
+Ec07cb723 Xt.Resource
+E0bd430c7 Xt.ResourceList
+Ef8785459 Xt.ErrorMsgHandler
+E882dca95 Xt.ErrorHandler
+E10f534d0 Xt.WorkProc
+Efe8b487a Xt.SubstitutionRec
+Ecc1defe8 Xt.SubstitutionStar
+Ef3f89a68 Xt.FilePredicate
+Eab374d58 Xt.RequestId
+E4e2da564 Xt.RequestIdStar
+Eab374d58 Xt.FallbackRes
+Ea5083170 Xt.FallbackResList
+E8f982212 Xt.ConvertSelectionProc
+E2305490d Xt.LoseSelectionProc
+E509a47ff Xt.SelectionDoneProc
+Ef3d096e0 Xt.SelectionCallbackProc
+E3ce6524c Xt.LoseSelectionIncrProc
+E977fc236 Xt.SelectionDoneIncrProc
+Ec4bd19b2 Xt.ConvertSelectionIncrProc
+E977fc236 Xt.CancelConvertSelectionProc
+@Xmu.i3
+BXmu
+R3d768951 1 6a7e4e98 0
+Sname ab374d58
+Rd306dfde 2 195c2a74 0
+Sd 4412203d
+Satom_ptr 6a7e4e98
+R472f9c92 4 00000000 0
+Sd 4412203d
+Snames 4e2da564
+Scount 195c2a74
+Satoms 6a7e4e98
+R95562237 2 ab374d58 0
+Sd 4412203d
+Satom 195c2a74
+R2529e5b0 1 ab374d58 0
+Satom_ptr 6a7e4e98
+Rc4135426 2 00000000 0
+Sdst ab374d58
+Ssrc ab374d58
+Ra30ddfd1 2 adc6066d 0
+Sfirst ab374d58
+Ssecond ab374d58
+Ra929051e 2 adc6066d 0
+Sd 4412203d
+Sarg 08402063
+R9fd8ec0a 3 adc6066d 0
+Sd 4412203d
+Sfunc a929051e
+Sarg 08402063
+Rdff0f7b6 4 adc6066d 0
+Sd 4412203d
+Shandle 08402063
+Sfunc a929051e
+Sarg 08402063
+Refb9b02e 4 00000000 0
+Sargs 0c370896
+Snum_args 6a7e4e98
+SfromVal 0c370896
+StoVal 0c370896
+R494e9a95 6 66a2a904 0
+Sd 4412203d
+Sargs 0c370896
+Snum_args 6a7e4e98
+SfromVal 0c370896
+StoVal 0c370896
+Sdata 08402063
+R5ade4eed 4 00000000 0
+Sw 08402063
+Sshape_style adc6066d
+Scorner_width adc6066d
+Scorner_height adc6066d
+Rd9a20d3a 1 adc6066d 0
+Sname ab374d58
+Rd72f76ae 9 00000000 0
+Sdpy 4412203d
+Sdraw 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Sw adc6066d
+Sh adc6066d
+Sew adc6066d
+Seh adc6066d
+R79357f1d 8 00000000 0
+Sdpy 4412203d
+Sdraw 195c2a74
+SgcFore a284868a
+SgcBack a284868a
+Sx adc6066d
+Sy adc6066d
+Sw 195c2a74
+Sh 195c2a74
+R813344e1 8 195c2a74 0
+Sdpy 4412203d
+Sdraw 195c2a74
+Sbitmap 195c2a74
+Sw 195c2a74
+Sh 195c2a74
+Sdepth 195c2a74
+Sfore 195c2a74
+Sback 195c2a74
+R327a8ebe 4 195c2a74 0
+Sscreen 4412203f
+Sfore 195c2a74
+Sback 195c2a74
+Sdepth 195c2a74
+R5da02fea 8 195c2a74 0
+Sscreen 4412203f
+Sname ab374d58
+Ssrcname ab374d58
+Ssrcnamelen adc6066d
+Sw 7b6709ea
+Sh 7b6709ea
+Sxhotp 7b6709ea
+Syhotp 7b6709ea
+R3b4f4b29 6 adc6066d 0
+Sstream ab374d58
+Sw 6a7e4e98
+Sh 6a7e4e98
+Sdatap 4e2da564
+Sx_hot 7b6709ea
+Sy_hot 7b6709ea
+Re0cb6a80 6 adc6066d 0
+Sfile ab374d58
+Sw 6a7e4e98
+Sh 6a7e4e98
+Sdatap 4e2da564
+Sx_hot 7b6709ea
+Sy_hot 7b6709ea
+Rbdcb7527 3 adc6066d 0
+Sdpy 4412203d
+Sevent f4d390af
+Sfp ab374d58
+R273a1a2c 2 adc6066d 0
+Sdpy 4412203d
+Serrorp f4d390af
+Ra9d3ff1e 2 00000000 0
+Sapp_con 08402063
+Sdata 08402063
+R9856edb0 1 00000000 0
+Sapp_con 08402063
+R59355795 2 00000000 0
+Sfunc a9d3ff1e
+Sdata 08402063
+R3f8b30a9 2 adc6066d 0
+Sdpy 4412203d
+Scolormap f9c687f4
+R42d8d9d5 3 00000000 0
+Sdpy 4412203d
+Sscreen adc6066d
+Sproperty 195c2a74
+R6b4e872a 5 adc6066d 0
+Svinfo ca525c9b
+Sproperty 195c2a74
+Sred_max 6a7e4e98
+Sgreen_max 6a7e4e98
+Sblue_max 6a7e4e98
+R6d9029ac 7 adc6066d 0
+Sdpy 4412203d
+Sscreen adc6066d
+Svisualid 195c2a74
+Sdepth 195c2a74
+Sproperty 195c2a74
+Sreplace adc6066d
+Sretain adc6066d
+R4d343962 9 f9c687f4 0
+Sdpy 4412203d
+Sscreen adc6066d
+Svisualid 195c2a74
+Sdepth 195c2a74
+Sproperty 195c2a74
+Scmap 195c2a74
+Sred_max 6a7e4e98
+Sgreen_max 6a7e4e98
+Sblue_max 6a7e4e98
+R6d75d0a6 8 66a2a904 0
+Sw 08402063
+Stime 195c2a74
+Sselection 6a7e4e98
+Starget 6a7e4e98
+Stype 6a7e4e98
+Svalue 08402063
+Slength 6a7e4e98
+Sformat 7b6709ea
+R18f6d61e 2 adc6066d 0
+Sbuf ab374d58
+Smaxlen adc6066d
+R48bd8093 2 195c2a74 0
+Sdpy 4412203d
+Swin 195c2a74
+Rac3e60f9 3 adc6066d 0
+Sdpy 4412203d
+Swin 195c2a74
+Shints 53006765
+R23fe2a9d 2 4412203f 0
+Sdpy 4412203d
+Sw 195c2a74
+DXmu
+CXrm
+CXt
+CX
+CCtypes
+CRTHooks
+Eadc6066d Xmu.Int
+E6a7e4e98 Xmu.AtomPtr
+E08402063 Xmu.CloseHook
+Ea929051e Xmu.ProcCloseHook
+Eadc6066d Xmu.Justify
+Eadc6066d Xmu.Orientation
+Ea9d3ff1e Xmu.ProcIniter
+@Xrm.i3
+BXrm
+N2fa3581d 195c2a74 0 63 8
+F48b78c65 2fa3581d adc6066d 2048
+O8fd3cc8b 48b78c65
+R17b6d529 1 adc6066d 0
+Sstring ab374d58
+Rd14f0b7f 1 ab374d58 0
+Squark adc6066d
+R45a4c70b 2 00000000 0
+Sstring ab374d58
+Squarks_return 8fd3cc8b
+R0740ed22 3 00000000 0
+Sstring ab374d58
+Sbindings_return 8fd3cc8b
+Squarks_return 8fd3cc8b
+K74223ace 64 2
+Lsize 0 32 195c2a74
+Laddr 32 32 08402063
+O0c370896 74223ace
+F1af33210 2fa3581d 08402063 2048
+Of49dfa41 1af33210
+Rfedcee3b 1 00000000 0
+Sdatabase 08402063
+R123087fe 5 00000000 0
+Sdatabase 08402063
+Sbindings 8fd3cc8b
+Squarks 8fd3cc8b
+Stype adc6066d
+Svalue 0c370896
+R71258ca3 4 00000000 0
+Sdatabase 08402063
+Sspecifier ab374d58
+Stype ab374d58
+Svalue 0c370896
+R7daf80f3 4 00000000 0
+Sdatabase 08402063
+Sbindings 8fd3cc8b
+Squarks 8fd3cc8b
+Svalue ab374d58
+R863ce775 3 00000000 0
+Sdatabase 08402063
+Sspecifier ab374d58
+Svalue ab374d58
+Rf05bf788 2 00000000 0
+Sdatabase 08402063
+Sline ab374d58
+Rd2ed3e01 5 00000000 0
+Sdatabase 08402063
+Squark_name 8fd3cc8b
+Squark_class 8fd3cc8b
+Squark_type_return 7b6709ea
+Svalue_return 0c370896
+R297c65d8 5 adc6066d 0
+Sdatabase 08402063
+Sstr_name ab374d58
+Sstr_class ab374d58
+Sstr_type_return 4e2da564
+Svalue_return 0c370896
+Re0b3870a 5 adc6066d 0
+Sdatabase 08402063
+Snames 8fd3cc8b
+Sclasses 8fd3cc8b
+Slist_return f49dfa41
+Slist_length adc6066d
+R36e52421 5 adc6066d 0
+Slist f49dfa41
+Sname adc6066d
+Sclass adc6066d
+Stype_return 7b6709ea
+Svalue_return 0c370896
+R71ec60af 1 08402063 0
+Sfilename ab374d58
+Rad4e6a7b 1 08402063 0
+Sdata ab374d58
+Re921015c 2 00000000 0
+Sdatabase 08402063
+Sfilename ab374d58
+R45ef2b49 2 00000000 0
+Ssource_db 08402063
+Starget_db 08402063
+Kd66ba22d 128 4
+Loptionn 0 32 ab374d58
+Lspecifier 32 32 ab374d58
+LargKind 64 32 adc6066d
+Lvalue 96 32 08402063
+F18e8c4da 2fa3581d d66ba22d 8192
+O58950869 18e8c4da
+R19b1240f 6 00000000 0
+Sdatabase 08402063
+Stable 58950869
+Stable_count adc6066d
+Sname ab374d58
+Sargc_in_out 7b6709ea
+Sargv_in_out 4e2da564
+DXrm
+CCtypes
+CX
+CRTHooks
+Eadc6066d Xrm.Int
+Eadc6066d Xrm.Quark
+E8fd3cc8b Xrm.QuarkList
+Eab374d58 Xrm.String
+Eadc6066d Xrm.Binding
+E8fd3cc8b Xrm.BindingList
+Eadc6066d Xrm.Name
+E8fd3cc8b Xrm.NameList
+Eadc6066d Xrm.Class
+E8fd3cc8b Xrm.ClassList
+Eadc6066d Xrm.Representation
+E7b6709ea Xrm.RepresentationStar
+E74223ace Xrm.Value
+E0c370896 Xrm.ValueStar
+E0c370896 Xrm.ValuePtr
+E08402063 Xrm.HashBucket
+Ef49dfa41 Xrm.SearchList
+E08402063 Xrm.Database
+E08402063 Xrm.DatabaseStar
+Eadc6066d Xrm.OptionKind
+Ed66ba22d Xrm.OptionDescRec
+E58950869 Xrm.OptionDescList
+@Xct.i3
+BXct
+K467befe9 672 21
+Ltotal_string 0 32 ab374d58
+Ltotal_length 32 32 adc6066d
+Lflags 64 32 195c2a74
+Lversion 96 32 adc6066d
+Lcan_ignore_exts 128 32 adc6066d
+Litem 160 32 ab374d58
+Litem_length 192 32 adc6066d
+Lchar_size 224 32 adc6066d
+Lencoding 256 32 ab374d58
+Lhorizontal 288 32 adc6066d
+Lhorz_depth 320 32 adc6066d
+LGL 352 32 ab374d58
+LGL_encoding 384 32 ab374d58
+LGL_set_size 416 32 adc6066d
+LGL_char_size 448 32 adc6066d
+LGR 480 32 ab374d58
+LGR_encoding 512 32 ab374d58
+LGR_set_size 544 32 adc6066d
+LGR_char_size 576 32 adc6066d
+LGLGR_encoding 608 32 ab374d58
+Lpriv 640 32 08402063
+Re5dd41cf 3 00000000 0
+Sstring ab374d58
+Slength adc6066d
+Sflags 195c2a74
+R59b48f84 1 adc6066d 0
+Sdata 467befe9
+R1dc49355 1 00000000 0
+Sdata 467befe9
+DXct
+CCtypes
+CRTHooks
+Eab374d58 Xct.String
+Eadc6066d Xct.Enumeration
+Eadc6066d Xct.Int
+Eadc6066d Xct.HDirection
+E195c2a74 Xct.Flags
+Eadc6066d Xct.Result
+E467befe9 Xct.Data
+Qb9841016 467befe9
+@Xmbuf.i3
+BXmbuf
+Kc4ee13a6 64 4
+Lvisualid 0 32 195c2a74
+Lmax_buffers 32 16 7300e1e8
+Ldepth 48 8 66a2a904
+Lpad 56 8 66a2a904
+O4f5f02bc c4ee13a6
+O5210f66f 4f5f02bc
+Kda28e59f 192 6
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lbuffer 128 32 195c2a74
+Lstate 160 32 adc6066d
+Kf063c927 160 5
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lbuffer 128 32 195c2a74
+Kd00ad8ba 128 4
+Ldisplayed_index 0 32 adc6066d
+Lupdate_action 32 32 adc6066d
+Lupdate_hint 64 32 adc6066d
+Lwindow_mode 96 32 adc6066d
+O0b3a146b d00ad8ba
+K2c99c4fa 32 1
+Lupdate_hint 0 32 adc6066d
+O207cdfff 2c99c4fa
+K930ebb71 128 4
+Lwindow 0 32 195c2a74
+Levent_mask 32 32 195c2a74
+Lbuffer_index 64 32 adc6066d
+Lside 96 32 adc6066d
+O7a2a3505 930ebb71
+Kdc7dc053 32 1
+Levent_mask 0 32 195c2a74
+Oa7cfc03b dc7dc053
+Rb5e08e38 3 adc6066d 0
+Sdisplay 4412203d
+Sevent_base_return 7b6709ea
+Serror_base_return 7b6709ea
+R96f69d99 3 adc6066d 0
+Sdisplay 4412203d
+Smajor_version_return 7b6709ea
+Sminor_version_return 7b6709ea
+R5373c02d 6 adc6066d 0
+Sdisplay 4412203d
+Swindow 195c2a74
+Scount adc6066d
+SupdateAction adc6066d
+SupdateHint adc6066d
+SxmbBuffers 6a7e4e98
+Re4e7651d 2 00000000 0
+Sdisplay 4412203d
+Swindow 195c2a74
+R1e14c8d3 5 00000000 0
+Sdisplay 4412203d
+Scount adc6066d
+SxmbBuffer 6a7e4e98
+Smin_delay adc6066d
+Smax_delay adc6066d
+R5ff9c258 3 adc6066d 0
+Sdisplay 4412203d
+Swindow 195c2a74
+Sattributes 0b3a146b
+R85ec1911 4 00000000 0
+Sdisplay 4412203d
+Swindow 195c2a74
+Svaluemask 195c2a74
+Sattributes 207cdfff
+Rabc7e3bc 3 adc6066d 0
+Sdisplay 4412203d
+Sbuffer 195c2a74
+Sattributes 7a2a3505
+R57ef6f44 4 00000000 0
+Sdisplay 4412203d
+Sbuffer 195c2a74
+Svaluemask 195c2a74
+Sattributes a7cfc03b
+Ree1c1c9f 6 adc6066d 0
+Sdisplay 4412203d
+Sdrawable 195c2a74
+Snmono_return 7b6709ea
+Smono_info_return 5210f66f
+Snstereo_return 7b6709ea
+Sstereo_info_return 5210f66f
+R53a2aa31 14 195c2a74 0
+Sdisplay 4412203d
+Sparent 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sborder_width 195c2a74
+Sdepth adc6066d
+Sclass 195c2a74
+Svisual dc59723d
+Svaluemask 195c2a74
+Sattributes bcfaa6da
+Sleft_return 6a7e4e98
+Sright_return 6a7e4e98
+DXmbuf
+CX
+CCtypes
+CRTHooks
+Ec4ee13a6 Xmbuf.XmbufBufferInfo
+E4f5f02bc Xmbuf.XmbufBufferInfoStar
+E5210f66f Xmbuf.XmbufBufferInfoStarStar
+E195c2a74 Xmbuf.Multibuffer
+E6a7e4e98 Xmbuf.MultibufferStar
+Eda28e59f Xmbuf.XmbufClobberNotifyEvent
+Ef063c927 Xmbuf.XmbufUpdateNotifyEvent
+Ed00ad8ba Xmbuf.XmbufWindowAttributes
+E0b3a146b Xmbuf.XmbufWindowAttributesStar
+E2c99c4fa Xmbuf.XmbufSetWindowAttributes
+E207cdfff Xmbuf.XmbufSetWindowAttributesStar
+E930ebb71 Xmbuf.XmbufBufferAttributes
+E7a2a3505 Xmbuf.XmbufBufferAttributesStar
+Edc7dc053 Xmbuf.XmbufSetBufferAttributes
+Ea7cfc03b Xmbuf.XmbufSetBufferAttributesStar
+@Xatom.i3
+BXatom
+DXatom
+CRTHooks
+@X.i3
+BX
+Ff0464c10 0b5b30aa ab374d58 8192
+O53a053a0 f0464c10
+O9fb38d81 6a7e4e98
+Rff82092f 0 adc6066d 0
+Rcac8a5a1 0 ab374d58 0
+Oc0274d40 c0274d43
+Kc0274d43 128 4
+Lnumber 0 32 adc6066d
+Lnext 32 32 c0274d40
+Lfree_private 64 32 ff82092f
+Lprivate_data 96 32 ab374d58
+O0431362d c0274d40
+K7be824ba 128 4
+Lextension 0 32 adc6066d
+Lmajor_opcode 32 32 adc6066d
+Lfirst_event 64 32 adc6066d
+Lfirst_error 96 32 adc6066d
+O827f5143 7be824ba
+Od34fcf67 d34fcf64
+Kd34fcf64 480 12
+Lnext 0 32 d34fcf67
+Lcodes 32 128 7be824ba
+Lcreate_GC 160 32 ff82092f
+Lcopy_GC 192 32 ff82092f
+Lflush_GC 224 32 ff82092f
+Lfree_GC 256 32 ff82092f
+Lcreate_Font 288 32 ff82092f
+Lfree_Font 320 32 ff82092f
+Lclose_display 352 32 ff82092f
+Lerror 384 32 ff82092f
+Lerror_string 416 32 cac8a5a1
+Lname 448 32 ab374d58
+K72461b87 96 3
+Ldepth 0 32 adc6066d
+Lbits_per_pixel 32 32 adc6066d
+Lscanline_pad 64 32 adc6066d
+O00cede3a 72461b87
+K56d7e3fa 736 23
+Lfunction 0 32 adc6066d
+Lplane_mask 32 32 195c2a74
+Lforeground 64 32 195c2a74
+Lbackground 96 32 195c2a74
+Lline_width 128 32 adc6066d
+Lline_style 160 32 adc6066d
+Lcap_style 192 32 adc6066d
+Ljoin_style 224 32 adc6066d
+Lfill_style 256 32 adc6066d
+Lfill_rule 288 32 adc6066d
+Larc_mode 320 32 adc6066d
+Ltile 352 32 195c2a74
+Lstipple 384 32 195c2a74
+Lts_x_origin 416 32 adc6066d
+Lts_y_origin 448 32 adc6066d
+Lfont 480 32 195c2a74
+Lsubwindow_mode 512 32 adc6066d
+Lgraphics_exposures 544 32 adc6066d
+Lclip_x_origin 576 32 adc6066d
+Lclip_y_origin 608 32 adc6066d
+Lclip_mask 640 32 195c2a74
+Ldash_offset 672 32 adc6066d
+Ldashes 704 8 66a2a904
+O1383d12d 56d7e3fa
+Kb5f6b040 896 6
+Lext_data 0 32 c0274d40
+Lgid 32 32 195c2a74
+Lrects 64 32 adc6066d
+Ldashes 96 32 adc6066d
+Ldirty 128 32 195c2a74
+Lvalues 160 736 56d7e3fa
+Oa284868a b5f6b040
+Kdd8c7e9a 256 8
+Lext_data 0 32 c0274d40
+Lvisualid 32 32 195c2a74
+Lclass 64 32 adc6066d
+Lred_mask 96 32 195c2a74
+Lgreen_mask 128 32 195c2a74
+Lblue_mask 160 32 195c2a74
+Lbits_per_rgb 192 32 adc6066d
+Lmap_entries 224 32 adc6066d
+Odc59723d dd8c7e9a
+K7078e70c 96 3
+Ldepth 0 32 adc6066d
+Lnvisuals 32 32 adc6066d
+Lvisuals 64 32 dc59723d
+O8d756235 7078e70c
+Ree9b4e5d 0 195c2a74 0
+K445bf995 128 4
+Lext_data 0 32 c0274d40
+Ldepth 32 32 adc6066d
+Lbits_per_pixel 64 32 adc6066d
+Lscanline_pad 96 32 adc6066d
+Odb4f972e 445bf995
+N29ac581d 195c2a74 0 95 8
+Fbc776926 29ac581d 66a2a904 768
+K263dba23 800 2
+Lnext 0 32 263dba20
+Levent 32 768 bc776926
+O263dba20 263dba23
+R4412203b 2 adc6066d 1
+Sdisplay 4412203d
+Sonoff adc6066d
+TX.Error
+O4412203f 4412203c
+K9b763004 64 2
+Lmax_keypermod 0 32 adc6066d
+Lmodifiermap 32 32 bc5fd8f5
+O9211327b 9b763004
+N095c33aa 195c2a74 0 127 8
+F24f86e70 095c33aa ff82092f 4096
+Kb6171ec4 192 6
+Ltext 0 32 195c2a74
+Lwm_state 32 32 195c2a74
+Lwm_protocols 64 32 195c2a74
+Lwm_save_yourself 96 32 195c2a74
+Lwm_change_state 128 32 195c2a74
+Lwm_colormap_windows 160 32 195c2a74
+Ob2d2c348 b6171ec4
+Kc79cb29f 96 3
+Lsequence_number 0 32 adc6066d
+Lold_handler 32 32 ff82092f
+Lsucceeded 64 32 adc6066d
+K4412203a 10016 57
+Lext_data 0 32 c0274d40
+Lnext 32 32 4412203d
+Lfd 64 32 adc6066d
+Llock 96 32 adc6066d
+Lproto_major_version 128 32 adc6066d
+Lproto_minor_version 160 32 adc6066d
+Lvendor 192 32 ab374d58
+Lresource_base 224 32 adc6066d
+Lresource_mask 256 32 adc6066d
+Lresource_id 288 32 adc6066d
+Lresource_shift 320 32 adc6066d
+Lresource_alloc 352 32 ee9b4e5d
+Lbyte_order 384 32 adc6066d
+Lbitmap_unit 416 32 adc6066d
+Lbitmap_pad 448 32 adc6066d
+Lbitmap_bit_order 480 32 adc6066d
+Lnformats 512 32 adc6066d
+Lpixmap_format 544 32 db4f972e
+Lvnumber 576 32 adc6066d
+Lrelease 608 32 adc6066d
+Lhead 640 32 263dba20
+Ltail 672 32 263dba20
+Lqlen 704 32 adc6066d
+Llast_request_read 736 32 195c2a74
+Lrequest 768 32 195c2a74
+Llast_req 800 32 ab374d58
+Lbuffer 832 32 ab374d58
+Lbufptr 864 32 ab374d58
+Lbufmax 896 32 ab374d58
+Lmax_request_size 928 32 195c2a74
+Ldb 960 32 08402063
+Lsynchandler 992 32 4412203b
+Ldisplay_name 1024 32 ab374d58
+Ldefault_screen 1056 32 adc6066d
+Lnscreens 1088 32 adc6066d
+Lscreens 1120 32 4412203f
+Lmotion_buffer 1152 32 195c2a74
+Lcurrent 1184 32 195c2a74
+Lmin_keycode 1216 32 adc6066d
+Lmax_keycode 1248 32 adc6066d
+Lkeysyms 1280 32 6a7e4e98
+Lmodifiermap 1312 32 9211327b
+Lkeysyms_per_keycode 1344 32 adc6066d
+Lxdefaults 1376 32 ab374d58
+Lscratch_buffer 1408 32 ab374d58
+Lscratch_length 1440 32 195c2a74
+Lext_number 1472 32 adc6066d
+Lext_procs 1504 32 d34fcf67
+Levent_vec 1536 4096 24f86e70
+Lwire_vec 5632 4096 24f86e70
+Llock_meaning 9728 32 195c2a74
+Lkey_bindings 9760 32 08402063
+Lcursor_font 9792 32 195c2a74
+Latoms 9824 32 b2d2c348
+Lreconfigure_wm_window 9856 96 c79cb29f
+Lflags 9952 32 195c2a74
+Lmode_switch 9984 32 195c2a74
+O4412203d 4412203a
+K4412203c 640 20
+Lext_data 0 32 c0274d40
+Ldisplay 32 32 4412203d
+Lroot 64 32 195c2a74
+Lwidth 96 32 adc6066d
+Lheight 128 32 adc6066d
+Lmwidth 160 32 adc6066d
+Lmheight 192 32 adc6066d
+Lndepths 224 32 adc6066d
+Ldepths 256 32 8d756235
+Lroot_depth 288 32 adc6066d
+Lroot_visual 320 32 dc59723d
+Ldefault_gc 352 32 a284868a
+Lcmap 384 32 195c2a74
+Lwhite_pixel 416 32 195c2a74
+Lblack_pixel 448 32 195c2a74
+Lmax_maps 480 32 adc6066d
+Lmin_maps 512 32 adc6066d
+Lbacking_store 544 32 adc6066d
+Lsave_unders 576 32 adc6066d
+Lroot_input_mask 608 32 adc6066d
+Kbcfaa6da 480 15
+Lbackground_pixmap 0 32 195c2a74
+Lbackground_pixel 32 32 195c2a74
+Lborder_pixmap 64 32 195c2a74
+Lborder_pixel 96 32 195c2a74
+Lbit_gravity 128 32 adc6066d
+Lwin_gravity 160 32 adc6066d
+Lbacking_store 192 32 adc6066d
+Lbacking_planes 224 32 195c2a74
+Lbacking_pixel 256 32 195c2a74
+Lsave_under 288 32 adc6066d
+Levent_mask 320 32 adc6066d
+Ldo_not_propagate_mask 352 32 adc6066d
+Loverride_redirect 384 32 adc6066d
+Lcolormap 416 32 195c2a74
+Lcursor 448 32 195c2a74
+Kfb4a95ec 736 23
+Lx 0 32 adc6066d
+Ly 32 32 adc6066d
+Lwidth 64 32 adc6066d
+Lheight 96 32 adc6066d
+Lborder_width 128 32 adc6066d
+Ldepth 160 32 adc6066d
+Lvisual 192 32 dc59723d
+Lroot 224 32 195c2a74
+Lclass 256 32 adc6066d
+Lbit_gravity 288 32 adc6066d
+Lwin_gravity 320 32 adc6066d
+Lbacking_store 352 32 adc6066d
+Lbacking_planes 384 32 195c2a74
+Lbacking_pixel 416 32 195c2a74
+Lsave_under 448 32 adc6066d
+Lcolormap 480 32 195c2a74
+Lmap_installed 512 32 adc6066d
+Lmap_state 544 32 adc6066d
+Lall_event_masks 576 32 adc6066d
+Lyour_event_mask 608 32 adc6066d
+Ldo_not_propagate_mask 640 32 adc6066d
+Loverride_redirect 672 32 adc6066d
+Lscreen 704 32 4412203f
+O02e0b7b6 bcfaa6da
+Of7217ec4 fb4a95ec
+K5b7f0b0d 96 3
+Lfamily 0 32 adc6066d
+Llength 32 32 adc6066d
+Laddress 64 32 ab374d58
+O0b7eaa95 5b7f0b0d
+R831d243f 1 adc6066d 0
+Si 831d2438
+R831d243c 3 195c2a74 0
+Si 831d2438
+Sx adc6066d
+Sy adc6066d
+R831d243d 4 adc6066d 0
+Si 831d2438
+Sx adc6066d
+Sy adc6066d
+Sp 195c2a74
+R831d2432 5 831d2438 0
+Si 831d2438
+Sx adc6066d
+Sy adc6066d
+Sw 195c2a74
+Sh 195c2a74
+K831d243e 192 6
+Lcreate_image 0 32 831d243b
+Ldestroy_image 32 32 831d243f
+Lget_pixel 64 32 831d243c
+Lput_pixel 96 32 831d243d
+Lsub_image 128 32 831d2432
+Ladd_pixel 160 32 831d243f
+K831d2439 704 17
+Lwidth 0 32 adc6066d
+Lheight 32 32 adc6066d
+Lxoffset 64 32 adc6066d
+Lformat 96 32 adc6066d
+Ldata 128 32 ab374d58
+Lbyte_order 160 32 adc6066d
+Lbitmap_unit 192 32 adc6066d
+Lbitmap_bit_order 224 32 adc6066d
+Lbitmap_pad 256 32 adc6066d
+Ldepth 288 32 adc6066d
+Lbytes_per_line 320 32 adc6066d
+Lbits_per_pixel 352 32 adc6066d
+Lred_mask 384 32 195c2a74
+Lgreen_mask 416 32 195c2a74
+Lblue_mask 448 32 195c2a74
+Lobdata 480 32 ab374d58
+Lf 512 192 831d243e
+O831d2438 831d2439
+R831d243b 0 831d2438 0
+K77609a3c 224 7
+Lx 0 32 adc6066d
+Ly 32 32 adc6066d
+Lwidth 64 32 adc6066d
+Lheight 96 32 adc6066d
+Lborder_width 128 32 adc6066d
+Lsibling 160 32 195c2a74
+Lstack_mode 192 32 adc6066d
+Oa633ff4f 77609a3c
+K9fce2592 96 6
+Lpixel 0 32 195c2a74
+Lred 32 16 a4b285de
+Lgreen 48 16 a4b285de
+Lblue 64 16 a4b285de
+Lflags 80 8 66a2a904
+Lpad 88 8 66a2a904
+Ode5741ae 9fce2592
+Kd6c13bf4 64 4
+Lx1 0 16 7300e1e8
+Ly1 16 16 7300e1e8
+Lx2 32 16 7300e1e8
+Ly2 48 16 7300e1e8
+O10b1215d d6c13bf4
+Ked70d055 32 2
+Lx 0 16 7300e1e8
+Ly 16 16 7300e1e8
+O07b37bbc ed70d055
+Kd1e7a7f4 64 4
+Lx 0 16 7300e1e8
+Ly 16 16 7300e1e8
+Lwidth 32 16 a4b285de
+Lheight 48 16 a4b285de
+O816d7b1b d1e7a7f4
+K90db5f1f 96 6
+Lx 0 16 7300e1e8
+Ly 16 16 7300e1e8
+Lwidth 32 16 a4b285de
+Lheight 48 16 a4b285de
+Langle1 64 16 7300e1e8
+Langle2 80 16 7300e1e8
+Oca02efec 90db5f1f
+K88adebe8 256 8
+Lkey_click_percent 0 32 adc6066d
+Lbell_percent 32 32 adc6066d
+Lbell_pitch 64 32 adc6066d
+Lbell_duration 96 32 adc6066d
+Lled 128 32 adc6066d
+Lled_mode 160 32 adc6066d
+Lkey 192 32 adc6066d
+Lauto_repeat_mode 224 32 adc6066d
+Oe0f79691 88adebe8
+N2da6581d 195c2a74 0 31 8
+F1462b29a 2da6581d 66a2a904 256
+K24cf005f 448 7
+Lkey_click_percent 0 32 adc6066d
+Lbell_percent 32 32 adc6066d
+Lbell_pitch 64 32 195c2a74
+Lbell_duration 96 32 195c2a74
+Lled_mask 128 32 195c2a74
+Lglobal_auto_repeat 160 32 adc6066d
+Lauto_repeats 192 256 1462b29a
+O8a795c7e 24cf005f
+Ked83106c 64 3
+Ltime 0 32 195c2a74
+Lx 32 16 7300e1e8
+Ly 48 16 7300e1e8
+Ocb9b5f6b ed83106c
+Kecbec703 480 15
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lroot 160 32 195c2a74
+Lsubwindow 192 32 195c2a74
+Ltime 224 32 195c2a74
+Lx 256 32 adc6066d
+Ly 288 32 adc6066d
+Lx_root 320 32 adc6066d
+Ly_root 352 32 adc6066d
+Lstate 384 32 195c2a74
+Lkeycode 416 32 195c2a74
+Lsame_screen 448 32 adc6066d
+O6dddcc27 ecbec703
+K955124a8 480 15
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lroot 160 32 195c2a74
+Lsubwindow 192 32 195c2a74
+Ltime 224 32 195c2a74
+Lx 256 32 adc6066d
+Ly 288 32 adc6066d
+Lx_root 320 32 adc6066d
+Ly_root 352 32 adc6066d
+Lstate 384 32 195c2a74
+Lbutton 416 32 195c2a74
+Lsame_screen 448 32 adc6066d
+O9fae6fe4 955124a8
+K58274111 480 15
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lroot 160 32 195c2a74
+Lsubwindow 192 32 195c2a74
+Ltime 224 32 195c2a74
+Lx 256 32 adc6066d
+Ly 288 32 adc6066d
+Lx_root 320 32 adc6066d
+Ly_root 352 32 adc6066d
+Lstate 384 32 195c2a74
+Lis_hint 416 8 66a2a904
+Lsame_screen 448 32 adc6066d
+Oaff96cfc 58274111
+K5d9ad53b 544 17
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lroot 160 32 195c2a74
+Lsubwindow 192 32 195c2a74
+Ltime 224 32 195c2a74
+Lx 256 32 adc6066d
+Ly 288 32 adc6066d
+Lx_root 320 32 adc6066d
+Ly_root 352 32 adc6066d
+Lmode 384 32 adc6066d
+Ldetail 416 32 adc6066d
+Lsame_screen 448 32 adc6066d
+Lfocus 480 32 adc6066d
+Lstate 512 32 195c2a74
+O41c60141 5d9ad53b
+K74136df1 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lmode 160 32 adc6066d
+Ldetail 192 32 adc6066d
+O6698117c 74136df1
+Kc908039e 416 6
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lkey_vector 160 256 1462b29a
+O308d0372 c908039e
+Kb32ffa12 320 10
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lx 160 32 adc6066d
+Ly 192 32 adc6066d
+Lwidth 224 32 adc6066d
+Lheight 256 32 adc6066d
+Lcount 288 32 adc6066d
+Od42dcd77 b32ffa12
+Kf86eea8a 384 12
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Ldrawable 128 32 195c2a74
+Lx 160 32 adc6066d
+Ly 192 32 adc6066d
+Lwidth 224 32 adc6066d
+Lheight 256 32 adc6066d
+Lcount 288 32 adc6066d
+Lmajor_code 320 32 adc6066d
+Lminor_code 352 32 adc6066d
+O61da9097 f86eea8a
+Kb8525e96 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Ldrawable 128 32 195c2a74
+Lmajor_code 160 32 adc6066d
+Lminor_code 192 32 adc6066d
+O5ebcbc94 b8525e96
+Kc1793f64 192 6
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lstate 160 32 adc6066d
+Ocfd454fb c1793f64
+K9ddd1716 384 12
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lparent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lx 192 32 adc6066d
+Ly 224 32 adc6066d
+Lwidth 256 32 adc6066d
+Lheight 288 32 adc6066d
+Lborder_width 320 32 adc6066d
+Loverride_redirect 352 32 adc6066d
+Od0bc00cd 9ddd1716
+Kc13655f4 192 6
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+O169292fe c13655f4
+Kfdb25589 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lfrom_configure 192 32 adc6066d
+O105d0b7a fdb25589
+K7c25da62 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Loverride_redirect 192 32 adc6066d
+O8a9c2ef9 7c25da62
+K14ab3df6 192 6
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lparent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+O203d5ad0 14ab3df6
+K46905d00 320 10
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lparent 192 32 195c2a74
+Lx 224 32 adc6066d
+Ly 256 32 adc6066d
+Loverride_redirect 288 32 adc6066d
+O7dff6c5e 46905d00
+Kc999bed6 416 13
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lx 192 32 adc6066d
+Ly 224 32 adc6066d
+Lwidth 256 32 adc6066d
+Lheight 288 32 adc6066d
+Lborder_width 320 32 adc6066d
+Labove 352 32 195c2a74
+Loverride_redirect 384 32 adc6066d
+Ofdfdf439 c999bed6
+K6f345deb 256 8
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lx 192 32 adc6066d
+Ly 224 32 adc6066d
+Oc0115f30 6f345deb
+Kc4a41376 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lwidth 160 32 adc6066d
+Lheight 192 32 adc6066d
+O6b1f047e c4a41376
+Kec7cca22 448 14
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lparent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lx 192 32 adc6066d
+Ly 224 32 adc6066d
+Lwidth 256 32 adc6066d
+Lheight 288 32 adc6066d
+Lborder_width 320 32 adc6066d
+Labove 352 32 195c2a74
+Ldetail 384 32 adc6066d
+Lvalue_mask 416 32 195c2a74
+O38d33fff ec7cca22
+Kcc82691b 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Levent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lplace 192 32 adc6066d
+O061c3034 cc82691b
+K5bcf4118 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lparent 128 32 195c2a74
+Lwindow 160 32 195c2a74
+Lplace 192 32 adc6066d
+O7df2245d 5bcf4118
+Kd7e64add 256 8
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Latom 160 32 195c2a74
+Ltime 192 32 195c2a74
+Lstate 224 32 adc6066d
+O1ecba4be d7e64add
+K4e3f92b7 224 7
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lselection 160 32 195c2a74
+Ltime 192 32 195c2a74
+O3aad9058 4e3f92b7
+K94a840e7 320 10
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lowner 128 32 195c2a74
+Lrequestor 160 32 195c2a74
+Lselection 192 32 195c2a74
+Ltarget 224 32 195c2a74
+Lproperty 256 32 195c2a74
+Ltime 288 32 195c2a74
+Ofd72498a 94a840e7
+Kc3e981cd 288 9
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lrequestor 128 32 195c2a74
+Lselection 160 32 195c2a74
+Ltarget 192 32 195c2a74
+Lproperty 224 32 195c2a74
+Ltime 256 32 195c2a74
+O8f704b31 c3e981cd
+Ka8433306 256 8
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lcolormap 160 32 195c2a74
+Lnew 192 32 adc6066d
+Lstate 224 32 adc6066d
+Odcbdabcb a8433306
+N2db8581d 195c2a74 0 -1 8
+Fa68032e1 2db8581d adc6066d 0
+N25a4581d 195c2a74 0 19 8
+F51a9df34 25a4581d 66a2a904 160
+Kd9087751 384 9
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lmessage_type 160 32 195c2a74
+Lformat 192 32 adc6066d
+Lalignment 224 0 a68032e1
+Ldata 224 160 51a9df34
+N832831d7 195c2a74 0 9 8
+F4c4f697f 832831d7 7300e1e8 160
+K94dcbc01 384 9
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lmessage_type 160 32 195c2a74
+Lformat 192 32 adc6066d
+Lalignment 224 0 a68032e1
+Ldata 224 160 4c4f697f
+N8e2831d7 195c2a74 0 4 8
+F6ae065e5 8e2831d7 adc6066d 160
+K0dc162fe 384 8
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lmessage_type 160 32 195c2a74
+Lformat 192 32 adc6066d
+Ldata 224 160 6ae065e5
+O4624be12 d9087751
+Of5a07648 94dcbc01
+Obd6eb28f 0dc162fe
+Kb06bc312 256 8
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+Lrequest 160 32 adc6066d
+Lfirst_keycode 192 32 adc6066d
+Lcount 224 32 adc6066d
+O1b78ec36 b06bc312
+K729252b0 160 7
+Ltype 0 32 adc6066d
+Ldisplay 32 32 4412203d
+Lresourceid 64 32 195c2a74
+Lserial 96 32 195c2a74
+Lerror_code 128 8 0b5b30aa
+Lrequest_code 136 8 0b5b30aa
+Lminor_code 144 8 0b5b30aa
+Of4d390af 729252b0
+Kdb9d6f33 160 5
+Ltype 0 32 adc6066d
+Lserial 32 32 195c2a74
+Lsend_event 64 32 adc6066d
+Ldisplay 96 32 4412203d
+Lwindow 128 32 195c2a74
+O77043e51 db9d6f33
+N28a7581c 195c2a74 1 24 8
+F69ed1282 28a7581c adc6066d 768
+O2a5451fc bc776926
+K43a02af5 96 6
+Llbearing 0 16 7300e1e8
+Lrbearing 16 16 7300e1e8
+Lwidth 32 16 7300e1e8
+Lascent 48 16 7300e1e8
+Ldescent 64 16 7300e1e8
+Lattributes 80 16 a4b285de
+Oe44e4903 43a02af5
+K4cbb849f 64 2
+Lname 0 32 195c2a74
+Lcard32 32 32 195c2a74
+O0dbd5645 4cbb849f
+K3649e27d 640 16
+Lext_data 0 32 c0274d40
+Lfid 32 32 195c2a74
+Ldirection 64 32 195c2a74
+Lmin_char_or_byte2 96 32 195c2a74
+Lmax_char_or_byte2 128 32 195c2a74
+Lmin_byte1 160 32 195c2a74
+Lmax_byte1 192 32 195c2a74
+Lall_chars_exist 224 32 adc6066d
+Ldefault_char 256 32 195c2a74
+Ln_properties 288 32 adc6066d
+Lproperties 320 32 0dbd5645
+Lmin_bounds 352 96 43a02af5
+Lmax_bounds 448 96 43a02af5
+Lper_char 544 32 e44e4903
+Lascent 576 32 adc6066d
+Ldescent 608 32 adc6066d
+Oe3d9e755 3649e27d
+O65fdcbbb e3d9e755
+K3f6bfa37 128 4
+Lchars 0 32 ab374d58
+Lnchars 32 32 adc6066d
+Ldelta 64 32 adc6066d
+Lfont 96 32 195c2a74
+Ka0d05532 16 2
+Lbyte1 0 8 0b5b30aa
+Lbyte2 8 8 0b5b30aa
+O0f61fd2b a0d05532
+K24acd562 128 4
+Lchars 0 32 0f61fd2b
+Lnchars 32 32 adc6066d
+Ldelta 64 32 adc6066d
+Lfont 96 32 195c2a74
+Od9c2c9d3 3f6bfa37
+O822a9e7c 24acd562
+R592644da 2 e3d9e755 1
+Sdisplay 4412203d
+Sname ab374d58
+TX.Error
+Ra219ba5a 2 e3d9e755 1
+Sdisplay 4412203d
+Sfont 195c2a74
+TX.Error
+R23997948 5 cb9b5f6b 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sstart 195c2a74
+Sstop 195c2a74
+Snevents 7b6709ea
+TX.Error
+R608ee5fa 2 9211327b 1
+Smodmap 9211327b
+Skeycode 195c2a74
+TX.Error
+Re6626b41 1 9211327b 1
+Sdisplay 4412203d
+TX.Error
+Rcb2d5c56 2 9211327b 1
+Smodmap 9211327b
+Skeycode 0b5b30aa
+TX.Error
+R865f0aca 1 9211327b 1
+Smax adc6066d
+TX.Error
+Ra1e8216f 10 831d2438 1
+Sdisplay 4412203d
+Svisual dc59723d
+Sdepth 195c2a74
+Sformat adc6066d
+Soffset adc6066d
+Sdata ab374d58
+Swidth 195c2a74
+Sheight 195c2a74
+Sbitmap adc6066d
+Sbytes adc6066d
+TX.Error
+Ra3b87d62 8 831d2438 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Splane 195c2a74
+Sformat adc6066d
+TX.Error
+R97e876c6 11 831d2438 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Splane 195c2a74
+Sformat adc6066d
+Sdest_image 831d2438
+Sdest_x adc6066d
+Sdest_y adc6066d
+TX.Error
+Rb3600d97 1 4412203d 1
+Sdisplay ab374d58
+TX.Error
+R7b78c34f 0 00000000 0
+Rb10992ea 2 ab374d58 1
+Sdisplay 4412203d
+Snbytes 7b6709ea
+TX.Error
+R0eaf02ae 3 ab374d58 1
+Sdisplay 4412203d
+Snbytes 7b6709ea
+Sbuffer adc6066d
+TX.Error
+Rfbc371c2 2 ab374d58 1
+Sdisplay 4412203d
+Satom 195c2a74
+TX.Error
+R947cbb13 3 ab374d58 1
+Sdisplay 4412203d
+Sprogram ab374d58
+Soption ab374d58
+TX.Error
+Ra7a0fba6 1 ab374d58 1
+Sstring ab374d58
+TX.Error
+R493228f7 1 ab374d58 1
+Skeysym 195c2a74
+TX.Error
+R98283b0b 1 adc6066d 0
+Sdisplay 4412203d
+Re7ec1ea3 2 adc6066d 0
+Sdisplay 4412203d
+Sprocedure 98283b0b
+R6dd9e16a 3 195c2a74 1
+Sdisplay 4412203d
+Satom ab374d58
+Sonly adc6066d
+TX.Error
+Rfe0fcd69 2 195c2a74 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+TX.Error
+R8bb943ea 4 195c2a74 1
+Sdisplay 4412203d
+Sw 195c2a74
+Svisual dc59723d
+Salloc adc6066d
+TX.Error
+R8a95a5df 7 195c2a74 1
+Sdisplay 4412203d
+Ssource 195c2a74
+Smask 195c2a74
+Sforeground de5741ae
+Sbackground de5741ae
+Sx 195c2a74
+Sy 195c2a74
+TX.Error
+Rd1ae4571 7 195c2a74 1
+Sdisplay 4412203d
+Ssource_font 195c2a74
+Smask_font 195c2a74
+Ssource_char 195c2a74
+Smask_char 195c2a74
+Sforeground de5741ae
+Sbackground de5741ae
+TX.Error
+Re6ce2dce 2 195c2a74 1
+Sdisplay 4412203d
+Sshape 195c2a74
+TX.Error
+R56a5c1f9 2 195c2a74 1
+Sdisplay 4412203d
+Sname ab374d58
+TX.Error
+Rba31acf1 4 a284868a 1
+Sdisplay 4412203d
+Sd 195c2a74
+Svaluemask 195c2a74
+Svalues 1383d12d
+TX.Error
+R5dc11b76 1 195c2a74 1
+Sgc a284868a
+TX.Error
+R2a4f33a4 5 195c2a74 1
+Sdisplay 4412203d
+Sd 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+Sdepth 195c2a74
+TX.Error
+R87b1442b 5 195c2a74 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sdata ab374d58
+Swidth 195c2a74
+Sheight 195c2a74
+TX.Error
+R3896a00e 8 195c2a74 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sdata ab374d58
+Swidth 195c2a74
+Sheight 195c2a74
+Sfg 195c2a74
+Sbg 195c2a74
+Sdepth 195c2a74
+TX.Error
+Rbf7e4736 9 195c2a74 1
+Sdisplay 4412203d
+Sparent 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sborder_width 195c2a74
+Sborder 195c2a74
+Sbackground 195c2a74
+TX.Error
+R78250603 2 195c2a74 1
+Sdisplay 4412203d
+Sselection 195c2a74
+TX.Error
+Rd429e4cf 12 195c2a74 1
+Sdisplay 4412203d
+Sparent 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sborder 195c2a74
+Sdepth adc6066d
+Sclass 195c2a74
+Svisual dc59723d
+Svaluemask 195c2a74
+Sattributes 02e0b7b6
+TX.Error
+R632051fc 3 6a7e4e98 1
+Sdisplay 4412203d
+Sw 195c2a74
+Snum 7b6709ea
+TX.Error
+R2ff7adf5 4 4e2da564 1
+Sdisplay 4412203d
+Spattern ab374d58
+Smaxnames adc6066d
+Sactual 7b6709ea
+TX.Error
+R98a4c8a6 5 4e2da564 1
+Sdisplay 4412203d
+Spattern ab374d58
+Smaxnames adc6066d
+Scount 7b6709ea
+Sinfo 65fdcbbb
+TX.Error
+R911b85fa 2 4e2da564 1
+Sdisplay 4412203d
+Snpaths 7b6709ea
+TX.Error
+R1e4b9dce 2 4e2da564 1
+Sdisplay 4412203d
+Snextensions 7b6709ea
+TX.Error
+R45526a40 3 0b7eaa95 1
+Sdisplay 4412203d
+Snhosts 7b6709ea
+Sstate 7b6709ea
+TX.Error
+Rb0d89715 2 195c2a74 1
+Sdisplay 4412203d
+Skeycode 0b5b30aa
+TX.Error
+Rf0585dc4 2 195c2a74 1
+Skey 6dddcc27
+Sindex adc6066d
+TX.Error
+Re5ca7349 4 6a7e4e98 1
+Sdisplay 4412203d
+Sfirst 0b5b30aa
+Skeycode adc6066d
+Skeysyms 7b6709ea
+TX.Error
+R06af925b 1 195c2a74 0
+Sstring ab374d58
+Rc0f5308a 1 ab374d58 1
+Sdisplay 4412203d
+TX.Error
+R89317c79 1 195c2a74 0
+Sdisplay 4412203d
+R52ddfd53 1 195c2a74 0
+Svisual dc59723d
+R3cbcef4d 2 827f5143 0
+Sdisplay 4412203d
+Sname ab374d58
+R27e07e7c 1 827f5143 0
+Sdisplay 4412203d
+R42b5e74e 2 c0274d40 0
+Sstructure 0431362d
+Snumber adc6066d
+Rd7709f1a 1 0431362d 0
+Sobject 08402063
+R47ca713e 2 195c2a74 0
+Sdisplay 4412203d
+Sscreen adc6066d
+R54f142b2 1 195c2a74 0
+Sscreen 4412203f
+R20897ea3 2 dc59723d 0
+Sdisplay 4412203d
+Sscreen adc6066d
+R33b24d2f 1 dc59723d 0
+Sscreen 4412203f
+R6fa36231 2 a284868a 0
+Sdisplay 4412203d
+Sscreen adc6066d
+R7c9851bd 1 a284868a 0
+Sscreen 4412203f
+Rad629785 1 ab374d58 0
+Sdisplay 4412203d
+R87a26bc9 1 4412203d 0
+Sscreen 4412203f
+R6cce0b1a 2 4412203f 0
+Sdisplay 4412203d
+Sscreen adc6066d
+Ra235065d 1 4412203f 0
+Sdisplay 4412203d
+R26a5de83 1 adc6066d 1
+Sscreen 4412203f
+TX.Error
+R45e805c0 1 adc6066d 0
+Sscreen 4412203f
+R6805c48a 2 adc6066d 1
+Sdisplay 4412203d
+Serror f4d390af
+TX.Error
+R7e79a723 1 6805c48a 0
+Shandler 6805c48a
+Rf5bf9c04 1 adc6066d 1
+Sdisplay 4412203d
+TX.Error
+Rcd22494d 1 f5bf9c04 0
+Shandler f5bf9c04
+R73254e1f 2 00cede3a 0
+Sdisplay 4412203d
+Scount 7b6709ea
+R102066cc 3 7b6709ea 0
+Sdisplay 4412203d
+Sscreen adc6066d
+Scount 7b6709ea
+R34d88061 5 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sscreen adc6066d
+Smask 195c2a74
+Schanges a633ff4f
+TX.Error
+R78f7109c 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sprotocols 9fb38d81
+Scount 7b6709ea
+TX.Error
+Rce9f7e26 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sprotocols 6a7e4e98
+Scount adc6066d
+TX.Error
+R07f6c947 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sscreen adc6066d
+TX.Error
+Re6a2af60 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sargv 53a053a0
+Sargc 7b6709ea
+TX.Error
+R1f60d363 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swindows 9fb38d81
+Scount 7b6709ea
+TX.Error
+R63f67392 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scolormap 6a7e4e98
+Scount adc6066d
+TX.Error
+R73a149c2 1 08402063 1
+Slist 4e2da564
+TX.Error
+R58a04287 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sprop 195c2a74
+TX.Error
+R2750c392 1 00000000 1
+Sdisplay 4412203d
+TX.Error
+Rafef651e 2 00000000 1
+Sdisplay 4412203d
+Shost 0b7eaa95
+TX.Error
+R68b8d5d5 3 00000000 1
+Sdisplay 4412203d
+Shosts 0b7eaa95
+Snum adc6066d
+TX.Error
+R6b0b569a 2 00000000 0
+Sstructure 08402063
+Sext c0274d40
+R2d7b19b4 2 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+TX.Error
+Rce109f32 3 adc6066d 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scolor de5741ae
+TX.Error
+R6cf5f2c5 7 adc6066d 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scontig adc6066d
+Splane 6a7e4e98
+Snplanes 195c2a74
+Spixels 6a7e4e98
+Snpixels 195c2a74
+TX.Error
+R713c8217 11 adc6066d 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scontig adc6066d
+Spixels 6a7e4e98
+Sncolors adc6066d
+Snreds adc6066d
+Sngreens adc6066d
+Snblues adc6066d
+Srmask 6a7e4e98
+Sgmask 6a7e4e98
+Sbmask 6a7e4e98
+TX.Error
+Rf621fcb1 5 adc6066d 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scolor ab374d58
+Sscreen de5741ae
+Sexact de5741ae
+TX.Error
+R3dcacd78 3 00000000 1
+Sdisplay 4412203d
+Sevent adc6066d
+Stime 195c2a74
+TX.Error
+R26fb18c8 2 00000000 1
+Sdisplay 4412203d
+Spercent adc6066d
+TX.Error
+Rbdf1f657 4 00000000 1
+Sdisplay 4412203d
+Sevent 195c2a74
+Scursor 195c2a74
+Stime 195c2a74
+TX.Error
+R4b6738a4 4 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Svaluemask 195c2a74
+Svalues 1383d12d
+TX.Error
+R748a73de 3 00000000 1
+Sdisplay 4412203d
+Svalue 195c2a74
+Svalues e0f79691
+TX.Error
+Rb6efbc08 5 00000000 1
+Sdisplay 4412203d
+Sfirst adc6066d
+Skeysyms_per_key adc6066d
+Skeysyms 6a7e4e98
+Snum adc6066d
+TX.Error
+Rc7ff8aea 6 00000000 1
+Sdisplay 4412203d
+Sdo_accel adc6066d
+Sdo_threshold adc6066d
+Saccel_num adc6066d
+Saccel_den adc6066d
+Sthreshold adc6066d
+TX.Error
+R505f27d8 8 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sproperty 195c2a74
+Stype 195c2a74
+Sformat adc6066d
+Smode adc6066d
+Sdata bc5fd8f5
+Snelements adc6066d
+TX.Error
+Rc1931851 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Schange adc6066d
+TX.Error
+Rd546f29f 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Svaluemask 195c2a74
+Sattributes 02e0b7b6
+TX.Error
+Rcc2243c8 3 adc6066d 1
+Sdisplay 4412203d
+Sevent 2a5451fc
+Sarg ab374d58
+TX.Error
+R2d639615 4 adc6066d 1
+Sdisplay 4412203d
+Sevent 2a5451fc
+Spredicate cc2243c8
+Sarg ab374d58
+TX.Error
+R162a64bc 3 adc6066d 1
+Sdisplay 4412203d
+Sevent_mask adc6066d
+Sevent_return 2a5451fc
+TX.Error
+R3c984dff 3 adc6066d 1
+Sdisplay 4412203d
+Sevent_type adc6066d
+Sevent_return 2a5451fc
+TX.Error
+Rbff8cc3e 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sevent_type adc6066d
+Sevent_return 2a5451fc
+TX.Error
+R31515e42 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sevent_mask adc6066d
+Sevent_return 2a5451fc
+TX.Error
+Rc1b5e801 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sdirection adc6066d
+TX.Error
+Rd4e561c8 7 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sexposures adc6066d
+TX.Error
+Red55f121 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Svalue 195c2a74
+Svalues a633ff4f
+TX.Error
+Raccc0d7f 6 00000000 1
+Sdisplay 4412203d
+Sselection 195c2a74
+Starget 195c2a74
+Sproperty 195c2a74
+Srequestor 195c2a74
+Stime 195c2a74
+TX.Error
+R3b919adc 10 00000000 1
+Sdisplay 4412203d
+Ssrc 195c2a74
+Sdest 195c2a74
+Sgc a284868a
+Ssrc_x adc6066d
+Ssrc_y adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sdest_x adc6066d
+Sdest_y adc6066d
+TX.Error
+R89f16387 4 00000000 1
+Sdisplay 4412203d
+Ssrc a284868a
+Svaluemask 195c2a74
+Sdest a284868a
+TX.Error
+Ref06173a 11 00000000 1
+Sdisplay 4412203d
+Ssrc 195c2a74
+Sdest 195c2a74
+Sgc a284868a
+Ssrc_x adc6066d
+Ssrc_y adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sdest_x adc6066d
+Sdest_y adc6066d
+Splane 195c2a74
+TX.Error
+R56d3364c 2 adc6066d 0
+Sdisplay 4412203d
+Sscreen adc6066d
+Rb297b541 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scursor 195c2a74
+TX.Error
+R1843feb5 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sproperty 195c2a74
+TX.Error
+R29340741 2 adc6066d 1
+Sdisplay 4412203d
+Sscreen adc6066d
+TX.Error
+R58e15f25 3 00000000 1
+Sdisplay 4412203d
+Smin 7b6709ea
+Smax 7b6709ea
+TX.Error
+R1c8ab988 9 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+Sangle1 adc6066d
+Sangle2 adc6066d
+TX.Error
+R13f82636 5 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sarcs ca02efec
+Snarcs adc6066d
+TX.Error
+Re745db18 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Sstring ab374d58
+Slength adc6066d
+TX.Error
+R873a23e5 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Sstring 0f61fd2b
+Slength adc6066d
+TX.Error
+Rf65befb4 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx1 adc6066d
+Sx2 adc6066d
+Sy1 adc6066d
+Sy2 adc6066d
+TX.Error
+Rd7e10ac9 6 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Spoints 07b37bbc
+Snpoints adc6066d
+Smode adc6066d
+TX.Error
+Rcbdb818a 5 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+TX.Error
+R2238016d 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+TX.Error
+R9c6afeb3 5 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Srectangles 816d7b1b
+Snrectangles adc6066d
+TX.Error
+R3877a64e 5 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Ssegments 10b1215d
+Snsegments adc6066d
+TX.Error
+R43f949c7 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Sitems d9c2c9d3
+Snitems adc6066d
+TX.Error
+R090005b2 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Sx adc6066d
+Sy adc6066d
+Sitems 822a9e7c
+Snitems adc6066d
+TX.Error
+R6819e6c7 2 adc6066d 1
+Sdisplay 4412203d
+Smode adc6066d
+TX.Error
+Rdc0b4cbb 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swindow 4e2da564
+TX.Error
+R771d2376 7 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Spoints 07b37bbc
+Snpoints adc6066d
+Sshape adc6066d
+Smode adc6066d
+TX.Error
+Red77239f 2 00000000 1
+Sdisplay 4412203d
+Smode adc6066d
+TX.Error
+Rcc14b5fb 1 00000000 1
+Sdata ab374d58
+TX.Error
+Rf731783c 2 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+TX.Error
+Rda4e8c49 5 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Spixels 6a7e4e98
+Snpixels adc6066d
+Splanes 195c2a74
+TX.Error
+Rdb870aa4 2 00000000 1
+Sdisplay 4412203d
+Scursor 195c2a74
+TX.Error
+R8120fd3b 1 00000000 1
+Slist 4e2da564
+TX.Error
+Raa61f62d 2 00000000 1
+Sdisplay 4412203d
+Sfont e3d9e755
+TX.Error
+R9f1d57bc 3 00000000 1
+Snames 4e2da564
+Sfree e3d9e755
+Sactual adc6066d
+TX.Error
+R21dd6861 2 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+TX.Error
+R9302a17c 1 00000000 1
+Smodmap 9211327b
+TX.Error
+R3b2c6e05 2 00000000 1
+Sdisplay 4412203d
+Spixmap 195c2a74
+TX.Error
+Reb84ab92 13 adc6066d 1
+Sdisplay 4412203d
+Sscreen adc6066d
+Sposition ab374d58
+Sdefault ab374d58
+Sbwidth 195c2a74
+Sfwidth 195c2a74
+Sfheight 195c2a74
+Sxadder adc6066d
+Syadder adc6066d
+Sx 7b6709ea
+Sy 7b6709ea
+Swidth 7b6709ea
+Sheight 7b6709ea
+TX.Error
+R842655e0 6 00000000 1
+Sdisplay 4412203d
+Sname ab374d58
+Smessage ab374d58
+Sdefault ab374d58
+Sbuffer ab374d58
+Slength adc6066d
+TX.Error
+R314669fb 4 00000000 1
+Sdisplay 4412203d
+Scode adc6066d
+Sbuffer ab374d58
+Slength adc6066d
+TX.Error
+R01d1ca9f 3 adc6066d 1
+Sfont e3d9e755
+Satom 195c2a74
+Svalue 6a7e4e98
+TX.Error
+Rb6db50c1 4 adc6066d 1
+Sdisplay 4412203d
+Sgc a284868a
+Svaluemask 195c2a74
+Svalues 1383d12d
+TX.Error
+R05e64d51 9 adc6066d 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sroot 6a7e4e98
+Sx 7b6709ea
+Sy 7b6709ea
+Swidth 6a7e4e98
+Sheight 6a7e4e98
+Sborder 6a7e4e98
+Sdepth 6a7e4e98
+TX.Error
+R6bbb87e5 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sicon 4e2da564
+TX.Error
+R1f05d7c0 3 00000000 1
+Sdisplay 4412203d
+Sfocus 6a7e4e98
+Srevert 7b6709ea
+TX.Error
+Rb7d81511 2 00000000 1
+Sdisplay 4412203d
+Svalues 8a795c7e
+TX.Error
+Rdca0b752 4 00000000 1
+Sdisplay 4412203d
+Saccel_num_ret 7b6709ea
+Saccel_den_ret 7b6709ea
+Sthreshold_ret 7b6709ea
+TX.Error
+Rfc653009 3 adc6066d 1
+Sdisplay 4412203d
+Smap bc5fd8f5
+Snmap adc6066d
+TX.Error
+R24304f3e 5 00000000 1
+Sdisplay 4412203d
+Stimeout 7b6709ea
+Sinterval 7b6709ea
+Sprefer 7b6709ea
+Sallow 7b6709ea
+TX.Error
+Ra0916ecf 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sprop 6a7e4e98
+TX.Error
+R02d39080 12 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sproperty 195c2a74
+Slong_offset adc6066d
+Slong_length adc6066d
+Sdelete adc6066d
+Sreq 195c2a74
+Sactual_type 6a7e4e98
+Sactual_format 7b6709ea
+Snitems 6a7e4e98
+Sbytes 6a7e4e98
+Sprop 7264e4cb
+TX.Error
+Ra41a6db8 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swindow f7217ec4
+TX.Error
+R67747788 10 00000000 1
+Sdisplay 4412203d
+Sbutton 195c2a74
+Smodifiers 195c2a74
+Sgrab 195c2a74
+Sowner adc6066d
+Sevent 195c2a74
+Spointer adc6066d
+Skeyboard adc6066d
+Sconfine 195c2a74
+Scursor 195c2a74
+TX.Error
+R5982346c 7 00000000 1
+Sdisplay 4412203d
+Skeycode adc6066d
+Smodifiers 195c2a74
+Sgrab 195c2a74
+Sowner adc6066d
+Spointer adc6066d
+Skeyboard adc6066d
+TX.Error
+R22f2cc8f 6 adc6066d 1
+Sdisplay 4412203d
+Sgrab 195c2a74
+Sowner adc6066d
+Spointer adc6066d
+Skeyboard adc6066d
+Stime 195c2a74
+TX.Error
+R97365be5 9 adc6066d 1
+Sdisplay 4412203d
+Sgrab 195c2a74
+Sowner adc6066d
+Sevent 195c2a74
+Spointer adc6066d
+Skeyboard adc6066d
+Sconfine 195c2a74
+Scursor 195c2a74
+Stime 195c2a74
+TX.Error
+R10031cdb 4 00000000 1
+Sdisplay 4412203d
+Sevent 2a5451fc
+Spredicate cc2243c8
+Sarg ab374d58
+TX.Error
+Rd5765dbe 2 0b5b30aa 1
+Sdisplay 4412203d
+Skeysym 195c2a74
+TX.Error
+R116463a9 2 00000000 1
+Sdisplay 4412203d
+Sresource 195c2a74
+TX.Error
+Re4a6db76 1 195c2a74 1
+Sdisplay 4412203d
+TX.Error
+R9f051d71 5 adc6066d 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scolor ab374d58
+Sexact de5741ae
+Sscreen de5741ae
+TX.Error
+R0a4c853a 3 00000000 1
+Sdisplay 4412203d
+Sevent_mask adc6066d
+Sevent_return 2a5451fc
+TX.Error
+Rd3dd22f3 6 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+TX.Error
+Re5e8e79b 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sx adc6066d
+Sy adc6066d
+TX.Error
+R9acc6cd8 2 00000000 1
+Sdisplay 4412203d
+Sevent 2a5451fc
+TX.Error
+Rdc9428c6 4 adc6066d 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Sspec ab374d58
+Sexact de5741ae
+TX.Error
+Rbc315a53 5 adc6066d 1
+Sparsestring ab374d58
+Sx 7b6709ea
+Sy 7b6709ea
+Swidth 6a7e4e98
+Sheight 6a7e4e98
+TX.Error
+R5f0fb560 10 00000000 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sgc a284868a
+Simage 831d2438
+Ssrc_x adc6066d
+Ssrc_y adc6066d
+Sdest_x adc6066d
+Sdest_y adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+TX.Error
+R30d3d6d3 6 adc6066d 1
+Sdisplay 4412203d
+Sd 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+Swidth_return 6a7e4e98
+Sheight_return 6a7e4e98
+TX.Error
+R77dd34c1 7 adc6066d 1
+Sdisplay 4412203d
+Sclass adc6066d
+Swhich 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+Swidth_return 6a7e4e98
+Sheight_return 6a7e4e98
+TX.Error
+Ra87b3143 6 adc6066d 1
+Sdisplay 4412203d
+Swhich 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+Swidth_return 6a7e4e98
+Sheight_return 6a7e4e98
+TX.Error
+R15128479 3 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Sdef de5741ae
+TX.Error
+R1ff8a198 4 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Sdefs de5741ae
+Sncolors adc6066d
+TX.Error
+Rf4e34ef7 5 adc6066d 1
+Sdisplay 4412203d
+Sname ab374d58
+Smajor_opcode 7b6709ea
+Sfirst_event 7b6709ea
+Sfirst_error 7b6709ea
+TX.Error
+R763ca627 2 00000000 1
+Sdisplay 4412203d
+Skeys 66a2a904
+TX.Error
+R0308aa86 9 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sroot 6a7e4e98
+Schild 6a7e4e98
+Sroot_x 7b6709ea
+Sroot_y 7b6709ea
+Swin_x 7b6709ea
+Swin_y 7b6709ea
+Smask 6a7e4e98
+TX.Error
+R497d0485 8 00000000 1
+Sdisplay 4412203d
+Sfont_ID 195c2a74
+Sstring ab374d58
+Snchars adc6066d
+Sdirection 7b6709ea
+Sfont_ascent 7b6709ea
+Sfont_descent 7b6709ea
+Soverall e44e4903
+TX.Error
+R67a1e722 8 00000000 1
+Sdisplay 4412203d
+Sfont_ID 195c2a74
+Sstring 0f61fd2b
+Snchars adc6066d
+Sdirection 7b6709ea
+Sfont_ascent 7b6709ea
+Sfont_descent 7b6709ea
+Soverall e44e4903
+TX.Error
+R6dc79a84 6 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sroot 6a7e4e98
+Sparent 6a7e4e98
+Schildren 9fb38d81
+Snchildren 6a7e4e98
+TX.Error
+R5d551b6c 8 adc6066d 1
+Sdisplay 4412203d
+Sd 195c2a74
+Sfilename ab374d58
+Swidth 6a7e4e98
+Sheight 6a7e4e98
+Sbitmap 6a7e4e98
+Sx 7b6709ea
+Sy 7b6709ea
+TX.Error
+R96b38541 6 00000000 1
+Sdisplay 4412203d
+Skeysym 195c2a74
+Slist 6a7e4e98
+Smod adc6066d
+Sstring bc5fd8f5
+Sbytes adc6066d
+TX.Error
+R99467e1d 4 00000000 1
+Sdisplay 4412203d
+Scursor 195c2a74
+Sforeground de5741ae
+Sbackground de5741ae
+TX.Error
+R3aaf51eb 1 00000000 1
+Sevent 1b78ec36
+TX.Error
+R3cbcfe21 5 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sparent 195c2a74
+Sx adc6066d
+Sy adc6066d
+TX.Error
+R7019bdca 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+TX.Error
+Rc6c3db0d 3 00000000 1
+Sdisplay 4412203d
+Swindows 6a7e4e98
+Snwindows adc6066d
+TX.Error
+R79d42454 2 00000000 1
+Sdisplay 4412203d
+Srotate adc6066d
+TX.Error
+Re1537c99 5 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sproperties 6a7e4e98
+Snum adc6066d
+Snpositions adc6066d
+TX.Error
+R91edc421 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sevent adc6066d
+TX.Error
+R5d19613b 5 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Spropagate adc6066d
+Sevent_mask adc6066d
+Sevent_send 2a5451fc
+TX.Error
+R930575e7 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sarc adc6066d
+TX.Error
+R476deb69 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sbackground 195c2a74
+TX.Error
+Rbfb943f1 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Spixmap 195c2a74
+TX.Error
+R18da7a30 4 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sclip_x adc6066d
+Sclip_y adc6066d
+TX.Error
+Rcda8dc76 7 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sclip_x adc6066d
+Sclip_y adc6066d
+Srectangles 816d7b1b
+Sn adc6066d
+Sordering adc6066d
+TX.Error
+R6fb0d74d 2 00000000 1
+Sdisplay 4412203d
+Sclose adc6066d
+TX.Error
+Rad36438d 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sargv 53a053a0
+Sargc adc6066d
+TX.Error
+R1f498771 5 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sdash_offset adc6066d
+Sdash_list ab374d58
+Sn adc6066d
+TX.Error
+Rc6d406e6 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sfill adc6066d
+TX.Error
+Rce5bc311 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sfont 195c2a74
+TX.Error
+Rcd1f941e 3 00000000 1
+Sdisplay 4412203d
+Sdirectories 4e2da564
+Sndirs adc6066d
+TX.Error
+Rd5dd2d24 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sforeground 195c2a74
+TX.Error
+Rca01fd79 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sfunction adc6066d
+TX.Error
+R7835d7aa 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sgraphics adc6066d
+TX.Error
+R13c0b06c 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sicon ab374d58
+TX.Error
+R1c75a8ff 4 00000000 1
+Sdisplay 4412203d
+Sfocus 195c2a74
+Srevert_to adc6066d
+Stime 195c2a74
+TX.Error
+R9a21b85f 6 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sline_width 195c2a74
+Sline_style adc6066d
+Scap_style adc6066d
+Sjoin_style adc6066d
+TX.Error
+Rca350cb2 2 adc6066d 1
+Sdisplay 4412203d
+Smodmap 9211327b
+TX.Error
+R5143d751 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Splane 195c2a74
+TX.Error
+R3b5bb5b3 5 00000000 1
+Sdisplay 4412203d
+Stimeout adc6066d
+Sinterval adc6066d
+Sprefer adc6066d
+Sallow adc6066d
+TX.Error
+R9a1f3e58 4 00000000 1
+Sdisplay 4412203d
+Sselection 195c2a74
+Sowner 195c2a74
+Stime 195c2a74
+TX.Error
+R1f165e70 6 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sforeground 195c2a74
+Sbackground 195c2a74
+Sfunction adc6066d
+Splane 195c2a74
+TX.Error
+Re176e4fb 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sstipple 195c2a74
+TX.Error
+Rcc4ec3b0 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Ssubwindow adc6066d
+TX.Error
+R535e64f9 4 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sts_x_origin adc6066d
+Sts_y_origin adc6066d
+TX.Error
+R4e8f03d9 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Stile 195c2a74
+TX.Error
+Rfcd90f99 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sbackground 195c2a74
+TX.Error
+R226f9ef0 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sborder 195c2a74
+TX.Error
+R6848473c 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swidth 195c2a74
+TX.Error
+R1c42b4ca 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scolormap 195c2a74
+TX.Error
+Rfd78296e 4 00000000 1
+Sdisplay 4412203d
+Sbytes ab374d58
+Snbytes adc6066d
+Sbuffer adc6066d
+TX.Error
+R4c56f0bd 3 00000000 1
+Sdisplay 4412203d
+Sbytes ab374d58
+Snbytes adc6066d
+TX.Error
+Rec14ce0a 3 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scolor de5741ae
+TX.Error
+R51eecb6b 4 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scolor de5741ae
+Sncolors adc6066d
+TX.Error
+R35eab0fc 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swindow ab374d58
+TX.Error
+R896bb5f2 5 00000000 1
+Sdisplay 4412203d
+Scolormap 195c2a74
+Scolor ab374d58
+Spixel 195c2a74
+Sflags adc6066d
+TX.Error
+R3adc6a93 2 00000000 1
+Sdisplay 4412203d
+Sdiscard adc6066d
+TX.Error
+R564beaec 7 00000000 0
+Sfont e3d9e755
+Sstring ab374d58
+Snchars adc6066d
+Sdirection_ret 7b6709ea
+Sfont_ascent_ret 7b6709ea
+Sfont_descent_ret 7b6709ea
+Soverall_ret e44e4903
+R128a43cd 7 00000000 0
+Sfont e3d9e755
+Sstring 0f61fd2b
+Snchars adc6066d
+Sdirection 7b6709ea
+Sfont_ascent 7b6709ea
+Sfont_descent 7b6709ea
+Soverall e44e4903
+R8f899b19 3 adc6066d 1
+Sfont e3d9e755
+Sstring ab374d58
+Scount adc6066d
+TX.Error
+Rf064aab1 3 adc6066d 1
+Sfont e3d9e755
+Sstring 0f61fd2b
+Scount adc6066d
+TX.Error
+R6fccf6d0 8 adc6066d 1
+Sdisplay 4412203d
+Ssrc_w 195c2a74
+Sdest_w 195c2a74
+Ssrc_x adc6066d
+Ssrc_y adc6066d
+Sdest_x_return 7b6709ea
+Sdest_y_return 7b6709ea
+Schild_return 6a7e4e98
+TX.Error
+Raee1f5bf 4 00000000 1
+Sdisplay 4412203d
+Sbutton 195c2a74
+Smodifiers 195c2a74
+Sgrab 195c2a74
+TX.Error
+R3bd815d0 4 00000000 1
+Sdisplay 4412203d
+Skeycode adc6066d
+Smodifiers 195c2a74
+Sgrab 195c2a74
+TX.Error
+Rbc9c39ad 2 00000000 1
+Sdisplay 4412203d
+Stime 195c2a74
+TX.Error
+Ra5e2730e 2 00000000 1
+Sdisplay 4412203d
+Sfont 195c2a74
+TX.Error
+Rd0d9a270 9 00000000 1
+Sdisplay 4412203d
+Ssrc_w 195c2a74
+Sdest_w 195c2a74
+Ssrc_x adc6066d
+Ssrc_y adc6066d
+Ssrc_width 195c2a74
+Ssrc_height 195c2a74
+Sdest_x adc6066d
+Sdest_y adc6066d
+TX.Error
+Re6197e08 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sevent_mask adc6066d
+Sevent_return 2a5451fc
+TX.Error
+R9a7d8219 7 adc6066d 1
+Sdisplay 4412203d
+Sfilename ab374d58
+Sbitmap 195c2a74
+Swidth 195c2a74
+Sheight 195c2a74
+Sx_hot adc6066d
+Sy_hot adc6066d
+TX.Error
+K2ec4477f 64 2
+Lx 0 32 adc6066d
+Ly 32 32 adc6066d
+K5b3e6aa8 576 16
+Lflags 0 32 adc6066d
+Lx 32 32 adc6066d
+Ly 64 32 adc6066d
+Lwidth 96 32 adc6066d
+Lheight 128 32 adc6066d
+Lmin_width 160 32 adc6066d
+Lmin_height 192 32 adc6066d
+Lmax_width 224 32 adc6066d
+Lmax_height 256 32 adc6066d
+Lwidth_inc 288 32 adc6066d
+Lheight_inc 320 32 adc6066d
+Lmin_aspect 352 64 2ec4477f
+Lmax_aspect 416 64 2ec4477f
+Lbase_width 480 32 adc6066d
+Lbase_height 512 32 adc6066d
+Lwin_gravity 544 32 adc6066d
+O53006765 5b3e6aa8
+K183859ec 288 9
+Lflags 0 32 adc6066d
+Linput 32 32 adc6066d
+Linitial_state 64 32 adc6066d
+Licon_pixmap 96 32 195c2a74
+Licon_window 128 32 195c2a74
+Licon_x 160 32 adc6066d
+Licon_y 192 32 adc6066d
+Licon_mask 224 32 195c2a74
+Lwindow_group 256 32 195c2a74
+O3edc6505 183859ec
+K1a415f2b 128 4
+Lvalue 0 32 bc5fd8f5
+Lencoding 32 32 195c2a74
+Lformat 64 32 adc6066d
+Lnitems 96 32 195c2a74
+Of2a2ec33 1a415f2b
+K4d5f5edf 192 6
+Lmin_width 0 32 adc6066d
+Lmin_height 32 32 adc6066d
+Lmax_width 64 32 adc6066d
+Lmax_height 96 32 adc6066d
+Lwidth_inc 128 32 adc6066d
+Lheight_inc 160 32 adc6066d
+Odcd7de3b 4d5f5edf
+O6e5edafe dcd7de3b
+K3ef299ed 64 2
+Lres_name 0 32 ab374d58
+Lres_class 32 32 ab374d58
+Oa783e2cb 3ef299ed
+Kadd1e22c 64 2
+Lcompose_ptr 0 32 ab374d58
+Lchars_matched 32 32 adc6066d
+O0052c249 add1e22c
+Kc0966d24 320 10
+Lvisual 0 32 dc59723d
+Lvisualid 32 32 195c2a74
+Lscreen 64 32 adc6066d
+Ldepth 96 32 adc6066d
+Lclass 128 32 adc6066d
+Lred_mask 160 32 195c2a74
+Lgreen_mask 192 32 195c2a74
+Lblue_mask 224 32 195c2a74
+Lcolormap_size 256 32 adc6066d
+Lbits_per_rgb 288 32 adc6066d
+Oca525c9b c0966d24
+Kb4d9319a 320 10
+Lcolormap 0 32 195c2a74
+Lred_max 32 32 195c2a74
+Lred_mult 64 32 195c2a74
+Lgreen_max 96 32 195c2a74
+Lgreen_mult 128 32 195c2a74
+Lblue_max 160 32 195c2a74
+Lblue_mult 192 32 195c2a74
+Lbase_pixel 224 32 195c2a74
+Lvisualid 256 32 195c2a74
+Lkillid 288 32 195c2a74
+Of9c687f4 b4d9319a
+O77ee9a04 f9c687f4
+R5abf257b 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scontext adc6066d
+Sdata 08402063
+TX.Error
+R341fbca5 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scontext adc6066d
+Sdata_return 08402063
+TX.Error
+Ra70f4543 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scontext adc6066d
+TX.Error
+Rd44a93d4 2 3edc6505 1
+Sdisplay 4412203d
+Sw 195c2a74
+TX.Error
+Radc6b75a 0 08402063 0
+Re01b7aad 3 08402063 0
+Spoints 07b37bbc
+Sn adc6066d
+Sfill_rule adc6066d
+R8a5ca9ee 4 ca525c9b 1
+Sdisplay 4412203d
+Svinfo_mask adc6066d
+Svinfo_template ca525c9b
+Snitems_return 7b6709ea
+TX.Error
+R7926985e 0 53006765 0
+Rf30b9ac1 0 f9c687f4 0
+Raebfed01 0 3edc6505 0
+R0d0733de 0 a783e2cb 0
+Reabbda3b 0 dcd7de3b 0
+R38e1f503 5 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Shints_return 53006765
+Ssupplied_return 7b6709ea
+Sproperty 195c2a74
+TX.Error
+Rcf9057ea 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Shints_return 53006765
+Ssupplied_return 7b6709ea
+TX.Error
+Rbf383e97 5 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sstdcmap_return 77ee9a04
+Scount_return 7b6709ea
+Sproperty 195c2a74
+TX.Error
+Raec8e6b0 4 adc6066d 1
+Sdisplay 4412203d
+Swindow 195c2a74
+Stext_prop_return f2a2ec33
+Sproperty 195c2a74
+TX.Error
+Rb5af3e56 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Stext_prop_return f2a2ec33
+TX.Error
+Rb7f545cc 9 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swindow_name f2a2ec33
+Sicon_name f2a2ec33
+Sargv 53a053a0
+Sargc adc6066d
+Snormal_hints 53006765
+Swm_hints 3edc6505
+Sclass_hints a783e2cb
+TX.Error
+R1758ea4e 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Shints 53006765
+Sproperty 195c2a74
+TX.Error
+Rd05683ba 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Shints 53006765
+TX.Error
+R305fb7f6 5 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sstdcmaps f9c687f4
+Scount adc6066d
+Sproperty 195c2a74
+TX.Error
+R2c16d065 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Stext_prop f2a2ec33
+Sproperty 195c2a74
+TX.Error
+R1f24787e 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Stext_prop f2a2ec33
+TX.Error
+R5ddc9ca3 3 adc6066d 1
+Slist 4e2da564
+Scount adc6066d
+Stext_prop_return f2a2ec33
+TX.Error
+Rd5da0ee1 3 adc6066d 1
+Stext_prop f2a2ec33
+Slist_return e56c4c16
+Scount_return 7b6709ea
+TX.Error
+Reea3ebb1 2 00000000 0
+Sr 08402063
+Srect_return 816d7b1b
+R87fa5ff0 1 00000000 0
+Sr 08402063
+R2915ebe8 2 00000000 0
+Sr1 08402063
+Sr2 08402063
+Rf3faa078 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sclass_hints_return a783e2cb
+TX.Error
+R373a69bd 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Ssize_list_return 6e5edafe
+Scount_return 7b6709ea
+TX.Error
+R5a35efbd 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Shints_return 53006765
+TX.Error
+Red6d3697 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Shints_return 53006765
+Sproperty 195c2a74
+TX.Error
+R40beba95 4 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scolormap_return f9c687f4
+Sproperty 195c2a74
+TX.Error
+Rf22dd4e0 3 adc6066d 1
+Sdisplay 4412203d
+Sw 195c2a74
+Szhints_return 53006765
+TX.Error
+Red81bbdc 3 00000000 0
+Ssra 08402063
+Ssrb 08402063
+Sdr_return 08402063
+R45033706 5 adc6066d 0
+Sevent_struct 6dddcc27
+Sbuffer_return ab374d58
+Sbytes_buffer adc6066d
+Skeysym_return 6a7e4e98
+Sstatus_in_out 0052c249
+Rdedade4a 5 adc6066d 0
+Sdisplay 4412203d
+Sscreen adc6066d
+Sdepth adc6066d
+Sclass adc6066d
+Svinfo_return ca525c9b
+R8a429af9 3 00000000 0
+Sr 08402063
+Sdx adc6066d
+Sdy adc6066d
+R3def56d4 3 adc6066d 1
+Sr 08402063
+Sx adc6066d
+Sy adc6066d
+TX.Error
+Rb9fb7f7e 5 adc6066d 0
+Sr 08402063
+Sx adc6066d
+Sy adc6066d
+Swidth 195c2a74
+Sheight 195c2a74
+R8333f0f6 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Sclass_hints a783e2cb
+TX.Error
+Red8744b7 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Ssize_list dcd7de3b
+Scount adc6066d
+TX.Error
+Rcf58b25b 8 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swindow_name ab374d58
+Sicon_name ab374d58
+Sicon_pixmap 195c2a74
+Sargv 53a053a0
+Sargc adc6066d
+Shints 53006765
+TX.Error
+Rc83138ec 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Swm_hints 3edc6505
+TX.Error
+Rd38b817b 3 00000000 1
+Sdisplay 4412203d
+Sgc a284868a
+Sr 08402063
+TX.Error
+Rd225e247 4 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Scolormap f9c687f4
+Sproperty 195c2a74
+TX.Error
+R9fa90878 3 00000000 1
+Sdisplay 4412203d
+Sw 195c2a74
+Szhints 53006765
+TX.Error
+R1d7f96c3 3 00000000 0
+Srectangle 816d7b1b
+Ssrc_region 08402063
+Sdest_region_return 08402063
+Rbdd66502 11 adc6066d 1
+Sdisplay 4412203d
+Sscreen_number adc6066d
+Suser_geometry ab374d58
+Sdefault_geometry ab374d58
+Sborder_width 195c2a74
+Shints 53006765
+Sx_return 7b6709ea
+Sy_return 7b6709ea
+Swidth_return 7b6709ea
+Sheight_return 7b6709ea
+Sgravity_return 7b6709ea
+TX.Error
+DX
+CXMachine
+CWord
+CCtypes
+CRTHooks
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+Rc52a772e 2 195c2a74 0
+Sx 195c2a74
+Sn 195c2a74
+Eadc6066d X.Int
+E7300e1e8 X.Short
+Eadc6066d X.Long
+E66a2a904 X.Char
+E53a053a0 X.Argv
+Eadc6066d X.Enumeration
+E195c2a74 X.XID
+E195c2a74 X.Window
+E6a7e4e98 X.WindowStar
+E9fb38d81 X.WindowStarStar
+E195c2a74 X.Drawable
+E195c2a74 X.Font
+E195c2a74 X.Pixmap
+E6a7e4e98 X.PixmapStar
+E195c2a74 X.Cursor
+E195c2a74 X.Colormap
+E6a7e4e98 X.ColormapStar
+E195c2a74 X.GContext
+E195c2a74 X.KeySym
+E6a7e4e98 X.KeySymStar
+E195c2a74 X.Mask
+E195c2a74 X.Atom
+E6a7e4e98 X.AtomStar
+E9fb38d81 X.AtomStarStar
+E195c2a74 X.VisualID
+E195c2a74 X.Time
+E6a7e4e98 X.TimeStar
+E0b5b30aa X.KeyCode
+Ebc5fd8f5 X.KeyCodeStar
+E7264e4cb X.KeyCodeStarStar
+Eff82092f X.RetIntProc
+Ecac8a5a1 X.Retchar_starProc
+Eadc6066d X.Bool
+E7b6709ea X.BoolStar
+Eadc6066d X.Status
+Ec0274d43 X.XExtData
+Ec0274d40 X.XExtDataStar
+E0431362d X.XExtDataStarStar
+E7be824ba X.XExtCodes
+E827f5143 X.XExtCodesStar
+Ed34fcf64 X.XExtension
+Ed34fcf67 X.XExtensionStar
+E72461b87 X.XPixmapFormatValues
+E00cede3a X.XPixmapFormatValuesStar
+E56d7e3fa X.XGCValues
+E1383d12d X.XGCValuesStar
+Ea284868a X.GC
+Edd8c7e9a X.Visual
+Edc59723d X.VisualStar
+E7078e70c X.Depth
+E8d756235 X.DepthStar
+E4412203c X.Screen
+E4412203f X.ScreenStar
+E445bf995 X.ScreenFormat
+Edb4f972e X.ScreenFormatStar
+Ebcfaa6da X.XSetWindowAttributes
+Efb4a95ec X.XWindowAttributes
+E02e0b7b6 X.XSetWindowAttributesStar
+Ef7217ec4 X.XWindowAttributesStar
+E5b7f0b0d X.XHostAddress
+E0b7eaa95 X.XHostAddressStar
+E831d243b X.CreateImageProc
+E831d243f X.DestroyImageProc
+E831d243c X.GetPixelProc
+E831d243d X.PutPixelProc
+E831d2432 X.SubImageProc
+E831d243f X.AddPixelProc
+E831d2439 X.XImage
+E831d2438 X.XImageStar
+E77609a3c X.XWindowChanges
+Ea633ff4f X.XWindowChangesStar
+E9fce2592 X.XColor
+Ede5741ae X.XColorStar
+Ed6c13bf4 X.XSegment
+E10b1215d X.XSegmentStar
+Eed70d055 X.XPoint
+E07b37bbc X.XPoint_star
+Ed1e7a7f4 X.XRectangle
+E816d7b1b X.XRectangleStar
+E90db5f1f X.XArc
+Eca02efec X.XArcStar
+E88adebe8 X.XKeyboardControl
+Ee0f79691 X.XKeyboardControlStar
+E24cf005f X.XKeyboardState
+E8a795c7e X.XKeyboardStateStar
+Eed83106c X.XTimeCoord
+Ecb9b5f6b X.XTimeCoordStar
+E9b763004 X.XModifierKeymap
+E9211327b X.XModifierKeymapStar
+Eb6171ec4 X.DisplayAtoms
+Eb2d2c348 X.DisplayAtomsStar
+E4412203a X.Display
+E4412203d X.DisplayStar
+Eecbec703 X.XKeyEvent
+E6dddcc27 X.XKeyEventStar
+Eecbec703 X.XKeyPressedEvent
+E6dddcc27 X.XKeyPressedEventStar
+Eecbec703 X.XKeyReleasedEvent
+E6dddcc27 X.XKeyReleasedEventStar
+E955124a8 X.XButtonEvent
+E9fae6fe4 X.XButtonEventStar
+E955124a8 X.XButtonPressedEvent
+E9fae6fe4 X.XButtonPressedEventStar
+E955124a8 X.XButtonReleasedEvent
+E9fae6fe4 X.XButtonReleasedEventStar
+E58274111 X.XMotionEvent
+Eaff96cfc X.XMotionEventStar
+E58274111 X.XPointerMovedEvent
+Eaff96cfc X.XPointerMovedEventStar
+E5d9ad53b X.XCrossingEvent
+E41c60141 X.XCrossingEventStar
+E5d9ad53b X.XEnterWindowEvent
+E41c60141 X.XEnterWindowEventStar
+E5d9ad53b X.XLeaveWindowEvent
+E41c60141 X.XLeaveWindowEventStar
+E74136df1 X.XFocusChangeEvent
+E6698117c X.XFocusChangeEventStar
+E74136df1 X.XFocusInEvent
+E6698117c X.XFocusInEventStar
+E74136df1 X.XFocusOutEvent
+E6698117c X.XFocusOutEventStar
+Ec908039e X.XKeymapEvent
+E308d0372 X.XKeymapEventStar
+Eb32ffa12 X.XExposeEvent
+Ed42dcd77 X.XExposeEventStar
+Ef86eea8a X.XGraphicsExposeEvent
+E61da9097 X.XGraphicsExposeEventStar
+Eb8525e96 X.XNoExposeEvent
+E5ebcbc94 X.XNoExposeEventStar
+Ec1793f64 X.XVisibilityEvent
+Ecfd454fb X.XVisibilityEventStar
+E9ddd1716 X.XCreateWindowEvent
+Ed0bc00cd X.XCreateWindowEventStar
+Ec13655f4 X.XDestroyWindowEvent
+E169292fe X.XDestroyWindowEventStar
+Efdb25589 X.XUnmapEvent
+E105d0b7a X.XUnmapEventStar
+E7c25da62 X.XMapEvent
+E8a9c2ef9 X.XMapEventStar
+E14ab3df6 X.XMapRequestEvent
+E203d5ad0 X.XMapRequestEventStar
+E46905d00 X.XReparentEvent
+E7dff6c5e X.XReparentEventStar
+Ec999bed6 X.XConfigureEvent
+Efdfdf439 X.XConfigureEventStar
+E6f345deb X.XGravityEvent
+Ec0115f30 X.XGravityEventStar
+Ec4a41376 X.XResizeRequestEvent
+E6b1f047e X.XResizeRequestEventStar
+Eec7cca22 X.XConfigureRequestEvent
+E38d33fff X.XConfigureRequestEventStar
+Ecc82691b X.XCirculateEvent
+E061c3034 X.XCirculateEventStar
+E5bcf4118 X.XCirculateRequestEvent
+E7df2245d X.XCirculateRequestEventStar
+Ed7e64add X.XPropertyEvent
+E1ecba4be X.XPropertyEventStar
+E4e3f92b7 X.XSelectionClearEvent
+E3aad9058 X.XSelectionClearEventStar
+E94a840e7 X.XSelectionRequestEvent
+Efd72498a X.XSelectionRequestEventStar
+Ec3e981cd X.XSelectionEvent
+E8f704b31 X.XSelectionEventStar
+Ea8433306 X.XColormapEvent
+Edcbdabcb X.XColormapEventStar
+Ed9087751 X.XClientMessageEvent
+Ed9087751 X.XClientMessageEvent_b
+E94dcbc01 X.XClientMessageEvent_s
+E0dc162fe X.XClientMessageEvent_l
+E4624be12 X.XClientMessageEventStar
+E4624be12 X.XClientMessageEvent_b_star
+Ef5a07648 X.XClientMessageEvent_s_star
+Ebd6eb28f X.XClientMessageEvent_l_star
+Eb06bc312 X.XMappingEvent
+E1b78ec36 X.XMappingEventStar
+E729252b0 X.XErrorEvent
+Ef4d390af X.XErrorEventStar
+Edb9d6f33 X.XAnyEvent
+E77043e51 X.XAnyEventStar
+Ebc776926 X.XEvent
+E2a5451fc X.XEventStar
+E263dba23 X.XQEvent
+E263dba20 X.XQEventStar
+E43a02af5 X.XCharStruct
+Ee44e4903 X.XCharStructStar
+E4cbb849f X.XFontProp
+E0dbd5645 X.XFontPropStar
+E3649e27d X.XFontStruct
+Ee3d9e755 X.XFontStructStar
+E65fdcbbb X.XFontStructStarStar
+E3f6bfa37 X.XTextItem
+Ea0d05532 X.XChar2b
+E24acd562 X.XTextItem16
+Ed9c2c9d3 X.XTextItemStar
+E0f61fd2b X.XChar2bStar
+E822a9e7c X.XTextItem16Star
+E08402063 X.XEDataObject
+E4412203b X.XSynchronize
+E98283b0b X.XSetLocalProc
+Ee7ec1ea3 X.XSetAfterFunction
+E6805c48a X.XErrorHandler
+Ef5bf9c04 X.XIOErrorHandler
+Ecc2243c8 X.XIfEventProc
+E5b3e6aa8 X.XSizeHints
+E53006765 X.XSizeHintsStar
+E183859ec X.XWMHints
+E3edc6505 X.XWMHintsStar
+E1a415f2b X.XTextProperty
+Ef2a2ec33 X.XTextPropertyStar
+E4d5f5edf X.XIconSize
+Edcd7de3b X.XIconSizeStar
+E6e5edafe X.XIconSizeStarStar
+E3ef299ed X.XClassHint
+Ea783e2cb X.XClassHint_star
+Eadd1e22c X.XComposeStatus
+E0052c249 X.XComposeStatusStar
+E08402063 X.Region
+Ec0966d24 X.XVisualInfo
+Eca525c9b X.XVisualInfoStar
+Eb4d9319a X.XStandardColormap
+Ef9c687f4 X.XStandardColormapStar
+E77ee9a04 X.XStandardColormapStarStar
+Eadc6066d X.XContext
+@XMachine.i3
+BXMachine
+DXMachine
+CCtypes
+CRTHooks
+E195c2a74 XMachine.XID
+E195c2a74 XMachine.KeySym
+E195c2a74 XMachine.Time
+Ea4b285de XMachine.Dimension

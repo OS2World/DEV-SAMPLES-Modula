@@ -1,0 +1,11 @@
+
+import (libm3)
+import (X11R4)
+import (tcp)
+import (ui)
+
+%m3_option ("-v")
+
+implementation (HelloUi)
+program (HelloUi)
+

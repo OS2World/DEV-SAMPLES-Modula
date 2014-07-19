@@ -1,0 +1,1260 @@
+Fisheye.m3 543
+SortedIndexTable.m3 188
+SortedHashTable.m3 63
+PrintUtil.m3 75
+UnFmt.m3 93
+RealRect.m3 398
+RealPoint.m3 96
+RealInterval.m3 121
+ColorTools.m3 83
+GraphVBT.m3 6625
+GraphData.m3 334
+CreatePixmap.m3 736
+FisheyeBundle.m3 330
+SortedIndexTable.i3 638
+SortedHashTable.i3 415
+PrintUtil.i3 336
+UnFmt.i3 74
+ColorTools.i3 159
+GraphVBT.i3 3228
+GraphData.i3 986
+RealRect.i3 2740
+RealInterval.i3 1574
+RealPoint.i3 1232
+CreatePixmap.i3 289
+FisheyeBundle.i3 88
+$ 0
+@Fisheye.m3
+AFisheye
+Ra64ba376 4 00000000 0
+Sfv 069d6b0b
+Sevent 50f86574
+Scl 1c1c45e6
+Stime 195c2a74
+R9cb3893a 4 48e16572 0
+Sfv 069d6b0b
+Sevent 50f86574
+Smin 48e16572
+Smax 48e16572
+Raceccaa0 1 00000000 0
+Sfv 069d6b0b
+Redb1a092 6 00000000 0
+Sfv 069d6b0b
+Sproc 00f6c680
+Sw1 50f86574
+Sw2 50f86574
+Sw3 50f86574
+Sw4 50f86574
+F263a9a52 8a2831d7 50f86574 32
+DMain
+CXTrestle
+CWr
+CVBT
+CTrestleComm
+CTrestle
+CThread
+CText
+CStdio
+CScan
+CRsrc
+CRd
+CProcess
+COSError
+CLex
+CGraphVBT
+CGraphData
+CFormsVBT
+CFont
+CFmt
+CFloatMode
+CFileRd
+CFisheyeBundle
+CRTHooks
+@SortedIndexTable.m3
+ASortedIndexTable
+R004676f6 3 1e59237d 0
+SfromSortedHashTable 6bf50963
+StoSortedIndexTable bfc19e81
+Sn 195c2a74
+DSortedIndexTable
+CPrintUtil
+CSortedHashTable
+CRTHooks
+@SortedHashTable.m3
+ASortedHashTable
+DSortedHashTable
+CRTHooks
+@PrintUtil.m3
+APrintUtil
+DPrintUtil
+CWr
+CThread
+CText
+CStdio
+CFmt
+CRTHooks
+@UnFmt.m3
+AUnFmt
+R77a00551 2 48e16572 0
+Sbase 48e16572
+Spower 195c2a74
+DUnFmt
+CText
+CRTHooks
+@RealRect.m3
+ARealRect
+Q510352d5 aefcad2a
+Rbecf379e 2 e7c9cc14 0
+Ssize 97e237e2
+Svalue 510352d5
+R7adeaf3e 2 dd72ffb6 0
+Ssize 97e237e2
+Svalue 510352d5
+DRealRect
+CRect
+CRealInterval
+CAxis
+CRealPoint
+CInterval
+CRTHooks
+Q51bb1fa1 ae44e05e
+Qdefda81a 210257e5
+Q1ea8ee83 e157117c
+Q8e4c7e15 71b381ea
+E5a8fde47 RealRect.RefT
+E6034ede5 RealRect.PtrT
+Ee7c9cc14 RealRect.RefArrayT
+Edd72ffb6 RealRect.PtrArrayT
+@RealPoint.m3
+ARealPoint
+DRealPoint
+CPoint
+CAxis
+CRTHooks
+Qdefda81a 210257e5
+Q8edf06bb 7120f944
+@RealInterval.m3
+ARealInterval
+DRealInterval
+CInterval
+CRTHooks
+Q1ea8ee83 e157117c
+Q4e8a4022 b175bfdd
+Qcad7c076 35283f89
+@ColorTools.m3
+AColorTools
+DColorTools
+CPaintOp
+CColor
+CRTHooks
+Q865a5144 79a5aebb
+@GraphVBT.m3
+AGraphVBT
+Pd55f5c53 d55f5c54
+Kf0c8e2fe 256 5
+Lwhere 0 32 48e16572
+Lcolor 32 16 5e2971a9
+Lp 64 64 7120f944
+Lq 128 64 7120f944
+Lr 192 64 7120f944
+G61f11ab4 f0c8e2fe 64
+Pb167f979 61f11ab4
+Kfb85c9da 192 6
+Lcolor 0 16 5e2971a9
+Lthickness 32 32 97e237e2
+Lfthickness 64 32 97e237e2
+Llabel 96 32 50f86574
+LlabelFont 128 32 11156a4f
+LflabelFont 160 32 11156a4f
+P5fe7753b fb85c9da
+Fd34e618e 0b127b0f 5fe7753b 64
+Kd55f5c52 416 13
+Lfrom 0 32 d55f5c53
+LalterEgo 32 32 d55f5c51
+Lprimary 64 8 1e59237d
+Lcolor 80 16 5e2971a9
+Lthickness 96 32 97e237e2
+Lfthickness 128 32 97e237e2
+LsegPoints 160 32 4e9ae546
+LfsegPoints 192 32 4e9ae546
+Larrows 224 32 b167f979
+LarrowCount 256 32 97e237e2
+Langle 288 32 48e16572
+Ldivided 320 8 1e59237d
+Lbilinks 352 64 d34e618e
+Pd55f5c51 d55f5c52
+Fd55f5c55 2ca4581d d55f5c51 352
+Kd55f5c54 896 19
+Lpos 0 64 210257e5
+Lfpos 64 64 210257e5
+Lradius 128 32 48e16572
+Lapi 160 32 48e16572
+LfVW 192 32 48e16572
+Ldist 224 32 48e16572
+Llabel 256 32 50f86574
+Llink 288 352 d55f5c55
+Lcolor 640 16 5e2971a9
+Lshape 656 8 2ca4581d
+Lstyle 664 8 260cdf41
+Lsize 672 32 48e16572
+LlabelStyle 704 8 c8dfd79f
+LlabelColor 720 16 5e2971a9
+LlabelFont 736 32 11156a4f
+LflabelFont 768 32 11156a4f
+LlabelShift 800 32 195c2a74
+LsizeIndex 832 32 195c2a74
+LfsizeIndex 864 32 195c2a74
+Kb21f5e2f 32 1
+Ltint 0 32 79a5aebb
+G3ca6c336 48e16572 64
+Gf11595bd 3ca6c336 96
+Pd2d600b2 f11595bd
+Gd539c72a d55f5c53 64
+P9e0d4696 d539c72a
+G47ab5a97 b21f5e2f 64
+P17ca05db 47ab5a97
+Vb06c8a93 3f4e1f24 60 0 4 1728 GraphVBT_^%#%^__0001M
+Xrepaint GraphVBT.Repaint
+Xreshape GraphVBT.Reshape
+Xposition GraphVBT.Position
+Xmouse GraphVBT.Mouse
+Loffscreen 0 32 3f4e1f24
+Ldist 32 32 d2d600b2
+LmaxNodes 64 32 97e237e2
+Ltable 96 32 9e0d4696
+Lncolors 128 32 195c2a74
+Lcolors 160 32 17ca05db
+Lnorth 192 32 48e16572
+Lsouth 224 32 48e16572
+Least 256 32 48e16572
+Lwest 288 32 48e16572
+Lsquare 320 8 1e59237d
+LmarginSize 352 32 48e16572
+Lbackground 384 32 79a5aebb
+Lforeground 416 32 79a5aebb
+Lfont 448 32 11156a4f
+LborderMin 480 32 97e237e2
+LnodeColor 512 16 5e2971a9
+LnodeInteriorColor 528 16 5e2971a9
+LnodeShape 544 8 2ca4581d
+LnodeStyle 552 8 260cdf41
+LnodeSize 576 32 48e16572
+LnodeLabelStyle 608 8 c8dfd79f
+LnodeLabelColor 624 16 5e2971a9
+LnodeLabelFont 640 32 11156a4f
+LnodeLabelShift 672 32 195c2a74
+LlinkColor 704 16 5e2971a9
+LlinkThickness 736 32 97e237e2
+LlinkLabelFont 768 32 11156a4f
+LviewVisible 800 8 1e59237d
+LneedRedraw 808 8 1e59237d
+LfavoriteSize 832 32 48e16572
+LarrowSize 864 32 48e16572
+LtrustCaches 896 8 1e59237d
+Lscalex 928 32 48e16572
+Lscaley 960 32 48e16572
+Ltransx 992 32 195c2a74
+Ltransy 1024 32 195c2a74
+LnodeCount 1056 32 97e237e2
+LedgeCount 1088 32 97e237e2
+Lfisheye 1120 8 1e59237d
+LfisheyeType 1128 8 7dcd568d
+LfisheyeMapType 1136 8 61a6c33f
+LsemanticColor 1144 8 1e59237d
+LnodePositionFixed 1152 8 1e59237d
+LcageSize 1184 32 195c2a74
+LcurrentFocusNode 1216 32 195c2a74
+LfisheyeScreenFocus 1248 64 7120f944
+LfDistortion 1312 32 48e16572
+LfSizeFactor 1344 32 48e16572
+LfFocusDevice 1376 8 34577800
+LfisheyeOldFocus 1408 64 210257e5
+LfisheyeWorldFocus 1472 64 210257e5
+LfocusColor 1536 16 5e2971a9
+LfisheyeText 1552 8 1e59237d
+Lhighlight 1560 8 1e59237d
+LfisheyeVWThreshold 1568 32 48e16572
+LfisheyeSizeAPICoeff 1600 32 48e16572
+LfisheyeSizeAPIPower 1632 32 48e16572
+LhTable 1664 32 6bf50963
+LsTable 1696 32 bfc19e81
+Fae90c6ab 260cdf41 ae44e05e 256
+F6e5bf0fa 260cdf41 23e73f69 64
+K4a4faf36 352 3
+Lsize 0 32 97e237e2
+Lboxes 32 256 ae90c6ab
+Lpixmaps 288 64 6e5bf0fa
+G55edaa51 4a4faf36 64
+Pbaaae014 55edaa51
+F85b63248 2ca4581d baaae014 352
+Rfe045793 1 00000000 0
+Sv 7b965bb5
+Rba449a4d 6 00000000 1
+Sv 7b965bb5
+Sa 97e237e2
+Sb 97e237e2
+SaIndex 2ca4581d
+SbIndex 2ca4581d
+SsegmentPoints 4e9ae546
+TGraphVBT.Error
+Qc9b824cc 3647db33
+R3f381395 2 00000000 0
+Sv 7b965bb5
+Scd c9b824cc
+Q5984e95f a67b16a0
+R4d5c08b0 2 00000000 0
+Sv 7b965bb5
+Scd 5984e95f
+Qe2fc8692 1d03796d
+R78245e2b 2 00000000 0
+Sv 7b965bb5
+Scd e2fc8692
+Q2df25d5d d20da2a2
+Rbd1a86e0 2 00000000 0
+Sv 7b965bb5
+Sr 2df25d5d
+Q51bb1fa1 ae44e05e
+R9942750e 2 00000000 0
+Sv 7b965bb5
+Sclip 51bb1fa1
+Rd3c6a84b 3 00000000 0
+Sv 7b965bb5
+Snode d55f5c53
+StrustSize 1e59237d
+Ra135170a 4 00000000 0
+Sv 7b965bb5
+Slink d55f5c51
+SandEnds 1e59237d
+StrustCaches 1e59237d
+Ra6867b53 3 00000000 0
+Sv 7b965bb5
+Slink d55f5c51
+Serase 1e59237d
+Rfc7cddf4 3 00000000 0
+Sv 7b965bb5
+Snode d55f5c53
+Sp 7120f944
+R0d300410 3 00000000 0
+Sv 7b965bb5
+Sclip ae44e05e
+SwithText 1e59237d
+Rd8c56f4a 3 00000000 0
+Sv 7b965bb5
+Snode d55f5c53
+Sid 195c2a74
+R1b518028 2 00000000 0
+Sv 7b965bb5
+Snode d55f5c53
+Ra4bf0ebf 2 00000000 0
+Sv 7b965bb5
+Slink d55f5c51
+Q8edf06bb 7120f944
+Qb5b050c9 4a4faf36
+R090a7c36 5 00000000 0
+Sv 7b965bb5
+Sp 8edf06bb
+Ssh b5b050c9
+Sstyle 260cdf41
+Sdistance 195c2a74
+R02f20e0c 4 00000000 0
+Sv 7b965bb5
+Sp 8edf06bb
+Ssh b5b050c9
+Sstyle 260cdf41
+Raebeeece 5 00000000 0
+Sv 7b965bb5
+Srefpt 8edf06bb
+Sfont 11156a4f
+Stint 79a5aebb
+Stext 50f86574
+R7226a334 4 00000000 0
+Sv 7b965bb5
+Slink d55f5c51
+Sp1 8edf06bb
+Sp2 8edf06bb
+R3b131ed9 2 00000000 0
+Sv 7b965bb5
+Sdomain 51bb1fa1
+Rd6f11b02 2 00000000 0
+Svbt 7b965bb5
+Srp 210257e5
+R205973a5 2 00000000 0
+Svbt 7b965bb5
+Sp 7120f944
+R26926093 3 97e237e2 0
+Sv 7b965bb5
+Snode d55f5c53
+Sstyle 260cdf41
+R82011b2e 3 195c2a74 0
+Sv 7b965bb5
+SpixSize 195c2a74
+Sstyle 260cdf41
+N0e5e36aa 195c2a74 0 400 16
+F324c7496 0e5e36aa 1e59237d 3208
+Q8469a44a 7b965bb5
+Rc46d16ad 2 00000000 0
+Sv 8469a44a
+Ss 195c2a74
+Rb824241d 3 00000000 0
+Sv 8469a44a
+Su1 195c2a74
+Su2 195c2a74
+Qcdb38b69 324c7496
+R19c83897 2 195c2a74 0
+Sv 7b965bb5
+SQ cdb38b69
+R97d0278b 3 1e59237d 0
+Sv 7b965bb5
+Su1 195c2a74
+Su2 195c2a74
+R52a15d78 2 1e59237d 0
+Sv 7b965bb5
+SQ cdb38b69
+Rf351deca 2 00000000 0
+Sv 7b965bb5
+Sid 195c2a74
+R0fe369f2 3 48e16572 0
+Sv 7b965bb5
+Sx 48e16572
+SXmax 48e16572
+Rb4ac45b9 4 00000000 0
+Sv 7b965bb5
+Spoint 210257e5
+SXmax 48e16572
+SYmax 48e16572
+R2d932fd7 7 48e16572 0
+Sv 7b965bb5
+Snode d55f5c53
+Sdelta 210257e5
+Sfdelta 210257e5
+Sradius 48e16572
+SXmax 48e16572
+SYmax 48e16572
+DGraphVBT
+CCreatePixmap
+CSortedIndexTable
+CSortedHashTable
+CGraphData
+CMath
+CRegion
+CRealRect
+CRect
+CPath
+CRealPoint
+CPoint
+CScrnPixmap
+CPixmap
+CFont
+CPaintOp
+CColorTools
+CVBT
+CThread
+CText
+CWr
+CStdio
+CTrestleComm
+CTrestle
+CRTHooks
+Qdefda81a 210257e5
+Qe1a6dc82 1e59237d
+Qe6a3d58b 195c2a74
+Qb71e9a8d 48e16572
+Ed55f5c53 GraphVBT.Node
+Ed55f5c51 GraphVBT.Link
+Eb167f979 GraphVBT.ArrowRef
+E5fe7753b GraphVBT.BiLink
+Ed55f5c54 GraphVBT.NodeRec
+Ed55f5c52 GraphVBT.LinkRec
+Ef0c8e2fe GraphVBT.ArrowRec
+E61f11ab4 GraphVBT.Arrows
+Efb85c9da GraphVBT.BiLinkRec
+Eb21f5e2f GraphVBT.ColorRec
+E4a4faf36 GraphVBT.ShapeSizeRec
+Ebaaae014 GraphVBT.ShapeRef
+E324c7496 GraphVBT.SetOfNodes
+Z7b965bb5 b06c8a93
+Q2aa0a3ac d55f5c53
+Qca27f9dc 35d80623
+@GraphData.m3
+AGraphData
+Q39b6870f c64978f0
+Rb699963f 2 00000000 0
+Sto 39b6870f
+Sfrom 39b6870f
+Re0450958 1 4e9ae546 0
+Srd fa67ef2f
+R79ac7aa4 1 00000000 0
+Srd fa67ef2f
+Rcbbe9598 1 00000000 0
+Srd fa67ef2f
+DGraphData
+CUnFmt
+CRd
+CRealRect
+CText
+CThread
+CRTHooks
+Q510352d5 aefcad2a
+Qaf079a8b 50f86574
+Qca27f9dc 35d80623
+Qdefda81a 210257e5
+@CreatePixmap.m3
+ACreatePixmap
+Vc6d3f715 69dcd774 2 0 1 64
+Xapply CreatePixmap.CirclePixmapApply
+Lradius 0 32 48e16572
+LborderThickness 32 32 48e16572
+R6aeeb163 2 25cc4270 0
+Scl c6d3f715
+Sst 3b98b6b7
+R4fccb313 2 df441a5a 0
+Sr 48e16572
+SborderThickness 48e16572
+V33da5d10 69dcd774 3 0 1 96
+Xapply CreatePixmap.RectanglePixmapApply
+La 0 32 48e16572
+Lb 32 32 48e16572
+LborderThickness 64 32 48e16572
+Ra280f1ad 2 25cc4270 0
+Scl 33da5d10
+Sst 3b98b6b7
+R4eb2c699 3 df441a5a 0
+Sa 48e16572
+Sb 48e16572
+SborderThickness 48e16572
+DCreatePixmap
+CPoint
+CRect
+CTrestleComm
+CScreenType
+CScrnPixmap
+CPalette
+CPixmap
+CRTHooks
+Qdc18c096 23e73f69
+Q51bb1fa1 ae44e05e
+Ec6d3f715 CreatePixmap.CirclePixmapClosure
+E33da5d10 CreatePixmap.RectanglePixmapClosure
+@FisheyeBundle.m3
+AFisheyeBundle
+Vf42b56a9 6d1d59dd 0 0 1 0
+Xget FisheyeBundle.LookUp
+R97ee4290 2 50f86574 0
+Sself f42b56a9
+Selement 50f86574
+N2ca4581d 195c2a74 0 10 8
+F17f9e633 2ca4581d 50f86574 352
+R9694734d 1 50f86574 0
+Sn 195c2a74
+DFisheyeBundle
+CTextWr
+CWr
+CThread
+CText
+CBundleRep
+CBundle
+CRTHooks
+Ef42b56a9 FisheyeBundle.T
+@SortedIndexTable.i3
+BSortedIndexTable
+Ke3d86ff5 64 2
+Lkey 0 32 48e16572
+Ldata 32 32 195c2a74
+G06db9132 e3d86ff5 64
+P894f7f64 06db9132
+K3c56f8ec 64 2
+Lnumber 0 32 195c2a74
+Litems 32 32 894f7f64
+Pbfc19e81 3c56f8ec
+R7184a30c 1 bfc19e81 0
+Ssize 195c2a74
+R6780ef10 1 00000000 0
+Stable bfc19e81
+Reb1f6381 2 1e59237d 0
+Stable bfc19e81
+Sitem e3d86ff5
+R349e45cb 3 1e59237d 0
+SfromSortedIndexTable bfc19e81
+StoSortedIndexTable bfc19e81
+Sn 195c2a74
+R719dcbce 3 1e59237d 0
+SfromSortedHastTable 6bf50963
+StoSortedIndexTable bfc19e81
+Sn 195c2a74
+DSortedIndexTable
+CSortedHashTable
+CRTHooks
+Ee3d86ff5 SortedIndexTable.Item
+Ebfc19e81 SortedIndexTable.T
+@SortedHashTable.i3
+BSortedHashTable
+Pb213dc0e b213dc0d
+Kb213dc0d 96 3
+Lkey 0 32 48e16572
+Ldata 32 32 195c2a74
+Lnext 64 32 b213dc0e
+Gb7532385 b213dc0e 64
+P6bf50963 b7532385
+Rc7799377 1 6bf50963 0
+Ssize 195c2a74
+Rd17ddf6b 1 00000000 0
+Stable 6bf50963
+R436bbd61 3 1e59237d 0
+Stable 6bf50963
+Snew_key 48e16572
+Snew_data 195c2a74
+DSortedHashTable
+CRTHooks
+Eb213dc0d SortedHashTable.ItemNode
+E6bf50963 SortedHashTable.T
+@PrintUtil.i3
+BPrintUtil
+R3a653217 3 00000000 0
+Stext 50f86574
+Sx 48e16572
+Sy 48e16572
+R5ceb5c44 2 00000000 0
+Stext 50f86574
+Sr 48e16572
+Rf8b0e37e 3 00000000 0
+Stext 50f86574
+Si 195c2a74
+Sj 195c2a74
+R944d6cb2 2 00000000 0
+Stext 50f86574
+Si 195c2a74
+R7b78c34f 0 00000000 0
+Rbc334176 1 00000000 0
+Stext 50f86574
+DPrintUtil
+CText
+CRTHooks
+@UnFmt.i3
+BUnFmt
+R166116b8 1 48e16572 0
+St 50f86574
+DUnFmt
+CText
+CRTHooks
+@ColorTools.i3
+BColorTools
+R5d0ec610 6 00000000 0
+Sh 48e16572
+Ss 48e16572
+Sv 48e16572
+Smode 2888d94c
+Sgray 48e16572
+Sbw 0b949353
+DColorTools
+CPaintOp
+CRTHooks
+@GraphVBT.i3
+BGraphVBT
+Y7b965bb5 3f4e1f24
+H59a6b83a 6 8
+INoSuchNode
+INoSuchLink
+INoSuchPoint
+IInvalidColor
+ITooManySizes
+IShapeNotProvided
+H0b127b0f 2 8
+ITop
+IBottom
+H34577800 2 8
+IMouse
+IKeyboard
+Rd038bf39 0 7b965bb5 0
+H61a6c33f 2 8
+ICartesian
+IPolar
+H7dcd568d 2 8
+IGraphical
+ISemantic
+R60cbe7ef 2 00000000 0
+Sv 7b965bb5
+Sfocus 210257e5
+Rb6568ad2 1 00000000 0
+Sv 7b965bb5
+R36f15f2a 2 00000000 0
+Sv 7b965bb5
+Sdistortion 48e16572
+R83917e11 1 48e16572 0
+Sv 7b965bb5
+Raaff836c 2 00000000 0
+Sv 7b965bb5
+Sdevice 34577800
+R569d685d 1 34577800 0
+Sv 7b965bb5
+R4b374efc 1 195c2a74 0
+Sv 7b965bb5
+Rab1ee45e 2 00000000 0
+Sv 7b965bb5
+SsizeFactor 48e16572
+Qe1a6dc82 1e59237d
+R8867708d 2 00000000 0
+Sv 7b965bb5
+Sval e1a6dc82
+Rf7079306 1 1e59237d 0
+Sv 7b965bb5
+Qe6a3d58b 195c2a74
+R3457ad77 2 00000000 0
+Sv 7b965bb5
+Sval e6a3d58b
+Qb71e9a8d 48e16572
+Rfcf19d9a 2 00000000 0
+Sv 7b965bb5
+Sval b71e9a8d
+R3f2f449f 2 00000000 0
+Sv 7b965bb5
+Sshape 2ca4581d
+H260cdf41 2 8
+IFilled
+IBorder
+R5bfc3d53 2 00000000 0
+Sv 7b965bb5
+Sstyle 260cdf41
+R5ebce9a1 2 00000000 0
+Sv 7b965bb5
+Sfisheye_type 7dcd568d
+R606c6438 2 00000000 0
+Sv 7b965bb5
+Sfisheye_map_type 61a6c33f
+Raf5b58b1 2 00000000 0
+Sv 7b965bb5
+SuseColor 1e59237d
+N5e2971a9 195c2a74 -3 253 16
+R9a0c59ad 2 00000000 0
+Sv 7b965bb5
+Scolor 5e2971a9
+R659fcc54 2 00000000 0
+Sv 7b965bb5
+Sthickness 195c2a74
+R80fad11c 2 00000000 0
+Sv 7b965bb5
+Sm 48e16572
+R6d3ed216 6 00000000 0
+Sv 7b965bb5
+Sn 48e16572
+Sw 48e16572
+Ss 48e16572
+Se 48e16572
+Ssquare 1e59237d
+Rda23c961 5 00000000 0
+Sv 7b965bb5
+Sn b71e9a8d
+Sw b71e9a8d
+Ss b71e9a8d
+Se b71e9a8d
+R26ec74d7 2 00000000 0
+Sv 7b965bb5
+Srp 210257e5
+R32910a15 2 00000000 0
+Sv 7b965bb5
+Sp 7120f944
+R4d48248a 2 00000000 0
+Sv 7b965bb5
+Smax 97e237e2
+R5bcab770 2 00000000 0
+Sv 7b965bb5
+Stint 79a5aebb
+R0c45c12e 2 00000000 0
+Sv 7b965bb5
+Sfont 11156a4f
+N0d5b30aa 195c2a74 0 253 8
+R1749d906 2 00000000 0
+Sv 7b965bb5
+Sn 0d5b30aa
+R2330cca6 3 00000000 0
+Sv 7b965bb5
+Scolor 5e2971a9
+Stint 79a5aebb
+R6d84352f 1 5e2971a9 0
+Sname 50f86574
+Hc8dfd79f 4 8
+INoLabel
+ILeft
+ICenter
+IRight
+R6c69ac17 2 00000000 0
+Sshape 2ca4581d
+SnSizes 97e237e2
+Raf723edb 5 00000000 1
+Sshape 2ca4581d
+Ssize 97e237e2
+Sstyle 260cdf41
+Sbox ae44e05e
+Spixmap 23e73f69
+TGraphVBT.Error
+R635e6936 4 00000000 1
+Sshape 2ca4581d
+Ssize 97e237e2
+Sstyle 260cdf41
+Sbox ae44e05e
+TGraphVBT.Error
+R923d34de 6 00000000 1
+Sv 7b965bb5
+Sn 97e237e2
+Sx 48e16572
+Sy 48e16572
+Sapi 48e16572
+Slabel 50f86574
+TGraphVBT.Error
+R4ea4d989 6 00000000 1
+Sv 7b965bb5
+Sa 97e237e2
+Sb 97e237e2
+SaIndex 2ca4581d
+SbIndex 2ca4581d
+SsegPoints 4e9ae546
+TGraphVBT.Error
+R2e13b2d4 6 00000000 0
+Sv 7b965bb5
+Sg 959de447
+SallowSegmented 1e59237d
+SextraNodes 97e237e2
+ScomputeWC 1e59237d
+Smargin 48e16572
+R9e33a6dd 2 00000000 0
+Sv 7b965bb5
+Sforce 1e59237d
+DGraphVBT
+CFont
+CPixmap
+CPaintOp
+CText
+CRect
+CRealPoint
+CPoint
+CVBT
+CGraphData
+CRTHooks
+E7b965bb5 GraphVBT.T
+E97e237e2 GraphVBT.NodeIndex
+E2ca4581d GraphVBT.LinkIndex
+E4e9ae546 GraphVBT.PointArray
+E48e16572 GraphVBT.Coord
+E59a6b83a GraphVBT.ErrorKind
+E0b127b0f GraphVBT.LinkHalf
+E34577800 GraphVBT.FocusDevice
+E61a6c33f GraphVBT.FisheyeMapType
+E7dcd568d GraphVBT.FisheyeType
+E5e2971a9 GraphVBT.Color
+E0d5b30aa GraphVBT.ColorCount
+E260cdf41 GraphVBT.Style
+Ec8dfd79f GraphVBT.LabelStyle
+E2ca4581d GraphVBT.Shape
+@GraphData.i3
+BGraphData
+N2ca4581d 195c2a74 0 10 8
+K35d80623 128 5
+Ldest 0 32 97e237e2
+LdestEdge 32 8 2ca4581d
+Lpresent 40 8 1e59237d
+LsegPoints 64 32 4e9ae546
+Letc 96 32 1c1c45e6
+Fef9ab5a6 2ca4581d 35d80623 1408
+Kc64978f0 1600 7
+Lname 0 32 50f86574
+Lx 32 32 48e16572
+Ly 64 32 48e16572
+Lapi 96 32 48e16572
+Ledge 128 1408 ef9ab5a6
+Lpresent 1536 8 1e59237d
+Letc 1568 32 1c1c45e6
+Gd7685f8e c64978f0 64
+P959de447 d7685f8e
+Rd32a87b0 1 959de447 0
+Sg 959de447
+Re7392e8c 2 959de447 0
+Sg 959de447
+Ssize 97e237e2
+R66777c6f 1 97e237e2 0
+Sg 959de447
+Rdeeab8d1 1 00000000 0
+Sg 959de447
+R9776b1e0 3 1e59237d 0
+Sg 959de447
+Sa 97e237e2
+Sb 97e237e2
+R8e0fc892 1 4e9ae546 0
+Sin 4e9ae546
+Qaf079a8b 50f86574
+Rb94b9ced 1 50f86574 0
+Sline af079a8b
+Ref5ca5d1 1 959de447 0
+Srd fa67ef2f
+DGraphData
+CRd
+CRealRect
+CRealPoint
+CText
+CRTHooks
+E97e237e2 GraphData.Vertex
+E2ca4581d GraphData.EdgeIndex
+E4e9ae546 GraphData.PointArray
+E35d80623 GraphData.EdgeRecord
+Ec64978f0 GraphData.VertexRecord
+E959de447 GraphData.T
+@RealRect.i3
+BRealRect
+Kaefcad2a 128 4
+Lwest 0 32 48e16572
+Least 32 32 48e16572
+Lnorth 64 32 48e16572
+Lsouth 96 32 48e16572
+R11cc19dc 4 00000000 0
+Sw 48e16572
+Se 48e16572
+Sn 48e16572
+Ss 48e16572
+Q51bb1fa1 ae44e05e
+R7ff84a7e 1 00000000 0
+Sr 51bb1fa1
+Q510352d5 aefcad2a
+R4273d427 1 00000000 0
+Sr 510352d5
+Qdefda81a 210257e5
+Re0e1886e 1 00000000 0
+Sp defda81a
+R1b4ecd49 2 00000000 0
+Sp defda81a
+Sq defda81a
+R91af9219 3 00000000 0
+Sp defda81a
+Shor 48e16572
+Sver 48e16572
+R8ef891f6 2 00000000 0
+Shor 48e16572
+Sver 48e16572
+R793e6555 2 00000000 0
+Sr 510352d5
+Sp defda81a
+Q1ea8ee83 e157117c
+R3091cf1d 2 00000000 0
+Shor 1ea8ee83
+Sver 1ea8ee83
+R3972d1c4 3 00000000 0
+Saxis 9952f271
+Sn 1ea8ee83
+Sm 1ea8ee83
+R3806817b 1 00000000 0
+Sr 510352d5
+Rc71b2117 2 00000000 0
+Sv c58b426e
+Sr 510352d5
+R0dc175b8 1 48e16572 0
+Sr 510352d5
+Rb622aa3c 2 48e16572 0
+Sa 9952f271
+Sr 510352d5
+R1375071f 2 8f58f571 0
+Sr 510352d5
+Sp defda81a
+Rc4e0a126 2 c58b426e 0
+Sr 510352d5
+Sp defda81a
+R192c31ab 2 00000000 1
+Sr 510352d5
+Sp defda81a
+TRealRect.Error
+Ree0756f8 2 00000000 1
+Sr 510352d5
+Sp defda81a
+TRealRect.Error
+R7d6d4dbc 2 00000000 1
+Sr 510352d5
+Sh 48e16572
+TRealRect.Error
+Rdfb36754 2 00000000 1
+Sr 510352d5
+Sv 48e16572
+TRealRect.Error
+R70c0e7e2 3 00000000 1
+Sr 510352d5
+Sh 48e16572
+Sv 48e16572
+TRealRect.Error
+R655dc2c6 2 00000000 0
+Sr 510352d5
+Sfactor 48e16572
+R92c45d02 2 00000000 0
+Sr 510352d5
+Sn 48e16572
+Rf5b3dbe5 5 00000000 0
+Sr 510352d5
+Sdw 48e16572
+Sde 48e16572
+Sdn 48e16572
+Sds 48e16572
+Rdb5ce5f4 3 00000000 0
+Sr 510352d5
+Se 8f58f571
+Sdn 48e16572
+R9c981e44 3 00000000 0
+Sr 510352d5
+Sv c58b426e
+Sdp defda81a
+Rabe0cfbb 4 00000000 0
+Sr 510352d5
+Saxis 9952f271
+Slo 48e16572
+Shi 48e16572
+Rdc4cf52a 2 00000000 0
+Sr 510352d5
+Ss 510352d5
+Ra0dead1c 5 00000000 0
+Shv 9952f271
+Sr 510352d5
+Sn 48e16572
+Ss 510352d5
+St 510352d5
+F71b381ea 8e2831d7 aefcad2a 640
+Q8e4c7e15 71b381ea
+R080b27b0 5 00000000 0
+Sr 510352d5
+Sby 510352d5
+Sf 8e4c7e15
+Sdh 48e16572
+Sdv 48e16572
+Rf8987bbc 2 00000000 1
+Sp defda81a
+Sr 510352d5
+TRealRect.Error
+R6a368bad 2 1e59237d 0
+Sr 510352d5
+Ss 510352d5
+R795798af 1 1e59237d 0
+Sr 510352d5
+R084623b1 2 1e59237d 0
+Sp defda81a
+Sr 510352d5
+R8e150206 2 00000000 0
+Sr 510352d5
+Sp defda81a
+P5a8fde47 aefcad2a
+R21fa7b3c 1 5a8fde47 0
+Svalue 510352d5
+Gfe4a50a6 aefcad2a 64
+Pe7c9cc14 fe4a50a6
+Re509dd46 2 e7c9cc14 0
+Ssize 97e237e2
+Svalue 510352d5
+O6034ede5 aefcad2a
+Re5ebe39c 1 6034ede5 0
+Svalue 510352d5
+Odd72ffb6 fe4a50a6
+R211845e6 2 dd72ffb6 0
+Ssize 97e237e2
+Svalue 510352d5
+Rb1726ed3 2 195c2a74 0
+Sa 510352d5
+Sb 510352d5
+R0d42b329 2 1e59237d 0
+Sa 510352d5
+Sb 510352d5
+R6e715708 1 195c2a74 0
+Sa 510352d5
+DRealRect
+CRect
+CRealPoint
+CRealInterval
+CAxis
+CRTHooks
+Eaefcad2a RealRect.T
+E8f58f571 RealRect.Edge
+Ec58b426e RealRect.Vertex
+E71b381ea RealRect.Partition
+@RealInterval.i3
+BRealInterval
+Ke157117c 64 2
+Llo 0 32 48e16572
+Lhi 32 32 48e16572
+R14f834d7 2 00000000 0
+Slo 48e16572
+Shi 48e16572
+R3e0084f8 2 00000000 0
+Slo 48e16572
+Ss 48e16572
+R34a71c08 1 00000000 0
+Ss 48e16572
+Radfcf810 1 00000000 0
+Sa e157117c
+Q1ea8ee83 e157117c
+R350d31df 2 00000000 0
+Sa 1ea8ee83
+Sb 48e16572
+Radc504cf 1 48e16572 0
+Sa 1ea8ee83
+Rddc0c523 2 0d82b3e5 0
+Sa 1ea8ee83
+Sn 48e16572
+R885c2107 2 48e16572 0
+Sa 1ea8ee83
+Sn 48e16572
+Ra60b101e 2 00000000 0
+Sa 1ea8ee83
+Sn 48e16572
+Rd9cddaeb 3 00000000 0
+Sa 1ea8ee83
+Sdlo 48e16572
+Sdhi 48e16572
+Rd3cf272f 3 00000000 0
+Sx 0d82b3e5
+Sa 1ea8ee83
+Sdn 48e16572
+R263576b7 2 00000000 0
+Sa 1ea8ee83
+Sb 1ea8ee83
+R3b29ed72 4 00000000 0
+Sa 1ea8ee83
+Sn 48e16572
+Sb 1ea8ee83
+Sc 1ea8ee83
+F35283f89 882831d7 e157117c 192
+Qcad7c076 35283f89
+Rf314b173 4 00000000 0
+Sa 1ea8ee83
+Sby 1ea8ee83
+Sf cad7c076
+Sdn 48e16572
+R80765eba 2 48e16572 1
+Sn 48e16572
+Sa 1ea8ee83
+TRealInterval.Error
+R7cf4aab9 2 1e59237d 0
+Sa 1ea8ee83
+Sb 1ea8ee83
+Rd953e9d8 1 1e59237d 0
+Sa 1ea8ee83
+R15d9051f 2 1e59237d 0
+Sn 48e16572
+Sa 1ea8ee83
+Pb6347cce e157117c
+R3c15c05a 1 b6347cce 0
+Svalue 1ea8ee83
+G12f1f22f e157117c 64
+Pf1341458 12f1f22f
+Rb2dcb44d 2 f1341458 0
+Ssize 97e237e2
+Svalue 1ea8ee83
+O8c8f4f6c e157117c
+Rf80458fa 1 8c8f4f6c 0
+Svalue 1ea8ee83
+Ocb8f27fa 12f1f22f
+R76cd2ced 2 cb8f27fa 0
+Ssize 97e237e2
+Svalue 1ea8ee83
+Rc0c47743 2 195c2a74 0
+Sa 1ea8ee83
+Sb 1ea8ee83
+R31085f65 1 00000000 0
+Sa b175bfdd
+R65633422 1 195c2a74 0
+Sa 1ea8ee83
+DRealInterval
+CInterval
+CRTHooks
+Ee157117c RealInterval.T
+E0d82b3e5 RealInterval.Bound
+E35283f89 RealInterval.Partition
+@RealPoint.i3
+BRealPoint
+K210257e5 64 2
+Lh 0 32 48e16572
+Lv 32 32 48e16572
+Rb166ea58 2 00000000 0
+Sh 48e16572
+Sv 48e16572
+Raf6b4f7d 3 00000000 0
+Saxis 9952f271
+Sn 48e16572
+Sm 48e16572
+Ra550858e 1 00000000 0
+Sp 7120f944
+R39a422fb 1 00000000 0
+Sp 210257e5
+Qdefda81a 210257e5
+Rd9a25ed9 2 48e16572 0
+Sp defda81a
+Sq defda81a
+R17caef3d 1 00000000 0
+Sp defda81a
+Rec65aa1a 2 00000000 0
+Sp defda81a
+Sq defda81a
+R34e001e1 2 00000000 0
+Sp defda81a
+Sn 48e16572
+R37b6785e 3 00000000 0
+Sp defda81a
+Snum 48e16572
+Sden 48e16572
+R61a611e9 2 00000000 0
+Sp defda81a
+Sdp defda81a
+Ra35c3720 2 00000000 0
+Sp defda81a
+Sdh 48e16572
+R709e2dbe 2 00000000 0
+Sp defda81a
+Sdv 48e16572
+Ra962890a 3 00000000 0
+Sp defda81a
+Sdh 48e16572
+Sdv 48e16572
+Rad34b3ce 2 1e59237d 0
+Sp defda81a
+Sq defda81a
+Pada4b914 210257e5
+R65e701bd 1 ada4b914 0
+Svalue defda81a
+G096137f5 210257e5 64
+P4e9ae546 096137f5
+Rf058eb71 2 4e9ae546 0
+Ssize 97e237e2
+Svalue defda81a
+O971f8ab6 210257e5
+Ra1f6991d 1 971f8ab6 0
+Svalue defda81a
+O7421d6e4 096137f5
+R344973d1 2 7421d6e4 0
+Ssize 97e237e2
+Svalue defda81a
+Ra830d635 2 195c2a74 0
+Sa defda81a
+Sb defda81a
+R14000bcf 2 1e59237d 0
+Sa defda81a
+Sb defda81a
+R833f04db 1 195c2a74 0
+Sa defda81a
+DRealPoint
+CPoint
+CAxis
+CRTHooks
+E210257e5 RealPoint.T
+@CreatePixmap.i3
+BCreatePixmap
+R6268aea6 2 00000000 0
+Sradius 48e16572
+SborderThickness 48e16572
+R6ff83c27 1 00000000 0
+Sr 48e16572
+R8659b61e 3 00000000 0
+Sa 48e16572
+Sb 48e16572
+SborderThickness 48e16572
+R6c9c1b91 2 00000000 0
+Sa 48e16572
+Sb 48e16572
+DCreatePixmap
+CRect
+CPixmap
+CRTHooks
+@FisheyeBundle.i3
+BFisheyeBundle
+R04e57c9c 0 6d1d59dd 0
+DFisheyeBundle
+CBundle
+CRTHooks

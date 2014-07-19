@@ -1,0 +1,685 @@
+Solitaire.m3 3438
+TreeSeq.m3 753
+Tree.m3 30
+Solve2.m3 2413
+Solve.m3 2526
+TreeSeqRep.i3 300
+TreeSeq.i3 704
+Tree.i3 263
+Solve2.i3 222
+Solve.i3 1231
+$ 0
+@Solitaire.m3
+ASolitaire
+F4969c125 023e31f0 b7b2b916 128
+N892831d7 195c2a74 0 3 8
+F9beaa80d 892831d7 b7b2b916 128
+N832831d7 195c2a74 0 9 8
+F55957297 832831d7 b7b2b916 320
+Kea754fca 2432 10
+Ldeck 0 1664 f939646c
+Lpile 1664 128 4969c125
+Ltalon 1792 128 9beaa80d
+Llayout 1920 320 55957297
+Lconsec 2240 32 195c2a74
+Lwins 2272 32 195c2a74
+Llosses 2304 32 195c2a74
+LconsecWins 2336 32 195c2a74
+LconsecLosses 2368 32 195c2a74
+LneverWon 2400 8 1e59237d
+Pcbe4c0f8 ea754fca
+R8e8ba682 2 00000000 0
+Sparent 79cf0c2e
+Sstate cbe4c0f8
+V596abbfa 70ec67d7 0 0 1 0
+Xshape Solitaire.Shape
+R1f284c2e 3 00000000 0
+Sch 596abbfa
+Sax 9952f271
+Sn 97e237e2
+Q341b3f07 cbe4c0f8
+R4ae602e3 2 3b6c825d 0
+Sstate 341b3f07
+SfromStdin 1e59237d
+R64f73459 2 00000000 0
+Sv 3b6c825d
+Sstate cbe4c0f8
+Qc9b824cc 3647db33
+Rc775c560 2 00000000 0
+Sbutton eb91ac01
+Scd c9b824cc
+R9292ff1c 2 00000000 0
+Scd c9b824cc
+Swhich_solver 195c2a74
+V5ec38141 dc6728f7 2 0 1 32
+Xapply Solitaire.SolveIt
+LhowHard 0 8 882831d7
+Lsolver 8 8 8b2831d7
+R6fe4417e 1 1c1c45e6 0
+Sself 5ec38141
+Ra21bc527 1 00000000 0
+Scard b7b2b916
+R6e04d48d 2 00000000 0
+Sv 3b6c825d
+St 50f86574
+Vda56bd36 9784fd62 0 0 1 0
+Xshape Solitaire.ParaShape
+R542e44d1 3 00000000 0
+Sv da56bd36
+Sax 9952f271
+Sn 97e237e2
+Q62e61cd8 9d19e327
+Rebff646a 1 9784fd62 0
+St 62e61cd8
+R47f41eb7 1 00000000 0
+Sz 79cf0c2e
+R6b03f0b8 0 3b6c825d 0
+Vf20fe237 9f2bbc3d 0 0 1 0
+Xmouse Solitaire.HelpMouse
+Q8e67b2c1 71984d3e
+R2e3d4525 1 f20fe237 0
+Sa 8e67b2c1
+R2e264d41 2 00000000 0
+Sv f20fe237
+Scd c9b824cc
+R8cf8327a 2 00000000 0
+Sv eb91ac01
+Scd c9b824cc
+R6cc03889 2 3b6c825d 0
+Sv 3b6c825d
+Sop 79a5aebb
+R55427ba8 2 eb91ac01 0
+Sname 50f86574
+Sproc eb91ac03
+V339bf1b8 a3dd4856 2 0 3 64
+Xmisc Solitaire.KeyMisc
+Xmouse Solitaire.KeyMouse
+Xkey Solitaire.KeyKey
+LhasFocus 0 8 1e59237d
+Lmbutton 32 32 eb91ac01
+Q2122e423 dedd1bdc
+R50055c33 2 00000000 0
+Sv 339bf1b8
+Scd 2122e423
+Qe142114c 1ebdeeb3
+Rb56c8b11 2 00000000 0
+Sv 339bf1b8
+Scd e142114c
+R662c3a76 2 00000000 0
+Sv 339bf1b8
+Scd c9b824cc
+R99f9cb4b 2 339bf1b8 0
+Sv 3b6c825d
+Sb eb91ac01
+Rc1e3f567 2 00000000 0
+Sv 339bf1b8
+Stime 195c2a74
+R951bfeab 1 56e16863 0
+Srd fa67ef2f
+R81d6f845 1 2da0581d 0
+Srd fa67ef2f
+F06456af3 892831d7 50f86574 128
+F9abfde20 8b2831d7 50f86574 64
+Rb4ea78ba 4 70ec67d7 0
+S_self_ 70ec67d7
+Sop 79a5aebb
+Stxt 23e73f69
+SnwAlign 1e59237d
+Re28fb9ac 3 00000000 0
+S_self_ 9784fd62
+Sax 9952f271
+Sn 97e237e2
+Raae95682 8 9784fd62 0
+S_self_ 9784fd62
+Shv 9952f271
+Shgap 48e16572
+Svgap 48e16572
+Stxt 23e73f69
+Sop 79a5aebb
+SnwAlign 1e59237d
+SsaveBits 1e59237d
+F263a9a52 8a2831d7 50f86574 32
+N8f2831d7 195c2a74 0 5 8
+Fae657619 8f2831d7 50f86574 192
+N8c2831d7 195c2a74 0 6 8
+F8e1a86b8 8c2831d7 50f86574 224
+F629b28a1 8c2831d7 3b6c825d 224
+Rf38fef94 5 9f2bbc3d 0
+S_self_ 9f2bbc3d
+Sch 3b6c825d
+Ssize 48e16572
+Sop 79a5aebb
+Stxt 23e73f69
+R4eef181f 2 00000000 0
+S_self_ a3dd4856
+Scd e142114c
+Rb2d97426 2 a3dd4856 0
+S_self_ a3dd4856
+Sch 3b6c825d
+DMain
+CTime
+CProcess
+CKeyboardKey
+CZSplit
+CWr
+CVBT
+CTrestleComm
+CTrestle
+CThread
+CTextureVBT
+CTextVBT
+CText
+CTSplit
+CStdio
+CSplit
+CSolve2
+CSolve
+CRigidVBT
+CRd
+CPoint
+CParams
+CPaintOp
+CPackSplit
+CMouseSplit
+CMenuBtnVBT
+CLatin1Key
+CHVSplit
+CFont
+CFmt
+CFilter
+CCard
+CButtonVBT
+CBorderedVBT
+CAxis
+CAnchorBtnVBT
+CRTHooks
+Ecbe4c0f8 Solitaire.State
+E596abbfa Solitaire.MyBg
+E5ec38141 Solitaire.SolveClosure
+Eda56bd36 Solitaire.Para
+E9d19e327 Solitaire.AT
+Ef20fe237 Solitaire.HelpVBT
+E339bf1b8 Solitaire.KeyGrab
+Q484d46e9 b7b2b916
+Q04a8b044 fb574fbb
+Q6621aca3 99de535c
+@TreeSeq.m3
+ATreeSeq
+V5fc40025 6318e162 0 0 11 0 (Sequence Tree)
+Xinit TreeSeq.Init
+XfromArray TreeSeq.FromArray
+Xaddhi TreeSeq.Addhi
+Xaddlo TreeSeq.Addlo
+Xremhi TreeSeq.Remhi
+Xremlo TreeSeq.Remlo
+Xput TreeSeq.Put
+Xsize TreeSeq.Size
+Xgethi TreeSeq.Gethi
+Xgetlo TreeSeq.Getlo
+Xget TreeSeq.Get
+Re716edd1 2 6ac16e00 0
+Ss 6ac16e00
+SsizeHint 97e237e2
+Q582a764c a7d589b3
+Rda20fec1 2 6ac16e00 0
+Ss 6ac16e00
+Sa 582a764c
+Q582a764f a7d589b0
+Ra61a9f3c 2 00000000 0
+Ss 6ac16e00
+Sx 582a764f
+R854604d4 1 00000000 0
+Ss 6ac16e00
+R16926470 1 a7d589b0 0
+Ss 6ac16e00
+Rc4170ac3 3 00000000 0
+Ss 6ac16e00
+Si 97e237e2
+Sx 582a764f
+Rfd130d36 2 a7d589b0 0
+Ss 6ac16e00
+Si 97e237e2
+Rd578da2b 1 97e237e2 0
+Ss 6ac16e00
+DTreeSeq
+CRTHooks
+CTreeSeqRep
+CTreeSeq
+CTree
+Z6ac16e00 5fc40025
+@Tree.m3
+ATree
+DTree
+CRTHooks
+@Solve2.m3
+ASolve2
+H2d76231c 6 8
+ISuccess
+IFailure
+IAborted
+IGiveUp
+IExhausted
+ISolved
+F473b0eed 2d76231c 50f86574 192
+Fcf0ee7f3 2d76231c adbbb7ab 48
+N2ea0581d 195c2a74 0 52 8
+Fe54865b0 2ea0581d 2fa4581d 424
+F44e95633 2ea0581d 50f86574 1696
+F1f3df43e 2ea0581d 2ea0581d 424
+N2ba4581d 195c2a74 0 17 8
+Fe8f6c6d8 2ba4581d 34d55d56 144
+F696276be 34d55d56 50f86574 96
+F58881ca6 2ba4581d 2ea0581d 144
+Ka1124954 568 2
+Lhead 0 144 58881ca6
+Lnext 144 424 1f3df43e
+Q5eedb6ab a1124954
+Rd8cd42eb 1 97e237e2 0
+Slayout 5eedb6ab
+R9f721068 2 2ea0581d 0
+Sx 5eedb6ab
+Sloc 2ba4581d
+Qd45ba7e2 2ba4581d
+K53e32173 704 5
+Llayout 0 568 a1124954
+Lparent 576 32 53e32170
+Lchildren 608 32 53e32170
+Lsibling 640 32 53e32170
+Lhash 672 32 195c2a74
+P53e32170 53e32173
+Qac1cde8f 53e32170
+Racf4c98e 4 2d76231c 0
+Slayout 5eedb6ab
+Ssrc d45ba7e2
+Sdest d45ba7e2
+Sresult ac1cde8f
+Rbcddfe30 2 00000000 0
+Sx 5eedb6ab
+Sstart 2ba4581d
+Rbc32d025 1 00000000 0
+Slayout 5eedb6ab
+Rb78c4a54 1 00000000 0
+Sx 5eedb6ab
+R1594db72 2 00000000 0
+Sparent 53e32170
+Schild 53e32170
+V3e7963a3 6d96671d 0 0 2 0
+XkeyEqual Solve2.EqualProc
+XkeyHash Solve2.HashProc
+Rec8f3225 2 2d76231c 0
+Slayout 5eedb6ab
+Sresult ac1cde8f
+Qe3e3ba19 1c1c45e6
+R3e57580d 2 195c2a74 0
+Stbl 3e7963a3
+Skey e3e3ba19
+R97cf209a 3 1e59237d 0
+Stbl 3e7963a3
+Sa e3e3ba19
+Sb e3e3ba19
+Gf0d3b514 53e32170 64
+P8a90085f f0d3b514
+R030335d4 1 50f86574 0
+Slayout 5eedb6ab
+R9e925839 1 00000000 0
+Stree 53e32170
+R5e06ed0e 2 50f86574 0
+Sa 5eedb6ab
+Sb 5eedb6ab
+F010a9687 2ea0581d 2ba4581d 424
+Qd15fa7e2 2ea0581d
+R97243a4d 5 00000000 0
+Slayout1 5eedb6ab
+Slayout2 5eedb6ab
+Scard d15fa7e2
+Ssrc d45ba7e2
+Sdest d45ba7e2
+Qfef56978 010a9687
+Rb3120aea 2 00000000 0
+Slayout 5eedb6ab
+Sloc fef56978
+R5a678411 3 2d76231c 0
+Slayout 5eedb6ab
+Sloc d45ba7e2
+Sresult ac1cde8f
+Rab89d481 1 2d76231c 0
+Stree 53e32170
+R66a03351 1 2d76231c 0
+Squeue 16ba8299
+Q3abf2a98 c540d567
+Q52444854 adbbb7ab
+Rb7a58b85 7 50f86574 0
+Sinitial 3abf2a98
+SwhyStop 52444854
+Sdepth 97e237e2
+Sbreadth 97e237e2
+Stotal 97e237e2
+Svbose 1e59237d
+Scallbck 53c209cf
+R9a58c22c 2 00000000 0
+Sx 3abf2a98
+Sy 5eedb6ab
+Q6621aca3 99de535c
+Rf3100a33 1 2ea0581d 0
+Sc 6621aca3
+DSolve2
+CFmt
+CThread
+CSolve
+CRefSeq
+CWord
+CRefIntTbl
+CRTHooks
+E2d76231c Solve2.Status
+E2ea0581d Solve2.Card
+E2fa4581d Solve2.Rank
+E2ba4581d Solve2.Location
+E34d55d56 Solve2.Group
+Ea1124954 Solve2.Layout
+E53e32170 Solve2.Tree
+E1c1c45e6 Solve2.Key
+E3e7963a3 Solve2.LayoutTable
+E010a9687 Solve2.CardMap
+@Solve.m3
+ASolve
+K2cbf9a27 480 2
+Lhash 0 32 195c2a74
+Llayout 32 448 c540d567
+Ra539896c 2 00000000 0
+Smsg 50f86574
+Sflush 1e59237d
+Rd4a4b355 1 00000000 0
+Slst a6d372c4
+Q497ddc4e b68223b1
+R66b882a4 2 00000000 0
+Stab 497ddc4e
+Sstart 97e237e2
+Q3abf2a98 c540d567
+Q38bf8edc c7407123
+R8e36ef12 3 00000000 0
+Slayout 3abf2a98
+Sloc 38bf8edc
+Sloc1 38bf8edc
+Rf7ddc02d 2 00000000 0
+Stree a7d589b0
+Slayout 3abf2a98
+Rd1aa3e9a 2 00000000 0
+Slayout 3abf2a98
+Sloc 38bf8edc
+Q6621aca3 99de535c
+Rc65a1df4 2 1e59237d 0
+Scard1 6621aca3
+Scard2 6621aca3
+Ra34930bd 4 1e59237d 1
+Slayout 3abf2a98
+Sloc 38bf8edc
+SfndOnly 1e59237d
+SnewLayout 3abf2a98
+TSolve.Stop
+R7deed1db 1 97e237e2 0
+Slayout 3abf2a98
+R763d6747 2 00000000 0
+Slayout 3abf2a98
+Slevel 97e237e2
+Qcb2aa2a9 34d55d56
+Rc373e8e5 5 00000000 0
+Slayout1 3abf2a98
+Slayout2 3abf2a98
+Scard 6621aca3
+SsrcGrp cb2aa2a9
+SdstGrp cb2aa2a9
+R4f0d04b5 2 1e59237d 0
+Scard1 6621aca3
+Scard2 a6d372c4
+R9f3d749b 1 50f86574 0
+Stree a7d589b0
+Feace73fd 6f34e74c 50f86574 128
+R1d56d17c 1 50f86574 0
+Sgrp 34d55d56
+Rf6452ad1 1 50f86574 0
+Scard 6621aca3
+R44f303a4 1 97e237e2 0
+Stree a7d589b0
+Q582a764f a7d589b0
+R66ec8f1b 2 adbbb7ab 0
+Squeue 6ac16e00
+Ssolution 582a764f
+R9480daca 2 1e59237d 1
+Stree a7d589b0
+Slevel 97e237e2
+TSolve.Stop
+Reb7cc76e 1 00000000 0
+Stree a7d589b0
+R9de8c52b 1 00000000 1
+Stree a7d589b0
+TSolve.Stop
+Rbbf99144 2 1e59237d 1
+Stree a7d589b0
+SfndOnly 1e59237d
+TSolve.Stop
+Qaf079a8b 50f86574
+R8b6afaf4 3 1e59237d 0
+Sroot a7d589b0
+Sleaf a7d589b0
+Stxt af079a8b
+Q52444854 adbbb7ab
+Rf37a450f 2 50f86574 0
+Stree a7d589b0
+SwhyStop 52444854
+V9a14dc71 6d96671d 0 0 2 0
+XkeyEqual Solve.EqualProc
+XkeyHash Solve.HashProc
+Qe3e3ba19 1c1c45e6
+Raa5be09f 2 195c2a74 0
+Stbl 9a14dc71
+Skey e3e3ba19
+P880e37e2 2cbf9a27
+Rde5b0250 3 1e59237d 0
+Stbl 9a14dc71
+Sa e3e3ba19
+Sb e3e3ba19
+Rcb3641fc 2 1e59237d 0
+Sx 3abf2a98
+Sy 3abf2a98
+R56ada5e2 1 1e59237d 1
+Slayout 3abf2a98
+TSolve.Stop
+R9f9b507b 7 50f86574 0
+Slayout c540d567
+SwhyStop 52444854
+Sdepth 97e237e2
+Sbreadth 97e237e2
+Stotal 97e237e2
+Svbose 1e59237d
+Scallbck 53c209cf
+R7b78c34f 0 00000000 0
+R796ef7d8 1 00000000 0
+Slayout 3abf2a98
+R1dfb294d 1 00000000 0
+Sx 497ddc4e
+R8dca5447 2 2db54900 0
+Sx1 a6d372c4
+Sx2 a6d372c4
+Q9d920371 626dfc8e
+Rfc51fc90 1 00000000 0
+Sx 9d920371
+Rf17812c9 2 2db54900 0
+Sc1 6621aca3
+Sc2 6621aca3
+DSolve
+CFmt
+CStdio
+CWr
+CThread
+CTreeSeq
+CWord
+CRefIntTbl
+CRTHooks
+E1c1c45e6 Solve.Key
+E2cbf9a27 Solve.HashLayout
+E9a14dc71 Solve.LayoutTable
+Q592c8d3b a6d372c4
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+Rc52a772e 2 195c2a74 0
+Sx 195c2a74
+Sn 195c2a74
+@TreeSeqRep.i3
+BTreeSeqRep
+Ped153d68 a7d589b3 TreeSeqRep_^%#%^__0001I
+V6318e162 6ac16e03 3 0 0 96 TreeSeqRep_^%#%^__0002I
+Lelem 0 32 ed153d68
+Lst 32 32 97e237e2
+Lsz 64 32 97e237e2
+DTreeSeqRep
+CRTHooks
+CTreeSeq
+CTree
+Eed153d68 TreeSeqRep.RefArray
+E6318e162 TreeSeqRep.Public
+Ea7d589b3 TreeSeqRep.EArr
+@TreeSeq.i3
+BTreeSeq
+Y6ac16e00 6ac16e03
+R6ac16e02 1 6ac16e00 0
+SsizeHint 97e237e2
+Q582a764c a7d589b3
+R6ac16e05 1 6ac16e00 0
+Sa 582a764c
+Q582a764f a7d589b0
+R17e8e44d 1 00000000 0
+Sx 582a764f
+R9fa697c5 0 a7d589b0 0
+R85337561 2 00000000 0
+Si 97e237e2
+Sx 582a764f
+R5c4c299e 0 97e237e2 0
+R583b77b3 1 a7d589b0 0
+Si 97e237e2
+V6ac16e03 9d8fb489 0 11 0 0
+Winit 6ac16e02
+WfromArray 6ac16e05
+Waddhi 17e8e44d
+Waddlo 17e8e44d
+Wremhi 9fa697c5
+Wremlo 9fa697c5
+Wput 85337561
+Wsize 5c4c299e
+Wgethi 9fa697c5
+Wgetlo 9fa697c5
+Wget 583b77b3
+R063ac13f 2 6ac16e00 0
+Ss 6ac16e00
+St 6ac16e00
+R8d9ff1e7 3 6ac16e00 0
+Ss 6ac16e00
+Sstart 97e237e2
+Slength 97e237e2
+DTreeSeq
+CRTHooks
+CTree
+E6ac16e00 TreeSeq.T
+E6ac16e03 TreeSeq.Public
+@Tree.i3
+BTree
+Rd46ab8e1 2 1e59237d 0
+St a7d589b0
+Su a7d589b0
+Rf2a3c9a2 1 a7d589b0 0
+St a7d589b0
+N2db54900 195c2a74 -1 1 8
+R72503e08 2 2db54900 0
+St a7d589b0
+Su a7d589b0
+R756b5be8 2 97e237e2 0
+St a7d589b0
+SlessThan 97e237e2
+DTree
+CSolve
+CRTHooks
+Ea7d589b0 Tree.T
+@Solve2.i3
+BSolve2
+Q3abf2a98 c540d567
+Q52444854 adbbb7ab
+R1aa38b46 7 50f86574 0
+Slayout 3abf2a98
+Swhy 52444854
+Sdepth 97e237e2
+Sbreadth 97e237e2
+Stotal 97e237e2
+Sverbose 1e59237d
+Scallback 53c209cf
+DSolve2
+CSolve
+CRTHooks
+@Solve.i3
+BSolve
+Hadbbb7ab 5 8
+INoSolution
+IAborted
+IGiveUp
+IExhausted
+ISolution
+H6f34e74c 4 8
+ISpade
+IHeart
+IDiamond
+IClub
+N2fa4581d 195c2a74 0 13 8
+K99de535c 16 2
+Lsuit 0 8 6f34e74c
+Lval 8 8 2fa4581d
+H34d55d56 3 8
+IFoundation
+ITableau
+ITalon
+Pa6d372c4 a6d372c7
+Ka6d372c7 64 2
+Lcard 0 16 99de535c
+Lnxt 32 32 a6d372c4
+N8e2830d7 195c2a74 1 4 8
+F626dfc8e 8e2830d7 99de535c 64
+N2ca4581c 195c2a74 1 10 8
+Fb68223b1 2ca4581c a6d372c4 320
+Kc540d567 448 3
+Lfnd 0 64 626dfc8e
+Ltal 64 64 626dfc8e
+Ltab 128 320 b68223b1
+Kc7407123 16 2
+Lgrp 0 8 34d55d56
+Lwhere 8 8 2ca4581c
+Pa7d589b0 a7d589b1
+Ga7d589b3 a7d589b0 64
+Pa7d589b6 a7d589b3
+Ka7d589b1 512 3
+Llayout 0 448 c540d567
+Llevel 448 32 97e237e2
+Lchildren 480 32 a7d589b6
+R53c209cf 1 00000000 0
+Scnt 97e237e2
+Q52444854 adbbb7ab
+Rd841a472 7 50f86574 0
+Slayout c540d567
+Swhy 52444854
+Sdepth 97e237e2
+Sbreadth 97e237e2
+Stotal 97e237e2
+Sverbose 1e59237d
+Scallback 53c209cf
+DSolve
+CRTHooks
+Eadbbb7ab Solve.WhyStop
+E6f34e74c Solve.Suit
+E99de535c Solve.CardType
+E34d55d56 Solve.Group
+Ea6d372c4 Solve.CardList
+Ec540d567 Solve.Layout
+Eb68223b1 Solve.Tableau
+E626dfc8e Solve.Foundation
+E626dfc8e Solve.Talon
+Ec7407123 Solve.Location
+Ea7d589b1 Solve.TreeRec
+Ea7d589b0 Solve.Tree
+E53c209cf Solve.Callback

@@ -1,0 +1,11 @@
+% exports of m3tools
+_define_lib("m3tools")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_import_m3lib("m3tools", "m3tools", "OS2unix")
+_map_add_interface("M3Scanner.i3", "m3tools", "src", "")
+_map_add_interface("M3ID.i3", "m3tools", "src", "")
+_map_add_interface("M3Token.i3", "m3tools", "src", "")
+_map_add_module("M3Token.m3", "m3tools", "src", "hidden")
+_map_add_module("M3ID.m3", "m3tools", "src", "hidden")
+_map_add_module("M3Scanner.m3", "m3tools", "src", "hidden")

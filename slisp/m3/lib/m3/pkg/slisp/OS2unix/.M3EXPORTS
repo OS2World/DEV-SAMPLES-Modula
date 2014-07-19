@@ -1,0 +1,10 @@
+% exports of slisp
+_define_lib("m3slisp")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_import_m3lib("m3slisp", "slisp", "OS2unix")
+_map_add_interface("SLispMath.i3", "slisp", "src", "hidden")
+_map_add_interface("SLisp.i3", "slisp", "src", "")
+_map_add_interface("SLispClass.i3", "slisp", "src", "")
+_map_add_module("SLispMath.m3", "slisp", "src", "hidden")
+_map_add_module("SLisp.m3", "slisp", "src", "hidden")

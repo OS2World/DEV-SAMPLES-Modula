@@ -1,0 +1,214 @@
+M3ID.m3 151
+M3Scanner.m3 893
+M3Token.m3 58
+M3ID.i3 93
+M3Scanner.i3 640
+M3Token.i3 888
+$ 0
+@M3ID.m3
+AM3ID
+N822831d7 195c2a74 0 8 8
+F606b2381 822831d7 56e16863 72
+O4f228dcc 606b2381
+DM3ID
+CM3Token
+CRTHooks
+Q7632cb42 89cd34bd
+Edeff46c0 M3ID.TK
+@M3Scanner.m3
+AM3Scanner
+F4ac74993 56e16863 1e59237d 2048
+V8fdab54e 623f6384 6 0 3 160 M3Scanner.Default
+Xnext M3Scanner.GetToken
+XinitFromRd M3Scanner.InitFromRd
+XinitFromBuf M3Scanner.InitFromBuf
+Lskip_comments 0 8 1e59237d
+Lsplit_pragmas 8 8 1e59237d
+Lline_start 32 32 97e237e2
+Lnext_offset 64 32 97e237e2
+Lnext_line 96 32 97e237e2
+Lnext_line_start 128 32 97e237e2
+R3442b75e 4 24decf49 0
+St bde708a0
+Ssource fa67ef2f
+Sskip_comments 1e59237d
+Ssplit_pragmas 1e59237d
+R7c50b4da 4 24decf49 0
+St bde708a0
+Sbuf 878be988
+Sskip_comments 1e59237d
+Ssplit_pragmas 1e59237d
+Ree7ea6c6 3 00000000 0
+St bde708a0
+Soffset 97e237e2
+Smsg 50f86574
+R77e941bc 1 00000000 0
+St bde708a0
+Q681dc81d 97e237e2
+R68d0d132 2 1e59237d 0
+St bde708a0
+Soffset 681dc81d
+Ra16c6a70 1 1e59237d 0
+St bde708a0
+DM3Scanner
+CM3ID
+CM3Token
+CFmt
+CThread
+CRd
+CRTHooks
+Edeff46c0 M3Scanner.TK
+E623f6384 M3Scanner.Public
+Zbde708a0 8fdab54e
+@M3Token.m3
+AM3Token
+DM3Token
+CRTHooks
+Q8010dac9 7fef2536
+@M3ID.i3
+BM3ID
+Q7632cb42 89cd34bd
+R04de9609 1 deff46c0 0
+Sx 7632cb42
+DM3ID
+CM3Token
+CRTHooks
+@M3Scanner.i3
+BM3Scanner
+R7b78c34f 0 00000000 0
+V24decf49 9d8fb489 8 1 0 256
+Wnext 7b78c34f
+Ltoken 0 8 deff46c0
+Lstart 32 32 97e237e2
+Llength 64 32 97e237e2
+Loffset 96 32 97e237e2
+Lline 128 32 97e237e2
+Lcolumn 160 32 97e237e2
+Lmsg 192 32 50f86574
+Lbuffer 224 32 878be988
+R4d6c404c 3 24decf49 0
+Ssource fa67ef2f
+Sskip_comments 1e59237d
+Ssplit_pragmas 1e59237d
+R1b5b3b58 3 24decf49 0
+Sbuf 878be988
+Sskip_comments 1e59237d
+Ssplit_pragmas 1e59237d
+V623f6384 24decf49 0 2 0 0
+WinitFromRd 4d6c404c
+WinitFromBuf 1b5b3b58
+Ybde708a0 623f6384
+DM3Scanner
+CM3Token
+CRd
+CRTHooks
+E24decf49 M3Scanner.T
+E878be988 M3Scanner.Buf
+Ebde708a0 M3Scanner.Default
+@M3Token.i3
+BM3Token
+Hdeff46c0 99 8
+IEOF
+IComment
+IError
+IIdent
+ICard_const
+IReal_const
+ILongreal_const
+IExtended_const
+IChar_const
+IText_const
+IPlus
+IMinus
+IAsterisk
+ISlash
+IAssign
+IAmpersand
+IDot
+IComma
+ISemi
+IL_paren
+IL_bracket
+IL_brace
+IArrow
+IEqual
+ISharp
+ILess
+IGreater
+ILs_equal
+IGr_equal
+IDot_dot
+IColon
+IR_paren
+IR_bracket
+IR_brace
+IBar
+ISubtype
+IImplies
+IBegin_pragma
+IEnd_pragma
+IAnd
+IAny
+IArray
+IAs
+IBegin
+IBits
+IBranded
+IBy
+ICase
+IConst
+IDiv
+IDo
+IElse
+IElsif
+IEnd
+IEval
+IExcept
+IException
+IExit
+IExports
+IFinally
+IFor
+IFrom
+IGeneric
+IIf
+IImport
+IIn
+IInterface
+ILock
+ILoop
+IMethods
+IMod
+IModule
+INot
+IObject
+IOf
+IOr
+IOverrides
+IProcedure
+IRaise
+IRaises
+IReadonly
+IRecord
+IRef
+IRepeat
+IReturn
+IReveal
+ISet
+IThen
+ITo
+ITry
+IType
+ITypecase
+IUnsafe
+IUntil
+IUntraced
+IValue
+IVar
+IWhile
+IWith
+F7fef2536 deff46c0 50f86574 3168
+DM3Token
+CRTHooks
+Edeff46c0 M3Token.T
+Q8010dac9 7fef2536

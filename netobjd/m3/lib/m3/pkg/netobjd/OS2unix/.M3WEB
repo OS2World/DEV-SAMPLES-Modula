@@ -1,0 +1,58 @@
+NetObjDaemon.m3 149
+NMonRegistrySvr.m3 655
+NMonRegistrySvr.i3 97
+$ 0
+@NetObjDaemon.m3
+ANetObjDaemon
+DMain
+CRTCollectorSRC
+CProcess
+CThread
+CParams
+CStdio
+CWr
+CNMonRegistrySvr
+CNetObjMon
+CTCPNetObj
+CNetObj
+CIP
+CRTHooks
+@NMonRegistrySvr.m3
+ANMonRegistrySvr
+Vd89dd7cf fce88d84 2 0 3 64
+Xregister NMonRegistrySvr.RegistryRegister
+Xlist NMonRegistrySvr.RegistryList
+Xget NMonRegistrySvr.RegistryGet
+Lmu 0 32 1541f475
+Lentries 32 32 17b65d08
+V09108fc2 2ce29465 2 0 1 64
+Xnotify NMonRegistrySvr.DeadEntry
+Lt 0 32 d89dd7cf
+Lid 32 32 50f86574
+R8758d32c 3 00000000 0
+Sn 09108fc2
+Sobj 59c36103
+Sst 59d8c25c
+R90dcc1ef 3 00000000 0
+St d89dd7cf
+Smon c144b7ca
+Sid 50f86574
+Rd1f81b07 1 f173dc91 0
+St d89dd7cf
+R77a9e829 2 c144b7ca 0
+St d89dd7cf
+Sid 50f86574
+DNMonRegistrySvr
+CTextRefTbl
+CNetObjNotifier
+CNetObj
+CNetObjMon
+CRTHooks
+Ed89dd7cf NMonRegistrySvr.T
+E09108fc2 NMonRegistrySvr.Note
+@NMonRegistrySvr.i3
+BNMonRegistrySvr
+R15d9f12c 0 fce88d84 0
+DNMonRegistrySvr
+CNetObjMon
+CRTHooks

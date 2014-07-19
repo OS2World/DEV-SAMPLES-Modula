@@ -1,0 +1,12 @@
+%
+% m3makefile for client and server
+%
+import ("libm3")
+import ("tcp")
+import ("netobj")
+
+interface ("Example")
+netobj ("Example", "T")
+
+implementation ("Server")
+program ("Server")

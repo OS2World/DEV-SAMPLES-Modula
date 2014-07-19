@@ -1,0 +1,8 @@
+% exports of web
+_define_lib("web")
+import_version("libm3", "OS2unix")
+import_version("m3core", "OS2unix")
+import_version("tcp", "OS2unix")
+_import_m3lib("web", "web", "OS2unix")
+_map_add_interface("Web.i3", "web", "src", "")
+_map_add_module("Web.m3", "web", "src", "hidden")

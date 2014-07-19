@@ -1,0 +1,740 @@
+Value.m3 132
+Main.m3 259
+FRefRefTbl.m3 328
+StablegenError.m3 88
+StablegenArgs.m3 131
+GenModuleCode.m3 1577
+GenTypeCode.m3 333
+GenCode.m3 1091
+ImportList.m3 460
+AstToType.m3 872
+Type.m3 358
+Value.m3 132
+TypeNames.m3 406
+FRefRefTbl.i3 130
+StablegenArgs.i3 221
+GenModuleCode.i3 622
+GenTypeCode.i3 215
+GenCode.i3 193
+StablegenError.i3 97
+ImportList.i3 415
+AstToType.i3 101
+ValueProc.i3 108
+Type.i3 2995
+Value.i3 721
+TypeNames.i3 91
+$ 0
+@Value.m3
+AValue
+Vbeca428d 9d8fb489 0 0 0 0 Value_^%#%^__0001M
+DValueProc
+DValue
+CType
+CText
+CFmt
+CAtom
+CRTHooks
+Zbe0bc3ec beca428d
+@Main.m3
+AMain
+Rb349b841 3 195c2a74 0
+Sw 59d84179
+Sc dc39dc6b
+ScompileResult 195c2a74
+V6a8bf523 59d84179 0 0 0 0
+Xwork Main.DoRun
+DMain
+CM3Context
+CM3ToolFrame
+CM3CFETool
+CGenCode
+CStablegenError
+CStablegenArgs
+CTypeNames
+CType
+CRTCollector
+CProcess
+CRTHooks
+@FRefRefTbl.m3
+AFRefRefTbl
+V3e3d6989 204ac71e 0 0 2 0 FRefRefTbl_^%#%^__0001M
+XkeyEqual FRefRefTbl.KeyEqual
+XkeyHash FRefRefTbl.KeyHash
+Qe3e3ba19 1c1c45e6
+Ra62674ef 3 1e59237d 0
+St d36d9e3b
+Sk1 e3e3ba19
+Sk2 e3e3ba19
+R24eb1e06 2 195c2a74 0
+St d36d9e3b
+Sk e3e3ba19
+DFRefRefTbl
+CWord
+CRefany
+CRefRefTbl
+CRTHooks
+Zd36d9e3b 3e3d6989
+@StablegenError.m3
+AStablegenError
+DStablegenError
+CProcess
+CStdio
+CThread
+CWr
+CRTHooks
+@StablegenArgs.m3
+AStablegenArgs
+DStablegenArgs
+CStablegenError
+CAtom
+CType
+CM3Args
+CRTHooks
+Qf4003e68 0bffc197
+Qaf079a8b 50f86574
+@GenModuleCode.m3
+AGenModuleCode
+Re4a568d0 2 00000000 0
+SfmtWr 025b9f4b
+Stext 50f86574
+H34fe9121 2 8
+IReplay
+ILog
+Raa8b9539 5 00000000 0
+Sf 025b9f4b
+Sname 0bffc197
+Smethod 2aaa01e7
+Ssuffix 50f86574
+Sd 34fe9121
+R9c755fd8 5 00000000 0
+Sf 025b9f4b
+Sproc 50f86574
+SvarName 50f86574
+Sd 34fe9121
+Sranges 50f86574
+Rb653f96e 4 00000000 0
+Sf 025b9f4b
+SimplName 50f86574
+Smethods 4bc405ed
+SimportList b32e8e57
+Rdf6b5ee4 2 00000000 0
+Sf 025b9f4b
+Smethods 4bc405ed
+R97125de7 3 00000000 0
+Sf 025b9f4b
+SrepName 50f86574
+Smethods 4bc405ed
+R837a5672 4 00000000 1
+Sf 025b9f4b
+Sname 0bffc197
+SrepName 50f86574
+Smethods 4bc405ed
+TStablegenError.E
+R72f55c36 1 00000000 0
+Sf 025b9f4b
+Rf78f1917 4 00000000 1
+Sf 025b9f4b
+Sname 0bffc197
+SrepName 50f86574
+Smethod 2aaa01e7
+TStablegenError.E
+R259b695c 3 00000000 1
+Sf 025b9f4b
+Sname 0bffc197
+Smethods 4bc405ed
+TStablegenError.E
+R8a220982 2 00000000 0
+Sf 025b9f4b
+SrepName 50f86574
+R91ef72e9 6 00000000 1
+SfmtWr 025b9f4b
+SvarName 50f86574
+St 691f53d0
+Sd 34fe9121
+Scalling 1e59237d
+SindexDepth 195c2a74
+TStablegenError.E
+R9556fabf 6 00000000 0
+SfmtWr 025b9f4b
+SvarName 50f86574
+St f152432c
+Sd 34fe9121
+Smin 195c2a74
+Smax 195c2a74
+R0e78443e 6 00000000 0
+SfmtWr 025b9f4b
+SvarName 50f86574
+St 0f3b7b7a
+Sd 34fe9121
+Smin 195c2a74
+Smax 195c2a74
+R97930b30 6 00000000 1
+Sf 025b9f4b
+SvarName 50f86574
+Sa 2680b5ca
+Sd 34fe9121
+Scalling 1e59237d
+SindexDepth 195c2a74
+TStablegenError.E
+DGenModuleCode
+CWr
+CValue
+CType
+CImportList
+CText
+CStablegenError
+CFormatter
+CFmt
+CGenTypeCode
+CAtom
+CRTHooks
+E34fe9121 GenModuleCode.Direction
+Qef6edc89 10912376
+Qcb59c0d9 34a63f26
+@GenTypeCode.m3
+AGenTypeCode
+Rf852dec3 1 50f86574 0
+Sf 260c8e89
+R075e867c 1 50f86574 0
+Sm 63222224
+Reead095a 4 00000000 0
+Sfmtr 025b9f4b
+Sf 09bb0b45
+SargPragmas f173dc91
+Ssuffix 50f86574
+F730208c0 76003d37 50f86574 96
+R97cb3948 1 50f86574 0
+Sqid 0bffc197
+DGenTypeCode
+CValueProc
+CValue
+CType
+CText
+CFormatter
+CWr
+CFmt
+CAtom
+CRTHooks
+@GenCode.m3
+AGenCode
+N882831d7 195c2a74 0 2 8
+Fc96c5d63 882831d7 d1d9dd0e 96
+R2334c699 5 00000000 1
+Stype 691f53d0
+Sqid 0bffc197
+SimplName 50f86574
+SrepName 50f86574
+Sumethods ad398276
+TStablegenError.E
+Q52c67d89 ad398276
+Rde58d9a2 2 00000000 1
+Stxt 50f86574
+Smethods 52c67d89
+TStablegenError.E
+Rc616aa2e 2 00000000 1
+Smethods 52c67d89
+Smethname 50f86574
+TStablegenError.E
+Rb3c8a272 1 1e59237d 0
+Stype 691f53d0
+Rac940abe 1 1e59237d 0
+Ssig 34a63f26
+R49faf638 5 00000000 1
+Sname 0bffc197
+Stype d416d925
+SimplName 50f86574
+SrepName 50f86574
+Sumethods ad398276
+TStablegenError.E
+Rbc5ed615 2 4bc405ed 1
+Stype d416d925
+Sumethods ad398276
+TStablegenError.E
+Qe6a3d58b 195c2a74
+Q681dc81d 97e237e2
+R6c021e00 4 4bc405ed 1
+Stype f6b4efa9
+Scount e6a3d58b
+Stop 681dc81d
+Sumethods ad398276
+TStablegenError.E
+DGenCode
+CM3CUnit
+CM3CConcTypeSpec
+CM3Context
+CM3AST_TL_F
+CM3AST_TM_F
+CM3AST_SM_F
+CM3AST_AS_F
+CM3CPragma
+CM3CId
+CM3ASTScope
+CM3AST_AS
+CASTWalk
+CType
+CStablegenError
+CGenModuleCode
+CAstToType
+CGenTypeCode
+CImportList
+COSError
+CFormatter
+CTextRd
+CFileWr
+CRd
+CWr
+CLex
+CThread
+CAtomList
+CAtom
+CRTHooks
+@ImportList.m3
+AImportList
+Vae3f795c 6fe64d49 0 0 0 0 ImportList_^%#%^__0001M
+R030eab6e 2 00000000 0
+St f6b4efa9
+SimportTbl b32e8e57
+R4eb256be 3 00000000 0
+St 691f53d0
+SimportTbl b32e8e57
+SbyName 1e59237d
+Rc8da16a5 2 00000000 0
+Sfields 260c8e89
+SimportTbl b32e8e57
+R54a8559b 2 00000000 0
+Ssig 34a63f26
+SimportTbl b32e8e57
+Receb48d4 2 00000000 0
+St 691f53d0
+SimportTbl b32e8e57
+DImportList
+CType
+CAtomRefTbl
+CAtom
+CRTHooks
+Zb32e8e57 ae3f795c
+Qcb59c0d9 34a63f26
+@AstToType.m3
+AAstToType
+R85c2da34 1 00000000 0
+SastTable 1d284b6e
+Rdcc26ac8 2 691f53d0 0
+SastMap 1d284b6e
+Sm3type 52bfa811
+R70643d91 2 691f53d0 0
+SastMap 1d284b6e
+Sts a2581bcc
+Rc85c26f5 5 691f53d0 0
+SastMap 1d284b6e
+So f01ac1b8
+Sbranded 1e59237d
+Sbrand d1d9dd0e
+Straced 1e59237d
+R4c266d2b 2 260c8e89 0
+SastMap 1d284b6e
+Sf db3a9541
+R57db2856 2 63222224 0
+SastMap 1d284b6e
+Sm 7c10ba4f
+Rfc13dbe6 1 be0bc3ec 0
+Sexp 0e47b91c
+R6de6a73c 3 00000000 0
+SastMap 1d284b6e
+Sts a2581bcc
+St 691f53d0
+DAstToType
+CM3CBackEnd_C
+CM3CBackEnd
+CM3CTypesMisc
+CSeqM3AST_AS_Qual_used_id
+CSeqM3AST_AS_Method
+CSeqM3AST_AS_Field_id
+CSeqM3AST_AS_Fields
+CSeqM3AST_AS_Enum_id
+CM3CStdTypes
+CM3CConcTypeSpec
+CM3AST_LX
+CM3AST_TL_F
+CM3ASTNext
+CM3AST_TM_F
+CM3AST_SM_F
+CM3AST_SM
+CM3AST_AS_F
+CM3AST_AS
+CValue
+CType
+CM3CId
+CFRefRefTbl
+CRefRefTbl
+CPropertyV
+CAtom
+CRTHooks
+Q5da7e433 a2581bcc
+Qf4003e68 0bffc197
+@Type.m3
+AType
+Ve0593df8 840433de 0 0 0 0 Type_^%#%^__0001M
+R97cb3948 1 50f86574 0
+Sqid 0bffc197
+R79bdc7b8 1 50f86574 0
+Ssig 34a63f26
+Rf852dec3 1 50f86574 0
+Sf 260c8e89
+R075e867c 1 50f86574 0
+Sm 63222224
+R25c3e64c 1 50f86574 0
+Sf 09bb0b45
+F730208c0 76003d37 50f86574 96
+DType
+CValueProc
+CValue
+CText
+CFmt
+CAtom
+CRTHooks
+E840433de Type.Foo
+Z691f53d0 e0593df8
+@Value.m3
+AValue
+Vbeca428d 9d8fb489 0 0 0 0 Value_^%#%^__0001M
+DValueProc
+DValue
+CType
+CText
+CFmt
+CAtom
+CRTHooks
+Zbe0bc3ec beca428d
+@TypeNames.m3
+ATypeNames
+Vb8b268a9 6b8fdfd1 0 0 1 0
+Xcallback TypeNames.VisitUnit
+Radfaa5ad 4 00000000 0
+Scl b8b268a9
+Sut b6e1dda9
+Sname 50f86574
+Scu aa14356d
+R26e5eae6 3 00000000 0
+Scl d1e43895
+Sn eec6ca97
+Svm 32173d37
+V8ff6127c d1e43895 0 0 0 0
+Xcallback TypeNames.Node
+DTypeNames
+CPropertyV
+CM3CUnit
+CM3Context
+CASTWalk
+CM3AST_TL_F
+CM3AST_AS_F
+CM3AST_AS
+CAST
+CRTHooks
+Eb8b268a9 TypeNames.ContextClosure
+@FRefRefTbl.i3
+BFRefRefTbl
+Yd36d9e3b 204ac71e
+DFRefRefTbl
+CRefRefTbl
+CRTHooks
+E1d284b6e FRefRefTbl.T
+Ed36d9e3b FRefRefTbl.Default
+@StablegenArgs.i3
+BStablegenArgs
+Qf4003e68 0bffc197
+Qaf079a8b 50f86574
+R18882ac0 4 00000000 1
+Sobject f4003e68
+Sreveal af079a8b
+Simpl af079a8b
+Srep af079a8b
+TStablegenError.E
+DStablegenArgs
+CStablegenError
+CType
+CRTHooks
+@GenModuleCode.i3
+BGenModuleCode
+R01b980b2 4 00000000 0
+SmodWr 025b9f4b
+SimplName 50f86574
+Smethods 4bc405ed
+SimportList b32e8e57
+R6d41fd5d 3 00000000 1
+SmodWr 025b9f4b
+SrepName 50f86574
+Smethods 4bc405ed
+TStablegenError.E
+R5e2ebfd6 4 00000000 1
+SmodWr 025b9f4b
+Sname 0bffc197
+SrepName 50f86574
+Smethods 4bc405ed
+TStablegenError.E
+Rb45bf06c 2 00000000 1
+SmodWr 025b9f4b
+Smethods 4bc405ed
+TStablegenError.E
+R01e97a7a 3 00000000 1
+SmodWr 025b9f4b
+Sname 0bffc197
+Smethods 4bc405ed
+TStablegenError.E
+Re5f68b99 2 00000000 0
+SmodWr 025b9f4b
+SrepName 50f86574
+DGenModuleCode
+CType
+CStablegenError
+CImportList
+CFormatter
+CRTHooks
+@GenTypeCode.i3
+BGenTypeCode
+G9d19e327 50f86574 64
+Pf173dc91 9d19e327
+R80710b2c 5 00000000 0
+Sf 025b9f4b
+SprocName 50f86574
+Ssig 34a63f26
+Ssuffix 50f86574
+SargPragmas f173dc91
+DGenTypeCode
+CType
+CFormatter
+CRTHooks
+@GenCode.i3
+BGenCode
+R57710c21 5 00000000 1
+Sc dc39dc6b
+Sqid 0bffc197
+Sreveal 50f86574
+SimplName 50f86574
+SrepName 50f86574
+TStablegenError.E
+DGenCode
+CStablegenError
+CM3Context
+CType
+CRTHooks
+@StablegenError.i3
+BStablegenError
+Rc5673195 1 00000000 0
+Smsg 50f86574
+DStablegenError
+CRTHooks
+@ImportList.i3
+BImportList
+Yb32e8e57 1c1c45e6
+K2aaa01e7 128 2
+Lname 0 32 d1d9dd0e
+Lsig 32 96 34a63f26
+Ge8fe627f 2aaa01e7 64
+P4bc405ed e8fe627f
+Rd358bb44 2 b32e8e57 0
+Stype d416d925
+Smethods 4bc405ed
+R4d21edb5 2 00000000 0
+SimportList b32e8e57
+Sintf d1d9dd0e
+R9db1a94e 1 50f86574 0
+Simports b32e8e57
+DImportList
+CType
+CAtom
+CRTHooks
+Eb32e8e57 ImportList.T
+E4bc405ed ImportList.MethodList
+E2aaa01e7 ImportList.Method
+@AstToType.i3
+BAstToType
+R90d3a37f 1 691f53d0 0
+Sm3type 52bfa811
+DAstToType
+CType
+CM3AST_AS
+CRTHooks
+@ValueProc.i3
+BValueProc
+R106c3b48 2 50f86574 0
+Sv be0bc3ec
+Stype 691f53d0
+DValueProc
+CValue
+CType
+CRTHooks
+@Type.i3
+BType
+K227042fb 64 2
+Lintf 0 32 d1d9dd0e
+Litem 32 32 d1d9dd0e
+P0bffc197 227042fb
+V840433de 9d8fb489 3 0 0 64
+Lname 0 32 0bffc197
+Lvisited 32 8 1e59237d
+LbrandsOK 40 8 1e59237d
+Y691f53d0 840433de
+V42112cd4 691f53d0 0 0 0 0 Type_^%#%^__0001I
+V0f3b7b7a 42112cd4 0 0 0 0 Type_^%#%^__0002I
+Vbe2254c7 0f3b7b7a 0 0 0 0 Type_^%#%^__0003I
+Geeb590c5 d1d9dd0e 64
+Pf26834f1 eeb590c5
+V3fb79a7d 0f3b7b7a 1 0 0 32
+Lelts 0 32 f26834f1
+Vf152432c 42112cd4 3 0 0 96
+Lbase 0 32 42112cd4
+Lmin 32 32 be0bc3ec
+Lmax 64 32 be0bc3ec
+Ve67fabaa 691f53d0 0 0 0 0 Type_^%#%^__0004I
+V92632a19 691f53d0 0 0 0 0 Type_^%#%^__0005I
+V0e46a8cc 691f53d0 0 0 0 0 Type_^%#%^__0006I
+Vf6b4efa9 691f53d0 4 0 0 96
+Ltraced 0 8 1e59237d
+Lbranded 8 8 1e59237d
+Lbrand 32 32 d1d9dd0e
+LrevIntf 64 32 d1d9dd0e
+K19225100 96 3
+Lname 0 32 d1d9dd0e
+Ltype 32 32 691f53d0
+Ldefault 64 32 be0bc3ec
+Pf7161bfd 19225100
+G27305635 f7161bfd 64
+P260c8e89 27305635
+H76003d37 3 8
+IValue
+IVar
+IReadonly
+K1fa78915 128 5
+Lmode 0 8 76003d37
+LoutOnly 8 8 1e59237d
+Lname 32 32 d1d9dd0e
+Ltype 64 32 691f53d0
+Ldefault 96 32 be0bc3ec
+P10912376 1fa78915
+G7aee8220 10912376 64
+P09bb0b45 7aee8220
+V70173ef3 9d8fb489 2 0 0 64
+Lqid 0 32 0bffc197
+Larg 32 32 691f53d0
+G54f2ca7f 70173ef3 64
+P3e06e541 54f2ca7f
+K34a63f26 96 3
+Lformals 0 32 09bb0b45
+Lresult 32 32 691f53d0
+Lraises 64 32 3e06e541
+V836db0bc 9d8fb489 0 0 0 0 Type_^%#%^__0007I
+K6531838c 160 3
+Lname 0 32 d1d9dd0e
+Lsig 32 96 34a63f26
+Ldefault 128 32 836db0bc
+Pa3d17ae3 6531838c
+G5d5b6a9a a3d17ae3 64
+P63222224 5d5b6a9a
+Vd416d925 f6b4efa9 3 0 0 96
+Lsuper 0 32 f6b4efa9
+Lfields 32 32 260c8e89
+Lmethods 64 32 63222224
+V9c26b348 f6b4efa9 1 0 0 32
+Ltarget 0 32 691f53d0
+Vb0c8a912 f6b4efa9 1 0 0 32
+LrevealedSuperType 0 32 f6b4efa9
+Va6c7ea52 691f53d0 2 0 0 64
+Lindex 0 32 42112cd4
+Lelement 32 32 691f53d0
+V2680b5ca a6c7ea52 2 0 0 64
+LrefArray 0 32 9c26b348
+LopenDimensions 32 32 195c2a74
+Vf30699a7 691f53d0 2 0 0 64
+Lsize 0 32 97e237e2
+Lbase 32 32 691f53d0
+V1a9b18ba 691f53d0 1 0 0 32
+Lfields 0 32 260c8e89
+V68a04e2b 691f53d0 1 0 0 32
+Lrange 0 32 42112cd4
+V79563749 691f53d0 1 0 0 96
+Lsig 0 96 34a63f26
+V1cb3e7cd 836db0bc 1 0 0 32
+Lqid 0 32 0bffc197
+V13d762e0 836db0bc 2 0 0 64
+LobType 0 32 d416d925
+Lmethod 32 32 d1d9dd0e
+R1f0dcbcc 2 50f86574 0
+St 691f53d0
+SbyName 1e59237d
+R54ac910e 1 1e59237d 0
+St 691f53d0
+DType
+CValue
+CText
+CAtom
+CRTHooks
+E691f53d0 Type.T
+E42112cd4 Type.Ordinal
+E0f3b7b7a Type.Enumeration
+Ebe2254c7 Type.Char
+E3fb79a7d Type.UserDefined
+Ef152432c Type.Subrange
+Ee67fabaa Type.Real
+E92632a19 Type.LongReal
+E0e46a8cc Type.Extended
+Ef6b4efa9 Type.Reference
+Ed416d925 Type.Object
+E9c26b348 Type.Ref
+Eb0c8a912 Type.Opaque
+Ea6c7ea52 Type.Array
+E2680b5ca Type.OpenArray
+Ef30699a7 Type.Packed
+E1a9b18ba Type.Record
+E68a04e2b Type.Set
+E79563749 Type.Procedure
+Ef7161bfd Type.Field
+Ea3d17ae3 Type.Method
+E836db0bc Type.MethodDefault
+E1cb3e7cd Type.MethodDefault1
+E13d762e0 Type.MethodDefault2
+E34a63f26 Type.Signature
+E70173ef3 Type.Exception
+E10912376 Type.Formal
+E76003d37 Type.Mode
+E0bffc197 Type.Qid
+@Value.i3
+BValue
+Ybe0bc3ec 9d8fb489
+V6f884bf3 be0bc3ec 1 0 0 32
+Lord 0 32 195c2a74
+V68e7c31b be0bc3ec 1 0 0 32
+Lval 0 32 48e16572
+Vaa3839cd be0bc3ec 1 0 0 64
+Lval 0 64 94fe32f6
+V8fd1e530 be0bc3ec 1 0 0 64
+Lval 0 64 9ee024e3
+G66321863 be0bc3ec 64
+Pc6f19bb5 66321863
+V6da03621 be0bc3ec 1 0 0 32
+Lelements 0 32 c6f19bb5
+G48302e21 1e59237d 64
+Pa05610b2 48302e21
+Vb7a92c62 be0bc3ec 1 0 0 32
+Lelements 0 32 a05610b2
+Vc958e30a be0bc3ec 1 0 0 32
+Lval 0 32 50f86574
+V1db86865 be0bc3ec 0 0 0 0
+DValue
+CRTHooks
+Ebe0bc3ec Value.T
+E6f884bf3 Value.Ordinal
+E68e7c31b Value.Float
+Eaa3839cd Value.LongFloat
+E8fd1e530 Value.Extended
+E6da03621 Value.Array
+Eb7a92c62 Value.Set
+E6da03621 Value.Record
+Ec958e30a Value.Txt
+E1db86865 Value.Null
+@TypeNames.i3
+BTypeNames
+Rbe12f219 1 00000000 0
+Sc dc39dc6b
+DTypeNames
+CM3Context
+CRTHooks

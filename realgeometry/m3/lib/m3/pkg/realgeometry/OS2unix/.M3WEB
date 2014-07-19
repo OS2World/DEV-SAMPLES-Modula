@@ -1,0 +1,706 @@
+RealTransform.m3 170
+RealRect.m3 455
+RealPoint.m3 83
+RealPath.m3 1824
+RealInterval.m3 235
+PathExtra.m3 1361
+PathExtra.i3 236
+RealPath.i3 2026
+RealRect.i3 2669
+RealInterval.i3 1521
+RealTransform.i3 535
+RealPoint.i3 1052
+$ 0
+@RealTransform.m3
+ARealTransform
+Qb71e9a8d 48e16572
+Rf61c2fe8 1 00000000 0
+Stheta b71e9a8d
+DRealTransform
+CMath
+CRealPoint
+CRTHooks
+Qf025a9f7 0fda5608
+Qc4ff01ce 3b00fe31
+@RealRect.m3
+ARealRect
+Q510352d5 aefcad2a
+Q8e4c7e15 71b381ea
+R080b27b0 5 00000000 0
+Sr 510352d5
+Sby 510352d5
+Sf 8e4c7e15
+Sdh 48e16572
+Sdv 48e16572
+Rbecf379e 2 e7c9cc14 0
+Ssize 97e237e2
+Svalue 510352d5
+R7adeaf3e 2 dd72ffb6 0
+Ssize 97e237e2
+Svalue 510352d5
+DRealRect
+CRealInterval
+CAxis
+CRealPoint
+CWord
+CRTHooks
+Qc4ff01ce 3b00fe31
+Q1ea8ee83 e157117c
+E5a8fde47 RealRect.RefT
+E6034ede5 RealRect.PtrT
+Ee7c9cc14 RealRect.RefArrayT
+Edd72ffb6 RealRect.PtrArrayT
+@RealPoint.m3
+ARealPoint
+DRealPoint
+CFmt
+CRandom
+CMath
+CRTHooks
+Qc4ff01ce 3b00fe31
+@RealPath.m3
+ARealPath
+G651299f4 7cb4e341 64
+P73d5f84c 651299f4
+V08943145 03baba39 2 0 16 64 RealPath_^%#%^__0001M
+Xinit RealPath.Init
+XmoveTo RealPath.MoveTo
+XlineTo RealPath.LineTo
+XarcTo RealPath.ArcTo
+XcurveTo RealPath.CurveTo
+Xclose RealPath.Close
+XisEmpty RealPath.IsEmpty
+Xtranslate RealPath.Translate
+Xmap RealPath.Map
+Xbbox RealPath.BBox
+XnbElement RealPath.NbElement
+XinsertElement RealPath.InsertElement
+XreplaceElement RealPath.ReplaceElement
+XremoveElement RealPath.RemoveElement
+XgetElement RealPath.GetElement
+XcurrentPoint RealPath.CurrentPoint
+LelemList 0 32 73d5f84c
+LnextElement 32 32 195c2a74
+R152baf98 1 00000000 0
+Sself 03baba3a
+Qc4ff01ce 3b00fe31
+Re2034923 2 00000000 0
+Sself 03baba3a
+Spt c4ff01ce
+Qb71e9a8d 48e16572
+R21003c69 5 00000000 0
+Sself 03baba3a
+Scenter c4ff01ce
+Sradius b71e9a8d
+Sang1 b71e9a8d
+Sang2 b71e9a8d
+Rf0d0bcda 4 00000000 0
+Sself 03baba3a
+Sp c4ff01ce
+Sq c4ff01ce
+Sr c4ff01ce
+Qfc4545c5 03baba3a
+Q834b1cbe 7cb4e341
+R65cd3e9b 2 00000000 0
+Spath fc4545c5
+Selem 834b1cbe
+R66ac437a 1 1e59237d 0
+Sself 03baba3a
+R57f151ec 1 00000000 1
+Sself 03baba3a
+TRealPath.NoCurrentPoint
+R07150fdf 2 03baba3a 0
+Sself 03baba3a
+Sdelta c4ff01ce
+R51350c01 1 03baba3a 0
+Sself 03baba3a
+Rd66a28ce 2 00000000 0
+Sself 03baba3a
+Smap 7486eb6f
+Qf025a9f7 0fda5608
+Rf9829bb3 2 00000000 0
+Sself 03baba3a
+Smatrix f025a9f7
+R29b5e434 1 00000000 0
+Spt c4ff01ce
+R4155daa1 3 00000000 0
+Se 58e95688
+Smin c4ff01ce
+Smax c4ff01ce
+R684bf943 1 97e237e2 0
+Sself 03baba3a
+Refa655a9 3 00000000 1
+Sself 03baba3a
+Se 7cb4e341
+Spos 97e237e2
+TRealPath.BadPosition
+R44faa68c 2 00000000 1
+Sself 03baba3a
+Spos 97e237e2
+TRealPath.BadPosition
+Rdc73680e 2 7cb4e341 1
+Sself 03baba3a
+Spos 97e237e2
+TRealPath.BadPosition
+DRealPath
+CRealRect
+CRealPoint
+CRealTransform
+CMath
+CRTHooks
+E73d5f84c RealPath.ElemList
+Q510352d5 aefcad2a
+Z03baba3a 08943145
+@RealInterval.m3
+ARealInterval
+Q1ea8ee83 e157117c
+R350d31df 2 00000000 0
+Sa 1ea8ee83
+Sb 48e16572
+R77717d46 1 00000000 0
+Smsg 50f86574
+DRealInterval
+CText
+CWord
+CRTHooks
+Qcad7c076 35283f89
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+@PathExtra.m3
+APathExtra
+Vcd5c95d7 d4658076 1 0 4 128
+Xmove PathExtra.PathBoundsMove
+Xline PathExtra.PathBoundsLine
+Xclose PathExtra.PathBoundsClose
+Xcurve PathExtra.PathBoundsCurve
+Lbounds 0 128 ae44e05e
+Q8edf06bb 7120f944
+R1b29b68f 2 00000000 0
+Sself cd5c95d7
+Spt 8edf06bb
+Rc160953e 3 00000000 0
+Sself cd5c95d7
+Spt1 8edf06bb
+Spt2 8edf06bb
+R8be10625 5 00000000 0
+Sself cd5c95d7
+Spt1 8edf06bb
+Spt2 8edf06bb
+Spt3 8edf06bb
+Spt4 8edf06bb
+Qc4ff01ce 3b00fe31
+Rd5d74f79 1 00000000 0
+Spt c4ff01ce
+V208784f8 7486eb6f 2 1 5 224
+WtransformPoint d5d74f79 PathExtra.TransformPoint
+Xmove PathExtra.ConvertToPathMove
+Xline PathExtra.ConvertToPathLine
+Xclose PathExtra.ConvertToPathClose
+Xcurve PathExtra.ConvertToPathCurve
+Xarc PathExtra.ConvertToPathArc
+Lpath 0 32 cb9bb6eb
+Lmatrix 32 192 0fda5608
+R8b9794e4 2 00000000 0
+Sself 208784f8
+Spt c4ff01ce
+R40e8e167 2 00000000 0
+Sself 208784f8
+Sr c4ff01ce
+R4aeb2d41 1 00000000 0
+Sself 208784f8
+R08562d2a 4 00000000 0
+Sself 208784f8
+Spt2 c4ff01ce
+Spt3 c4ff01ce
+Spt4 c4ff01ce
+Qb71e9a8d 48e16572
+Re3feec08 5 00000000 0
+Sself 208784f8
+Scenter c4ff01ce
+Sradius b71e9a8d
+Sang1 b71e9a8d
+Sang2 b71e9a8d
+DPathExtra
+CMath
+CRealTransform
+CRect
+CRealPoint
+CPoint
+CRealPath
+CPath
+CRTHooks
+Qfc4545c5 03baba3a
+Qf025a9f7 0fda5608
+Q34644914 cb9bb6eb
+Q51bb1fa1 ae44e05e
+Ecd5c95d7 PathExtra.PathBoundsClosure
+E208784f8 PathExtra.ConvertToPathClosure
+@PathExtra.i3
+BPathExtra
+Qfc4545c5 03baba3a
+Qf025a9f7 0fda5608
+R7d87aa59 2 cb9bb6eb 0
+SrealPath fc4545c5
+Smatrix f025a9f7
+Q34644914 cb9bb6eb
+R7eb60744 1 00000000 0
+Spath 34644914
+DPathExtra
+CRealTransform
+CRect
+CRealPath
+CPath
+CRTHooks
+@RealPath.i3
+BRealPath
+R7b78c34f 0 00000000 0
+Qc4ff01ce 3b00fe31
+R7b38e15d 1 00000000 0
+Sp c4ff01ce
+Qb71e9a8d 48e16572
+R547cb698 4 00000000 0
+Scenter c4ff01ce
+Sradius b71e9a8d
+Sang1 b71e9a8d
+Sang2 b71e9a8d
+Re5f52b06 3 00000000 0
+Sq c4ff01ce
+Sr c4ff01ce
+Ss c4ff01ce
+Rcd74dae2 0 00000000 1
+TRealPath.NoCurrentPoint
+Y03baba3a 03baba39
+R03baba38 1 03baba3a 0
+Sdelta c4ff01ce
+R03baba3f 0 03baba3a 0
+R7b7b73a8 3 00000000 0
+Sp c4ff01ce
+Sq c4ff01ce
+Sr c4ff01ce
+V7486eb6f 9d8fb489 0 5 0 0
+Wmove 7b38e15d
+Wline 7b38e15d
+Warc 547cb698
+Wclose 7b78c34f
+Wcurve 7b7b73a8
+Rabbd9e52 1 00000000 0
+Smap 7486eb6f
+Qf025a9f7 0fda5608
+R75c963e1 1 00000000 0
+Smatrix f025a9f7
+R5c4c299e 0 97e237e2 0
+V7cb4e341 9d8fb489 0 0 0 0 RealPath_^%#%^__0001I
+Ra7a59c76 2 00000000 1
+Se 7cb4e341
+Spos 97e237e2
+TRealPath.BadPosition
+R96fd875a 1 00000000 1
+Spos 97e237e2
+TRealPath.BadPosition
+R75a3862a 1 7cb4e341 1
+Spos 97e237e2
+TRealPath.BadPosition
+V03baba39 9d8fb489 0 18 0 0
+Winit 7b78c34f
+WmoveTo 7b38e15d
+WlineTo 7b38e15d
+WarcTo 547cb698
+WcurveTo e5f52b06
+Wclose 7b78c34f
+WisEmpty 52ab93a7
+WisClosed 52ab93a7
+WcurrentPoint cd74dae2
+Wtranslate 03baba38
+Wcopy 03baba3f
+Wmap abbd9e52
+Wbbox 75c963e1
+WnbElement 5c4c299e
+WinsertElement a7a59c76
+WreplaceElement a7a59c76
+WremoveElement 96fd875a
+WgetElement 75a3862a
+V5583f28d 7cb4e341 1 0 0 64 RealPath_^%#%^__0002I
+Lpt 0 64 3b00fe31
+V58c61756 7cb4e341 1 0 0 64 RealPath_^%#%^__0003I
+Lpt 0 64 3b00fe31
+V5e2657f8 7cb4e341 1 0 0 64 RealPath_^%#%^__0004I
+Lpt 0 64 3b00fe31
+V0838253a 7cb4e341 3 0 0 192 RealPath_^%#%^__0005I
+Lp 0 64 3b00fe31
+Lq 64 64 3b00fe31
+Lr 128 64 3b00fe31
+V58e95688 7cb4e341 4 0 0 160 RealPath_^%#%^__0006I
+Lcenter 0 64 3b00fe31
+Lradius 64 32 48e16572
+Lang1 96 32 48e16572
+Lang2 128 32 48e16572
+DRealPath
+CRealRect
+CRealPoint
+CRealTransform
+CRTHooks
+E03baba3a RealPath.T
+E03baba39 RealPath.PublicT
+E7486eb6f RealPath.MapObject
+E7cb4e341 RealPath.Element
+E5583f28d RealPath.LineElem
+E58c61756 RealPath.MoveElem
+E5e2657f8 RealPath.CloseElem
+E0838253a RealPath.CurveElem
+E58e95688 RealPath.ArcElem
+@RealRect.i3
+BRealRect
+Kaefcad2a 128 4
+Lwest 0 32 48e16572
+Least 32 32 48e16572
+Lnorth 64 32 48e16572
+Lsouth 96 32 48e16572
+H8f58f571 4 8
+IW
+IE
+IN
+IS
+Hc58b426e 4 8
+INW
+INE
+ISW
+ISE
+R11cc19dc 4 00000000 0
+Sw 48e16572
+Se 48e16572
+Sn 48e16572
+Ss 48e16572
+Rb84540d7 4 00000000 0
+Sh1 48e16572
+Sh2 48e16572
+Sv1 48e16572
+Sv2 48e16572
+Qc4ff01ce 3b00fe31
+R10acceae 1 00000000 0
+Sp c4ff01ce
+R75fc7c60 2 00000000 0
+Sp c4ff01ce
+Sq c4ff01ce
+Re0ec074c 3 00000000 0
+Sp c4ff01ce
+Shor 48e16572
+Sver 48e16572
+R8ef891f6 2 00000000 0
+Shor 48e16572
+Sver 48e16572
+Q510352d5 aefcad2a
+R89732395 2 00000000 0
+Sr 510352d5
+Sp c4ff01ce
+Q1ea8ee83 e157117c
+R3091cf1d 2 00000000 0
+Shor 1ea8ee83
+Sver 1ea8ee83
+R3972d1c4 3 00000000 0
+Saxis 9952f271
+Sn 1ea8ee83
+Sm 1ea8ee83
+Rd08a99dd 1 00000000 0
+Sr 510352d5
+R2f9739b1 2 00000000 0
+Sv c58b426e
+Sr 510352d5
+R0dc175b8 1 48e16572 0
+Sr 510352d5
+Rb622aa3c 2 48e16572 0
+Sa 9952f271
+Sr 510352d5
+Re33841df 2 8f58f571 0
+Sr 510352d5
+Sp c4ff01ce
+R34ade7e6 2 c58b426e 0
+Sr 510352d5
+Sp c4ff01ce
+R96d45c60 2 00000000 0
+Sr 510352d5
+Sp c4ff01ce
+R8be4cef6 2 00000000 0
+Sr 510352d5
+Sh 48e16572
+R5826d468 2 00000000 0
+Sr 510352d5
+Sv 48e16572
+Readffe26 3 00000000 0
+Sr 510352d5
+Sh 48e16572
+Sv 48e16572
+Re5bc045d 3 00000000 0
+Sr 510352d5
+Snum 48e16572
+Sden 48e16572
+Rf5b3dbe5 5 00000000 0
+Sr 510352d5
+Sdw 48e16572
+Sde 48e16572
+Sdn 48e16572
+Sds 48e16572
+R92c45d02 2 00000000 0
+Sr 510352d5
+Sn 48e16572
+R0ec78c20 2 00000000 0
+Sr 510352d5
+Sax 9952f271
+Rdb5ce5f4 3 00000000 0
+Sr 510352d5
+Se 8f58f571
+Sdn 48e16572
+R6cd55884 3 00000000 0
+Sr 510352d5
+Sv c58b426e
+Sdp c4ff01ce
+Rabe0cfbb 4 00000000 0
+Sr 510352d5
+Saxis 9952f271
+Slo 48e16572
+Shi 48e16572
+Rdc4cf52a 2 00000000 0
+Sr 510352d5
+Ss 510352d5
+Ra0dead1c 5 00000000 0
+Shv 9952f271
+Sr 510352d5
+Sn 48e16572
+Ss 510352d5
+St 510352d5
+N8e2831d7 195c2a74 0 4 8
+F71b381ea 8e2831d7 aefcad2a 640
+Q8e4c7e15 71b381ea
+R36064eef 5 00000000 0
+Sr 510352d5
+Ss 510352d5
+Sf 8e4c7e15
+Sdh 48e16572
+Sdv 48e16572
+R3f64d52a 2 00000000 0
+Sp c4ff01ce
+Sr 510352d5
+R6a368bad 2 1e59237d 0
+Sr 510352d5
+Ss 510352d5
+R795798af 1 1e59237d 0
+Sr 510352d5
+R96b9d458 2 1e59237d 0
+Sp c4ff01ce
+Sr 510352d5
+P5a8fde47 aefcad2a
+R21fa7b3c 1 5a8fde47 0
+Svalue 510352d5
+Gfe4a50a6 aefcad2a 64
+Pe7c9cc14 fe4a50a6
+R775c11d7 2 e7c9cc14 0
+Ssize 97e237e2
+Svalue 510352d5
+O6034ede5 aefcad2a
+Re5ebe39c 1 6034ede5 0
+Svalue 510352d5
+Odd72ffb6 fe4a50a6
+Rb34d8977 2 dd72ffb6 0
+Ssize 97e237e2
+Svalue 510352d5
+Rb1726ed3 2 195c2a74 0
+Sa 510352d5
+Sb 510352d5
+R0d42b329 2 1e59237d 0
+Sa 510352d5
+Sb 510352d5
+R6e715708 1 195c2a74 0
+Sa 510352d5
+DRealRect
+CRealPoint
+CRealInterval
+CAxis
+CRTHooks
+Eaefcad2a RealRect.T
+E8f58f571 RealRect.Edge
+Ec58b426e RealRect.Vertex
+E71b381ea RealRect.Partition
+@RealInterval.i3
+BRealInterval
+Ke157117c 64 2
+Llo 0 32 48e16572
+Lhi 32 32 48e16572
+H0d82b3e5 2 8
+ILo
+IHi
+R14f834d7 2 00000000 0
+Slo 48e16572
+Shi 48e16572
+R102926bd 2 00000000 0
+Sn 48e16572
+Sm 48e16572
+R3e0084f8 2 00000000 0
+Slo 48e16572
+Ss 48e16572
+R34a71c08 1 00000000 0
+Ss 48e16572
+Q1ea8ee83 e157117c
+Ra60b101e 2 00000000 0
+Sa 1ea8ee83
+Sn 48e16572
+Radc504cf 1 48e16572 0
+Sa 1ea8ee83
+Rddc0c523 2 0d82b3e5 0
+Sa 1ea8ee83
+Sn 48e16572
+R885c2107 2 48e16572 0
+Sa 1ea8ee83
+Sn 48e16572
+Rd9cddaeb 3 00000000 0
+Sa 1ea8ee83
+Sdlo 48e16572
+Sdhi 48e16572
+Rd3cf272f 3 00000000 0
+Sx 0d82b3e5
+Sa 1ea8ee83
+Sdn 48e16572
+R263576b7 2 00000000 0
+Sa 1ea8ee83
+Sb 1ea8ee83
+R3b29ed72 4 00000000 0
+Sa 1ea8ee83
+Sn 48e16572
+Sb 1ea8ee83
+Sc 1ea8ee83
+N882831d7 195c2a74 0 2 8
+F35283f89 882831d7 e157117c 192
+Qcad7c076 35283f89
+Rf314b173 4 00000000 0
+Sa 1ea8ee83
+Sby 1ea8ee83
+Sf cad7c076
+Sdn 48e16572
+R614fe808 2 48e16572 0
+Sn 48e16572
+Sa 1ea8ee83
+R7cf4aab9 2 1e59237d 0
+Sa 1ea8ee83
+Sb 1ea8ee83
+Rd953e9d8 1 1e59237d 0
+Sa 1ea8ee83
+R15d9051f 2 1e59237d 0
+Sn 48e16572
+Sa 1ea8ee83
+Pb6347cce e157117c
+R3c15c05a 1 b6347cce 0
+Svalue 1ea8ee83
+G12f1f22f e157117c 64
+Pf1341458 12f1f22f
+Rb73846b3 2 f1341458 0
+Ssize 97e237e2
+Svalue 1ea8ee83
+O8c8f4f6c e157117c
+Rf80458fa 1 8c8f4f6c 0
+Svalue 1ea8ee83
+Ocb8f27fa 12f1f22f
+R7329de13 2 cb8f27fa 0
+Ssize 97e237e2
+Svalue 1ea8ee83
+Rc0c47743 2 195c2a74 0
+Sa 1ea8ee83
+Sb 1ea8ee83
+R65633422 1 195c2a74 0
+Sa 1ea8ee83
+DRealInterval
+CRTHooks
+Ee157117c RealInterval.T
+E0d82b3e5 RealInterval.Bound
+E35283f89 RealInterval.Partition
+@RealTransform.i3
+BRealTransform
+N8f2831d7 195c2a74 0 5 8
+F0fda5608 8f2831d7 48e16572 192
+Qb71e9a8d 48e16572
+R8d502166 2 00000000 0
+Ssx b71e9a8d
+Ssy b71e9a8d
+R9dc297f4 2 00000000 0
+Stx b71e9a8d
+Sty b71e9a8d
+R25d6ff1f 1 00000000 0
+Sradians b71e9a8d
+Qf025a9f7 0fda5608
+Ra0c256c9 2 00000000 0
+Sm f025a9f7
+Sn f025a9f7
+R79f9f939 3 00000000 0
+Sl f025a9f7
+Sm f025a9f7
+Sn f025a9f7
+R7f4353c0 1 00000000 0
+Sm f025a9f7
+Qc4ff01ce 3b00fe31
+Rb6174ecd 2 00000000 0
+Sm f025a9f7
+Sp c4ff01ce
+DRealTransform
+CRealPoint
+CRTHooks
+E0fda5608 RealTransform.T
+@RealPoint.i3
+BRealPoint
+N8b2831d7 195c2a74 0 1 8
+F3b00fe31 8b2831d7 48e16572 64
+Rcc8df2e7 1 00000000 0
+Si 8b2831d7
+Qc4ff01ce 3b00fe31
+R53d41e53 2 1e59237d 0
+Sx c4ff01ce
+Sy c4ff01ce
+R28d86f9e 1 1e59237d 0
+Sx c4ff01ce
+R5c4e8289 1 48e16572 0
+Sx c4ff01ce
+R727e0b12 1 8b2831d7 0
+Sx c4ff01ce
+R2742f344 2 48e16572 0
+Sx c4ff01ce
+Sy c4ff01ce
+R73ad0ff3 3 48e16572 0
+Sx c4ff01ce
+Sy c4ff01ce
+Seps 48e16572
+R0f672d4a 2 48e16572 0
+Sp0 c4ff01ce
+Sp1 c4ff01ce
+Rfa091f21 2 00000000 0
+Sx c4ff01ce
+Sy c4ff01ce
+R81056eec 1 00000000 0
+Sx c4ff01ce
+R71e9d8fa 2 00000000 0
+Salpha 48e16572
+Sx c4ff01ce
+R724a45ee 2 00000000 0
+Sx c4ff01ce
+Sdelta 48e16572
+Rc7cf879c 4 00000000 0
+Sx c4ff01ce
+Salpha 48e16572
+Sy c4ff01ce
+Sbeta 48e16572
+R6cc67f9a 1 48e16572 0
+Sx 48e16572
+Ra271977e 2 00000000 0
+Sx c4ff01ce
+SF 6cc67f9a
+R8c34a49d 1 00000000 0
+Sp1 c4ff01ce
+R88cb091a 3 00000000 0
+Slo 48e16572
+Shi 48e16572
+Ssrc 484193f3
+Rfdf1a298 1 50f86574 0
+Sx c4ff01ce
+DRealPoint
+CRandom
+CRTHooks
+E8b2831d7 RealPoint.Axis
+E3b00fe31 RealPoint.Point
+E3b00fe31 RealPoint.T
+E6cc67f9a RealPoint.Function

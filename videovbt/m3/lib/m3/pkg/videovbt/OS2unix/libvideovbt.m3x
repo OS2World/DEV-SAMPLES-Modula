@@ -1,0 +1,739 @@
+M3 v4.2
+N0 AudioVBT
+
+M0 1 13 0 4 7 3 23 0 0 29 0 0
+A0
+N1 OSError
+B1
+N2 Thread
+B2
+N3 VBTClass
+B3
+N4 VBT
+B4
+N5 Rect
+B5
+N6 RdUtils
+B6
+N7 JVConverter
+B7
+N8 JVAudio
+B8
+N9 Jva
+B9
+N10 Filter
+B10
+N11 AtomList
+B11
+N12 RTHooks
+B12
+B0
+N13 FilterClass
+C13
+N14 MouseSplit
+C14
+N15 VBTRep
+C15
+N16 Jv
+C16
+D0
+D13
+D3
+D4
+D15
+N17 ThreadPosix
+D17
+D16
+N18 SetMute
+V0 0 18 edff2dfc2d441b28
+J0
+N19 SetIgnoreMapping
+V1 0 19 654191478985e41d
+J1
+N20 SetVolume
+V2 0 20 4c3206061c73faf9
+J2
+N21 E
+V3 1 21 cf6675a7480ffceb
+i3
+N22 Alerted
+V4 2 22 3ae605d9dcac0a20
+i4
+N23 T
+V5 0 23 730a91907f6c9601
+i5
+N24 Public
+V6 0 24 c98d00af1ee596df
+i6
+N25 New
+V7 8 25 a3f979aa522e518c
+i7
+N26 ReportFault
+V8 12 26 0d3292e6ba1d83b9
+i8
+N27 Congruent
+V9 5 27 8607183d26a01b73
+i9
+N28 Deleted
+V10 4 28 a0fb3e44691eb4cb
+i10
+N29 Disconnected
+V11 4 29 964f69f3b14bb8d4
+i11
+N30 LockMutex
+V12 12 30 aadb4dceb8fdb245
+i12
+N31 UnlockMutex
+V13 12 31 461a55ce41bab49a
+i13
+N32 IsEmpty
+V14 5 32 3d7fd52b811f4cc7
+i14
+N33 FailureText
+V15 6 33 9dc55ba8a9cc482d
+i15
+N34 Concat
+V16 12 34 a7c87e88a25211fd
+i16
+N35 ReportError
+V17 7 35 fb1df8b4e3f3e5c4
+i17
+V18 4 23 8dbb28d5496e41df
+i18
+N36 ReshapeRec
+V19 4 36 104c31540065128c
+i19
+N37 RescreenRec
+V20 4 37 b260a5bfa53fb906
+i20
+N38 MiscRec
+V21 4 38 80b3650e98613ec4
+i21
+V22 8 23 533359ae3f4bf01d
+i22
+N39 Volume
+V23 9 39 68be6eb37bda0ab5
+i23
+V24 10 23 81ad9c17d6c6d3aa
+i24
+V25 11 23 72fb61c8cbd3b5a0
+i25
+t0a1b61cb
+t748e954e
+t0a1b61c8
+t3b6c825d
+t5d2f63b9
+tad398276
+t1d03796d
+ta4f5a0b2
+t1ebdeeb3
+t55c33eb5
+t2e59f4e8
+tf61cdfce
+ta3dd4856
+ta4fe5dab
+tc0cc0711
+t42d5addc
+t3a94f8ff
+tdcd7b60a
+ta3dd4855
+ta6a06b63
+tae44e05e
+t2cdd961d
+tc757eb75
+ta8e948d3
+t16de9eff
+tc98234f9
+t9054cc80
+t97f166d3
+tc5673195
+o16 407b3431 1541f475 0 8 64
+p16 407b3432 407b3431 64 32 0
+p17 1541f475 9d8fb489 64 32 0
+o3 42d5addc 1541f475 224 32 64
+o15 3a94f8ff 42d5addc 224 32 0
+o4 c757eb75 3a94f8ff 0 8 384
+p15 3b6c825d c757eb75 0 8 0
+p4 3f4e1f24 3b6c825d 0 8 0
+o3 a4fe5dab 3f4e1f24 0 8 704
+o14 430c0640 a4fe5dab 64 32 0
+p3 c0cc0711 430c0640 0 8 0
+o10 a3dd4855 c0cc0711 0 8 32
+o13 db612997 a3dd4855 32 32 0
+p13 a3dd4856 db612997 0 8 0
+O41c22347 0a1b61cb 64 32 0
+O0a1b61c8 0a1b61cb 64 32 0
+x3 3a94f8ff 42d5addc
+x3 c0cc0711 a4fe5dab
+R0 0a1b61c8 41c22347
+N40 VideoVBT
+
+M40 2 36 0 5 12 2 96 0 0 86 0 0
+N41 VideoVBTRep
+A41
+A40
+B1
+B2
+N42 Picture
+B42
+N43 XScrnCmap
+B43
+N44 XScreenType
+B44
+N45 Word
+B45
+B3
+B4
+N46 TrestleOnX
+B46
+N47 TrestleComm
+B47
+N48 TrestleClass
+B48
+N49 Trestle
+B49
+N50 Time
+B50
+N51 Tick
+B51
+N52 Stdio
+B52
+N53 ScreenType
+B53
+N54 Region
+B54
+B5
+B6
+N55 Point
+B55
+N56 JVSink
+B56
+N57 JvsBuffer
+B57
+N58 Jvs
+B58
+N59 JVDecompPool
+B59
+N60 JVDecomp
+B60
+N61 JVFromDecomp
+B61
+B7
+N62 JVBuffer
+B62
+N63 IO
+B63
+N64 BasicCtypes
+B64
+N65 Axis
+B65
+B11
+N66 Atom
+B66
+B12
+B41
+B40
+C15
+C16
+N67 ProperSplit
+C67
+C14
+N68 JVConverterF
+C68
+D40
+D4
+D15
+D17
+D61
+D57
+D62
+D16
+N69 ScrnColorMap
+D69
+D49
+D67
+D3
+N70 SetPictureParams
+V26 41 70 c342641f02c5b559
+J26
+N71 GetPictureParams
+V27 41 71 47d4c99e37f41def
+J27
+i3
+i4
+N72 ScreenTypeNotSupported
+V28 42 72 3a2e82a17522da34
+i28
+N73 Buffer
+V29 41 73 cfe92578108d191a
+i29
+N74 BufferPublic
+V30 41 74 b8c0c733f6783127
+i30
+N75 Factory
+V31 41 75 31fa260868fc1593
+i31
+N76 PublicFactory
+V32 41 76 3bea6d50ec17cb73
+i32
+V33 40 23 b063e6eee55c0a3d
+i33
+V34 40 24 05314bb48b32be56
+i34
+V35 4 53 2c8d95ee4cc79a1e
+i35
+N77 TrestleFail
+V36 42 77 132aee5243252135
+i36
+i8
+i12
+N78 Allocate
+V37 12 78 3dcfa7ba250fc60e
+i37
+V38 42 25 a90f1ce57db328bf
+i38
+N79 AttachData
+V39 42 79 b4eb5432bcd60dc9
+i39
+i13
+N80 Raise
+V40 12 80 1b0688c0a3d5dfab
+i40
+N81 FromText
+V41 66 81 08317607d3cc9b05
+i41
+N82 List2
+V42 11 82 252c6aa81bf1fef5
+i42
+N83 Fork
+V43 2 83 c1d71f5b7525a200
+i43
+N84 Pause
+V44 2 84 576731dca77ed376
+i44
+N85 Supported
+V45 42 85 a14f815813d8c23b
+i45
+N86 Image
+V46 42 86 c78e747a8fe4999f
+i46
+N87 DetachData
+V47 42 87 d4d2e91c1df81675
+i47
+N88 Put
+V48 63 88 5fd04528e93aea51
+i48
+N89 stderr
+V49 52 89 9d726ab4a6705813
+i49
+N90 Paint
+V50 42 90 86ae3075c04c1e9b
+i50
+N91 NorthWest
+V51 5 91 cb95409a39a45081
+i51
+i9
+N92 ScreenOf
+V52 49 92 c557832e9dd67726
+i52
+N93 ColorMapID
+V53 43 93 8662cf20efd98b87
+i53
+N94 HorSize
+V54 5 94 eaf579a04274e2e5
+i54
+N95 VerSize
+V55 5 95 d955d00c6e541325
+i55
+N96 Signal
+V56 2 96 d7159aa93748f780
+i56
+N97 linePadding
+V57 58 97 2d68db81ccf08728
+i57
+i10
+i11
+N98 Visibility
+V58 46 98 5908682ed32ff5c9
+i58
+N99 NewShape
+V59 4 99 9e720097e3afb811
+i59
+N100 Alert
+V60 2 100 4856d95f854bdf77
+i60
+N101 Wait
+V61 2 101 79e19abf45d74e1d
+i61
+N102 Now
+V62 50 102 b0f3ac11eb79a424
+i62
+N103 Error
+V63 7 103 a5ef88a5f62cf189
+i63
+N104 Closed
+V64 62 104 b321529e93af632b
+i64
+N105 AlertWait
+V65 2 105 afaeb10af6b51d3d
+i65
+N106 AlertPause
+V66 2 106 a5e117d68f5c0315
+i66
+N107 TestAlert
+V67 2 107 f78134fffc67913a
+i67
+V68 51 102 10bdbfc95c480c65
+i68
+i15
+i16
+i17
+N108 Subtype
+V69 57 108 dba8a1473b33d7c0
+i69
+N109 GetDecomp
+V70 59 109 c1d4f102354cfec5
+i70
+N110 RegisterErrorReporter
+V71 7 110 da3091302568430b
+i71
+N111 toStderr
+V72 7 111 58fe2fad02c65a62
+i72
+V73 44 23 42db516e9c9bc097
+i73
+N112 Plus
+V74 45 112 98143ff4c29a1564
+i74
+N113 Minus
+V75 45 113 c36e254eabe1cb0a
+i75
+N114 Leaf
+V76 4 114 d50553407b0b3d96
+i76
+i19
+i20
+i21
+N115 NullDetail
+V77 4 115 0918d2a25d3aa805
+i77
+N116 SizeRange
+V78 4 116 40b24d250f0724bf
+i78
+N117 DefaultShape
+V79 4 117 fc91c123f9a72075
+i79
+N118 VisibilityUnobscured
+V80 46 118 98de651cb59a2f88
+i80
+N119 VisibilityFullyObscured
+V81 46 119 c632f6e31beaabb3
+i81
+N120 Failure
+V82 47 120 18454d7832fa602c
+i82
+V83 2 23 e960631e60cc8cb7
+i83
+N121 Condition
+V84 2 121 ac3fcdbdd5eb709f
+i84
+N122 Closure
+V85 2 122 0a96c30158cc8fa2
+i85
+V86 54 23 525f0520f760ffae
+i86
+N123 Empty
+V87 5 123 905b60581be0a4ab
+i87
+N124 Full
+V88 5 124 cc07188c28a437fc
+i88
+N125 Origin
+V89 55 125 93383f37fdb8f6f5
+i89
+V90 42 23 e9a37f21a409c08d
+i90
+N126 SharedMemInfo
+V91 42 126 82a4cea373db2d4a
+i91
+N127 Quality
+V92 56 127 75dd7ae2f8cfddc5
+i92
+N128 DefaultQuality
+V93 56 128 3d82e06f8ed54e22
+i93
+V94 57 23 e099e3cd68fc4eb8
+i94
+N129 DcmpParams
+V95 58 129 ef2cc0bebffe4400
+i95
+N130 DefaultDecompress
+V96 58 130 06c2fd842bbc584a
+i96
+N131 Id
+V97 58 131 8f72369b85d9f408
+i97
+N132 ColormapInfo
+V98 58 132 fbf170ecde702a22
+i98
+N133 IdNone
+V99 58 133 f226dfb715ed46d3
+i99
+V100 58 23 554267831e4e62e6
+i100
+V101 60 23 343ab7a0b299d659
+i101
+N134 Statistics
+V102 60 134 f966493b8c70823f
+i102
+V103 61 23 20d4905e1488f6ef
+i103
+V104 61 75 aa3e76adc6b42157
+i104
+V105 62 23 93a4a2c5af9db154
+i105
+V106 62 75 130e74f9555eb776
+i106
+N135 Pool
+V107 62 135 6eb450b35fba72da
+i107
+N136 int
+V108 64 136 a9967710eaa7e04b
+i108
+V109 65 23 116470a9c8e89010
+i109
+t97fc53ed
+t3b98b6b7
+tdbb7a424
+t95cc597c
+tac4028c7
+ta2edf918
+t1079acea
+tadc6066d
+tad398276
+te8cdd9cc
+t4b16b0ed
+t0385a567
+te545939d
+tc485d093
+tb23e11d6
+t7120f944
+t29a4581d
+t3ad488ef
+t98c037d5
+t7bd3d641
+t57f0a1b6
+t708eee20
+tb23e11d5
+td20da2a2
+t1d03796d
+t9f6b3ec2
+ta4f5a0b2
+tfb574fbb
+t9952f271
+t1ebdeeb3
+td546af72
+t520ee108
+ted843287
+t555dabd5
+t7f9a0a25
+tde9602cd
+t3f4e1f24
+t42d5addc
+t3a94f8ff
+t1bcb487a
+tc8442bdd
+tfeafe497
+t1079ace9
+ta6a06b63
+t16de9eff
+t7cfe252f
+t3f568468
+t10013d72
+tbd599078
+tc472454b
+tca0cd9f9
+t6a72b7ef
+td2de6ccc
+tce1f5a3f
+t094a81de
+t831d2438
+t831d2439
+t3e354d20
+t43604b73
+t62761487
+tae44e05e
+t1687c318
+te83b4405
+t2cdd961d
+tc757eb75
+tceda9fe0
+t68b647cf
+tc7658ec0
+t4f2b3ae5
+ta8e948d3
+tf3a6cedc
+t453f1812
+t202e1015
+t7f103f6e
+te4e28466
+te5259789
+tbfd23ea6
+t52ab93a7
+tee9b4e5d
+t9054cc80
+t97f166d3
+tc5673195
+te84ce7c7
+t28d5e2d1
+t0b148bab
+t22bebfc6
+o68 38d46eee 1541f475 160 32 192
+o3 a4fe5dab 3f4e1f24 0 8 704
+o14 430c0640 a4fe5dab 64 32 0
+p3 c0cc0711 430c0640 0 8 0
+o67 9457f14d c0cc0711 32 32 0
+p67 df7dbaed 9457f14d 0 8 0
+p49 ffc42642 df7dbaed 0 8 0
+p69 3d0e83e6 9d8fb489 0 8 0
+o16 407b3431 1541f475 0 8 64
+p16 407b3432 407b3431 64 32 0
+o62 1079ace9 1541f475 320 32 64
+p62 1079acea 1079ace9 96 32 32
+o62 0385a567 9d8fb489 32 32 96
+o57 204c301e 0385a567 0 8 64
+p57 204c301d 204c301e 64 32 0
+o61 de9602ce 204c301d 0 8 32
+p61 de9602cd de9602ce 0 8 0
+p17 1541f475 9d8fb489 64 32 0
+o3 42d5addc 1541f475 224 32 64
+o15 3a94f8ff 42d5addc 224 32 0
+o4 c757eb75 3a94f8ff 0 8 384
+p15 3b6c825d c757eb75 0 8 0
+p4 3f4e1f24 3b6c825d 0 8 0
+Oac8f56b6 97fc53ed 256 32 0
+Ofc6769f5 e8cdd9cc 96 32 0
+Od5cc9c48 b23e11d6 1088 32 0
+Obec60e69 e545939d 32 32 0
+Od71440c8 e545939d 32 32 0
+Oc0214853 e545939d 0 8 0
+Oac4028c7 97fc53ed 256 32 0
+Oa2edf918 e8cdd9cc 96 32 0
+Ob23e11d5 b23e11d6 1088 32 0
+x53 3b98b6b7 feafe497
+x48 c8442bdd 1bcb487a
+R40 ac4028c7 ac8f56b6
+R40 a2edf918 fc6769f5
+R40 b23e11d5 d5cc9c48
+x3 3a94f8ff 42d5addc
+
+I41 1 8 0 0 0 0 10 4 2 9 8 0
+A41
+B1
+B42
+B40
+B4
+B58
+B56
+B61
+B12
+i3
+i28
+i33
+i35
+i95
+i98
+i92
+i103
+i104
+i90
+E29
+E30
+E31
+E32
+e26
+e27
+t7f9a0a25
+tdbb7a424
+tde9602cd
+t3b98b6b7
+tad398276
+tb23e11d5
+t29a4581d
+tc485d093
+t3ad488ef
+T07fc69bb
+T97fc53ed
+Tac4028c7
+T00299270
+Te8cdd9cc
+Ta2edf918
+Td546af72
+T520ee108
+Qa2edf918 e8cdd9cc
+Qac4028c7 97fc53ed
+O97fc53ed 7f9a0a25 0 8 32
+Oe8cdd9cc de9602cd 0 8 32
+
+I40 1 4 0 0 0 0 4 2 0 6 11 0
+A40
+B4
+B56
+B60
+B12
+i76
+i92
+i101
+i102
+E33
+E34
+t3f4e1f24
+t29a4581d
+t7bd3d641
+t9f3692cc
+t7b78c34f
+t708eee20
+Tb23e11d5
+Tb23e11d7
+Tca6472cf
+T7c089531
+T4bdd8229
+T483f7772
+T7259ee20
+Tbb4d18d3
+Tde53f4a0
+T3f7e896f
+Tb23e11d6
+Qb23e11d5 b23e11d6
+Ob23e11d6 3f4e1f24 0 8 384
+
+I0 1 6 0 0 0 0 5 2 3 4 6 0
+A0
+B1
+B2
+B4
+B9
+B10
+B12
+i3
+i4
+i18
+i23
+i24
+E5
+E6
+e0
+e1
+e2
+ta3dd4856
+t3b6c825d
+t5d2f63b9
+tad398276
+T0a1b61c8
+T0a1b61ca
+T0a1b61cb
+T55c33eb5
+T2e59f4e8
+Tf61cdfce
+Q0a1b61c8 0a1b61cb
+O0a1b61cb a3dd4856 0 8 32

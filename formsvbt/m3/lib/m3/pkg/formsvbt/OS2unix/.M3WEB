@@ -1,0 +1,2328 @@
+RefListUtils.m3 295
+Macro.m3 3339
+Manpage.m3 1313
+FVRuntime.m3 13025
+FormsVBT.m3 9838
+StubImageVBT.m3 372
+StubImageRd.m3 286
+RefListUtils.i3 389
+Macro.i3 265
+Manpage.i3 451
+FVRuntime.i3 2551
+FVTypes.i3 5537
+FormsVBT.i3 5703
+StubImageVBT.i3 345
+StubImageRd.i3 306
+StubImages.i3 98
+$ 0
+@RefListUtils.m3
+ARefListUtils
+R5337cbcb 2 b95a4f1b 0
+Sz b95a4f1b
+Sitem 1c1c45e6
+R1c26600b 2 1e59237d 0
+Sa 1c1c45e6
+Sb 1c1c45e6
+P98634dd7 48e16572
+P5abcb701 94fe32f6
+P7f556bfc 9ee024e3
+Rcc8726ce 2 b95a4f1b 0
+Sl b95a4f1b
+Sn 97e237e2
+DRefListUtils
+CText
+CRefList
+CAtom
+CRTHooks
+Q46a5b0e4 b95a4f1b
+@Macro.m3
+AMacro
+P107ba7fe fad65da8
+R0c171713 2 1c1c45e6 1
+Sop 0c171710
+Sd 107ba7fe
+TFormsVBT.Error
+V0c171710 9d8fb489 3 0 0 96
+Ltc 0 32 195c2a74
+Largs 32 32 b95a4f1b
+Leval 64 32 0c171713
+V9b4461a2 9d03182d 4 0 1 128 Macro_^%#%^__0001M
+Xapply Macro.Apply
+Lname 0 32 d1d9dd0e
+Lformals 32 32 b95a4f1b
+Lexpander 64 32 0c171710
+Lboa 96 8 1e59237d
+Pe2121af9 97e237e2
+V67efdc95 d61dea16 1 0 0 32
+LbqLevel 0 32 e2121af9
+R07910025 1 c07e79f1 1
+Slist b95a4f1b
+TFormsVBT.Error
+R044b5f6c 2 00000000 1
+Smsg 50f86574
+Sx 1c1c45e6
+TFormsVBT.Error
+Pecf5a0c0 1e59237d
+N8f2831d7 195c2a74 0 5 8
+F773c3083 8f2831d7 0c171710 192
+R95b624d6 3 0c171710 1
+Sexp 1c1c45e6
+Sformals b95a4f1b
+Stc 195c2a74
+TFormsVBT.Error
+R909bbc63 4 0c171710 1
+Sc 909bbc60
+Sargs b95a4f1b
+Sformals b95a4f1b
+Stc 195c2a74
+TFormsVBT.Error
+V909bbc60 9d8fb489 3 0 0 96
+Ltc 0 32 195c2a74
+Ln 32 32 97e237e2
+Lcompile 64 32 909bbc63
+Rfa1c01fc 2 1c1c45e6 1
+StypeName 50f86574
+Sarg 1c1c45e6
+TFormsVBT.Error
+R3d5d461c 2 1c1c45e6 1
+Sm c07e79f1
+Sactuals b95a4f1b
+TFormsVBT.Error
+Ree9e9050 2 00000000 1
+Smsg 50f86574
+Sactuals 1c1c45e6
+TFormsVBT.Error
+H870019e2 5 8
+IGE
+IGT
+ILE
+ILT
+IEQ
+V31395415 909bbc60 1 0 0 32
+Ltest 0 8 870019e2
+V62be7420 0c171710 1 0 0 32
+Ltest 0 8 870019e2
+R9a8f328a 4 00000000 0
+Ss d1d9dd0e
+Stc 195c2a74
+Sn 97e237e2
+Scompile 909bbc63
+Rcf7726d1 2 00000000 0
+Ss d1d9dd0e
+Stest 870019e2
+Re95f27f5 4 00000000 1
+STCwanted 195c2a74
+STCgonnaGet 195c2a74
+SargCountWanted 97e237e2
+SargCountGot 97e237e2
+TFormsVBT.Error
+R38995b97 4 0c171710 1
+Sself 909bbc60
+Sargs b95a4f1b
+Sformals b95a4f1b
+Stc 195c2a74
+TFormsVBT.Error
+R2cc4204b 2 1c1c45e6 0
+Sx 0c171710
+Sd 107ba7fe
+Raf7d1c68 2 1c1c45e6 1
+Sx 0c171710
+Sd 107ba7fe
+TFormsVBT.Error
+Rb93aa5c4 1 1c1c45e6 1
+Sexp 1c1c45e6
+TFormsVBT.Error
+R53aa0c32 2 1c1c45e6 0
+Scar 1c1c45e6
+Scdr 1c1c45e6
+R9c1a2487 1 1c1c45e6 1
+Sisum 195c2a74
+TFormsVBT.Error
+R4a903a34 1 1c1c45e6 1
+Srsum 48e16572
+TFormsVBT.Error
+R31731a2f 1 1c1c45e6 1
+Sbase 195c2a74
+TFormsVBT.Error
+Ref2b56bc 1 1c1c45e6 1
+Sbase 48e16572
+TFormsVBT.Error
+R1ae59bc2 1 1c1c45e6 0
+Sbase 1c1c45e6
+F87296ab0 1e59237d d1d9dd0e 64
+Rd0130f57 1 50f86574 1
+Sref 1c1c45e6
+TFormsVBT.Error
+R0cd1201e 1 1e59237d 1
+Sref 1c1c45e6
+TFormsVBT.Error
+R270124e7 1 50c57d3a 1
+Sref 1c1c45e6
+TFormsVBT.Error
+R55fb337a 1 98634dd7 1
+Sref 1c1c45e6
+TFormsVBT.Error
+R1e4b64db 1 b95a4f1b 1
+Sref 1c1c45e6
+TFormsVBT.Error
+R6de782c8 1 d1d9dd0e 1
+Sref 1c1c45e6
+TFormsVBT.Error
+Nd1b17c26 195c2a74 -1 2147483647 32
+R6888a4ec 2 d1b17c26 0
+Slist b95a4f1b
+Sitem 1c1c45e6
+Rec74a9cc 3 b95a4f1b 2
+Srm d61dea16
+Srd fa67ef2f
+Ssyntax a6aa7593
+TSx.ReadError
+TThread.Alerted
+Rd107dfb8 3 b95a4f1b 2
+Srm 67efdc95
+Srd fa67ef2f
+Ssyntax a6aa7593
+TSx.ReadError
+TThread.Alerted
+Vd3dcad61 67efdc95 0 0 0 0
+Xread Macro.ReadEqual
+V6cc4bdd3 67efdc95 0 0 0 0
+Xread Macro.ReadPercent
+V7a5e3f8f 67efdc95 0 0 0 0
+Xread Macro.ReadQuote
+V54c37e1e 67efdc95 0 0 0 0
+Xread Macro.ReadBackquote
+V18b589ad 67efdc95 0 0 0 0
+Xread Macro.ReadComma
+V3922acdf 67efdc95 0 0 0 0
+Xread Macro.ReadSharp
+DMacro
+CRefListUtils
+CThread
+CText
+CSx
+CRefList
+CRd
+CFVRuntime
+CFormsVBT
+CFmt
+CAtomRefTbl
+CAtom
+CASCII
+CRTHooks
+E67efdc95 Macro.ReadMacro
+E107ba7fe Macro.Display
+E909bbc60 Macro.Compiler
+E909bbc63 Macro.CProc
+E870019e2 Macro.Test
+E31395415 Macro.ComparisonCompiler
+E0c171710 Macro.Op
+E62be7420 Macro.ComparisonOp
+Zc07e79f1 9b4461a2
+Qe3e3ba19 1c1c45e6
+Q46a5b0e4 b95a4f1b
+@Manpage.m3
+AManpage
+V385f9e62 d86685b3 14 0 1 448
+Xapply Manpage.Help
+Lrd 0 32 ace7f2b7
+LrevRd 32 32 ace7f2b7
+Ltextport 64 32 db511c38
+Llength 96 32 97e237e2
+Ler 128 32 e8863bdc
+Lready 160 32 57f0a1b6
+Ldone 192 8 1e59237d
+Lhelpfindfirst 224 32 50f86574
+Lhelpfindnext 256 32 50f86574
+Lhelpfindprev 288 32 50f86574
+Lhelpfindtext 320 32 50f86574
+Lnotfound 352 32 50f86574
+Lhelpcase 384 32 50f86574
+LcaseSensitive 416 8 1e59237d
+V22566939 e545939d 3 0 1 96
+Xapply Manpage.ReadManpage
+Lt 0 32 385f9e62
+Lresource 32 32 50f86574
+Lpath 64 32 b95a4f1b
+R8ec17dc0 11 00000000 1
+Sfv 069d6b0b
+Sresource 50f86574
+Ser e8863bdc
+Shelpfindfirst 50f86574
+Shelpfindnext 50f86574
+Shelpfindprev 50f86574
+Shelpfindtext 50f86574
+Smanpagetext 50f86574
+Snotfound 50f86574
+Shelpcase 50f86574
+Spath b95a4f1b
+TFormsVBT.Error
+Rc6fbaadd 1 1c1c45e6 0
+Shtc 22566939
+R82d74b07 4 00000000 0
+St 385f9e62
+Sfv 069d6b0b
+Sname 50f86574
+Stime 195c2a74
+R266e9c9a 1 00000000 1
+Sstart 195c2a74
+TFormsVBT.Error
+Vf52e5230 e545939d 2 0 1 64
+Xapply Manpage.PopDownNotFound
+Lt 0 32 385f9e62
+Lfv 32 32 069d6b0b
+R3ea8c1b7 1 1c1c45e6 0
+Scl f52e5230
+DManpage
+CVText
+CVTDef
+CVBT
+CThread
+CTextPort
+CTextEditVBT
+CText
+CRsrc
+CRdUtils
+CRd
+CMTextRd
+CFormsVBT
+CFmt
+CRTHooks
+E385f9e62 Manpage.T
+E22566939 Manpage.HelpThreadClosure
+Ef52e5230 Manpage.PDNF
+Q3cee2905 c311d6fa
+@FVRuntime.m3
+AFVRuntime
+Pc2379906 dedd1bdc
+Pf41eff43 3647db33
+P867ae466 a67b16a0
+P275e4e24 1ebdeeb3
+Ve3bb0eae f0f9acad 11 0 8 352 FVRuntime_^%#%^__0001M
+Xinit FVRuntime.InitFromText
+XinitFromFile FVRuntime.InitFromFile
+XinitFromSx FVRuntime.InitFromSx
+XinitFromRd FVRuntime.InitFromRd
+XinitFromRsrc FVRuntime.InitFromRsrc
+XinitFromURL FVRuntime.InitFromURL
+Xsnapshot FVRuntime.Snapshot
+Xrestore FVRuntime.Restore
+Lmu 0 32 1541f475
+LgetVBT 32 32 265b110f
+LeventCount 64 32 97e237e2
+LkeyRec 96 32 c2379906
+LmouseRec 128 32 f41eff43
+LpositionRec 160 32 867ae466
+LmiscRec 192 32 275e4e24
+LeventCode 224 32 97e237e2
+LtimeStamp 256 32 195c2a74
+Lgensym 288 32 195c2a74
+Lraw 320 8 1e59237d
+R0868ef84 4 069d6b0b 3
+Sfv 069d6b0b
+Sfilename 50f86574
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+Ra222d017 4 069d6b0b 1
+Sfv 069d6b0b
+Sdescription 50f86574
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+Ra56e9db4 4 069d6b0b 3
+Sfv 069d6b0b
+Srd fa67ef2f
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+Rcb9db3f5 5 069d6b0b 3
+Sfv 069d6b0b
+Srd fa67ef2f
+Sraw 1e59237d
+Spath b95a4f1b
+SbaseURL 50f86574
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+H1b1e23c8 4 8
+IReadError
+IEndOfFile
+IFailure
+IAlerted
+V358fbfe5 dc6728f7 3 0 1 96
+Xapply FVRuntime.Read
+Lrd 0 32 fa67ef2f
+LerrType 32 8 1b1e23c8
+LerrArg 64 32 1c1c45e6
+R434d5a4d 1 1c1c45e6 0
+Src 358fbfe5
+Rb747c624 4 069d6b0b 4
+Sfv 069d6b0b
+Sname 50f86574
+Spath b95a4f1b
+Sraw 1e59237d
+TFormsVBT.Error
+TRd.Failure
+TRsrc.NotFound
+TThread.Alerted
+R7f303205 3 069d6b0b 3
+Sfv 069d6b0b
+SbaseURL 50f86574
+Sraw 1e59237d
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+Rcfdbaf8a 4 069d6b0b 1
+Sfv 069d6b0b
+Sdescription 1c1c45e6
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+Rae570ab2 5 069d6b0b 1
+Sfv 069d6b0b
+Sdescription 1c1c45e6
+Sraw 1e59237d
+Spath b95a4f1b
+SbaseURL 50f86574
+TFormsVBT.Error
+Vaaa33ae6 68de5ff9 0 0 3 0
+Xsucc FVRuntime.Succ
+Xpred FVRuntime.Succ
+Xreplace FVRuntime.Replace
+R16992ac8 3 00000000 0
+Sm aaa33ae6
+Sch 3b6c825d
+Snew 3b6c825d
+R65992ff6 2 3b6c825d 0
+Sm aaa33ae6
+Sch 3b6c825d
+R4bb5c39e 4 3b6c825d 1
+Sfv 069d6b0b
+Sparent 50f86574
+Sdescription 50f86574
+Sat 97e237e2
+TFormsVBT.Error
+P726af600 59b6bc46
+Rebc2117f 4 3b6c825d 3
+Sfv 069d6b0b
+Sparent 50f86574
+Sfilename 50f86574
+Sat 97e237e2
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+Rdf681e23 2 fa67ef2f 1
+Surl 50f86574
+Sbase 50f86574
+TFormsVBT.Error
+R85d751d6 2 1c1c45e6 0
+Sfv 069d6b0b
+Sname 50f86574
+Pecf5a0c0 1e59237d
+Rbc129ec0 2 00000000 1
+Sfv 069d6b0b
+Swr 62761487
+TFormsVBT.Error
+R608b0ca3 2 00000000 2
+Sfv 069d6b0b
+Srd fa67ef2f
+TFormsVBT.Error
+TFormsVBT.Mismatch
+K5abe7081 96 3
+Lfv 0 32 069d6b0b
+Lname 32 32 50f86574
+Lcl 64 32 d86685b3
+P7009bacd 5abe7081 FVRuntime_^%#%^__0002M
+V3c525eb8 3f4e1f24 0 0 0 0 FVRuntime_^%#%^__0003M
+Qc9b824cc 3647db33
+R94d31fa5 2 00000000 0
+Sself 3b6c825d
+Scd c9b824cc
+Q2122e423 dedd1bdc
+Ra2fa79e0 2 00000000 0
+Sself 3b6c825d
+Scd 2122e423
+V24617056 d86685b3 2 0 1 64
+Xapply FVRuntime.OldApply
+Lref 0 32 1c1c45e6
+Lproc 32 32 00f6c680
+R66593077 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Sproc 00f6c680
+Scl 1c1c45e6
+TFormsVBT.Error
+Ra5d6c1af 4 00000000 0
+Soc 24617056
+Sfv 069d6b0b
+Sname 50f86574
+Stime 195c2a74
+H1731fdfd 10 8
+Icut
+Icopy
+Ipaste
+Iclear
+IselectAll
+Iundo
+Iredo
+Ifirst
+Inext
+Iprev
+Vb06828e0 d86685b3 2 0 1 64
+Xapply FVRuntime.ApplyEditOp
+Lport 0 32 db511c38
+Lop 32 8 1731fdfd
+Rb40d2e15 4 00000000 0
+Scl b06828e0
+Sfv 069d6b0b
+Sname 50f86574
+Stime 195c2a74
+Ve064436e 9d8fb489 0 1 0 0
+Wapply 2a688d53
+Vb6a35412 e064436e 1 0 1 32
+Xapply FVRuntime.ApplyPopTarget
+Ltarget 0 32 df9b20a0
+Vef253137 e064436e 2 0 1 64
+Xapply FVRuntime.ApplyPageTarget
+Ltarget 0 32 56ddce47
+Lbackwards 32 8 1e59237d
+V89029711 e064436e 2 0 1 64
+Xapply FVRuntime.ApplyLinkTarget
+LTparent 0 32 56ddce47
+LTchild 32 32 3b6c825d
+V992c814f 82baa39c 2 0 2 64 FVRuntime_^%#%^__0004M
+Xinit FVRuntime.PortInit
+Xfilter FVRuntime.PortFilter
+Ltextedit 0 32 59db609e
+LreportKeys 32 8 1e59237d
+R49173e92 8 82baa39f 0
+Sv 82baa39f
+Stextedit 59db609e
+SreportKeys 1e59237d
+Sfont 11156a4f
+ScolorScheme 6de6f19a
+Swrap 1e59237d
+SreadOnly 1e59237d
+SturnMargin 48e16572
+R4bf9eb2d 2 00000000 0
+Sv 82baa39f
+Scd dedd1bdc
+V2cfab10e 08f92cb5 0 0 1 0 FVRuntime_^%#%^__0005M
+XreturnAction FVRuntime.DeliverText
+R8dc1beb5 2 00000000 0
+Stypein 08f92cb5
+Scd 2122e423
+V9632f325 7589a8d5 0 0 1 0 FVRuntime_^%#%^__0006M
+Xshape FVRuntime.ImageShape
+R954e3fba 3 00000000 0
+Sv 7589a8d5
+Sax 9952f271
+Sn 97e237e2
+V5bf873cd a77c0297 0 0 1 0 FVRuntime_^%#%^__0007M
+XactivateFile FVRuntime.ActivateFileB
+R7ae37aaf 3 00000000 0
+Sself 07229d5b
+Sfilename 50f86574
+Sevent 11aa9a1d
+V42b86c0e 0c40db29 0 0 2 0 FVRuntime_^%#%^__0008M
+XinsideClick FVRuntime.InsideClick
+XoutsideClick FVRuntime.OutsideClick
+R6cd74815 3 00000000 0
+Sv baf3a17e
+Scd c9b824cc
+Sthis 195c2a74
+R01589066 2 00000000 0
+Sv baf3a17e
+Scd c9b824cc
+Vd2843c6b be937bfb 0 0 2 0 FVRuntime_^%#%^__0009M
+XinsideClick FVRuntime.MultiInsideClick
+XoutsideClick FVRuntime.MultiOutsideClick
+Ra11fb863 3 00000000 0
+Sv c3ff087d
+Scd c9b824cc
+Sthis 195c2a74
+Rf86e4318 2 00000000 0
+Sv c3ff087d
+Scd c9b824cc
+V57016bba 6b34486d 0 0 1 0 FVRuntime_^%#%^__0010M
+Xcallback FVRuntime.MouseProc
+V026eb435 db278efb 0 0 1 0 FVRuntime_^%#%^__0011M
+Xcallback FVRuntime.MouseProc
+V97d519bf 9b8607af 0 0 1 0 FVRuntime_^%#%^__0012M
+Xcallback FVRuntime.MouseProc
+V3e512801 f67a5f39 0 0 1 0 FVRuntime_^%#%^__0013M
+Xcallback FVRuntime.MouseProc
+V84a9ae1f 99ea9d78 0 0 1 0 FVRuntime_^%#%^__0014M
+Xcallback FVRuntime.MouseProc
+Vb0ce1da1 3f849a9c 0 0 1 0 FVRuntime_^%#%^__0015M
+Xcallback FVRuntime.MouseProc
+Va3d7dc24 e97389a0 0 0 1 0 FVRuntime_^%#%^__0016M
+Xcallback FVRuntime.MouseProc
+V46101333 2062eb32 0 0 1 0 FVRuntime_^%#%^__0017M
+Xcallback FVRuntime.MouseProc
+Vacc4d542 4921b1b6 0 0 1 0 FVRuntime_^%#%^__0018M
+Xcallback FVRuntime.ChoiceCallback
+Ra8974d75 2 00000000 0
+Sself 3ae91b72
+Scd c9b824cc
+P9f6557e5 195c2a74 FVRuntime_^%#%^__0019M
+Rd7b6f91d 2 00000000 0
+Sv 3b6c825d
+Stime 195c2a74
+V5e6bb80c db278efb 0 0 1 0 FVRuntime_^%#%^__0020M
+Xcallback FVRuntime.PopButtonProc
+Va6d9e07a f67a5f39 0 0 1 0 FVRuntime_^%#%^__0021M
+Xcallback FVRuntime.PopButtonProc
+R683cfab9 2 00000000 0
+Sp b6a35412
+Stime 195c2a74
+R3efe0f34 3 00000000 0
+Svbt 3b6c825d
+SforcePlace 1e59237d
+Stime 195c2a74
+V2f63ed65 b5ddb2d4 1 0 2 32 FVRuntime_^%#%^__0022M
+Xcallback FVRuntime.PageButtonProc
+Xinit FVRuntime.InitPageButton
+Lbackwards 0 8 1e59237d
+Va294f79e 3d293a8a 1 0 2 32 FVRuntime_^%#%^__0023M
+Xcallback FVRuntime.PageButtonProc
+Xinit FVRuntime.InitPageMButton
+Lbackwards 0 8 1e59237d
+R47538ffa 5 b5ddb2d7 0
+Sb b5ddb2d7
+Sch 3b6c825d
+Sshadow c0c501d6
+Sbackwards 1e59237d
+Stsplit 56ddce47
+Rac7f5493 5 3d293a89 0
+Sb 3d293a89
+Sch 3b6c825d
+Sshadow c0c501d6
+Sbackwards 1e59237d
+Stsplit 56ddce47
+Rd7c1dd14 2 00000000 0
+Sp ef253137
+Stime 195c2a74
+V7f824b53 db278efb 0 0 1 0 FVRuntime_^%#%^__0024M
+Xcallback FVRuntime.LinkButtonProc
+V8518d435 f67a5f39 0 0 1 0 FVRuntime_^%#%^__0025M
+Xcallback FVRuntime.LinkButtonProc
+Rba550624 2 00000000 0
+Slt 89029711
+Stime 195c2a74
+V32889718 8db1336a 0 0 2 0 FVRuntime_^%#%^__0026M
+Xcallback FVRuntime.CloseButtonProc
+Xinit FVRuntime.InitCloseButton
+R7446de16 3 75b18f59 0
+Sb 75b18f59
+Sch 3b6c825d
+Sshadow c0c501d6
+R479d7f1a 2 00000000 0
+Sself 75b18f59
+Scd c9b824cc
+V43e2c622 0101ebf9 0 0 1 0 FVRuntime_^%#%^__0027M
+Xshape FVRuntime.HVSplitShape
+Vb8b21092 0101ebf9 0 0 1 0 FVRuntime_^%#%^__0028M
+Xshape FVRuntime.HVSplitShape
+Rbf9dda60 3 00000000 0
+Sv 0101ebf9
+Sax 9952f271
+Sn 97e237e2
+V48391fc4 061e5c1e 0 0 1 0 FVRuntime_^%#%^__0029M
+Xshape FVRuntime.HVTileShape
+V065d0a9e 061e5c1e 0 0 1 0 FVRuntime_^%#%^__0030M
+Xshape FVRuntime.HVTileShape
+R0e113c4c 3 00000000 0
+Sv 061e5c1e
+Sax 9952f271
+Sn 97e237e2
+Vcd446517 ad71e131 0 0 1 0 FVRuntime_^%#%^__0031M
+Xcallback FVRuntime.NumericProc
+R13566a55 2 00000000 0
+Sself f2b166a1
+Sevent 11aa9a1d
+Vb3dcf6c2 f23858fe 0 0 1 0 FVRuntime_^%#%^__0032M
+Xpre FVRuntime.PreMenu
+R9b38036c 1 00000000 0
+Sv f23858fe
+V2a6f653b afdf700d 0 0 0 0 FVRuntime_^%#%^__0033M
+V81ddfae6 59b737d0 2 0 3 64 FVRuntime_^%#%^__0034M
+Xinit FVRuntime.IntApplyInit
+Xdiscard FVRuntime.IntApplyDiscard
+Xmisc FVRuntime.IntApplyMisc
+Lname 0 32 50f86574
+Lproperty 32 32 50f86574
+R10f1cded 5 59b737d3 1
+Sv 59b737d3
+Sfv 3b6c825d
+Sch 3b6c825d
+Sname 50f86574
+Sproperty 50f86574
+TFormsVBT.Error
+Qe142114c 1ebdeeb3
+Re9da6599 2 00000000 0
+Sv 59b737d3
+Scd e142114c
+R19ebaeee 1 00000000 0
+Sv 59b737d3
+V6f1e1a0c d86685b3 1 0 1 32
+Xapply FVRuntime.IAApply
+Lia 0 32 59b737d3
+Rc9d0493f 4 00000000 0
+Scl 6f1e1a0c
+Sfv 069d6b0b
+Sname 50f86574
+Stime 195c2a74
+R577d0a36 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Stext 50f86574
+Sappend 1e59237d
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rd37b677e 3 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sint 195c2a74
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R28dd985e 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sp 50f86574
+Svalue 195c2a74
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rb0590612 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sp 50f86574
+Svalue 48e16572
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rcaf78fb0 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sp 50f86574
+Svalue 1e59237d
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rd8246dea 2 97e237e2 1
+Sn 195c2a74
+Sname 50f86574
+TFormsVBT.Error
+Re3a39293 3 00000000 0
+Sv 68a3a089
+Svalue 97e237e2
+Sax 9952f271
+R73cad441 2 00000000 1
+Sfv 069d6b0b
+Svbt 3b6c825d
+TFormsVBT.Error
+Rce3c1d03 4 00000000 1
+Sfv 069d6b0b
+Sparent 50f86574
+Sat 97e237e2
+Scount 97e237e2
+TFormsVBT.Error
+Rec2c1452 4 00000000 1
+SfvLocal 069d6b0b
+Sparent 50f86574
+Schild 3b6c825d
+Sat 97e237e2
+TFormsVBT.Error
+Rbd7b949f 1 00000000 0
+Sport db511c38
+R88275dfa 3 50f86574 2
+Sfv 069d6b0b
+Sname 50f86574
+Sprop 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rbffe1afc 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sproperty 50f86574
+St 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rcb0a4750 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Sstate 17923d31
+Scursor 50f86574
+TFormsVBT.Error
+R4be5646a 3 1e59237d 1
+Sfv 069d6b0b
+Sname 50f86574
+Sstate 17923d31
+TFormsVBT.Error
+R6ffb5c7c 2 a951c9a0 1
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+Raceccaa0 1 00000000 0
+Sfv 069d6b0b
+Rb2d97426 2 a3dd4856 0
+S_self_ a3dd4856
+Sch 3b6c825d
+Rbbf466ed 9 db511c38 0
+S_self_ db511c38
+ShMargin 48e16572
+SvMargin 48e16572
+Sfont 11156a4f
+ScolorScheme 6de6f19a
+Swrap 1e59237d
+SreadOnly 1e59237d
+SturnMargin 48e16572
+Smodel f2f65587
+R51788ecf 2 00000000 0
+S_self_ db511c38
+Scd dedd1bdc
+R207af128 2 00000000 0
+S_self_ 08f92cb5
+Scd 2122e423
+R7afc04d2 3 00000000 0
+S_self_ 8ee7b153
+Sax 9952f271
+Sn 97e237e2
+Ra9f9a6d6 3 00000000 0
+S_self_ 9fc24231
+Scd c9b824cc
+Sthis 195c2a74
+Raff3a311 2 00000000 0
+S_self_ 9fc24231
+Scd c9b824cc
+R2918b950 3 00000000 0
+S_self_ 552eabe4
+Scd c9b824cc
+Sthis 195c2a74
+R63611ed1 2 00000000 0
+S_self_ 552eabe4
+Scd c9b824cc
+R6598647f 2 db278efb 0
+S_self_ db278efb
+Sf 8f0ba2b9
+R629515c6 2 f67a5f39 0
+S_self_ f67a5f39
+Sf 8f0ba2b9
+R163b7a44 3 00000000 0
+S_self_ 0101ebf9
+Sax 9952f271
+Sn 97e237e2
+Ra7b79c68 3 00000000 0
+S_self_ 061e5c1e
+Sax 9952f271
+Sn 97e237e2
+Rd3f53dc9 2 00000000 0
+S_self_ ad71e131
+Sevent 11aa9a1d
+Rece743fb 1 00000000 0
+S_self_ f23858fe
+R4eef181f 2 00000000 0
+S_self_ a3dd4856
+Scd e142114c
+R8281316c 1 00000000 0
+S_self_ a3dd4856
+DFormsVBT
+DFVTypes
+DFVRuntime
+CRefListUtils
+CStubImageVBT
+CStubImageRd
+CZSplitUtils
+CZSplit
+CZChildVBT
+CZChassisVBT
+CWr
+CWeb
+CVBTClass
+CVBT
+CTypescriptVBT
+CTypeinVBT
+CTextIntTbl
+CTSplit
+CTrillSwitchVBT
+CThread
+CTextWr
+CTextVBT
+CTextureVBT
+CTextRd
+CTextPortClass
+CTextPort
+CTextEditVBT
+CText
+CSx
+CSwitchVBT
+CSplitterVBT
+CSplit
+CSourceVBT
+CSortedTextRefTbl
+CShadowedFeedbackVBT
+CShadowedVBT
+CShadow
+CScrollerVBT
+CScaleFilter
+CRTTypeSRC
+CRsrc
+CRefList
+CReactivityVBT
+CRdUtils
+CRd
+CPts
+CPixmapVBT
+CPixmap
+CPathname
+CPaintOp
+COSError
+CNumericVBT
+CMultiSplit
+CMultiClass
+CMenuSwitchVBT
+CMacro
+CListVBT
+CJVSink
+CJva
+CIP
+CIO
+CHVSplit
+CHighlightVBT
+CGuardedBtnVBT
+CFont
+CFmt
+CFormsVBTPixmapsBundle
+CFlexVBT
+CFilter
+CFileRd
+CFileBrowserVBT
+CCursor
+CColorName
+CColor
+CChoiceVBT
+CButtonVBT
+CBorderedVBT
+CBooleanVBT
+CAxis
+CAudioVBT
+CAtom
+CAnyEvent
+CAnchorHelpSplit
+CAnchorSplit
+CRTHooks
+Qfda29d3d 025d62c2
+Qeeea95b0 11156a4f
+E358fbfe5 FVRuntime.ReaderClosure
+E1b1e23c8 FVRuntime.ErrType
+Eaaa33ae6 FVRuntime.MC
+E7009bacd FVRuntime.ClosureRef
+E24617056 FVRuntime.OldClosure
+Eb06828e0 FVRuntime.C
+E1731fdfd FVRuntime.Op
+E3c525eb8 FVRuntime.ReservedVBT
+E9f6557e5 FVRuntime.FirstFocusProp
+Ee064436e FVRuntime.Callback
+Eb6a35412 FVRuntime.PopTarget
+Eef253137 FVRuntime.PageTarget
+E89029711 FVRuntime.LinkTarget
+E6f1e1a0c FVRuntime.IAClosure
+Q04a8b044 fb574fbb
+Z3ae91b72 acc4d542
+Z75b18f59 32889718
+Zc3ff087d d2843c6b
+Zbaf3a17e 42b86c0e
+Z6774276a 9632f325
+Z82baa39f 992c814f
+Z069d6b0b e3bb0eae
+Z07229d5b 5bf873cd
+Zb5ddb2d7 2f63ed65
+Z3d293a89 a294f79e
+Z8aedd01e 7f824b53
+Z37b6add0 8518d435
+Z3e16d76e 5e6bb80c
+Zc18b32c6 a6d9e07a
+Z241262d3 2cfab10e
+Zf2b166a1 cd446517
+Zbde4527c 57016bba
+Zd16f2959 026eb435
+Z45679d1b 97d519bf
+Z8fb1b933 43e2c622
+Z0e3944ac 48391fc4
+Z8149247d 2a6f653b
+Z59b737d3 81ddfae6
+Z501bf303 3e512801
+Z7a32c272 b3dcf6c2
+Z5d7d6302 84a9ae1f
+Zbbd572b1 b0ce1da1
+Za0249090 a3d7dc24
+Zabd5a0c0 b8b21092
+Z0e3944b2 065d0a9e
+Zc22200ce 46101333
+@FormsVBT.m3
+AFormsVBT
+K4091236c 96 3
+LtargetName 0 32 50f86574
+LsourceVBT 32 32 3b6c825d
+Lnext 64 32 4091236f
+P4091236f 4091236c
+Vfbfb3680 dc6728f7 4 0 1 1152
+Xapply FormsVBT.Apply
+Ldescription 0 32 1c1c45e6
+Lfv 32 32 069d6b0b
+LfixupList 64 32 4091236f
+Lstate 96 1056 59b6bc46
+R83503921 1 1c1c45e6 0
+Scl fbfb3680
+R377e7099 1 00000000 1
+Scl fbfb3680
+TFormsVBT.Error
+R5b5b72e9 2 3b6c825d 1
+Svbt 3b6c825d
+SvbtName 50f86574
+TFormsVBT.Error
+Q46a5b0e4 b95a4f1b
+Qa64943b9 59b6bc46
+Ra2453c0e 3 3b6c825d 1
+Scl fbfb3680
+Slist 46a5b0e4
+Ss a64943b9
+TFormsVBT.Error
+R13aee7da 0 3b6c825d 1
+TFormsVBT.Error
+R7bf2d0b1 2 00000000 1
+Slist b95a4f1b
+Sstate a64943b9
+TFormsVBT.Error
+R8ff7ece7 3 00000000 1
+Ssym d1d9dd0e
+Sarglist b95a4f1b
+Smetrics 46a5b0e4
+TFormsVBT.Error
+R7ffbf086 3 3b6c825d 1
+Scl fbfb3680
+Sexp 1c1c45e6
+Sstate a64943b9
+TFormsVBT.Error
+R75a0be3f 2 c07e79f1 0
+Ssym d1d9dd0e
+Sstate a64943b9
+R575161ea 3 3b6c825d 1
+Scl fbfb3680
+Ssym d1d9dd0e
+Sstate a64943b9
+TFormsVBT.Error
+R536bd88b 2 00000000 1
+Smsg 50f86574
+Sform 1c1c45e6
+TFormsVBT.Error
+Re8d012b7 1 00000000 1
+Sform b95a4f1b
+TFormsVBT.Error
+Va60c79d5 9d8fb489 2 1 0 64
+Wset e8d012b7
+Lname 0 32 50f86574
+Lfound 32 8 1e59237d
+Vfc338a1d a60c79d5 2 0 1 64
+Xset FormsVBT.SetSymbolPP
+Lval 0 32 d1d9dd0e
+Lvalname 32 32 50f86574
+Rd6a5950a 0 fc338a1d 0
+Rf0857d52 1 1e59237d 0
+Sn fc338a1d
+V62f7b6f9 34f1044e 0 0 1 0 FormsVBT_^%#%^__0001M
+Xrealize FormsVBT.Realize
+R507f885d 3 3b6c825d 1
+Sfv f0f9acad
+Stype 50f86574
+Sname 50f86574
+TFormsVBT.Error
+R6b03f0b8 0 3b6c825d 0
+Rd543f0bf 2 00000000 0
+Sf f40d644d
+Sstate a64943b9
+R1b4a1f44 3 dd7766cb 1
+Sname 50f86574
+Spath b95a4f1b
+SbaseURL 50f86574
+TFormsVBT.Error
+Rc6fe0973 2 8f0ba2b9 0
+Sfeedback 8f0ba2b9
+Sshadow c0c501d6
+R3919a472 4 3b6c825d 1
+Scl fbfb3680
+Slist 46a5b0e4
+Ss a64943b9
+Saxis 9952f271
+TFormsVBT.Error
+Fc9815eac 9952f271 50f86574 64
+R1f926112 3 3b6c825d 1
+Scl fbfb3680
+Slist 46a5b0e4
+Sstate a64943b9
+TFormsVBT.Error
+Re83c2a92 1 50f86574 0
+Slist b95a4f1b
+V6f0c3ce7 a60c79d5 1 0 1 32
+Xset FormsVBT.SetBooleanPP
+Lval 0 8 1e59237d
+R09b773b2 2 00000000 0
+SfirstFocus 6f0c3ce7
+Swidget 3b6c825d
+Rf29a73ef 2 00000000 0
+Sv 56f8d0ab
+Snew b95a4f1b
+R6f0bb4df 2 d1b17c26 0
+Sv 56f8d0ab
+Sitem 50f86574
+R39f8302d 2 b95a4f1b 1
+Sname 50f86574
+Scl fbfb3680
+TFormsVBT.Error
+R5b593211 3 b95a4f1b 1
+Spathname 50f86574
+Spath b95a4f1b
+SbaseURL 50f86574
+TFormsVBT.Error
+R62a760b0 2 50f86574 1
+Sfilename 50f86574
+Scl fbfb3680
+TFormsVBT.Error
+G553cadd6 6f0c3ce7 64
+Qaac35229 553cadd6
+R4704c611 2 4704c612 0
+Sa aac35229
+Sdefault 97e237e2
+P77d5c0e3 553cadd6
+V4704c612 a60c79d5 3 1 0 96
+Winit 4704c611 FormsVBT.InitEnumPP
+Lchoices 0 32 77d5c0e3
+Lchosen 32 32 d1b17c26
+Ldefault 64 32 97e237e2
+R1d1d1808 1 4704c612 0
+Sdefault b6f36545
+Ka8c95849 128 2
+Lrgb 0 96 025d62c2
+Lop 96 32 79a5aebb
+Rf29778cb 2 00000000 1
+Slist b95a4f1b
+Sbw 0b949353
+TFormsVBT.Error
+F1b7f0e90 882831d7 48e16572 96
+R5fe96c07 3 b95a4f1b 1
+Salist b95a4f1b
+Smetrics b95a4f1b
+Sdefault b95a4f1b
+TFormsVBT.Error
+Raf54d9f7 1 00000000 1
+Sx 1c1c45e6
+TFormsVBT.Error
+N2db8581d 195c2a74 0 -1 8
+F16a52b9e 2db8581d 6f0c3ce7 0
+Fee1fd4a3 8a2831d7 6f0c3ce7 32
+F529a90d1 8b2831d7 6f0c3ce7 64
+F72e56070 882831d7 6f0c3ce7 96
+Fce602402 892831d7 6f0c3ce7 128
+Fdac57c9a 8e2831d7 6f0c3ce7 160
+N8f2831d7 195c2a74 0 5 8
+F664038e8 8f2831d7 6f0c3ce7 192
+Ff5953726 2db8581d a60c79d5 0
+F0d2fc81b 8a2831d7 a60c79d5 32
+Fb1aa8c69 8b2831d7 a60c79d5 64
+F91d57cc8 882831d7 a60c79d5 96
+F2d5038ba 892831d7 a60c79d5 128
+F39f56022 8e2831d7 a60c79d5 160
+F85702450 8f2831d7 a60c79d5 192
+N8c2831d7 195c2a74 0 6 8
+Fa50fd4f1 8c2831d7 a60c79d5 224
+F763c7642 2db8581d 4704c612 0
+F8e86897f 8a2831d7 4704c612 32
+Gb60cb16e a60c79d5 64
+Q49f34e91 b60cb16e
+G35a5f00a 4704c612 64
+Qca5a0ff5 35a5f00a
+Rd434ea5b 7 00000000 1
+Scl fbfb3680
+Slist 46a5b0e4
+Sstate a64943b9
+Sprops 49f34e91
+Skeys aac35229
+Smain a60c79d5
+Senums ca5a0ff5
+TFormsVBT.Error
+R1208522a 7 b95a4f1b 1
+Scl fbfb3680
+Slist 46a5b0e4
+Sstate a64943b9
+Sprops 49f34e91
+Skeys aac35229
+Smain a60c79d5
+Senums ca5a0ff5
+TFormsVBT.Error
+K45e570a1 224 9
+Lh 0 32 48e16572
+Lv 32 32 48e16572
+Lw 64 32 48e16572
+Le 96 32 48e16572
+Ln 128 32 48e16572
+Ls 160 32 48e16572
+Lloc 192 8 f949118b
+Ltype 200 8 b373d5db
+Ledges 208 8 1e59237d
+Vabe5fc53 a60c79d5 1 0 1 224
+Xset FormsVBT.SetAtSpecPP
+Lval 0 224 45e570a1
+V0639a2ff a60c79d5 1 0 1 32
+Xset FormsVBT.SetCardinalPP
+Lval 0 32 97e237e2
+V4090d260 a60c79d5 1 0 1 32
+Xset FormsVBT.SetCardinalListPP
+Lval 0 32 b95a4f1b
+Ve80fb27a a60c79d5 1 0 1 32
+Xset FormsVBT.SetChainsPP
+Lshaper 0 32 08f12a90
+Vf4ea6048 a60c79d5 1 0 1 32
+Xset FormsVBT.SetIntegerPP
+Lval 0 32 195c2a74
+V7ed4f61f a60c79d5 1 0 1 32
+Xset FormsVBT.SetRealPP
+Lval 0 32 48e16572
+Vc4d273f2 a60c79d5 1 0 1 96
+Xset FormsVBT.SetSizeRangePP
+Lval 0 96 f40d644d
+V0933bd81 a60c79d5 1 0 1 32
+Xset FormsVBT.SetTextPP
+Lval 0 32 50f86574
+V4c880caf a60c79d5 1 0 1 32
+Xset FormsVBT.SetTextListPP
+Lval 0 32 b95a4f1b
+V82beaeb5 a60c79d5 1 0 1 32
+Xset FormsVBT.SetVBTPP
+Lval 0 32 b95a4f1b
+R9e257a3e 3 4704c612 0
+Spp 4704c612
+Sa aac35229
+Sdefault 97e237e2
+R3ced7bf1 2 00000000 1
+Spp fc338a1d
+Sform b95a4f1b
+TFormsVBT.Error
+Rde446d02 2 00000000 1
+Spp 6f0c3ce7
+Sform b95a4f1b
+TFormsVBT.Error
+R99bdea6d 2 00000000 1
+Spp f4ea6048
+Sform b95a4f1b
+TFormsVBT.Error
+R495a1a62 2 00000000 1
+Spp 7ed4f61f
+Sform b95a4f1b
+TFormsVBT.Error
+R6d51795f 2 00000000 1
+Spp 0639a2ff
+Sform b95a4f1b
+TFormsVBT.Error
+Rb61d7aca 2 00000000 1
+Spp 4090d260
+Sform b95a4f1b
+TFormsVBT.Error
+R1259571a 1 1e59237d 0
+Sref 1c1c45e6
+R6ef8f4b9 2 00000000 1
+Spp 4c880caf
+Sform b95a4f1b
+TFormsVBT.Error
+R6d9c0cb7 3 b95a4f1b 1
+Sform b95a4f1b
+Sp 1259571a
+Sname 50f86574
+TFormsVBT.Error
+R718fd0f5 1 1e59237d 0
+Sl b95a4f1b
+Re4cf078f 2 00000000 1
+Spp abe5fc53
+Sform b95a4f1b
+TFormsVBT.Error
+F3b00fe31 8b2831d7 48e16572 64
+R5308529d 1 00000000 1
+Sx 48e16572
+TFormsVBT.BadAtSpec
+R1850928d 1 1e59237d 0
+Sx 48e16572
+R4dd56c3b 0 00000000 1
+TFormsVBT.BadAtSpec
+F776c3ca5 f949118b d1d9dd0e 160
+Q06b6ee74 f949118b
+Rfdff36be 2 1e59237d 0
+Ss d1d9dd0e
+Sloc 06b6ee74
+Febdeaa89 b373d5db d1d9dd0e 64
+Q4c8c2a24 b373d5db
+R1e8075a4 2 1e59237d 0
+Sx 1c1c45e6
+Stype 4c8c2a24
+Rf4f78117 2 00000000 1
+Spp e80fb27a
+Sform b95a4f1b
+TFormsVBT.Error
+R5cf70517 1 2ec2ba86 1
+Slist 46a5b0e4
+TFormsVBT.Error
+F7c0303d8 8f58f571 d1d9dd0e 128
+Q70a70a8e 8f58f571
+R78cf681e 2 1e59237d 0
+Ss d1d9dd0e
+Sch 70a70a8e
+Rf19ef17e 2 00000000 1
+Spp c4d273f2
+Sform b95a4f1b
+TFormsVBT.Error
+Ra7e08a09 1 00000000 1
+Slist 46a5b0e4
+TFormsVBT.Error
+Q0bf29bb2 f40d644d
+Rad94e4f3 2 00000000 1
+Slist 46a5b0e4
+Ssize 0bf29bb2
+TFormsVBT.BadSize
+Fddc905fb 8f2831d7 d1d9dd0e 192
+Ra65a72a5 3 48e16572 1
+Slist 46a5b0e4
+SinfOK 1e59237d
+SpositiveOnly 1e59237d
+TFormsVBT.BadSize
+Rad497b28 2 00000000 0
+Spp 82beaeb5
+Sform b95a4f1b
+R1fa25e1a 3 3b6c825d 1
+Scl fbfb3680
+Slist b95a4f1b
+Sstate a64943b9
+TFormsVBT.Error
+R146c9659 2 00000000 1
+Spp 0933bd81
+Sform b95a4f1b
+TFormsVBT.Error
+R587f14b7 4 00000000 1
+Scl fbfb3680
+Sv 3b6c825d
+Slist b95a4f1b
+Sstate a64943b9
+TFormsVBT.Error
+R1a922997 1 50f86574 1
+Slist b95a4f1b
+TFormsVBT.Error
+R580c41e8 1 97e237e2 1
+Slist b95a4f1b
+TFormsVBT.Error
+R247a1130 1 195c2a74 1
+Slist b95a4f1b
+TFormsVBT.Error
+Rbcfe8f7c 1 48e16572 1
+Slist b95a4f1b
+TFormsVBT.Error
+R2b1877de 1 1e59237d 1
+Sform b95a4f1b
+TFormsVBT.Error
+R4a2ed508 1 d1d9dd0e 1
+Sform b95a4f1b
+TFormsVBT.Error
+Raff01a1d 1 00000000 1
+Slist b95a4f1b
+TFormsVBT.Error
+Re04ee0b8 4 00000000 1
+Scl fbfb3680
+Sv 3b6c825d
+Spp fc338a1d
+Sstate a64943b9
+TFormsVBT.Error
+P726af600 59b6bc46
+R9f3f8cf9 3 00000000 1
+Scl fbfb3680
+Sv 3b6c825d
+Spp fc338a1d
+TFormsVBT.Error
+R19aaa634 1 a2453c0e 0
+Ssym d1d9dd0e
+Rb7f1a19b 1 13aee7da 1
+Ssym d1d9dd0e
+TFormsVBT.Error
+Ra808c13e 1 7bf2d0b1 0
+Ssym d1d9dd0e
+F4bc3ff3c 8d2831d7 7bf2d0b1 256
+N28a3581d 195c2a74 0 64 8
+Fececd98f 28a3581d a2453c0e 2080
+F13023f20 28a3581d 13aee7da 2080
+Kbbacb5a6 160 5
+Lname 0 32 50f86574
+Lproc 32 32 8ff7ece7
+LfontDefault 64 32 50f86574
+LlabelFontDefault 96 32 50f86574
+Lsymname 128 32 d1d9dd0e
+N2fa4581d 195c2a74 0 13 8
+F8263b9e6 2fa4581d bbacb5a6 2240
+F329fc2ca 8d2831d7 50f86574 256
+F24128373 28a3581d 50f86574 2080
+Rb2d97426 2 a3dd4856 0
+S_self_ a3dd4856
+Sch 3b6c825d
+F263a9a52 8a2831d7 50f86574 32
+DFVTypes
+DFormsVBT
+DFVRuntime
+CRefListUtils
+CZSplit
+CZChildVBT
+CWr
+CViewportVBT
+CVBT
+CTypescriptVBT
+CTSplit
+CThread
+CTextWr
+CTextVBT
+CTextureVBT
+CTextPortClass
+CTextPort
+CTextEditVBT
+CText
+CSx
+CSwitchVBT
+CSplitterVBT
+CSplit
+CSourceVBT
+CShadowedVBT
+CShadowedFeedbackVBT
+CShadow
+CScrollerVBT
+CScaleFilter
+CRsrc
+CRefList
+CReactivityVBT
+CRdUtils
+CRd
+CPts
+CPixmap
+CPaintOp
+COSError
+CNumericVBT
+CMultiFilter
+CMultiSplit
+CMenuSwitchVBT
+CMarginFeedbackVBT
+CMacro
+CListVBT
+CJVSink
+CJva
+CImage
+CHVSplit
+CFmt
+CFlexVBT
+CFilter
+CFileBrowserVBT
+CFeedbackVBT
+CCursor
+CColorName
+CColor
+CChoiceVBT
+CButtonVBT
+CBooleanVBT
+CBiFeedbackVBT
+CAxis
+CAtomIntTbl
+CAtom
+CFVRuntime
+CRTHooks
+Qdc18c096 23e73f69
+Efbfb3680 FormsVBT.ParseClosure
+E4091236f FormsVBT.FixupLink
+Ea2453c0e FormsVBT.ComponentProc
+E13aee7da FormsVBT.RealizeProc
+E7bf2d0b1 FormsVBT.StateProc
+E8ff7ece7 FormsVBT.MetricsProc
+Ea8c95849 FormsVBT.RgbOp
+Ea60c79d5 FormsVBT.PP
+E16a52b9e FormsVBT.KP0
+Eee1fd4a3 FormsVBT.KP1
+E529a90d1 FormsVBT.KP2
+E72e56070 FormsVBT.KP3
+Ece602402 FormsVBT.KP4
+Edac57c9a FormsVBT.KP5
+E664038e8 FormsVBT.KP6
+Ef5953726 FormsVBT.PP0
+E0d2fc81b FormsVBT.PP1
+Eb1aa8c69 FormsVBT.PP2
+E91d57cc8 FormsVBT.PP3
+E2d5038ba FormsVBT.PP4
+E39f56022 FormsVBT.PP5
+E85702450 FormsVBT.PP6
+Ea50fd4f1 FormsVBT.PP7
+E763c7642 FormsVBT.EP0
+E8e86897f FormsVBT.EP1
+Eabe5fc53 FormsVBT.AtSpecPP
+E6f0c3ce7 FormsVBT.BooleanPP
+E0639a2ff FormsVBT.CardinalPP
+E4090d260 FormsVBT.CardinalListPP
+Ee80fb27a FormsVBT.ChainsPP
+E4704c612 FormsVBT.EnumPP
+Ef4ea6048 FormsVBT.IntegerPP
+E7ed4f61f FormsVBT.RealPP
+Ec4d273f2 FormsVBT.SizeRangePP
+Efc338a1d FormsVBT.SymbolPP
+E0933bd81 FormsVBT.TextPP
+E4c880caf FormsVBT.TextListPP
+E82beaeb5 FormsVBT.VBTPP
+Ebbacb5a6 FormsVBT.mp
+Q0fa67b7e f0598481
+Q5736a7b6 a8c95849
+Zf0f9acad 62f7b6f9
+Qc4937da2 3b6c825d
+Q44534a59 bbacb5a6
+@StubImageVBT.m3
+AStubImageVBT
+Vce8c4db5 8ee7b150 0 0 3 0 StubImageVBT_^%#%^__0001M
+Xinit StubImageVBT.Init
+Xput StubImageVBT.Put
+Xget StubImageVBT.Get
+R5475cfee 3 8ee7b153 0
+Sv 8ee7b153
+Spm a563d950
+Sbg 79a5aebb
+Rbe18ebe8 3 00000000 0
+Sv 8ee7b153
+Spm a563d950
+Sbg 79a5aebb
+R4051d97a 1 a563d950 0
+Sv 8ee7b153
+DStubImageVBT
+CStubImages
+CPaintOp
+CRTHooks
+Z8ee7b153 ce8c4db5
+@StubImageRd.m3
+AStubImageRd
+V39300f78 7d4fe281 0 0 1 0 StubImageRd_^%#%^__0001M
+Xinit StubImageRd.Init
+R36eb4100 7 7d4fe282 0
+St 7d4fe282
+Srd fa67ef2f
+Sstart 97e237e2
+Slength 97e237e2
+Sop 79a5aebb
+Sst 3b98b6b7
+Sgamma 48e16572
+DStubImageRd
+CRd
+CVBT
+CPaintOp
+CRTHooks
+Z7d4fe282 39300f78
+@RefListUtils.i3
+BRefListUtils
+Q46a5b0e4 b95a4f1b
+Recfe4151 2 00000000 0
+Slist 46a5b0e4
+Sitem 1c1c45e6
+R47e80965 1 1c1c45e6 0
+Slist 46a5b0e4
+R6580241e 2 1e59237d 0
+Sx 1c1c45e6
+Sy 1c1c45e6
+Rf288a9c3 2 b95a4f1b 0
+Salist b95a4f1b
+Sitem 1c1c45e6
+Rbca53a3c 3 00000000 0
+Slist b95a4f1b
+Sn 97e237e2
+Sitem 1c1c45e6
+R08b4bfa8 2 b95a4f1b 0
+Slist b95a4f1b
+Sn 97e237e2
+DRefListUtils
+CRefList
+CRTHooks
+@Macro.i3
+BMacro
+R1648eded 1 1c1c45e6 1
+Sactuals b95a4f1b
+TFormsVBT.Error
+V9d03182d 9d8fb489 0 1 0 0
+Wapply 1648eded
+Yc07e79f1 9d03182d
+R4061408b 1 c07e79f1 1
+Sexp b95a4f1b
+TFormsVBT.Error
+DMacro
+CRefList
+CFormsVBT
+CRTHooks
+Ec07e79f1 Macro.T
+E9d03182d Macro.Public
+@Manpage.i3
+BManpage
+Rc5673195 1 00000000 0
+Smsg 50f86574
+Ve8863bdc 9d8fb489 0 1 0 0
+Wapply c5673195
+R7440c300 11 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Ser e8863bdc
+Shelpfindfirst 50f86574
+Shelpfindnext 50f86574
+Shelpfindprev 50f86574
+Shelpfindtext 50f86574
+Smanpagetext 50f86574
+Snotfound 50f86574
+Shelpcase 50f86574
+Spath b95a4f1b
+TFormsVBT.Error
+Rb7de36a9 1 50f86574 0
+St 50f86574
+DManpage
+CRsrc
+CFormsVBT
+CRTHooks
+Ee8863bdc Manpage.ErrorReporter
+@FVRuntime.i3
+BFVRuntime
+V34f1044e 069d6b08 3 0 0 96
+Lpath 0 32 b95a4f1b
+LbaseURL 32 32 50f86574
+Lformstack 64 32 b95a4f1b
+Yf0f9acad 34f1044e
+R51497ecb 1 00000000 0
+Swidget 3b6c825d
+R76166f9b 2 00000000 0
+Ssource eb91ac01
+Starget df9b20a0
+R929e0720 2 00000000 0
+Ssource eb91ac01
+Starget 3b6c825d
+Rafc024d5 2 00000000 0
+Ssource eb91ac01
+Starget 56ddce47
+R33024e64 3 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Svbt 3b6c825d
+TFormsVBT.Error
+R490e331d 3 fa67ef2f 1
+Sname 50f86574
+Spath b95a4f1b
+SbaseURL 50f86574
+TFormsVBT.Error
+K59b6bc46 1056 25
+LbgOp 0 32 79a5aebb
+LfgOp 32 32 79a5aebb
+LdarkOp 64 32 79a5aebb
+LlightOp 96 32 79a5aebb
+LbgRGB 128 96 025d62c2
+LfgRGB 224 96 025d62c2
+LdarkRGB 320 96 025d62c2
+LlightRGB 416 96 025d62c2
+LfontName 512 32 50f86574
+LlabelFontName 544 32 50f86574
+Lfont 576 32 11156a4f
+LlabelFont 608 32 11156a4f
+LfontMetrics 640 32 b95a4f1b
+LlabelFontMetrics 672 32 b95a4f1b
+Lshadow 704 32 c0c501d6
+LshadowSz 736 32 48e16572
+LglueAxis 768 8 9952f271
+Lhvsplit 800 32 0101ebf9
+Lmacros 832 32 b95a4f1b
+Lmenubar 864 32 3b6c825d
+Lradio 896 32 8e93ae6b
+Ltsplit 928 32 56ddce47
+Lzchild 960 32 df9b20a0
+Lzsplit 992 32 79cf0c2e
+Lname 1024 32 50f86574
+Qa64943b9 59b6bc46
+R8fd9d519 3 3b6c825d 1
+St 069d6b0b
+Sdescription 1c1c45e6
+Sstate a64943b9
+TFormsVBT.Error
+R9d1bd97b 1 b95a4f1b 0
+St 069d6b0b
+R43921be7 1 b95a4f1b 0
+Sfv 069d6b0b
+Raf5f2eb2 2 00000000 1
+Sfv 069d6b0b
+Salist b95a4f1b
+TFormsVBT.Error
+Rb2ef547d 1 00000000 0
+Sfontname 50f86574
+R6903a2a7 1 50f86574 0
+Smetrics b95a4f1b
+V7589a8d5 8ee7b153 4 0 0 128
+Lop 0 32 79a5aebb
+Lbg 32 32 79a5aebb
+Lgamma 64 32 48e16572
+Lrd 96 32 fa67ef2f
+Rc7207b8e 3 00000000 1
+Sname 50f86574
+Spath b95a4f1b
+SbaseURL 50f86574
+TFormsVBT.Error
+V0c40db29 9fc24231 2 0 0 64
+Lquick 0 8 1e59237d
+Lbrowser 32 32 cc2f72c4
+Vbe937bfb 552eabe4 2 0 0 64
+Lquick 0 8 1e59237d
+Lbrowser 32 32 8178f6dc
+V8db1336a 75b18f5a 1 0 0 32
+Ltarget 0 32 df9b20a0
+V4921b1b6 d14120d3 2 0 0 64
+Lradio 0 32 8e93ae6b
+Lname 32 32 50f86574
+Rf4273705 3 50f86574 0
+Sx 1c1c45e6
+SmaxDepth 97e237e2
+SmaxLength 97e237e2
+DFVRuntime
+CStubImageVBT
+CZSplit
+CZChildVBT
+CVBT
+CSx
+CShadow
+CRsrc
+CRefList
+CRd
+CPixmap
+CPaintOp
+CListVBT
+CHVSplit
+CFVTypes
+CFormsVBT
+CFont
+CFlexVBT
+CColor
+CChoiceVBT
+CButtonVBT
+CAxis
+CAtom
+CRTHooks
+Ef0f9acad FVRuntime.Private
+E34f1044e FVRuntime.SemiPublic
+E48e16572 FVRuntime.Millimeters
+E48e16572 FVRuntime.Points
+E59b6bc46 FVRuntime.State
+E7589a8d5 FVRuntime.PrivateImage
+E0c40db29 FVRuntime.PrivateUniSelector
+Ebe937bfb FVRuntime.PrivateMultiSelector
+E8db1336a FVRuntime.PrivateCloseButton
+E4921b1b6 FVRuntime.PrivateChoice
+@FVTypes.i3
+BFVTypes
+Ve450ba16 0a1b61c8 0 0 0 0 FVTypes_^%#%^__0001I
+Veee63bb7 5ada6e5f 0 0 0 0 FVTypes_^%#%^__0002I
+Ybde4527c 6b34486d
+Vd702e2f3 9f2bbc3d 0 0 0 0 FVTypes_^%#%^__0003I
+Vcc2f72c4 56f8d0ab 0 0 0 0 FVTypes_^%#%^__0004I
+Yd16f2959 db278efb
+Vd60ded3c 24efa9d4 0 0 0 0 FVTypes_^%#%^__0005I
+Y3ae91b72 d14120d3
+Y75b18f59 75b18f5a
+R75b18f5b 2 75b18f59 0
+Sch 3b6c825d
+Sshadow c0c501d6
+V75b18f5a db278efb 0 1 0 0
+Winit 75b18f5b
+V234969bb cb897cb0 0 0 0 0 FVTypes_^%#%^__0006I
+Y07229d5b a77c0297
+V4a88bcc9 5ada6e5f 0 0 0 0 FVTypes_^%#%^__0007I
+Va951c9a0 4fd74dd9 0 0 0 0 FVTypes_^%#%^__0008I
+Vb73df87d 2c1dadff 0 0 0 0 FVTypes_^%#%^__0009I
+V07df38d1 5ada6e5f 0 0 0 0 FVTypes_^%#%^__0010I
+V73c3b962 5ada6e5f 0 0 0 0 FVTypes_^%#%^__0011I
+Y45679d1b 9b8607af
+Y8fb1b933 0101ebf9
+Y0e3944ac 061e5c1e
+Y8149247d afdf700d
+V192db751 cf68252f 0 0 0 0 FVTypes_^%#%^__0012I
+Y6774276a 8ee7b153
+Y59b737d3 59b737d0
+R59b737d1 4 59b737d3 1
+Sfv 3b6c825d
+Sch 3b6c825d
+Sname 50f86574
+Sproperty 50f86574
+TFormsVBT.Error
+V59b737d0 a3dd4856 0 1 0 0
+Winit 59b737d1
+Y8aedd01e db278efb
+Y37b6add0 f67a5f39
+Y501bf303 f67a5f39
+Y7a32c272 f23858fe
+V8178f6dc 56f8d0ab 0 0 0 0 FVTypes_^%#%^__0013I
+Yf2b166a1 ad71e131
+Yb5ddb2d7 b5ddb2d4
+V56ddce47 eb94b316 1 0 0 32
+Lcircular 0 8 1e59237d
+Rb5ddb2d5 4 b5ddb2d7 0
+Sch 3b6c825d
+Sshadow c0c501d6
+Sbackwards 1e59237d
+Stsplit 56ddce47
+Vb5ddb2d4 db278efb 0 1 0 0
+Winit b5ddb2d5
+Y3d293a89 3d293a8a
+R3d293a8b 4 3d293a89 0
+Sch 3b6c825d
+Sshadow c0c501d6
+Sbackwards 1e59237d
+Stsplit 56ddce47
+V3d293a8a f67a5f39 0 1 0 0
+Winit 3d293a8b
+V84ee1c38 7073e9dd 0 0 0 0 FVTypes_^%#%^__0014I
+Y3e16d76e db278efb
+Yc18b32c6 f67a5f39
+V8e93ae6b a3dd4856 1 0 0 32
+Lradio 0 32 1b01139c
+Vd70ded3c 24efa9d4 0 0 0 0 FVTypes_^%#%^__0015I
+V726c658d 9f2bbc3d 0 0 0 0 FVTypes_^%#%^__0016I
+V464c5ac4 f35b2d5d 0 0 0 0 FVTypes_^%#%^__0017I
+Y5d7d6302 99ea9d78
+Va73b354a 5ada6e5f 0 0 0 0 FVTypes_^%#%^__0018I
+Ybbd572b1 3f849a9c
+V56900a0d 7db4a5c9 0 0 0 0 FVTypes_^%#%^__0019I
+V40859e3c a3dd4856 0 0 0 0 FVTypes_^%#%^__0020I
+Ve9f38af3 dfe138e9 0 0 0 0 FVTypes_^%#%^__0021I
+V59db609e 8e994b3e 0 0 0 0 FVTypes_^%#%^__0022I
+Vd856d2c5 70ec67d7 0 0 0 0 FVTypes_^%#%^__0023I
+Ya0249090 e97389a0
+Y241262d3 08f92cb5
+Vc83d21fe 871ea0c2 0 0 0 0 FVTypes_^%#%^__0024I
+Yabd5a0c0 0101ebf9
+Y0e3944b2 061e5c1e
+V68a3a089 b23e11d5 0 0 0 0 FVTypes_^%#%^__0025I
+V11799d5b dabb6187 0 0 0 0 FVTypes_^%#%^__0026I
+V01405771 3093f4f3 0 0 0 0 FVTypes_^%#%^__0027I
+Yc22200ce 2062eb32
+Vb48892f5 df9b20a0 0 0 0 0 FVTypes_^%#%^__0028I
+V4ed5bdc9 b775c8f8 0 0 0 0 FVTypes_^%#%^__0029I
+V2d529e88 dd55bd0c 0 0 0 0 FVTypes_^%#%^__0030I
+V0043a388 888a22a2 0 0 0 0 FVTypes_^%#%^__0031I
+Ybaf3a17e 9fc24231
+Yc3ff087d 552eabe4
+Y82baa39f 82baa39c
+R82baa39d 7 82baa39f 0
+Stextedit 59db609e
+SreportKeys 1e59237d
+Sfont 11156a4f
+ScolorScheme 6de6f19a
+Swrap 1e59237d
+SreadOnly 1e59237d
+SturnMargin 48e16572
+V82baa39c db511c38 0 1 0 0
+Winit 82baa39d
+DFVTypes
+CStubImageVBT
+CZTilps
+CZChildVBT
+CZMoveVBT
+CZGrowVBT
+CZChassisVBT
+CViewportVBT
+CVideoVBT
+CVBT
+CTypescriptVBT
+CTypeinVBT
+CTrillSwitchVBT
+CTextVBT
+CTextureVBT
+CTextPort
+CTextEditVBT
+CTSplit
+CSwitchVBT
+CStableVBT
+CSplitterVBT
+CSourceVBT
+CShadowedBarVBT
+CShadowedVBT
+CShadow
+CScrollerVBT
+CScaleFilter
+CReactivityVBT
+CProperSplit
+CPixmapVBT
+CPaintOp
+CPackSplit
+CNumericVBT
+CMenuSwitchVBT
+CListVBT
+CHighlightVBT
+CHVSplit
+CGuardedBtnVBT
+CFormsVBT
+CFont
+CFlexVBT
+CFilter
+CFileBrowserVBT
+CChoiceVBT
+CBorderedVBT
+CBooleanVBT
+CAnchorHelpSplit
+CAnchorSplit
+CAudioVBT
+CRTHooks
+E3f4e1f24 FVTypes.FVAny
+Ea3dd4856 FVTypes.FVAnyFilter
+Edf7dbaed FVTypes.FVAnySplit
+Ee450ba16 FVTypes.FVAudio
+Eeee63bb7 FVTypes.FVBar
+Ebde4527c FVTypes.FVBoolean
+Ed702e2f3 FVTypes.FVBorder
+Ecc2f72c4 FVTypes.FVBrowser
+Ed16f2959 FVTypes.FVButton
+Ed60ded3c FVTypes.FVChisel
+E3ae91b72 FVTypes.FVChoice
+E75b18f59 FVTypes.FVCloseButton
+E234969bb FVTypes.FVDirMenu
+E07229d5b FVTypes.FVFileBrowser
+E4a88bcc9 FVTypes.FVFill
+Ea951c9a0 FVTypes.FVFilter
+Eb73df87d FVTypes.FVFrame
+E07df38d1 FVTypes.FVGeneric
+E73c3b962 FVTypes.FVGlue
+E45679d1b FVTypes.FVGuard
+E8fb1b933 FVTypes.FVHBox
+E9784fd62 FVTypes.FVHPackSplit
+E0e3944ac FVTypes.FVHTile
+E8149247d FVTypes.FVHelp
+E192db751 FVTypes.FVHelper
+E6774276a FVTypes.FVImage
+E59b737d3 FVTypes.FVIntApply
+E8aedd01e FVTypes.FVLinkButton
+E37b6add0 FVTypes.FVLinkMButton
+E501bf303 FVTypes.FVMButton
+E7a32c272 FVTypes.FVMenu
+E8178f6dc FVTypes.FVMultiBrowser
+Ef2b166a1 FVTypes.FVNumeric
+Eb5ddb2d7 FVTypes.FVPageButton
+E3d293a89 FVTypes.FVPageMButton
+E84ee1c38 FVTypes.FVPixmap
+E3e16d76e FVTypes.FVPopButton
+Ec18b32c6 FVTypes.FVPopMButton
+E8e93ae6b FVTypes.FVRadio
+Ed70ded3c FVTypes.FVRidge
+E726c658d FVTypes.FVRim
+E464c5ac4 FVTypes.FVScale
+E5d7d6302 FVTypes.FVScroller
+Ea73b354a FVTypes.FVShape
+Ebbd572b1 FVTypes.FVSource
+E56900a0d FVTypes.FVStable
+E56ddce47 FVTypes.FVTSplit
+E40859e3c FVTypes.FVTarget
+Ee9f38af3 FVTypes.FVText
+E59db609e FVTypes.FVTextEdit
+Ed856d2c5 FVTypes.FVTexture
+Ea0249090 FVTypes.FVTrillButton
+E241262d3 FVTypes.FVTypeIn
+Ec83d21fe FVTypes.FVTypescript
+Eabd5a0c0 FVTypes.FVVBox
+E0e3944b2 FVTypes.FVVTile
+E68a3a089 FVTypes.FVVideo
+E11799d5b FVTypes.FVViewport
+E01405771 FVTypes.FVZBackground
+Ec22200ce FVTypes.FVZChassis
+Eb48892f5 FVTypes.FVZChild
+E4ed5bdc9 FVTypes.FVZGrow
+E2d529e88 FVTypes.FVZMove
+E0043a388 FVTypes.FVZSplit
+Ebaf3a17e FVTypes.UniSelector
+Ec3ff087d FVTypes.MultiSelector
+E82baa39f FVTypes.Port
+E82baa39c FVTypes.PublicPort
+E75b18f5a FVTypes.PublicCloseButton
+Eb5ddb2d4 FVTypes.PublicPageButton
+E3d293a8a FVTypes.PublicPageMButton
+E8e93ae6b FVTypes.PublicRadio
+E56ddce47 FVTypes.PublicTSplit
+E59b737d0 FVTypes.IntApplyPublic
+@FormsVBT.i3
+BFormsVBT
+Y069d6b0b 069d6b08
+R069d6b09 3 069d6b0b 1
+Sdescription 50f86574
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+R069d6b0e 3 069d6b0b 3
+Sfilename 50f86574
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+R069d6b0f 3 069d6b0b 3
+Srd fa67ef2f
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+R069d6b0c 3 069d6b0b 1
+Ssx 1c1c45e6
+Sraw 1e59237d
+Spath b95a4f1b
+TFormsVBT.Error
+R069d6b0d 3 069d6b0b 4
+Sname 50f86574
+Spath b95a4f1b
+Sraw 1e59237d
+TFormsVBT.Error
+TRd.Failure
+TRsrc.NotFound
+TThread.Alerted
+R069d6b02 2 069d6b0b 3
+SbaseURL 50f86574
+Sraw 1e59237d
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+Rf887cc6b 2 3b6c825d 1
+Stype 50f86574
+Sname 50f86574
+TFormsVBT.Error
+R45a55eb0 1 00000000 1
+Swr 62761487
+TFormsVBT.Error
+R435168f1 1 00000000 2
+Srd fa67ef2f
+TFormsVBT.Error
+TFormsVBT.Mismatch
+V069d6b08 a3dd4856 0 9 0 0
+Winit 069d6b09
+WinitFromFile 069d6b0e
+WinitFromRd 069d6b0f
+WinitFromSx 069d6b0c
+WinitFromRsrc 069d6b0d
+WinitFromURL 069d6b02
+Wrealize f887cc6b
+Wsnapshot 45a55eb0
+Wrestore 435168f1
+Rb2349956 1 79cf0c2e 1
+Sfv 069d6b0b
+TFormsVBT.Error
+R00eaef13 3 00000000 0
+Sfv 069d6b0b
+Sname 50f86574
+Stime 195c2a74
+Vd86685b3 9d8fb489 0 1 0 0
+Wapply 00eaef13
+R2ae90b18 3 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Scl d86685b3
+TFormsVBT.Error
+R00f6c680 4 00000000 0
+Sfv 069d6b0b
+Sname 50f86574
+SeventData 1c1c45e6
+Stime 195c2a74
+Rf5d54cf6 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Sp 00f6c680
+SeventData 1c1c45e6
+TFormsVBT.Error
+R6c38c9e6 12 00000000 1
+Sfv 069d6b0b
+SeditorName 50f86574
+Scut 50f86574
+Scopy 50f86574
+Spaste 50f86574
+Sclear 50f86574
+SselectAll 50f86574
+Sundo 50f86574
+Sredo 50f86574
+SfindFirst 50f86574
+SfindNext 50f86574
+SfindPrev 50f86574
+TFormsVBT.Error
+Rdb8f7830 1 11aa9a1d 1
+Sfv 069d6b0b
+TFormsVBT.Error
+R4c2c00a0 1 195c2a74 1
+Sfv 069d6b0b
+TFormsVBT.Error
+R186ace49 3 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Stime 195c2a74
+TFormsVBT.Error
+R35827d93 2 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+R10b38a25 1 50f86574 0
+Sfv 069d6b0b
+Reacfcf47 2 50f86574 2
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rbe2a0baa 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+St 50f86574
+Sappend 1e59237d
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rd427f7e0 2 195c2a74 2
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rdf28f331 3 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sn 195c2a74
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R360de00e 2 1e59237d 2
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R87f03fb1 3 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sval 1e59237d
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Re23204ef 3 50f86574 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rd2baefa2 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+Svalue 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rdcda3c48 3 195c2a74 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rec52d705 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+Svalue 195c2a74
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R445ea204 3 48e16572 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R74d64949 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+Svalue 48e16572
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R36ad35b5 3 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sproperty 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Qfda29d3d 025d62c2
+Rc86eee88 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+Sproperty 50f86574
+Scolor fda29d3d
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R3ef02ba6 3 1e59237d 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R0e78c0eb 4 00000000 2
+Sfv 069d6b0b
+Sname 50f86574
+SpropertyName 50f86574
+Svalue 1e59237d
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rbfda56fa 2 3b6c825d 1
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+R337b89f5 1 50f86574 1
+Svbt 3b6c825d
+TFormsVBT.Error
+Rbf7e9cb1 2 50f86574 2
+Sfv 069d6b0b
+SradioName 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+R292008ac 3 00000000 2
+Sfv 069d6b0b
+SradioName 50f86574
+SchoiceName 50f86574
+TFormsVBT.Error
+TFormsVBT.Unimplemented
+Rf8391a58 2 00000000 1
+Sfv 069d6b0b
+SchoiceName 50f86574
+TFormsVBT.Error
+Ra635a12d 2 1e59237d 1
+Sfv 069d6b0b
+SchoiceName 50f86574
+TFormsVBT.Error
+Rbbe68ebd 2 3b6c825d 1
+Sfv 069d6b0b
+SgenericName 50f86574
+TFormsVBT.Error
+R857c288d 3 00000000 1
+Sfv 069d6b0b
+SgenericName 50f86574
+Svbt 3b6c825d
+TFormsVBT.Error
+R4199dca6 3 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Scursor 50f86574
+TFormsVBT.Error
+R7b2b0916 2 1e59237d 1
+Sfv 069d6b0b
+Sname 50f86574
+TFormsVBT.Error
+Rdcb8e44b 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+SforcePlace 1e59237d
+Stime 195c2a74
+TFormsVBT.Error
+Rca76d576 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+SeventTime 195c2a74
+Sselect 1e59237d
+TFormsVBT.Error
+Ra55d1799 4 3b6c825d 1
+Sfv 069d6b0b
+Sparent 50f86574
+Sdescription 50f86574
+Sn 97e237e2
+TFormsVBT.Error
+Rdaf6d2df 4 3b6c825d 3
+Sfv 069d6b0b
+Sparent 50f86574
+Sfilename 50f86574
+Sn 97e237e2
+TFormsVBT.Error
+TRd.Failure
+TThread.Alerted
+R1c389c9c 5 3b6c825d 4
+Sfv 069d6b0b
+Sparent 50f86574
+Sname 50f86574
+Spath b95a4f1b
+Sn 97e237e2
+TFormsVBT.Error
+TRd.Failure
+TRsrc.NotFound
+TThread.Alerted
+R37429033 4 00000000 1
+Sfv 069d6b0b
+Sparent 50f86574
+Sn 97e237e2
+Scount 97e237e2
+TFormsVBT.Error
+R3350b7d3 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Schild 3b6c825d
+Sn 97e237e2
+TFormsVBT.Error
+R1a8fe5ff 4 00000000 1
+Sfv 069d6b0b
+Sname 50f86574
+Sn 97e237e2
+Scount 97e237e2
+TFormsVBT.Error
+DFormsVBT
+CZSplit
+CWr
+CVBT
+CThread
+CSx
+CRsrc
+CRd
+CFilter
+CColor
+CAnyEvent
+CRTHooks
+E069d6b0b FormsVBT.T
+E069d6b08 FormsVBT.Public
+Ed86685b3 FormsVBT.Closure
+E00f6c680 FormsVBT.Proc
+@StubImageVBT.i3
+BStubImageVBT
+Y8ee7b153 8ee7b150
+R8ee7b151 2 8ee7b153 0
+Spm a563d950
+Sbg 79a5aebb
+Re5314a16 2 00000000 0
+Spm a563d950
+Sbg 79a5aebb
+Raa5b1a11 0 a563d950 0
+V8ee7b150 3f4e1f24 0 3 0 0
+Winit 8ee7b151
+Wput e5314a16
+Wget aa5b1a11
+DStubImageVBT
+CStubImages
+CVBT
+CPaintOp
+CRTHooks
+E8ee7b153 StubImageVBT.T
+E8ee7b150 StubImageVBT.Public
+@StubImageRd.i3
+BStubImageRd
+Y7d4fe282 7d4fe281
+R7d4fe280 6 7d4fe282 0
+Srd fa67ef2f
+Sstart 97e237e2
+Slength 97e237e2
+Sop 79a5aebb
+Sst 3b98b6b7
+Sgamma 48e16572
+V7d4fe281 a563d950 0 1 0 0
+Winit 7d4fe280
+DStubImageRd
+CStubImages
+CVBT
+CRd
+CPaintOp
+CRTHooks
+E7d4fe282 StubImageRd.T
+E7d4fe281 StubImageRd.Public
+@StubImages.i3
+BStubImages
+Va563d950 9d8fb489 0 0 0 0
+DStubImages
+CRTHooks
+Ea563d950 StubImages.T

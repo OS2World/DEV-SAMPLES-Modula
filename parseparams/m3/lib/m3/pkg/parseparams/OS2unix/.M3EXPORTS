@@ -1,0 +1,7 @@
+% exports of parseparams
+_define_lib("m3parseparams")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_import_m3lib("m3parseparams", "parseparams", "OS2unix")
+_map_add_interface("ParseParams.i3", "parseparams", "src", "")
+_map_add_module("ParseParams.m3", "parseparams", "src", "hidden")

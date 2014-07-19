@@ -1,0 +1,1356 @@
+NTObjFile.m3 8658
+GasmObjFile.m3 6462
+MasmObjFile.m3 6582
+M3ObjFile.m3 45
+Coff.m3 30
+NTObjFile.i3 208
+GasmObjFile.i3 216
+MasmObjFile.i3 216
+M3ObjFile.i3 3327
+Coff.i3 1309
+$ 0
+@NTObjFile.m3
+ANTObjFile
+H4fedbf67 7 8
+IText
+IData
+IBss
+IExtern
+IFile
+IFileAux
+ISection
+F7fba6cab 371e218d 4fedbf67 16
+N822831d7 195c2a74 0 8 8
+F77f40bc1 892831d7 822831d7 32
+Kf85e1140 320 12
+Lid 0 32 adc6066d
+Loffset 32 32 195c2a74
+Lkind 64 8 4fedbf67
+Lexport 72 8 1e59237d
+Lused 80 8 1e59237d
+Lindex 96 32 195c2a74
+Lnext_func 128 32 195c2a74
+Lfirst_line 160 32 195c2a74
+Llast_line 192 32 195c2a74
+Llast_offset 224 32 195c2a74
+Llineno_offs 256 32 195c2a74
+Llineno_cnt 288 32 195c2a74
+G15015f1a f85e1140 64
+P3cfac02b 15015f1a
+H9890503c 3 8
+ISymbol
+IOffset
+ISegment
+K49147e71 128 4
+Lkind 0 8 9890503c
+Lsrc_sym 32 32 195c2a74
+Lsrc_offset 64 32 195c2a74
+Ltarget_sym 96 32 195c2a74
+G881de7b6 49147e71 64
+Pc53baa7b 881de7b6
+K289a7ea7 64 2
+Laddr 0 32 195c2a74
+Lline 32 32 195c2a74
+G350eff54 289a7ea7 64
+P588668dd 350eff54
+G9d19e327 50f86574 64
+Pf173dc91 9d19e327
+Ka42d8faa 128 4
+Lcnt 0 32 195c2a74
+Ln_bytes 32 32 195c2a74
+Lentry_size 64 32 195c2a74
+Lfile_offset 96 32 195c2a74
+K045c5176 608 10
+Lname 0 32 50f86574
+Lid 32 32 195c2a74
+Lflags 64 32 195c2a74
+Laddress 96 32 195c2a74
+Lraw_data 128 128 a42d8faa
+Lrelocation 256 128 a42d8faa
+Lline_numbers 384 128 a42d8faa
+Ldata 512 32 878be988
+Lline_nums 544 32 588668dd
+Lrelocs 576 32 c53baa7b
+K09c2c638 224 4
+Lmap 0 32 ed1dee3b
+Llist 32 32 3cfac02b
+Lremap 64 32 217fba22
+Lchunk 96 128 a42d8faa
+N493573bb 195c2a74 0 2047 16
+F3093c470 493573bb 56e16863 16384
+Ke3a20de5 16448 3
+Lwr 0 32 62761487
+Llen 32 32 195c2a74
+Lbuf 64 16384 3093c470
+Ka3d4d6e8 128 4
+Lcnt 0 32 195c2a74
+Ln_bytes 32 32 195c2a74
+Llist 64 32 f173dc91
+Lmap 96 32 a0780918
+V94df2854 399d128f 18 0 41 20672 NTObjFile.T
+Xcursor NTObjFile.Cursor
+Xappend NTObjFile.Append
+Xpatch NTObjFile.Patch
+Xrelocate NTObjFile.Relocate
+Ximport_symbol NTObjFile.ImportSymbol
+Xdefine_symbol NTObjFile.DefineSymbol
+Xdefine_bss_symbol NTObjFile.DefineBssSymbol
+Xmove_symbol NTObjFile.MoveSymbol
+Xexport_symbol NTObjFile.ExportSymbol
+Xset_source_file NTObjFile.SetSourceFile
+Xset_source_line NTObjFile.SetSourceLine
+Xdeclare_typename NTObjFile.DeclareTypename
+Xdeclare_array NTObjFile.DeclareArray
+Xdeclare_open_array NTObjFile.DeclareOpenArray
+Xdeclare_enum NTObjFile.DeclareEnum
+Xdeclare_enum_elt NTObjFile.DeclareEnumElt
+Xdeclare_packed NTObjFile.DeclarePacked
+Xdeclare_record NTObjFile.DeclareRecord
+Xdeclare_field NTObjFile.DeclareField
+Xdeclare_set NTObjFile.DeclareSet
+Xdeclare_subrange NTObjFile.DeclareSubrange
+Xdeclare_pointer NTObjFile.DeclarePointer
+Xdeclare_indirect NTObjFile.DeclareIndirect
+Xdeclare_proctype NTObjFile.DeclareProctype
+Xdeclare_formal NTObjFile.DeclareFormal
+Xdeclare_raises NTObjFile.DeclareRaises
+Xdeclare_object NTObjFile.DeclareObject
+Xdeclare_method NTObjFile.DeclareMethod
+Xdeclare_opaque NTObjFile.DeclareOpaque
+Xreveal_opaque NTObjFile.RevealOpaque
+Xdeclare_exception NTObjFile.DeclareException
+Xdeclare_global NTObjFile.DeclareGlobal
+Xdeclare_constant NTObjFile.DeclareConstant
+Xdeclare_local NTObjFile.DeclareLocal
+Xdeclare_param NTObjFile.DeclareParam
+Xdeclare_procedure NTObjFile.DeclareProcedure
+Xbegin_procedure NTObjFile.BeginProcedure
+Xend_procedure NTObjFile.EndProcedure
+Xbegin_block NTObjFile.BeginBlock
+Xend_block NTObjFile.EndBlock
+Xnote_procedure_origin NTObjFile.NoteProcedureOrigin
+Ln_sections 0 32 195c2a74
+Ldrectve 32 608 045c5176
+Ldebug_S 640 608 045c5176
+Ltext 1248 608 045c5176
+Ldata 1856 608 045c5176
+Lbss 2464 608 045c5176
+Ldebug_T 3072 608 045c5176
+Lsymtab 3680 224 09c2c638
+Lstrings 3904 128 a3d4d6e8
+Lout 4032 16448 e3a20de5
+Lfilename 20480 32 50f86574
+Lfilesym 20512 32 195c2a74
+Lgen_debugging 20544 8 1e59237d
+Lsect_syms 20552 8 1e59237d
+Lin_procedure 20560 8 1e59237d
+Lfirst_proc 20576 32 195c2a74
+Llast_proc 20608 32 195c2a74
+Llast_source_line 20640 32 195c2a74
+F9d9c09ae 1e59237d 195c2a74 64
+Qfba3ae89 045c5176
+R71d7d335 4 00000000 0
+St 21baf0d5
+Ss fba3ae89
+Sname 50f86574
+Sflags 195c2a74
+Q5bd27055 a42d8faa
+R3bfb8e0e 2 00000000 0
+Sc 5bd27055
+Ssz 195c2a74
+R75917823 2 00000000 0
+St 21baf0d5
+Ss fba3ae89
+R426a8a65 2 195c2a74 0
+St 21baf0d5
+Ss 371e218d
+R5dfe47ca 4 00000000 0
+St 21baf0d5
+Ss 371e218d
+Svalue 195c2a74
+Slength 195c2a74
+R6a45229a 3 00000000 0
+Ss fba3ae89
+Svalue 195c2a74
+Slength 195c2a74
+R5b40c436 2 00000000 0
+Ss fba3ae89
+Sname 50f86574
+Q78741677 878be988
+R0eb09ea9 2 878be988 0
+Sb 78741677
+Slength 195c2a74
+R852eb3f9 5 00000000 0
+St 21baf0d5
+Ss 371e218d
+Soffset 195c2a74
+Svalue 195c2a74
+Slength 195c2a74
+Re7667ea4 4 00000000 0
+Ss fba3ae89
+Soffset 195c2a74
+Svalue 195c2a74
+Slength 195c2a74
+R22bfc260 4 00000000 0
+St 21baf0d5
+Ssrc_sym 195c2a74
+Ssrc_offs 195c2a74
+Star_sym 195c2a74
+R95df2fdb 5 00000000 0
+Ss fba3ae89
+Skind 9890503c
+Ssrc_sym 195c2a74
+Ssrc_offs 195c2a74
+Star_sym 195c2a74
+R4d011642 1 00000000 0
+Ss fba3ae89
+R494940f9 2 195c2a74 0
+St 21baf0d5
+Sid adc6066d
+Rd5f56eeb 4 195c2a74 0
+St 21baf0d5
+Sid adc6066d
+Ss 371e218d
+Soffset 195c2a74
+R14d3a84d 4 195c2a74 0
+St 21baf0d5
+Sid adc6066d
+Ssize 195c2a74
+Salign 195c2a74
+Rcd98a431 3 00000000 0
+St 21baf0d5
+Ssym 195c2a74
+Snew_offset 195c2a74
+Rfc7f54da 2 00000000 0
+St 21baf0d5
+Ssym 195c2a74
+R03a10e83 1 892831d7 0
+Salign 195c2a74
+R6e2e284b 1 195c2a74 0
+St 21baf0d5
+Rd0221c2d 1 00000000 0
+St 21baf0d5
+Ra77fe3cf 2 00000000 0
+St 21baf0d5
+Sfilename 50f86574
+Rae812b2f 1 50f86574 0
+Ssrc 50f86574
+Re3f49b3c 2 00000000 0
+St 21baf0d5
+Ssource_line 195c2a74
+Rdbbda00f 3 00000000 0
+St 21baf0d5
+Saddr 195c2a74
+Sline 195c2a74
+R5d74faa4 3 00000000 0
+St 21baf0d5
+Stype e61d104f
+Sn adc6066d
+R6c698eb9 5 00000000 0
+St 21baf0d5
+Stype e61d104f
+Sindex e61d104f
+Selt e61d104f
+Ss 97e237e2
+Rd125265f 4 00000000 0
+St 21baf0d5
+Stype e61d104f
+Selt e61d104f
+Ss 97e237e2
+R9aed0e52 4 00000000 0
+St 21baf0d5
+Stype e61d104f
+Sn_elts 195c2a74
+Ss 97e237e2
+R5f0ba713 2 00000000 0
+St 21baf0d5
+Sn adc6066d
+Raf04091b 4 00000000 0
+St 21baf0d5
+Stype e61d104f
+Ss 97e237e2
+Sbase e61d104f
+R1301c434 4 00000000 0
+St 21baf0d5
+Stype e61d104f
+Ss 97e237e2
+Sn_fields 195c2a74
+Re3d11483 5 00000000 0
+St 21baf0d5
+Sn adc6066d
+So 195c2a74
+Ss 97e237e2
+Stype e61d104f
+Rf131d28f 4 00000000 0
+St 21baf0d5
+Stype e61d104f
+Sdomain e61d104f
+Ss 97e237e2
+Qde89d3b9 21762c46
+Rfc2fe678 6 00000000 0
+St 21baf0d5
+Stype e61d104f
+Sdomain e61d104f
+Smin de89d3b9
+Smax de89d3b9
+Ss 97e237e2
+Rad550193 5 00000000 0
+St 21baf0d5
+Stype e61d104f
+Starget e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+R9a3d73e1 3 00000000 0
+St 21baf0d5
+Stype e61d104f
+Starget e61d104f
+R40a1c5b9 5 00000000 0
+St 21baf0d5
+Stype e61d104f
+Sn_formals 195c2a74
+Sresult e61d104f
+Sn_raises 195c2a74
+Rab271073 3 00000000 0
+St 21baf0d5
+Sn adc6066d
+Stype e61d104f
+Rc44964e0 8 00000000 0
+St 21baf0d5
+Stype e61d104f
+Ssuper e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+Sn_fields 195c2a74
+Sn_methods 195c2a74
+Sfield_size 97e237e2
+Rd0448e3c 3 00000000 0
+St 21baf0d5
+Sn adc6066d
+Ssignature e61d104f
+R723f1c1c 3 00000000 0
+St 21baf0d5
+Stype e61d104f
+Ssuper e61d104f
+R6b9cd747 3 00000000 0
+St 21baf0d5
+Slhs e61d104f
+Srhs e61d104f
+R90c304d1 4 00000000 0
+St 21baf0d5
+Ssym 195c2a74
+Sarg_type e61d104f
+Sraise_proc 1e59237d
+R9213fec4 4 00000000 0
+St 21baf0d5
+Ssym 195c2a74
+Ss 97e237e2
+Sm3t e61d104f
+R37950c89 5 00000000 0
+St 21baf0d5
+Sn adc6066d
+Ss 97e237e2
+Sframe 195c2a74
+Sm3t e61d104f
+R667fc2da 5 00000000 0
+St 21baf0d5
+Ssym 195c2a74
+Sn_params 195c2a74
+Snested 1e59237d
+Sexported 1e59237d
+R8a610224 2 00000000 0
+St 21baf0d5
+Swr 62761487
+Qe6a3d58b 195c2a74
+Rc4d5e851 4 00000000 0
+St 21baf0d5
+Sold 195c2a74
+Snext_sym e6a3d58b
+Snext_remap e6a3d58b
+R05834fea 3 00000000 0
+Ss fba3ae89
+Soffs e6a3d58b
+Saddr e6a3d58b
+R42643d94 3 00000000 0
+Sc 5bd27055
+Soffs e6a3d58b
+Sdata 1c1c45e6
+Rc2856339 2 00000000 0
+St 21baf0d5
+Ss fba3ae89
+R838c1dae 2 00000000 0
+St 21baf0d5
+Sn_symbols 195c2a74
+Q07a1eebf f85e1140
+R62608a2e 2 00000000 0
+St 21baf0d5
+Ssym 07a1eebf
+R23d4517b 2 00000000 0
+St 21baf0d5
+Snm 50f86574
+R4e12e066 2 00000000 0
+St 21baf0d5
+Si 195c2a74
+Red5bb007 2 00000000 0
+St 21baf0d5
+Stxt 50f86574
+R33df270a 2 00000000 0
+St 21baf0d5
+Sc 56e16863
+R2aa9a4d7 2 195c2a74 0
+St 21baf0d5
+Stxt 50f86574
+Q5c2b2917 a3d4d6e8
+Ra29c6ccd 1 00000000 0
+Ss 5c2b2917
+DNTObjFile
+CM3CG
+CTarget
+CCoffTime
+CM3ID
+CM3ObjFile
+CTextIntTbl
+CIntIntTbl
+CWord
+CWr
+CText
+CRTHooks
+E371e218d NTObjFile.Seg
+E4fedbf67 NTObjFile.SymKind
+E892831d7 NTObjFile.Alignment
+E3cfac02b NTObjFile.SymbolList
+Ef85e1140 NTObjFile.Symbol
+E9890503c NTObjFile.RelocKind
+Ec53baa7b NTObjFile.RelocList
+E49147e71 NTObjFile.Reloc
+E588668dd NTObjFile.LineNums
+E289a7ea7 NTObjFile.LineNum
+E878be988 NTObjFile.Bytes
+E217fba22 NTObjFile.Ints
+Ef173dc91 NTObjFile.TextList
+Ea42d8faa NTObjFile.Chunk
+E045c5176 NTObjFile.Section
+E09c2c638 NTObjFile.SymbolTable
+Ee3a20de5 NTObjFile.OutputStream
+Ea3d4d6e8 NTObjFile.StringTable
+Z21baf0d5 94df2854
+Qf63d39c7 09c2c638
+Q1c5df21a e3a20de5
+Qb6eb818e 49147e71
+Qa7799722 588668dd
+Qd7658158 289a7ea7
+@GasmObjFile.m3
+AGasmObjFile
+G97ef2214 0e3fc5cb 64
+Pc0ff4a17 97ef2214
+Heb78ab59 4 8
+IText
+IData
+IBss
+IExtern
+F376dbd00 371e218d eb78ab59 16
+Kbf914df5 160 6
+Lid 0 32 adc6066d
+Lkind 32 8 eb78ab59
+Loffset 64 32 195c2a74
+Lsize 96 32 195c2a74
+Lexport 128 8 1e59237d
+Lused 136 8 1e59237d
+Gf175fcf2 bf914df5 64
+Pf69b7108 f175fcf2
+N822831d7 195c2a74 0 8 8
+F77f40bc1 892831d7 822831d7 32
+F06456af3 892831d7 50f86574 128
+K968bc435 96 3
+Lsrc_sym 0 32 195c2a74
+Lsrc_offset 32 32 195c2a74
+Ltarget_sym 64 32 195c2a74
+Gdd6d04fc 968bc435 64
+P2c210c31 dd6d04fc
+K14ef226c 64 2
+Lpc 0 32 195c2a74
+Lline 32 32 195c2a74
+Gbf01180e 14ef226c 64
+P48f330ad bf01180e
+Fcc7f0849 371e218d 195c2a74 64
+F2b3a75cb 371e218d c0ff4a17 64
+V20b0bc22 399d128f 12 0 41 448 GasmObjFile.T
+Xcursor GasmObjFile.Cursor
+Xappend GasmObjFile.Append
+Xpatch GasmObjFile.Patch
+Xrelocate GasmObjFile.Relocate
+Ximport_symbol GasmObjFile.ImportSymbol
+Xdefine_symbol GasmObjFile.DefineSymbol
+Xdefine_bss_symbol GasmObjFile.DefineBssSymbol
+Xmove_symbol GasmObjFile.MoveSymbol
+Xexport_symbol GasmObjFile.ExportSymbol
+Xset_source_file GasmObjFile.SetSourceFile
+Xset_source_line GasmObjFile.SetSourceLine
+Xdeclare_typename GasmObjFile.DeclareTypename
+Xdeclare_array GasmObjFile.DeclareArray
+Xdeclare_open_array GasmObjFile.DeclareOpenArray
+Xdeclare_enum GasmObjFile.DeclareEnum
+Xdeclare_enum_elt GasmObjFile.DeclareEnumElt
+Xdeclare_packed GasmObjFile.DeclarePacked
+Xdeclare_record GasmObjFile.DeclareRecord
+Xdeclare_field GasmObjFile.DeclareField
+Xdeclare_set GasmObjFile.DeclareSet
+Xdeclare_subrange GasmObjFile.DeclareSubrange
+Xdeclare_pointer GasmObjFile.DeclarePointer
+Xdeclare_indirect GasmObjFile.DeclareIndirect
+Xdeclare_proctype GasmObjFile.DeclareProctype
+Xdeclare_formal GasmObjFile.DeclareFormal
+Xdeclare_raises GasmObjFile.DeclareRaises
+Xdeclare_object GasmObjFile.DeclareObject
+Xdeclare_method GasmObjFile.DeclareMethod
+Xdeclare_opaque GasmObjFile.DeclareOpaque
+Xreveal_opaque GasmObjFile.RevealOpaque
+Xdeclare_exception GasmObjFile.DeclareException
+Xdeclare_global GasmObjFile.DeclareGlobal
+Xdeclare_constant GasmObjFile.DeclareConstant
+Xdeclare_local GasmObjFile.DeclareLocal
+Xdeclare_param GasmObjFile.DeclareParam
+Xdeclare_procedure GasmObjFile.DeclareProcedure
+Xbegin_procedure GasmObjFile.BeginProcedure
+Xend_procedure GasmObjFile.EndProcedure
+Xbegin_block GasmObjFile.BeginBlock
+Xend_block GasmObjFile.EndBlock
+Xnote_procedure_origin GasmObjFile.NoteProcedureOrigin
+Lsize 0 64 cc7f0849
+Lbytes 64 64 2b3a75cb
+Lsym_map 128 32 ed1dee3b
+Lsymbols 160 32 f69b7108
+Ln_syms 192 32 195c2a74
+Lrelocs 224 32 2c210c31
+Ln_relocs 256 32 195c2a74
+Ln_bss 288 32 195c2a74
+Ln_lines 320 32 195c2a74
+Llast_pc 352 32 195c2a74
+Llines 384 32 48f330ad
+Lfile 416 32 50f86574
+R82a97325 2 195c2a74 0
+St f25e8c5e
+Ss 371e218d
+Redec254a 4 00000000 0
+St f25e8c5e
+Ss 371e218d
+Svalue 195c2a74
+Slength 195c2a74
+Q3f00b5e8 c0ff4a17
+R65cd9a41 2 c0ff4a17 0
+Sb 3f00b5e8
+Slength 195c2a74
+R2bd2f1d8 5 00000000 0
+St f25e8c5e
+Ss 371e218d
+Soffset 195c2a74
+Svalue 195c2a74
+Slength 195c2a74
+R92ada0e0 4 00000000 0
+St f25e8c5e
+Ssrc_sym 195c2a74
+Ssrc_offs 195c2a74
+Star_sym 195c2a74
+R18fd5648 1 00000000 0
+St f25e8c5e
+R898ab9b9 2 195c2a74 0
+St f25e8c5e
+Sid adc6066d
+R7b092cca 4 195c2a74 0
+St f25e8c5e
+Sid adc6066d
+Ss 371e218d
+Soffset 195c2a74
+Rba2fea6c 4 195c2a74 0
+St f25e8c5e
+Sid adc6066d
+Ssize 195c2a74
+Salign 195c2a74
+R0d5b5d71 3 00000000 0
+St f25e8c5e
+Ssym 195c2a74
+Snew_offset 195c2a74
+Rf31f222b 2 00000000 0
+St f25e8c5e
+Ssym 195c2a74
+R03a10e83 1 892831d7 0
+Salign 195c2a74
+Ra81f953e 2 00000000 0
+St f25e8c5e
+Sfilename 50f86574
+Rec94edcd 2 00000000 0
+St f25e8c5e
+Ssource_line 195c2a74
+R9db703e4 3 00000000 0
+St f25e8c5e
+Stype e61d104f
+Sn adc6066d
+Rc295cc98 5 00000000 0
+St f25e8c5e
+Stype e61d104f
+Sindex e61d104f
+Selt e61d104f
+Ss 97e237e2
+R613744df 4 00000000 0
+St f25e8c5e
+Stype e61d104f
+Selt e61d104f
+Ss 97e237e2
+R2aff6cd2 4 00000000 0
+St f25e8c5e
+Stype e61d104f
+Sn_elts 195c2a74
+Ss 97e237e2
+R506bd1e2 2 00000000 0
+St f25e8c5e
+Sn adc6066d
+R1f166b9b 4 00000000 0
+St f25e8c5e
+Stype e61d104f
+Ss 97e237e2
+Sbase e61d104f
+Ra313a6b4 4 00000000 0
+St f25e8c5e
+Stype e61d104f
+Ss 97e237e2
+Sn_fields 195c2a74
+R4d2d56a2 5 00000000 0
+St f25e8c5e
+Sn adc6066d
+So 195c2a74
+Ss 97e237e2
+Stype e61d104f
+R4123b00f 4 00000000 0
+St f25e8c5e
+Stype e61d104f
+Sdomain e61d104f
+Ss 97e237e2
+Qde89d3b9 21762c46
+Rff444967 6 00000000 0
+St f25e8c5e
+Stype e61d104f
+Sdomain e61d104f
+Smin de89d3b9
+Smax de89d3b9
+Ss 97e237e2
+R03a943b2 5 00000000 0
+St f25e8c5e
+Stype e61d104f
+Starget e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+R5afe8aa1 3 00000000 0
+St f25e8c5e
+Stype e61d104f
+Starget e61d104f
+Ree5d8798 5 00000000 0
+St f25e8c5e
+Stype e61d104f
+Sn_formals 195c2a74
+Sresult e61d104f
+Sn_raises 195c2a74
+R6be4e933 3 00000000 0
+St f25e8c5e
+Sn adc6066d
+Stype e61d104f
+Rde0f70bc 8 00000000 0
+St f25e8c5e
+Stype e61d104f
+Ssuper e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+Sn_fields 195c2a74
+Sn_methods 195c2a74
+Sfield_size 97e237e2
+R1087777c 3 00000000 0
+St f25e8c5e
+Sn adc6066d
+Ssignature e61d104f
+Rb2fce55c 3 00000000 0
+St f25e8c5e
+Stype e61d104f
+Ssuper e61d104f
+Rab5f2e07 3 00000000 0
+St f25e8c5e
+Slhs e61d104f
+Srhs e61d104f
+R20d16651 4 00000000 0
+St f25e8c5e
+Ssym 195c2a74
+Sarg_type e61d104f
+Sraise_proc 1e59237d
+R22019c44 4 00000000 0
+St f25e8c5e
+Ssym 195c2a74
+Ss 97e237e2
+Sm3t e61d104f
+R99694ea8 5 00000000 0
+St f25e8c5e
+Sn adc6066d
+Ss 97e237e2
+Sframe 195c2a74
+Sm3t e61d104f
+Rc88380fb 5 00000000 0
+St f25e8c5e
+Ssym 195c2a74
+Sn_params 195c2a74
+Snested 1e59237d
+Sexported 1e59237d
+Kadb758be 224 7
+Lt 0 32 f25e8c5e
+Lbuf 32 32 c5c06198
+Lsym_map 64 32 217fba22
+Lreloc_map 96 32 217fba22
+Lnext_sym 128 32 195c2a74
+Lnext_reloc 160 32 195c2a74
+Lnext_line 192 32 195c2a74
+R850174d5 2 00000000 0
+St f25e8c5e
+Swr 62761487
+Fa56618b5 371e218d 50f86574 64
+Q5248a741 adb758be
+R93e56f33 1 00000000 0
+Ss 5248a741
+Rcd366da2 2 2db54900 0
+Sxa 195c2a74
+Sxb 195c2a74
+R048d587f 2 195c2a74 0
+Ss 5248a741
+Skind eb78ab59
+R436f5daf 3 00000000 0
+Ss 5248a741
+Soffs 195c2a74
+Sseg 371e218d
+DGasmObjFile
+CM3CG
+CTarget
+CM3Buf
+CM3ID
+CM3ObjFile
+CIntArraySort
+CIntIntTbl
+CWord
+CWr
+CRTHooks
+E371e218d GasmObjFile.Seg
+E0e3fc5cb GasmObjFile.Byte
+Ec0ff4a17 GasmObjFile.Bytes
+Eeb78ab59 GasmObjFile.SKind
+Ef69b7108 GasmObjFile.SymbolList
+Ebf914df5 GasmObjFile.Symbol
+E892831d7 GasmObjFile.Alignment
+E2c210c31 GasmObjFile.RelocList
+E968bc435 GasmObjFile.Reloc
+E48f330ad GasmObjFile.LineNumList
+E14ef226c GasmObjFile.LineNum
+Eadb758be GasmObjFile.DState
+Zf25e8c5e 20b0bc22
+Q69743bca 968bc435
+Q406eb20a bf914df5
+Qeb10dd93 14ef226c
+@MasmObjFile.m3
+AMasmObjFile
+G97ef2214 0e3fc5cb 64
+Pc0ff4a17 97ef2214
+Heb78ab59 4 8
+IText
+IData
+IBss
+IExtern
+F376dbd00 371e218d eb78ab59 16
+Kbf914df5 160 6
+Lid 0 32 adc6066d
+Lkind 32 8 eb78ab59
+Loffset 64 32 195c2a74
+Lsize 96 32 195c2a74
+Lexport 128 8 1e59237d
+Lused 136 8 1e59237d
+Gf175fcf2 bf914df5 64
+Pf69b7108 f175fcf2
+N822831d7 195c2a74 0 8 8
+F77f40bc1 892831d7 822831d7 32
+F06456af3 892831d7 50f86574 128
+K968bc435 96 3
+Lsrc_sym 0 32 195c2a74
+Lsrc_offset 32 32 195c2a74
+Ltarget_sym 64 32 195c2a74
+Gdd6d04fc 968bc435 64
+P2c210c31 dd6d04fc
+K14ef226c 64 2
+Lpc 0 32 195c2a74
+Lline 32 32 195c2a74
+Gbf01180e 14ef226c 64
+P48f330ad bf01180e
+Fcc7f0849 371e218d 195c2a74 64
+F2b3a75cb 371e218d c0ff4a17 64
+V75e3d39e 399d128f 12 0 41 448 MasmObjFile.T
+Xcursor MasmObjFile.Cursor
+Xappend MasmObjFile.Append
+Xpatch MasmObjFile.Patch
+Xrelocate MasmObjFile.Relocate
+Ximport_symbol MasmObjFile.ImportSymbol
+Xdefine_symbol MasmObjFile.DefineSymbol
+Xdefine_bss_symbol MasmObjFile.DefineBssSymbol
+Xmove_symbol MasmObjFile.MoveSymbol
+Xexport_symbol MasmObjFile.ExportSymbol
+Xset_source_file MasmObjFile.SetSourceFile
+Xset_source_line MasmObjFile.SetSourceLine
+Xdeclare_typename MasmObjFile.DeclareTypename
+Xdeclare_array MasmObjFile.DeclareArray
+Xdeclare_open_array MasmObjFile.DeclareOpenArray
+Xdeclare_enum MasmObjFile.DeclareEnum
+Xdeclare_enum_elt MasmObjFile.DeclareEnumElt
+Xdeclare_packed MasmObjFile.DeclarePacked
+Xdeclare_record MasmObjFile.DeclareRecord
+Xdeclare_field MasmObjFile.DeclareField
+Xdeclare_set MasmObjFile.DeclareSet
+Xdeclare_subrange MasmObjFile.DeclareSubrange
+Xdeclare_pointer MasmObjFile.DeclarePointer
+Xdeclare_indirect MasmObjFile.DeclareIndirect
+Xdeclare_proctype MasmObjFile.DeclareProctype
+Xdeclare_formal MasmObjFile.DeclareFormal
+Xdeclare_raises MasmObjFile.DeclareRaises
+Xdeclare_object MasmObjFile.DeclareObject
+Xdeclare_method MasmObjFile.DeclareMethod
+Xdeclare_opaque MasmObjFile.DeclareOpaque
+Xreveal_opaque MasmObjFile.RevealOpaque
+Xdeclare_exception MasmObjFile.DeclareException
+Xdeclare_global MasmObjFile.DeclareGlobal
+Xdeclare_constant MasmObjFile.DeclareConstant
+Xdeclare_local MasmObjFile.DeclareLocal
+Xdeclare_param MasmObjFile.DeclareParam
+Xdeclare_procedure MasmObjFile.DeclareProcedure
+Xbegin_procedure MasmObjFile.BeginProcedure
+Xend_procedure MasmObjFile.EndProcedure
+Xbegin_block MasmObjFile.BeginBlock
+Xend_block MasmObjFile.EndBlock
+Xnote_procedure_origin MasmObjFile.NoteProcedureOrigin
+Lsize 0 64 cc7f0849
+Lbytes 64 64 2b3a75cb
+Lsym_map 128 32 ed1dee3b
+Lsymbols 160 32 f69b7108
+Ln_syms 192 32 195c2a74
+Lrelocs 224 32 2c210c31
+Ln_relocs 256 32 195c2a74
+Ln_bss 288 32 195c2a74
+Ln_lines 320 32 195c2a74
+Llast_pc 352 32 195c2a74
+Llines 384 32 48f330ad
+Lfile 416 32 50f86574
+R472e1ce4 2 195c2a74 0
+St 8ce7cd5b
+Ss 371e218d
+R892340be 4 00000000 0
+St 8ce7cd5b
+Ss 371e218d
+Svalue 195c2a74
+Slength 195c2a74
+Q3f00b5e8 c0ff4a17
+R65cd9a41 2 c0ff4a17 0
+Sb 3f00b5e8
+Slength 195c2a74
+Rd2d49fdc 5 00000000 0
+St 8ce7cd5b
+Ss 371e218d
+Soffset 195c2a74
+Svalue 195c2a74
+Slength 195c2a74
+Rf662c514 4 00000000 0
+St 8ce7cd5b
+Ssrc_sym 195c2a74
+Ssrc_offs 195c2a74
+Star_sym 195c2a74
+R511ae06a 1 00000000 0
+St 8ce7cd5b
+R4c0dd678 2 195c2a74 0
+St 8ce7cd5b
+Sid adc6066d
+R820f42ce 4 195c2a74 0
+St 8ce7cd5b
+Sid adc6066d
+Ss 371e218d
+Soffset 195c2a74
+R43298468 4 195c2a74 0
+St 8ce7cd5b
+Sid adc6066d
+Ssize 195c2a74
+Salign 195c2a74
+Rc8dc32b0 3 00000000 0
+St 8ce7cd5b
+Ssym 195c2a74
+Snew_offset 195c2a74
+Rdce270c9 2 00000000 0
+St 8ce7cd5b
+Ssym 195c2a74
+R03a10e83 1 892831d7 0
+Salign 195c2a74
+R87e2c7dc 2 00000000 0
+St 8ce7cd5b
+Sfilename 50f86574
+Rc369bf2f 2 00000000 0
+St 8ce7cd5b
+Ssource_line 195c2a74
+R58306c25 3 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Sn adc6066d
+R3b93a29c 5 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Sindex e61d104f
+Selt e61d104f
+Ss 97e237e2
+R05f8212b 4 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Selt e61d104f
+Ss 97e237e2
+R4e300926 4 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Sn_elts 195c2a74
+Ss 97e237e2
+R7f968300 2 00000000 0
+St 8ce7cd5b
+Sn adc6066d
+R7bd90e6f 4 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Ss 97e237e2
+Sbase e61d104f
+Rc7dcc340 4 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Ss 97e237e2
+Sn_fields 195c2a74
+Rb42b38a6 5 00000000 0
+St 8ce7cd5b
+Sn adc6066d
+So 195c2a74
+Ss 97e237e2
+Stype e61d104f
+R25ecd5fb 4 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Sdomain e61d104f
+Ss 97e237e2
+Qde89d3b9 21762c46
+Ra972e455 6 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Sdomain e61d104f
+Smin de89d3b9
+Smax de89d3b9
+Ss 97e237e2
+Rfaaf2db6 5 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Starget e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+R9f79e560 3 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Starget e61d104f
+R175be99c 5 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Sn_formals 195c2a74
+Sresult e61d104f
+Sn_raises 195c2a74
+Rae6386f2 3 00000000 0
+St 8ce7cd5b
+Sn adc6066d
+Stype e61d104f
+R6d62df06 8 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Ssuper e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+Sn_fields 195c2a74
+Sn_methods 195c2a74
+Sfield_size 97e237e2
+Rd50018bd 3 00000000 0
+St 8ce7cd5b
+Sn adc6066d
+Ssignature e61d104f
+R777b8a9d 3 00000000 0
+St 8ce7cd5b
+Stype e61d104f
+Ssuper e61d104f
+R6ed841c6 3 00000000 0
+St 8ce7cd5b
+Slhs e61d104f
+Srhs e61d104f
+R441e03a5 4 00000000 0
+St 8ce7cd5b
+Ssym 195c2a74
+Sarg_type e61d104f
+Sraise_proc 1e59237d
+R46cef9b0 4 00000000 0
+St 8ce7cd5b
+Ssym 195c2a74
+Ss 97e237e2
+Sm3t e61d104f
+R606f20ac 5 00000000 0
+St 8ce7cd5b
+Sn adc6066d
+Ss 97e237e2
+Sframe 195c2a74
+Sm3t e61d104f
+R3185eeff 5 00000000 0
+St 8ce7cd5b
+Ssym 195c2a74
+Sn_params 195c2a74
+Snested 1e59237d
+Sexported 1e59237d
+Kf504d945 224 7
+Lt 0 32 8ce7cd5b
+Lbuf 32 32 c5c06198
+Lsym_map 64 32 217fba22
+Lreloc_map 96 32 217fba22
+Lnext_sym 128 32 195c2a74
+Lnext_reloc 160 32 195c2a74
+Lnext_line 192 32 195c2a74
+Raafc2637 2 00000000 0
+St 8ce7cd5b
+Swr 62761487
+Fa56618b5 371e218d 50f86574 64
+Q0afb26ba f504d945
+R5beddf38 1 00000000 0
+Ss 0afb26ba
+Rcd366da2 2 2db54900 0
+Sxa 195c2a74
+Sxb 195c2a74
+Rf6fe54e8 2 195c2a74 0
+Ss 0afb26ba
+Skind eb78ab59
+Rb11c5138 3 00000000 0
+Ss 0afb26ba
+Soffs 195c2a74
+Sseg 371e218d
+DMasmObjFile
+CM3CG
+CTarget
+CM3Buf
+CM3ID
+CM3ObjFile
+CIntArraySort
+CIntIntTbl
+CWord
+CWr
+CRTHooks
+E371e218d MasmObjFile.Seg
+E0e3fc5cb MasmObjFile.Byte
+Ec0ff4a17 MasmObjFile.Bytes
+Eeb78ab59 MasmObjFile.SKind
+Ef69b7108 MasmObjFile.SymbolList
+Ebf914df5 MasmObjFile.Symbol
+E892831d7 MasmObjFile.Alignment
+E2c210c31 MasmObjFile.RelocList
+E968bc435 MasmObjFile.Reloc
+E48f330ad MasmObjFile.LineNumList
+E14ef226c MasmObjFile.LineNum
+Ef504d945 MasmObjFile.DState
+Z8ce7cd5b 75e3d39e
+Q69743bca 968bc435
+Q406eb20a bf914df5
+Qeb10dd93 14ef226c
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+N2da6581d 195c2a74 0 31 8
+R6fb7d834 2 195c2a74 0
+Sx 195c2a74
+Sn 2da6581d
+@M3ObjFile.m3
+AM3ObjFile
+DM3ObjFile
+CRTHooks
+@Coff.m3
+ACoff
+DCoff
+CRTHooks
+@NTObjFile.i3
+BNTObjFile
+Y21baf0d5 399d128f
+Rfc1ef487 0 21baf0d5 0
+Ra67ff31a 2 00000000 2
+St 21baf0d5
+Swr 62761487
+TThread.Alerted
+TWr.Failure
+DNTObjFile
+CThread
+CWr
+CM3ObjFile
+CRTHooks
+E21baf0d5 NTObjFile.T
+@GasmObjFile.i3
+BGasmObjFile
+Yf25e8c5e 399d128f
+R34c1bee2 0 f25e8c5e 0
+R66bc0a5a 2 00000000 2
+St f25e8c5e
+Swr 62761487
+TThread.Alerted
+TWr.Failure
+DGasmObjFile
+CThread
+CWr
+CM3ObjFile
+CRTHooks
+Ef25e8c5e GasmObjFile.T
+@MasmObjFile.i3
+BMasmObjFile
+Y8ce7cd5b 399d128f
+R7d2608c0 0 8ce7cd5b 0
+Ra33b659b 2 00000000 2
+St 8ce7cd5b
+Swr 62761487
+TThread.Alerted
+TWr.Failure
+DMasmObjFile
+CThread
+CWr
+CM3ObjFile
+CRTHooks
+E8ce7cd5b MasmObjFile.T
+@M3ObjFile.i3
+BM3ObjFile
+H371e218d 2 8
+IText
+IData
+Rf91b95b9 1 195c2a74 0
+Ss 371e218d
+Re49c4d71 3 00000000 0
+Ss 371e218d
+Svalue 195c2a74
+Slength 195c2a74
+R89a7189f 4 00000000 0
+Ss 371e218d
+Soffset 195c2a74
+Svalue 195c2a74
+Slength 195c2a74
+R61aac604 3 00000000 0
+Ssrc_sym 195c2a74
+Ssrc_offset 195c2a74
+Starget_sym 195c2a74
+Ra992aed6 1 195c2a74 0
+Sid adc6066d
+R6c1f8df1 3 195c2a74 0
+Sid adc6066d
+Ss 371e218d
+Soffset 195c2a74
+R302db891 3 195c2a74 0
+Sid adc6066d
+Ssize 195c2a74
+Salign 195c2a74
+R5c0364df 2 00000000 0
+Ssym 195c2a74
+Snew_offset 195c2a74
+Rba5dd626 1 00000000 0
+Ssym 195c2a74
+Rf323c868 1 00000000 0
+Sfilename 50f86574
+R5df168a6 1 00000000 0
+Sline 195c2a74
+R4c48b1d7 2 00000000 0
+St e61d104f
+Sn adc6066d
+Rf55b5250 4 00000000 0
+St e61d104f
+Sindex e61d104f
+Selt e61d104f
+Ss 97e237e2
+R49da404e 3 00000000 0
+St e61d104f
+Selt e61d104f
+Ss 97e237e2
+R3ed17c04 3 00000000 0
+St e61d104f
+Sn_elts 195c2a74
+Ss 97e237e2
+Rc9bee185 1 00000000 0
+Sn adc6066d
+Ref23874a 3 00000000 0
+St e61d104f
+Ss 97e237e2
+Sbase e61d104f
+Rce80a4bd 3 00000000 0
+St e61d104f
+Ss 97e237e2
+Sn_fields 195c2a74
+Ra64fca66 4 00000000 0
+Sn adc6066d
+So 195c2a74
+Ss 97e237e2
+St e61d104f
+Rae94c27e 3 00000000 0
+St e61d104f
+Sdomain e61d104f
+Ss 97e237e2
+Qde89d3b9 21762c46
+R8a6ced9c 5 00000000 0
+St e61d104f
+Sdomain e61d104f
+Smin de89d3b9
+Smax de89d3b9
+Ss 97e237e2
+Rf8d5a826 4 00000000 0
+St e61d104f
+Starget e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+Rb365e7bd 2 00000000 0
+St e61d104f
+Starget e61d104f
+Re930d002 4 00000000 0
+St e61d104f
+Sn_formals 195c2a74
+Sresult e61d104f
+Sn_raises 195c2a74
+Rd21800ad 2 00000000 0
+Sn adc6066d
+St e61d104f
+R375000ce 7 00000000 0
+St e61d104f
+Ssuper e61d104f
+Sbrand 50f86574
+Straced 1e59237d
+Sn_fields 195c2a74
+Sn_methods 195c2a74
+Sfield_size 97e237e2
+R29896af4 2 00000000 0
+Sn adc6066d
+Ssignature e61d104f
+R87c120f3 2 00000000 0
+St e61d104f
+Ssuper e61d104f
+R037b835a 2 00000000 0
+Slhs e61d104f
+Srhs e61d104f
+R5a59f723 3 00000000 0
+Ssym 195c2a74
+Sarg_type e61d104f
+Sraise_proc 1e59237d
+Rc58da738 3 00000000 0
+Ssym 195c2a74
+Ss 97e237e2
+Sm3t e61d104f
+Rab42076c 4 00000000 0
+Sn adc6066d
+Ss 97e237e2
+Sframe 195c2a74
+Sm3t e61d104f
+Rdc548538 4 00000000 0
+Ssym 195c2a74
+Sn_params 195c2a74
+Snested 1e59237d
+Sexported 1e59237d
+V399d128f 9d8fb489 0 41 0 0
+Wcursor f91b95b9
+Wappend e49c4d71
+Wpatch 89a7189f
+Wrelocate 61aac604
+Wimport_symbol a992aed6
+Wdefine_symbol 6c1f8df1
+Wdefine_bss_symbol 302db891
+Wmove_symbol 5c0364df
+Wexport_symbol ba5dd626
+Wset_source_file f323c868
+Wset_source_line 5df168a6
+Wdeclare_typename 4c48b1d7
+Wdeclare_array f55b5250
+Wdeclare_open_array 49da404e
+Wdeclare_enum 3ed17c04
+Wdeclare_enum_elt c9bee185
+Wdeclare_packed ef23874a
+Wdeclare_record ce80a4bd
+Wdeclare_field a64fca66
+Wdeclare_set ae94c27e
+Wdeclare_subrange 8a6ced9c
+Wdeclare_pointer f8d5a826
+Wdeclare_indirect b365e7bd
+Wdeclare_proctype e930d002
+Wdeclare_formal d21800ad
+Wdeclare_raises c9bee185
+Wdeclare_object 375000ce
+Wdeclare_method 29896af4
+Wdeclare_opaque 87c120f3
+Wreveal_opaque 037b835a
+Wdeclare_exception 5a59f723
+Wdeclare_global c58da738
+Wdeclare_constant c58da738
+Wdeclare_local ab42076c
+Wdeclare_param ab42076c
+Wdeclare_procedure dc548538
+Wbegin_procedure ba5dd626
+Wend_procedure ba5dd626
+Wbegin_block 7b78c34f
+Wend_block 7b78c34f
+Wnote_procedure_origin ba5dd626
+DM3ObjFile
+CM3CG
+CTarget
+CM3ID
+CRTHooks
+E399d128f M3ObjFile.T
+E371e218d M3ObjFile.Seg
+@Coff.i3
+BCoff
+N0b5b30aa 195c2a74 0 255 8
+J0e3fc5cb 8 0b5b30aa
+Na4b285de 195c2a74 0 65535 16
+J573a2ef0 16 a4b285de
+N7300e1e8 195c2a74 -32768 32767 16
+Ja9ca12dc 16 7300e1e8
+Nadc6066d 195c2a74 -2147483648 2147483647 32
+Je61d104f 32 adc6066d
+K3a34d210 160 7
+Lf_magic 0 16 573a2ef0
+Lf_nscns 16 16 573a2ef0
+Lf_timdat 32 32 e61d104f
+Lf_symptr 64 32 e61d104f
+Lf_nsyms 96 32 e61d104f
+Lf_opthdr 128 16 573a2ef0
+Lf_flags 144 16 573a2ef0
+N8d2831d7 195c2a74 0 7 8
+F264b1550 8d2831d7 56e16863 64
+K9ead00c1 320 10
+Ls_name 0 64 264b1550
+Ls_paddr 64 32 e61d104f
+Ls_vaddr 96 32 e61d104f
+Ls_size 128 32 e61d104f
+Ls_scnptr 160 32 e61d104f
+Ls_relptr 192 32 e61d104f
+Ls_lnnoptr 224 32 e61d104f
+Ls_nreloc 256 16 573a2ef0
+Ls_nlnno 272 16 573a2ef0
+Ls_flags 288 32 e61d104f
+K4834437b 96 3
+Lr_vaddr 0 32 e61d104f
+Lr_symndx 32 32 e61d104f
+Lr_type 64 16 573a2ef0
+Ke443c64f 160 6
+Ln_name 0 64 264b1550
+Ln_value 64 32 e61d104f
+Ln_scnum 96 16 a9ca12dc
+Ln_type 112 16 573a2ef0
+Ln_sclass 128 8 0e3fc5cb
+Ln_numaux 136 8 0e3fc5cb
+K710a6594 64 2
+Ln_zeros 0 32 e61d104f
+Ln_offset 32 32 e61d104f
+DCoff
+CRTHooks
+E0e3fc5cb Coff.char
+E573a2ef0 Coff.u_short
+Ea9ca12dc Coff.short
+Ee61d104f Coff.long
+E3a34d210 Coff.FileHeader
+E264b1550 Coff.Name
+E9ead00c1 Coff.SectionHeader
+E4834437b Coff.Relocation
+Ee443c64f Coff.Symbol
+E710a6594 Coff.SymbolNamePtr

@@ -1,0 +1,399 @@
+ConnMsgRW.m3 1311
+ConnRW.m3 692
+TCPHackNull.m3 47
+TCP.m3 1308
+IP.m3 258
+ConnMsgRW.i3 139
+ConnRW.i3 124
+TCPSpecial.i3 225
+TCPHack.i3 75
+Herrno.i3 44
+TCPPosix.i3 149
+TCP.i3 405
+IP.i3 557
+ConnFD.i3 484
+$ 0
+@ConnMsgRW.m3
+AConnMsgRW
+Kd0db0ad8 64 2
+Leom 0 32 e61d104f
+Lnb 32 32 e61d104f
+V043af074 e47e1a8b 3 0 4 128 ConnMsgRW_^%#%^__0001M
+Xseek ConnMsgRW.RdSeek
+Xclose ConnMsgRW.RdClose
+XnextMsg ConnMsgRW.RdNextMsg
+Xlength ConnMsgRW.Length
+Lfd 0 32 2f22b51d
+Lhdr 32 64 d0db0ad8
+Llim 96 32 97e237e2
+Vaeb22b04 d3c63202 1 0 4 32 ConnMsgRW_^%#%^__0002M
+Xseek ConnMsgRW.WrSeek
+Xflush ConnMsgRW.WrFlush
+Xclose ConnMsgRW.WrClose
+XnextMsg ConnMsgRW.WrNextMsg
+Lfd 0 32 2f22b51d
+Rba7bcfc4 3 c967393d 2
+Srd 043af074
+Sn 97e237e2
+SdontBlock 1e59237d
+TRd.Failure
+TThread.Alerted
+O9ec47195 d0db0ad8
+R312c54aa 1 97e237e2 0
+Sn 97e237e2
+R1994dd2d 2 195c2a74 2
+Sfd 2f22b51d
+Sbuff 878be988
+TRd.Failure
+TThread.Alerted
+Re2c0d143 1 195c2a74 0
+Srd 043af074
+R3ac7b8f0 1 00000000 1
+Srd 043af074
+TRd.Failure
+R4cfedfd9 1 1e59237d 2
+Srd 043af074
+TRd.Failure
+TThread.Alerted
+R5bbc037f 2 00000000 2
+Swr aeb22b04
+Sn 97e237e2
+TThread.Alerted
+TWr.Failure
+R4d942fc9 1 00000000 2
+Swr aeb22b04
+TThread.Alerted
+TWr.Failure
+Rd9595367 1 00000000 1
+Swr aeb22b04
+TWr.Failure
+Re8ee6429 2 00000000 2
+Swr aeb22b04
+Seom 1e59237d
+TThread.Alerted
+TWr.Failure
+DConnMsgRW
+CSwap
+CThread
+CWrClass
+CRdClass
+CMsgWr
+CMsgRd
+CWr
+CRd
+CAtomList
+CAtom
+CConnFD
+CRTHooks
+Ee61d104f ConnMsgRW.Int32
+Ed0db0ad8 ConnMsgRW.FragmentHeader
+E043af074 ConnMsgRW.RdT
+Eaeb22b04 ConnMsgRW.WrT
+@ConnRW.m3
+AConnRW
+Va409027d fa67ef2f 1 0 2 32 ConnRW_^%#%^__0001M
+Xseek ConnRW.RdSeek
+Xclose ConnRW.RdClose
+Lfd 0 32 2f22b51d
+V62d9399c 62761487 1 0 3 32 ConnRW_^%#%^__0002M
+Xseek ConnRW.WrSeek
+Xflush ConnRW.WrFlush
+Xclose ConnRW.WrClose
+Lfd 0 32 2f22b51d
+Rf4c18c2a 3 c967393d 2
+Srd a409027d
+Spos 97e237e2
+SdontBlock 1e59237d
+TRd.Failure
+TThread.Alerted
+Rad9047d9 1 00000000 1
+Srd a409027d
+TRd.Failure
+R8ee156d5 2 00000000 2
+Swr 62d9399c
+Sn 97e237e2
+TThread.Alerted
+TWr.Failure
+Rade7b4c1 1 00000000 2
+Swr 62d9399c
+TThread.Alerted
+TWr.Failure
+R392ac86f 1 00000000 1
+Swr 62d9399c
+TWr.Failure
+DConnRW
+CThread
+CWrClass
+CRdClass
+CWr
+CRd
+CConnFD
+CRTHooks
+Ea409027d ConnRW.RdT
+E62d9399c ConnRW.WrT
+@TCPHackNull.m3
+ATCPHackNull
+DTCPHack
+CRTHooks
+@TCP.m3
+ATCP
+V85107907 1541f475 3 0 0 128 TCP.Connector
+Lfd 0 32 195c2a74
+Lep 32 64 38ee4e5a
+Lclosed 96 8 1e59237d
+V07447b2c f08709c9 2 0 5 96 TCP.T
+Xget TCP.GetBytesFD
+Xput TCP.PutBytesFD
+XshutdownIn TCP.ShutdownIn
+XshutdownOut TCP.ShutdownOut
+Xclose TCP.Close
+Lep 0 64 38ee4e5a
+Lerror 64 32 ad398276
+R6639502b 2 1e59237d 2
+St 14f94bfb
+Stimeout 94fe32f6
+TIP.Error
+TThread.Alerted
+R003d821c 2 1e59237d 1
+Sfd 195c2a74
+Sep 38ee4e5a
+TIP.Error
+R85d71147 1 00000000 0
+Sfd 97e237e2
+R37007684 1 00000000 0
+Sfd 195c2a74
+Q7632cb42 89cd34bd
+R619f2c52 3 97e237e2 3
+St 14f94bfb
+Sarr 7632cb42
+Stimeout 94fe32f6
+TConnFD.TimedOut
+TRd.Failure
+TThread.Alerted
+R70b85348 2 00000000 2
+St 14f94bfb
+Sarr 7632cb42
+TThread.Alerted
+TWr.Failure
+N25a4581d 195c2a74 0 19 8
+F90e0dcf4 25a4581d 195c2a74 640
+Rae80f822 2 00000000 0
+St 14f94bfb
+Satom d1d9dd0e
+Rc5868957 1 00000000 1
+St 14f94bfb
+TRd.Failure
+Ra9b4a967 1 00000000 1
+St 14f94bfb
+TWr.Failure
+R053c7d08 1 00000000 1
+Sa d1d9dd0e
+TIP.Error
+Rd730f7a7 0 00000000 1
+TIP.Error
+DUin
+DTCPSpecial
+DTCP
+CCtypes
+CWord
+CFmt
+CSchedulerPosix
+CTCPPosix
+CTCPHack
+CUtypes
+CUuio
+CUnix
+CUin
+CUerror
+CCerrno
+CUsocket
+CThread
+CWr
+CRd
+CIP
+CConnFD
+CAtomList
+CAtom
+CRTHooks
+Qc711b1a5 38ee4e5a
+Ead618fa9 TCP.SockAddrIn
+Z14f94bfb 07447b2c
+Z17605ae2 85107907
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+@IP.m3
+AIP
+R5b35f27b 1 00000000 0
+Sent 4bab6633
+Ob007dad0 c4b15ca6
+O5f80176b b007dad0
+Fa9d8608a 0b5b30aa 56e16863 2048
+Rd730f7a7 0 00000000 1
+TIP.Error
+DIP
+CUtypes
+CUin
+CUnix
+CUsocket
+CUnetdb
+CTextF
+CM3toC
+CHerrno
+CAtomList
+CAtom
+CRTHooks
+Q391246cd c6edb932
+@ConnMsgRW.i3
+BConnMsgRW
+Rab8199f1 1 e47e1a8b 0
+Sfd 2f22b51d
+R5a8d17bd 1 d3c63202 0
+Sfd 2f22b51d
+DConnMsgRW
+CMsgWr
+CMsgRd
+CConnFD
+CRTHooks
+@ConnRW.i3
+BConnRW
+R7c3b1d1d 1 fa67ef2f 0
+Sfd 2f22b51d
+R444a51ff 1 62761487 0
+Sfd 2f22b51d
+DConnRW
+CWr
+CRd
+CConnFD
+CRTHooks
+@TCPSpecial.i3
+BTCPSpecial
+Rd11b9d27 1 1e59237d 0
+St 14f94bfb
+R7fe108fb 1 14f94bfb 1
+Sep 38ee4e5a
+TIP.Error
+R1cb069bd 2 1e59237d 2
+St 14f94bfb
+SwaitFor 94fe32f6
+TIP.Error
+TThread.Alerted
+DTCPSpecial
+CThread
+CIP
+CTCP
+CRTHooks
+@TCPHack.i3
+BTCPHack
+R133aa360 1 1e59237d 0
+Sfd 195c2a74
+DTCPHack
+CRTHooks
+@Herrno.i3
+BHerrno
+DHerrno
+CCtypes
+CRTHooks
+@TCPPosix.i3
+BTCPPosix
+Vf08709c9 2f22b51d 2 0 0 64
+Lfd 0 32 195c2a74
+Lclosed 32 8 1e59237d
+DTCPPosix
+CConnFD
+CTCP
+CRTHooks
+Ef08709c9 TCPPosix.Public
+@TCP.i3
+BTCP
+Y17605ae2 9d8fb489
+Y14f94bfb 2f22b51d
+Rc8cfc47c 1 17605ae2 1
+Sep 38ee4e5a
+TIP.Error
+Rabc742e5 1 00000000 0
+Sc 17605ae2
+R7c13233c 1 00000000 0
+Sc 17605ae2
+Rf20904f2 1 14f94bfb 2
+Sep 38ee4e5a
+TIP.Error
+TThread.Alerted
+R19530668 1 14f94bfb 2
+Sc 17605ae2
+TIP.Error
+TThread.Alerted
+Red249628 1 00000000 0
+St 14f94bfb
+DTCP
+CThread
+CIP
+CConnFD
+CAtom
+CRTHooks
+E17605ae2 TCP.Connector
+E14f94bfb TCP.T
+@IP.i3
+BIP
+Na4b285de 195c2a74 0 65535 16
+N892831d7 195c2a74 0 3 8
+N0b5b30aa 195c2a74 0 255 8
+J0e3fc5cb 8 0b5b30aa
+F0cb3abc0 892831d7 0e3fc5cb 32
+Kc6edb932 32 1
+La 0 32 0cb3abc0
+K38ee4e5a 64 2
+Laddr 0 32 c6edb932
+Lport 32 16 a4b285de
+G97ef2214 0e3fc5cb 64
+Q391246cd c6edb932
+R6e5c7d95 2 1e59237d 1
+Snm 50f86574
+Sres 391246cd
+TIP.Error
+Ra67fc101 1 50f86574 1
+Snm 50f86574
+TIP.Error
+Re0529830 1 50f86574 1
+Saddr c6edb932
+TIP.Error
+R6b18dd25 0 00000000 0
+DIP
+CAtomList
+CAtom
+CRTHooks
+Ead398276 IP.EC
+Ea4b285de IP.Port
+Ec6edb932 IP.Address
+E38ee4e5a IP.Endpoint
+@ConnFD.i3
+BConnFD
+Q7632cb42 89cd34bd
+Rd5fc7f10 2 97e237e2 3
+Sarr 7632cb42
+SwaitFor 94fe32f6
+TConnFD.TimedOut
+TRd.Failure
+TThread.Alerted
+R13310372 1 00000000 2
+Sarr 7632cb42
+TThread.Alerted
+TWr.Failure
+R5166b5cb 0 00000000 1
+TRd.Failure
+Re2b222f4 0 00000000 1
+TWr.Failure
+R7b78c34f 0 00000000 0
+V2f22b51d 1541f475 0 5 0 0
+Wget d5fc7f10
+Wput 13310372
+WshutdownIn 5166b5cb
+WshutdownOut e2b222f4
+Wclose 7b78c34f
+DConnFD
+CThread
+CWr
+CRd
+CRTHooks
+E2f22b51d ConnFD.T
+E2f22b51d ConnFD.TRep

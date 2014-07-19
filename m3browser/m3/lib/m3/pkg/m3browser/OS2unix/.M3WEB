@@ -1,0 +1,1352 @@
+Main.m3 9247
+ErrLog.m3 55
+TCPPeer.m3 308
+TCPServer.m3 739
+OS.m3 93
+CMarkUp.m3 48
+M3MarkUp.m3 924
+MarkUp.m3 632
+XFormat.m3 5051
+ID.m3 555
+CharMap.m3 53
+Wx.m3 571
+Buf.m3 212
+ErrLog.i3 144
+TCPPeer.i3 264
+TCPServer.i3 530
+OS.i3 91
+CMarkUp.i3 98
+M3MarkUp.i3 213
+MarkUp.i3 95
+XFormat.i3 1231
+ID.i3 387
+CharMap.i3 220
+Wx.i3 326
+Buf.i3 132
+$ 0
+@Main.m3
+AMain
+Hd87b1fa5 6 8
+IInterface
+IGenInterface
+IModule
+IGenModule
+IHSource
+ICSource
+F873f2459 d87b1fa5 50f86574 192
+P4741e8ae 4741e8ad
+Kdfcc41bb 64 2
+Lname 0 32 adc6066d
+Lsets 32 32 b95a4f1b
+P25928466 dfcc41bb
+K4741e8ab 320 8
+Lpkg 0 32 25928466
+Lpath 32 32 50f86574
+Lname 64 32 adc6066d
+Lunits 96 32 4741e8ae
+Lwebinfo 128 32 878be988
+Lwebinfo_time 160 64 94fe32f6
+Lm3export_time 224 64 94fe32f6
+Lis_pgm 288 8 1e59237d
+P4741e8ac 4741e8ab
+K4741e8ad 160 6
+Lname 0 32 adc6066d
+Lnext 32 32 4741e8ae
+Lset 64 32 4741e8ac
+Ldir 96 32 50f86574
+Lclass 128 8 d87b1fa5
+Lhidden 136 8 1e59237d
+K53853cb3 96 3
+Lnext 0 32 53853cb0
+Lname 32 32 adc6066d
+Lhome 64 32 adc6066d
+P53853cb0 53853cb3
+P8f047bfd 8f047bfe
+K8f047bfe 288 9
+Luid 0 32 195c2a74
+Lhome 32 32 adc6066d
+Lclass 64 8 56e16863
+Lstart 96 32 195c2a74
+Ldefn 128 32 878be988
+Lnames 160 32 53853cb0
+Lsuper 192 32 8f047bfd
+Lsubtypes 224 32 8f047bfd
+Lnext_peer 256 32 8f047bfd
+K5cbb4f43 320 10
+Lpackages 0 32 5ad3ba2b
+Llibs 32 32 5ad3ba2b
+Lpgms 64 32 5ad3ba2b
+Lunits 96 32 5ad3ba2b
+Lexporters 128 32 5ad3ba2b
+Limporters 160 32 5ad3ba2b
+Ltype_ids 192 32 5ad3ba2b
+Ltype_names 224 32 5ad3ba2b
+Lrevelations 256 32 ed1dee3b
+Lopaques 288 32 ed1dee3b
+Qa344b0bc 5cbb4f43
+R29124147 1 00000000 0
+Sx a344b0bc
+R3b9a0b4d 2 195c2a74 0
+Stxt 50f86574
+Snm 50f86574
+R6cdf5130 2 00000000 0
+Swx 4c49e079
+Srelative 1e59237d
+Rb116400b 1 00000000 0
+Sservice a63c56d7
+Kd2439887 512 7
+Lpkg_name 0 32 adc6066d
+Lold_pkg 32 32 25928466
+Lnew_pkg 64 32 25928466
+Lmodified 96 8 1e59237d
+Ldir_name 128 32 adc6066d
+Lnew_set 160 32 4741e8ac
+Lnew 192 320 5cbb4f43
+Q2dbc6778 d2439887
+R35144c8f 1 00000000 0
+Ss 2dbc6778
+Rea1bdf86 1 4741e8ac 0
+Ss 2dbc6778
+Kbdd42312 64 2
+Lstart 0 32 195c2a74
+Llen 32 32 195c2a74
+Rde8ee610 2 00000000 0
+Ss 2dbc6778
+Sm3exports 50f86574
+N832831d7 195c2a74 0 9 8
+F7dca9c3a 832831d7 bdd42312 640
+Qe6a3d58b 195c2a74
+Q823563c5 7dca9c3a
+Rf5134013 3 195c2a74 0
+Sbuf 878be988
+Scur e6a3d58b
+Sx 823563c5
+Q422bdced bdd42312
+Rfde3cd92 7 00000000 0
+Ss 2dbc6778
+Sclass d87b1fa5
+Sbuf 878be988
+Sxname 422bdced
+Sxpkg 422bdced
+Sxpkg_dir 422bdced
+Sxhide 422bdced
+R175c6528 2 adc6066d 0
+Sbuf 878be988
+Sx 422bdced
+Rbedf8c78 2 00000000 0
+Ss 2dbc6778
+Sbuf 878be988
+R003b8a7e 4 adc6066d 0
+Sbuf 878be988
+Sstart 195c2a74
+Slen 195c2a74
+Sintf 1e59237d
+Fe051cec8 1e59237d 56e16863 16
+Fa9d8608a 0b5b30aa 56e16863 2048
+Re88fc990 3 00000000 0
+Stbl 5ad3ba2b
+Simpl adc6066d
+Sintf adc6066d
+R40c439f9 4 00000000 0
+Ss 2dbc6778
+Suid 195c2a74
+Sname adc6066d
+Shome adc6066d
+Re905bbd1 6 00000000 0
+Ss 2dbc6778
+Suid 195c2a74
+Sbuf 878be988
+Sstart 195c2a74
+Shome adc6066d
+Sclass 56e16863
+R6948f12d 3 00000000 0
+Ss 2dbc6778
+Slhs 195c2a74
+Srhs 195c2a74
+R2629787d 3 00000000 0
+Ss 2dbc6778
+Ssubtype 195c2a74
+Ssuper 195c2a74
+R34ce380c 1 8f047bfd 0
+St 8f047bfd
+Q70fb8402 8f047bfd
+Raea2d666 2 1e59237d 0
+Slhs_uid 195c2a74
+Srhs 70fb8402
+R5ccf382d 2 1e59237d 0
+Srhs_uid 195c2a74
+Slhs 70fb8402
+Rdb28ddef 2 8f047bfd 0
+Ss 2dbc6778
+Suid 195c2a74
+R3e8a691a 3 00000000 0
+Stbl 5ad3ba2b
+Snm adc6066d
+Sval 1c1c45e6
+Rca49feaf 1 50f86574 0
+Sargs ad398276
+Rca2e6787 2 50f86574 0
+Sservice a63c56d7
+Sreq 50f86574
+Q7632cb42 89cd34bd
+Qaf079a8b 50f86574
+Q0e8c236e f173dc91
+R7154c8b8 3 00000000 0
+Sbuf 7632cb42
+Sreq af079a8b
+Squery 0e8c236e
+R47588b72 2 00000000 0
+Sa 195c2a74
+Sb 195c2a74
+Rb3c5ad68 2 56e16863 0
+Sa 56e16863
+Sb 56e16863
+R82f0bc78 3 00000000 0
+Squery f173dc91
+Swx 4c49e079
+Spgm 1e59237d
+R8b2d009c 4 00000000 0
+Sprefix 50f86574
+Squery f173dc91
+Swx 4c49e079
+Spgm 1e59237d
+R9d59dd05 3 00000000 0
+Sreq 50f86574
+Squery f173dc91
+Swx 4c49e079
+Raaa91d73 4 00000000 0
+Swx 4c49e079
+Sc d87b1fa5
+Slimit 195c2a74
+Squery f173dc91
+R78d98281 4 00000000 0
+Sreq 50f86574
+Swx 4c49e079
+Sc d87b1fa5
+Squery f173dc91
+Rce04f87b 3 217fba22 0
+Sc d87b1fa5
+Sprefix 50f86574
+Squery f173dc91
+R1b825b8f 2 00000000 0
+Sname 50f86574
+Swx 4c49e079
+Rd449978e 2 00000000 0
+Sreq 50f86574
+Swx 4c49e079
+Rf66c032e 1 b95a4f1b 0
+Sx b95a4f1b
+Q5239f992 adc6066d
+Rbdc25f24 3 00000000 0
+Sreq 50f86574
+Sname 5239f992
+Sdir af079a8b
+Rd72d416f 3 00000000 0
+Scmd 50f86574
+Sx b95a4f1b
+Swx 4c49e079
+Ff4851952 1e59237d 50f86574 64
+Re831bae0 3 00000000 0
+Snm adc6066d
+Sname 50f86574
+Swx 4c49e079
+R7b342a20 2 00000000 0
+Simp b78ce168
+Swx 4c49e079
+Qb8be1751 4741e8ae
+R5d080b7c 4 00000000 0
+Sx b95a4f1b
+Sdir 50f86574
+Scnt e6a3d58b
+Su b8be1751
+R1bc73140 4 00000000 0
+Scmd 50f86574
+Sx b95a4f1b
+Sh 50f86574
+Swx 4c49e079
+Rb6abeb35 2 00000000 0
+Su 4741e8ae
+Swx 4c49e079
+R60e0649d 3 00000000 0
+Sname 50f86574
+Swx 4c49e079
+Spgm 1e59237d
+R8ad7caef 3 00000000 0
+Sreq 50f86574
+Swx 4c49e079
+Spgm 1e59237d
+Qb8be1753 4741e8ac
+R26263b51 5 00000000 0
+Sx b95a4f1b
+Sdir 50f86574
+Spgm 1e59237d
+Scnt e6a3d58b
+Slast b8be1753
+R8f6fc83d 4 00000000 0
+Scmd 50f86574
+Sx b95a4f1b
+Swx 4c49e079
+Spgm 1e59237d
+R5d2893ec 2 00000000 0
+Sus 4741e8ac
+Swx 4c49e079
+Fee2634a5 d87b1fa5 195c2a74 192
+R2e60e514 3 00000000 0
+Sus 4741e8ac
+Sc d87b1fa5
+Swx 4c49e079
+N25a6581d 195c2a74 0 39 8
+F87aedf13 25a6581d 195c2a74 1280
+R00ba0844 4 00000000 0
+Sus 4741e8ac
+Sc d87b1fa5
+Swx 4c49e079
+Sn 195c2a74
+Rac3a5c7e 3 00000000 0
+Sprefix 50f86574
+Squery f173dc91
+Swx 4c49e079
+Rda2d37a7 2 00000000 0
+Sx b95a4f1b
+Swx 4c49e079
+Rfaa71910 3 00000000 0
+Sreq 50f86574
+Swx 4c49e079
+Sexpanded 1e59237d
+N8e2831d7 195c2a74 0 4 8
+F7bf92297 8e2831d7 195c2a74 160
+Q0bff0c24 f400f3db
+R1acd3529 3 00000000 0
+St 8f047bfd
+Sdepth 195c2a74
+Scnt 0bff0c24
+R08e43354 3 195c2a74 0
+St 8f047bfd
+Sdepth 195c2a74
+Swx 4c49e079
+R27208e64 5 00000000 0
+St 8f047bfd
+Sindent 195c2a74
+Sdepth 195c2a74
+Swx 4c49e079
+Skey 1e59237d
+Rda2bd785 5 00000000 0
+St 8f047bfd
+Sdepth 195c2a74
+SmaxDepth 195c2a74
+Sindent 195c2a74
+Swx 4c49e079
+Ra1b9d54d 5 00000000 0
+Sz 16ba8299
+Sdepth 195c2a74
+SmaxDepth 195c2a74
+Sindent 195c2a74
+Swx 4c49e079
+K8d82ccb8 96 3
+Ltype 0 32 8f047bfd
+Lname 32 32 50f86574
+Lhome 64 32 50f86574
+Gd15f7a73 8d82ccb8 64
+Pade61406 d15f7a73
+R58771bf8 4 00000000 0
+Suid 195c2a74
+Sname af079a8b
+Shome af079a8b
+Spref 50f86574
+R8ddf66a2 4 1e59237d 0
+St 8f047bfd
+Sname af079a8b
+Shome af079a8b
+Spref 50f86574
+Rd5b1705e 4 00000000 0
+St 8f047bfd
+Swx 4c49e079
+Sexpanded 1e59237d
+Spref 50f86574
+R8dd1980f 3 00000000 0
+St 8f047bfd
+Sexpanded 5ad3ba2b
+Swx 4c49e079
+Peea26060 eea26063
+Keea26063 192 6
+Lnext 0 32 eea26060
+Lname 32 32 50f86574
+Luid 64 32 195c2a74
+Ldfault 96 32 50f86574
+Lhidden 128 8 1e59237d
+Lsource 160 32 195c2a74
+Ke8835fe9 64 2
+Lhead 0 32 eea26060
+Ltail 32 32 eea26060
+K2bb7d6aa 192 4
+Ltraced 0 8 1e59237d
+Lfields 32 64 e8835fe9
+Lmethods 96 64 e8835fe9
+Lnames 160 32 17b65d08
+Qd4482955 2bb7d6aa
+R385fa983 2 00000000 0
+St 8f047bfd
+Sinfo d4482955
+Q177ca016 e8835fe9
+Re9f9adcf 3 00000000 0
+Sinfo d4482955
+Sq 177ca016
+Se eea26060
+R0786773a 2 00000000 0
+Sinfo d4482955
+Swx 4c49e079
+Redc87f32 3 00000000 0
+Sx eea26060
+Sfmt aca18977
+Smethod 1e59237d
+R3c5cb5d6 4 00000000 0
+St 8f047bfd
+Smode 195c2a74
+Spref 50f86574
+Swx 4c49e079
+Rd0d6b6f4 9 00000000 0
+Sdefn 878be988
+Sstart 195c2a74
+Scount 195c2a74
+Skind 56e16863
+Sexpanded 5ad3ba2b
+Sfmt aca18977
+StopLevel 1e59237d
+Ssig_only 1e59237d
+Sopaque_id 195c2a74
+R9fc29df2 2 195c2a74 0
+Sdefn 878be988
+Sstart 195c2a74
+Ra53a8ce1 5 00000000 0
+Suid 195c2a74
+Sex 5ad3ba2b
+Sfmt aca18977
+StopLevel 1e59237d
+Ssig_only 1e59237d
+R443e82b1 1 1e59237d 0
+St 8f047bfd
+Rcaf8dd9b 2 1e59237d 0
+Suid 195c2a74
+Sfmt aca18977
+R7978b6c9 2 00000000 0
+Sfmt aca18977
+St 50f86574
+Re62942e5 2 195c2a74 0
+Sbuf 878be988
+Scursor e6a3d58b
+R7668031c 2 00000000 0
+Sbuf 878be988
+Scur e6a3d58b
+R8f305219 2 50f86574 0
+Sbuf 878be988
+Scursor e6a3d58b
+N29a4581d 195c2a74 0 15 8
+F8b72dde2 29a4581d 56e16863 128
+Rd2cd24dc 1 50f86574 0
+Suid 195c2a74
+N8d2831d7 195c2a74 0 7 8
+F264b1550 8d2831d7 56e16863 64
+Rfa9e81fe 1 195c2a74 0
+Stxt 50f86574
+Rcb96c596 5 00000000 0
+Scmd 50f86574
+Salt_cmd 50f86574
+Snames 0bff0c24
+Swx 4c49e079
+Slimit 195c2a74
+Q681dc81d 97e237e2
+Qde8045dd 217fba22
+R9fe26bdd 5 195c2a74 0
+Snames 0bff0c24
+Sn_names 681dc81d
+Scounts de8045dd
+Smax_len 195c2a74
+Slimit 195c2a74
+Rfa8bb5b9 3 195c2a74 0
+Snames 0bff0c24
+Scnts 0bff0c24
+Slen 195c2a74
+R7dd670b0 3 1e59237d 0
+Sa 50f86574
+Sbx adc6066d
+Slen 195c2a74
+R2c13a9ec 2 1e59237d 0
+Sid adc6066d
+Squery f173dc91
+R54b53142 2 00000000 0
+Sa 0bff0c24
+Scmp b75e032f
+R4495d8c2 4 00000000 0
+Sa 0bff0c24
+Slo 195c2a74
+Shi 195c2a74
+Scmp b75e032f
+R6c662a99 1 217fba22 0
+Sx e8b16342
+R69772a42 2 00000000 0
+Swx 4c49e079
+Sindent 195c2a74
+R8fbb73b6 6 00000000 0
+Swx 4c49e079
+Sa 50f86574
+Sb 50f86574
+Sc 50f86574
+Sd 50f86574
+Se 50f86574
+R5a05a194 4 50f86574 0
+Sa 50f86574
+Sb 50f86574
+Sc 50f86574
+Sd 50f86574
+R23fb1341 2 50f86574 0
+Snm 50f86574
+Spgm 1e59237d
+DMain
+CRTHeapStats
+CRTutils
+CErrLog
+CTCPServer
+CCMarkUp
+CMarkUp
+CWx
+CID
+CBuf
+CIP
+CCharMap
+CTextRefTbl
+CRefSeq
+CXFormat
+CIntSeq
+CRefList
+CFS
+CRTCollector
+CRTParams
+CM3Config
+CFmtTime
+CAtom
+COSError
+CFileWr
+CTextIntTbl
+CIntIntTbl
+CWord
+CFloatMode
+COS
+CLex
+CParams
+CProcess
+CIntList
+CIntRefTbl
+CFmt
+CTime
+CThread
+CTextRd
+CWr
+CRd
+CText
+CRTHooks
+Ef173dc91 Main.TextVec
+E217fba22 Main.IntVec
+Ed87b1fa5 Main.Class
+E4741e8ae Main.Unit
+E4741e8ac Main.UnitSet
+E25928466 Main.Pkg
+E8f047bfd Main.Type
+E53853cb0 Main.TypeName
+E5cbb4f43 Main.DataBase
+Ed2439887 Main.ScanState
+Ebdd42312 Main.ParseWord
+Eeea26060 Main.ObjEntry
+Ee8835fe9 Main.ObjEntryQueue
+E2bb7d6aa Main.ObjInfo
+E195c2a74 Main.Elem_T
+Eade61406 Main.GenSubtypeNames.XX
+Q727d3347 8d82ccb8
+N2da6581d 195c2a74 0 31 8
+R6fb7d834 2 195c2a74 0
+Sx 195c2a74
+Sn 2da6581d
+@ErrLog.m3
+AErrLog
+DErrLog
+CThread
+CWr
+CStdio
+CRTHooks
+@TCPPeer.m3
+ATCPPeer
+Q529e7056 ad618fa9
+R08902128 2 00000000 1
+Schannel 14f94bfb
+Saddr 529e7056
+TIP.Error
+DTCPPeer
+CInt32
+CWord
+CFmt
+CCerrno
+CAtomList
+CAtom
+CCtypes
+CUsocket
+CUin
+CIP
+CTCPPosix
+CTCP
+CRTHooks
+Qc711b1a5 38ee4e5a
+Ead618fa9 TCPPeer.Addr
+R86d8c6e1 3 195c2a74 0
+Sx 195c2a74
+Si 97e237e2
+Sn 97e237e2
+@TCPServer.m3
+ATCPServer
+G16894539 4b16b0ed 64
+Pd13dad59 16894539
+Ved7e0261 e545939d 6 0 1 224 TCPServer_^%#%^__0001M
+Xapply TCPServer.Server
+Lworkers 0 32 d13dad59
+Lport 32 32 17605ae2
+Lhandler 64 32 b83018c2
+Lrefresher 96 32 e5f3ba71
+Ltimeout 128 64 94fe32f6
+Lerr_log 192 32 a7beb60b
+Vd93e6ef2 e545939d 1 0 1 32
+Xapply TCPServer.Refresh
+Lself 0 32 a63c56d7
+R40a2035c 1 1c1c45e6 0
+Sclosure e545939d
+N493573bb 195c2a74 0 2047 16
+F3093c470 493573bb 56e16863 16384
+R34a5e0ca 1 1e59237d 0
+Schannel 14f94bfb
+R24ceb8af 3 1e59237d 0
+Sself a63c56d7
+Sec ad398276
+Smsg 50f86574
+Rca49feaf 1 50f86574 0
+Sargs ad398276
+DTCPServer
+CTCPPeer
+CAtomList
+CAtom
+CWr
+CRd
+CConnFD
+CIP
+CTCP
+CTime
+CThread
+CText
+CRTHooks
+Ed93e6ef2 TCPServer.TT
+Za63c56d7 ed7e0261
+@OS.m3
+AOS
+Fa9d8608a 0b5b30aa 56e16863 2048
+DOS
+CUstat
+CUnix
+CIP
+CText
+CTime
+CM3toC
+CRTHooks
+@CMarkUp.m3
+ACMarkUp
+DCMarkUp
+CWx
+CBuf
+CRTHooks
+@M3MarkUp.m3
+AM3MarkUp
+H4744c45d 10 8
+IIdle
+IGrabUnit
+IGrabExports
+IGrabGeneric
+IGrabImports
+IGrabFromUnit
+ISkipFromImports
+ISkipRename
+IGrabProc
+IGrabType
+V6f722cb4 bde708a0 0 0 1 0
+Xnext M3MarkUp.SkipPragmaNext
+Q91475316 6eb8ace9
+R621f0528 4 00000000 0
+Slex 24decf49
+Sins 91475316
+Sunit 50f86574
+Sis_interface 1e59237d
+R534ad988 3 00000000 0
+Slex 24decf49
+Sins 91475316
+ScurrentUnit 50f86574
+Rc40a2750 4 00000000 0
+Slex 24decf49
+Sins 91475316
+ScurrentUnit 50f86574
+Sis_interface 1e59237d
+R3c91c483 2 00000000 0
+Slex 24decf49
+Stoken deff46c0
+Qaf079a8b 50f86574
+Qe6a3d58b 195c2a74
+R2a86a1b0 3 00000000 0
+Slex 24decf49
+Sid af079a8b
+Soffset e6a3d58b
+R024ebfd8 3 00000000 0
+Sx 91475316
+Soffs 195c2a74
+Stxt 50f86574
+R148843df 1 00000000 0
+Slex 6f722cb4
+R0236012b 1 00000000 0
+S_self_ bde708a0
+DM3MarkUp
+CM3Token
+CM3Scanner
+CText
+CBuf
+CRTHooks
+Edeff46c0 M3MarkUp.TK
+E4744c45d M3MarkUp.State
+E6f722cb4 M3MarkUp.PragmaCleanScanner
+@MarkUp.m3
+AMarkUp
+K6789d5f5 192 6
+Lbuf 0 32 878be988
+Lwx 32 32 4c49e079
+Leof 64 8 1e59237d
+Loffset 96 32 195c2a74
+Lbuf_len 128 32 195c2a74
+Lins 160 32 6eb8ace9
+Q98762a0a 6789d5f5
+R547ccbd9 1 00000000 0
+Ss 98762a0a
+R6275bfe1 1 1e59237d 0
+Ss 98762a0a
+R7b78c34f 0 00000000 0
+R4e1d3733 2 00000000 0
+Ss 98762a0a
+Sin_spec 1e59237d
+Ff4851952 1e59237d 50f86574 64
+Rb7df0c26 2 1e59237d 0
+Ss 98762a0a
+Sword 50f86574
+R1c2d2dca 2 00000000 0
+Ss 98762a0a
+Sch 56e16863
+Ra388a57d 1 56e16863 0
+Ss 98762a0a
+R76b2961f 4 00000000 0
+Ss 98762a0a
+Sa 50f86574
+Sb 50f86574
+Sc 50f86574
+DMarkUp
+CWord
+CText
+CM3MarkUp
+CWx
+CBuf
+CRTHooks
+E6789d5f5 MarkUp.State
+@XFormat.m3
+AXFormat
+N0b5b30aa 195c2a74 0 255 8
+Fa9d8608a 0b5b30aa 56e16863 2048
+Gfad65da8 1c1c45e6 64
+P107ba7fe fad65da8
+Ha5308dfd 2 8
+IProducer
+IConsumer
+F8353ee90 a5308dfd 97e237e2 64
+Vf9e140d7 92c32cf2 17 0 16 2624 XFormat.T
+XunderlyingWr XFormat.UnderlyingWr
+Xclose XFormat.Close
+Xflush XFormat.Flush
+XputText XFormat.PutText
+XputChar XFormat.PutChar
+XputMarkup XFormat.PutMarkup
+Xbreak XFormat.Break
+XpartialBreak XFormat.PartialBreak
+XnewLine XFormat.NewLine
+XunitedBreak XFormat.UnitedBreak
+Xgroup XFormat.Group
+Xbegin XFormat.Begin
+Xalign XFormat.Align
+XnoAlign XFormat.NoAlign
+Xcol XFormat.Col
+Xend XFormat.End
+Lwx 0 32 4c49e079
+Lwidth 32 32 97e237e2
+Lindent 64 32 97e237e2
+Lchars 96 2048 a9d8608a
+LnumChars 2144 32 97e237e2
+LcThread 2176 32 4b16b0ed
+Llock 2208 32 1541f475
+Lchanged 2240 32 57f0a1b6
+Lclosed 2272 8 1e59237d
+Lbuffer 2304 32 107ba7fe
+LbufSize 2336 32 97e237e2
+Lstart 2368 64 8353ee90
+Lsize 2432 64 8353ee90
+Lnext 2496 32 97e237e2
+LpPutLim 2528 32 97e237e2
+LcGetLim 2560 32 97e237e2
+Lwaiters 2592 32 97e237e2
+Vc3bf7094 dc6728f7 1 0 0 32
+Lt 0 32 aca18977
+Pecf5a0c0 1e59237d
+N69a2a904 195c2a74 -256 256 16
+F8f9cba4b 69a2a904 50c57d3a 16416
+F61df9c7a 56e16863 2d08ba5c 8192
+F2d69f887 1e59237d ecf5a0c0 64
+Pab353603 488c1d62
+Fba7b2768 488c1d62 ab353603 96
+Hb0716d66 2 8
+IThinking
+IWriting
+K04f90c82 128 4
+Ll 0 32 97e237e2
+Lc 32 32 97e237e2
+Lb 64 32 97e237e2
+Li 96 32 97e237e2
+Qfb06f37d 04f90c82
+R05ab6cab 5 1e59237d 0
+St aca18977
+Sm b0716d66
+Sp fb06f37d
+Si 97e237e2
+Sx 97e237e2
+K631ae51b 96 3
+Lproc 0 32 05ab6cab
+Largs 32 32 97e237e2
+Lprecedence 64 32 195c2a74
+P420b66ef 631ae51b
+R3c495f44 2 aca18977 0
+Swx 4c49e079
+Swidth 97e237e2
+R7ae28339 1 4c49e079 0
+St aca18977
+Rca4a3c37 1 00000000 0
+St aca18977
+R2845661d 3 00000000 0
+St aca18977
+Soffset 195c2a74
+Swidth 97e237e2
+R963af562 2 00000000 0
+St aca18977
+Sc 56e16863
+R7aeff56f 3 00000000 0
+St aca18977
+Stext 50f86574
+Sraw 1e59237d
+Rabf4a233 3 00000000 0
+St aca18977
+Stext 50f86574
+Swidth 195c2a74
+Rff3aae87 4 00000000 0
+St aca18977
+Soffset 195c2a74
+Stype 488c1d62
+SfreshLine 1e59237d
+R41fa3468 3 00000000 0
+St aca18977
+Soffset 195c2a74
+SfreshLine 1e59237d
+R20f46fdc 5 00000000 0
+St aca18977
+Scolumns 97e237e2
+StryOneLine 1e59237d
+Soffset 195c2a74
+SalignPred c3ea9a6b
+R31eb2036 4 00000000 0
+St aca18977
+Scolumn 195c2a74
+Srelative 1e59237d
+Sspace 97e237e2
+Rdeb80125 2 00000000 0
+St aca18977
+Sref 1c1c45e6
+R1fa2c003 3 97e237e2 0
+St aca18977
+Sthis a5308dfd
+Ssize 97e237e2
+Re52574e0 3 97e237e2 0
+St aca18977
+Sthis a5308dfd
+SminSize 97e237e2
+R02aed55e 2 00000000 0
+St aca18977
+Sindex 97e237e2
+R592055cd 2 00000000 0
+St aca18977
+Si 97e237e2
+Rd1ec8d87 2 1c1c45e6 0
+St aca18977
+Si 97e237e2
+R630afe0e 2 1e59237d 0
+St aca18977
+Si 97e237e2
+Rdf3a23f4 2 195c2a74 0
+St aca18977
+Si 97e237e2
+R24ca68cd 2 488c1d62 0
+St aca18977
+Si 97e237e2
+Rc267d9d4 2 420b66ef 0
+St aca18977
+Si 97e237e2
+R2e3eca79 1 1c1c45e6 0
+Sself c3bf7094
+Ra66eb311 4 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Rac6a5d87 5 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Sop 420b66ef
+R8dc1a168 5 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Sargs 97e237e2
+Kd6af668f 96 3
+LsaveIndent 0 32 195c2a74
+LsaveWidth 32 32 195c2a74
+LsaveL 64 32 195c2a74
+Q681dc81d 97e237e2
+Q29509970 d6af668f
+Ra01e1c32 7 00000000 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 681dc81d
+Soffset 195c2a74
+Swidth 97e237e2
+SbeginState 29509970
+R517073a4 5 00000000 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 681dc81d
+SbeginState 29509970
+R892a2081 4 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+Stext 50f86574
+R63255b59 5 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+Stext 50f86574
+Swidth 195c2a74
+R1960a637 5 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Sch 2d08ba5c
+Rd9009379 3 00000000 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+R56202693 6 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Soffset 195c2a74
+SfreshLine 1e59237d
+Rce1a3ccf 7 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Soffset 195c2a74
+SfreshLine 1e59237d
+Stype 488c1d62
+R9687c941 5 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Soffset 195c2a74
+R2f1564ba 8 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+SmaxWidths 217fba22
+Swidths 217fba22
+Soffset 195c2a74
+SalignPred c3ea9a6b
+R004937e4 5 1e59237d 0
+St aca18977
+Smode b0716d66
+Spos fb06f37d
+SmaxL 97e237e2
+Sblanks 195c2a74
+R84da5d2a 1 00000000 0
+Swidths 217fba22
+R64aca54a 1 50c57d3a 0
+Si 195c2a74
+R5acc4689 3 420b66ef 0
+Sproc 05ab6cab
+Sargs 97e237e2
+Sp 195c2a74
+V6c003c4e c3bf7094 0 0 0 0
+Xapply XFormat.PrintTop
+DXFormat
+CScheduler
+CThread
+CWx
+CText
+CRTHooks
+E107ba7fe XFormat.ExprBuf
+Ea9d8608a XFormat.CharBuf
+Ea5308dfd XFormat.Who
+Ec3bf7094 XFormat.ConsumerThreadClosure
+E2d08ba5c XFormat.Char
+E50c57d3a XFormat.Int
+Eecf5a0c0 XFormat.Bool
+Q706345b4 8f9cba4b
+Q9e206385 61df9c7a
+E05ab6cab XFormat.OpProc
+E420b66ef XFormat.Op
+Eb0716d66 XFormat.Mode
+E04f90c82 XFormat.Position
+Ed6af668f XFormat.BeginState
+E217fba22 XFormat.Widths
+Zaca18977 f9e140d7
+@ID.m3
+AID
+N493972b1 195c2a74 0 8187 16
+F95f6e29e 493972b1 56e16863 65504
+O5457b9b4 95f6e29e
+Kf8573bde 96 3
+Lstart 0 32 17b389fe
+Lhash 32 32 195c2a74
+Ltext 64 32 50f86574
+G09cde5ac f8573bde 64
+P7c54cde5 09cde5ac
+Ge519b4a9 adc6066d 64
+P717b864e e519b4a9
+Q7632cb42 89cd34bd
+R55d920db 2 adc6066d 0
+Sbuf 7632cb42
+Slength 195c2a74
+R7b78c34f 0 00000000 0
+DID
+CASCII
+CCtypes
+CCstring
+CWord
+CTextF
+CWx
+CRTHooks
+E17b389fe ID.StrPtr
+E5457b9b4 ID.CharBuffer
+E7c54cde5 ID.DescBuffer
+Ef8573bde ID.Desc
+Q07a8c421 f8573bde
+Rd4f21c29 2 195c2a74 0
+Sx 195c2a74
+Sy 195c2a74
+@CharMap.m3
+ACharMap
+DCharMap
+CTextF
+CASCII
+CRTHooks
+@Wx.m3
+AWx
+P80cd0cab 80cd0ca8
+N4b3273bb 195c2a74 0 2035 16
+Fab58bdda 4b3273bb 56e16863 16288
+K80cd0ca8 16320 2
+Lnext 0 32 80cd0cab
+Lbuf 32 16288 ab58bdda
+Kfbaa1fce 128 4
+LnFull 0 32 195c2a74
+Lnext 32 32 195c2a74
+Lhead 64 32 80cd0cab
+Ltail 96 32 80cd0cab
+P6634f24b fbaa1fce Wx.T
+N832831d7 195c2a74 0 9 8
+Fdcee67f3 832831d7 56e16863 80
+N25ac581d 195c2a74 0 99 8
+F66ac6bf0 25ac581d 56e16863 800
+N29a6581d 195c2a74 0 35 8
+F9c3cde05 29a6581d 56e16863 288
+R738edfed 1 00000000 0
+St 4c49e079
+DWx
+CConvert
+CTextF
+CRTHooks
+Q7632cb42 89cd34bd
+E80cd0cab Wx.Chunk
+Z4c49e079 6634f24b
+@Buf.m3
+ABuf
+N06d609d1 195c2a74 0 16777215 32
+Fec0b9f39 06d609d1 0e3fc5cb 134217728
+Of1a2a7c5 ec0b9f39
+R97a36bcf 2 878be988 0
+Spath 50f86574
+Spad 97e237e2
+DBuf
+CText
+COSError
+CFile
+CFS
+CRTHooks
+Ef1a2a7c5 Buf.Ptr
+@ErrLog.i3
+BErrLog
+Rc5673195 1 00000000 0
+Smsg 50f86574
+R20117ca1 4 00000000 0
+Sa 50f86574
+Sb 50f86574
+Sc 50f86574
+Sd 50f86574
+DErrLog
+CRTHooks
+@TCPPeer.i3
+BTCPPeer
+R88c60a25 1 00000000 1
+Schannel 14f94bfb
+TIP.Error
+R95eab083 1 50f86574 1
+Schannel 14f94bfb
+TIP.Error
+N2ea6581d 195c2a74 0 32 8
+R505081d8 3 1e59237d 1
+Schannel 14f94bfb
+Saddress c6edb932
+SmaskBits 2ea6581d
+TIP.Error
+DTCPPeer
+CIP
+CTCP
+CRTHooks
+@TCPServer.i3
+BTCPServer
+Ya63c56d7 1c1c45e6
+Rb83018c2 2 50f86574 1
+St a63c56d7
+Srequest 50f86574
+TThread.Alerted
+Re5f3ba71 1 00000000 1
+St a63c56d7
+TThread.Alerted
+Ra7beb60b 1 00000000 0
+Sx 50f86574
+R0a4984a2 6 a63c56d7 0
+Ssocket 97e237e2
+Sn_threads 97e237e2
+Shandler b83018c2
+Srefresher e5f3ba71
+Srefresh_interval 94fe32f6
+Serr_log a7beb60b
+Rbf8b6208 1 00000000 0
+St a63c56d7
+DTCPServer
+CTime
+CThread
+CRTHooks
+Ea63c56d7 TCPServer.T
+Eb83018c2 TCPServer.RequestHandler
+Ee5f3ba71 TCPServer.Refresher
+Ea7beb60b TCPServer.ErrorLogger
+@OS.i3
+BOS
+R97242bfa 1 94fe32f6 0
+Sfile 50f86574
+R87825ea1 0 50f86574 0
+DOS
+CTime
+CRTHooks
+@CMarkUp.i3
+BCMarkUp
+R3d015512 2 00000000 0
+Sbuf 878be988
+Swx 4c49e079
+DCMarkUp
+CWx
+CBuf
+CRTHooks
+@M3MarkUp.i3
+BM3MarkUp
+P6eb8ace9 6eb8acea
+K6eb8acea 96 3
+Lnext 0 32 6eb8ace9
+Loffset 32 32 195c2a74
+Linsert 64 32 50f86574
+R5caa4442 1 6eb8ace9 0
+Sbuf 878be988
+DM3MarkUp
+CBuf
+CRTHooks
+E6eb8ace9 M3MarkUp.Insertion
+@MarkUp.i3
+BMarkUp
+R3d015512 2 00000000 0
+Sbuf 878be988
+Swx 4c49e079
+DMarkUp
+CWx
+CBuf
+CRTHooks
+@XFormat.i3
+BXFormat
+R7b78c34f 0 00000000 0
+R43b36639 2 00000000 0
+Stext 50f86574
+Sraw 1e59237d
+Ra86a6191 1 00000000 0
+Sc 56e16863
+R6c59fd1e 2 00000000 0
+Stext 50f86574
+Swidth 195c2a74
+H488c1d62 3 8
+INonOptimal
+IOptimalBreak
+IOptimalNoBreak
+R9215ef1d 3 00000000 0
+Soffset 195c2a74
+Stype 488c1d62
+SfreshLine 1e59237d
+R2d4d1846 2 00000000 0
+Soffset 195c2a74
+SfreshLine 1e59237d
+R4f807649 2 00000000 0
+Soffset 195c2a74
+Swidth 97e237e2
+R2280f0a0 3 1e59237d 0
+Scolumn 97e237e2
+SmaxWidth 97e237e2
+Swidth 97e237e2
+Vc3ea9a6b 9d8fb489 0 1 0 0
+Wpred 2280f0a0
+R476c1a1e 4 00000000 0
+Scolumns 97e237e2
+StryOneLine 1e59237d
+Soffset 195c2a74
+SalignPred c3ea9a6b
+R6383b7e6 3 00000000 0
+Scolumn 195c2a74
+Srelative 1e59237d
+Sspace 97e237e2
+V92c32cf2 9d8fb489 0 16 0 0
+WunderlyingWr 5fb23747
+Wclose 7b78c34f
+Wflush 7b78c34f
+WputText 43b36639
+WputChar a86a6191
+WputMarkup 6c59fd1e
+Wbreak 9215ef1d
+WpartialBreak 2d4d1846
+WnewLine 2d4d1846
+WunitedBreak 2d4d1846
+Wgroup 7b78c34f
+Wbegin 4f807649
+Walign 476c1a1e
+WnoAlign 7b78c34f
+Wcol 6383b7e6
+Wend 7b78c34f
+Yaca18977 92c32cf2
+R692c3500 2 aca18977 0
+Swr 4c49e079
+Swidth 97e237e2
+DXFormat
+CWx
+CText
+CRTHooks
+Eaca18977 XFormat.T
+E488c1d62 XFormat.BreakType
+E92c32cf2 XFormat.T_
+Ec3ea9a6b XFormat.AlignPred
+@ID.i3
+BID
+Nadc6066d 195c2a74 -2147483648 2147483647 32
+R1315aeee 1 adc6066d 0
+Sx 50f86574
+Q7632cb42 89cd34bd
+R455ee11f 2 adc6066d 0
+Sbuf 7632cb42
+Slength 195c2a74
+R67b2916a 1 50f86574 0
+St adc6066d
+R0eab8196 1 195c2a74 0
+St adc6066d
+R54473f5b 2 00000000 0
+Swr 4c49e079
+St adc6066d
+N2db54900 195c2a74 -1 1 8
+Raacc145a 2 2db54900 0
+Sa adc6066d
+Sb adc6066d
+DID
+CWx
+CRTHooks
+Eadc6066d ID.T
+@CharMap.i3
+BCharMap
+N2db54900 195c2a74 -1 1 8
+R6feb90ed 2 2db54900 0
+St 50f86574
+Su 50f86574
+R42d8abd5 2 1e59237d 0
+Sa 50f86574
+Sb 50f86574
+R00d44f8d 3 1e59237d 0
+Sa 50f86574
+Sb 50f86574
+Slen 195c2a74
+DCharMap
+CRTHooks
+@Wx.i3
+BWx
+Y4c49e079 1c1c45e6
+R5fb23747 0 4c49e079 0
+Rb7d2782c 2 00000000 0
+St 4c49e079
+Sch 56e16863
+R0663ab89 2 00000000 0
+St 4c49e079
+Stxt 50f86574
+Ra52afbe8 2 00000000 0
+St 4c49e079
+Si 195c2a74
+Q7632cb42 89cd34bd
+Rfbdcb081 2 00000000 0
+St 4c49e079
+Sx 7632cb42
+Rec0f2339 1 50f86574 0
+St 4c49e079
+DWx
+CRTHooks
+E4c49e079 Wx.T
+@Buf.i3
+BBuf
+Reef16335 2 878be988 0
+Spath 50f86574
+Spad 97e237e2
+Rd6e2ec5a 1 878be988 0
+Stxt 50f86574
+DBuf
+CRTHooks
+E878be988 Buf.T

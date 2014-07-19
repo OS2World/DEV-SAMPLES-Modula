@@ -1,0 +1,9 @@
+
+import (libm3)
+
+%m3_option ("-v")
+%m3_option ("-keep")
+
+implementation (Hello)
+program (Hello)
+

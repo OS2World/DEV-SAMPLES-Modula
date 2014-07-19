@@ -1,0 +1,133 @@
+M3 v4.2
+N0 TempFiles
+
+M0 1 13 0 0 0 4 20 0 0 19 0 0
+A0
+N1 Wr
+B1
+N2 Time
+B2
+N3 Thread
+B3
+N4 TextList
+B4
+N5 Text
+B5
+N6 Stdio
+B6
+N7 Process
+B7
+N8 Pathname
+B8
+N9 OSError
+B9
+N10 FS
+B10
+N11 Fmt
+B11
+N12 RTHooks
+B12
+B0
+N13 DefaultPrefix
+V0 0 13 6208b53fad761b12
+J0
+N14 Get
+V1 0 14 6401c116fcf7b66a
+J1
+N15 Note
+V2 0 15 bfaeea7f31797f0a
+J2
+N16 Forget
+V3 0 16 053412cb8f5e030b
+J3
+N17 LockMutex
+V4 12 17 aadb4dceb8fdb245
+i4
+N18 UnlockMutex
+V5 12 18 461a55ce41bab49a
+i5
+N19 Prefix
+V6 8 19 0d066cb2f3e6d317
+i6
+N20 Now
+V7 2 20 b0f3ac11eb79a424
+i7
+N21 LongReal
+V8 11 21 8ba7e3babdfb8b70
+i8
+N22 Cat
+V9 5 22 222e19939a156c8b
+i9
+N23 Join
+V10 8 23 58ead0212c917292
+i10
+N24 RegisterExitor
+V11 7 24 53bae6b94273fbc9
+i11
+N25 Allocate
+V12 12 25 3dcfa7ba250fc60e
+i12
+N26 Equal
+V13 5 26 a3f490929d6abc3e
+i13
+N27 E
+V14 9 27 cf6675a7480ffceb
+i14
+N28 DeleteFile
+V15 10 28 a03faf204166dccd
+i15
+N29 Alerted
+V16 3 29 3ae605d9dcac0a20
+i16
+N30 Failure
+V17 1 30 96bc0ebc7fd3bf50
+i17
+N31 Concat
+V18 12 31 a7c87e88a25211fd
+i18
+N32 PutText
+V19 1 32 76d5556a4fea2594
+i19
+N33 stderr
+V20 6 33 9d726ab4a6705813
+i20
+N34 Mutex
+V21 3 34 181a852c30991f7f
+i21
+N35 T
+V22 4 35 a4983949916dcd79
+i22
+V23 8 35 419c8725c3b4b30e
+i23
+t78619991
+tde95f194
+t7b78c34f
+tabbeb60b
+t05ff952d
+t16de9eff
+t56bf7384
+te4e28466
+t95aa481c
+t1cf8db02
+t370115f4
+t28ef45ca
+t7cfe252f
+tc9d11604
+tad398276
+ta01f0b92
+t97f166d3
+t1bee6e85
+t62761487
+
+I0 1 2 0 0 0 0 1 0 4 0 3 0
+A0
+B8
+B12
+i23
+e0
+e1
+e2
+e3
+T78619991
+T05ff952d
+Tabbeb60b

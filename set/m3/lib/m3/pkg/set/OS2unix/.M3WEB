@@ -1,0 +1,757 @@
+RefSetList.m3 971
+RefSet.m3 487
+TextSetList.m3 989
+TextSetDef.m3 1025
+TextSet.m3 499
+IntSetList.m3 972
+IntSetDef.m3 1009
+IntSet.m3 488
+AtomSetList.m3 989
+AtomSetDef.m3 1025
+AtomSet.m3 499
+RefSetList.i3 240
+RefSet.i3 881
+TextSetList.i3 247
+TextSetDef.i3 260
+TextSet.i3 885
+IntSetList.i3 240
+IntSetDef.i3 253
+IntSet.i3 860
+AtomSetList.i3 247
+AtomSetDef.i3 260
+AtomSet.i3 885
+$ 0
+@RefSetList.m3
+ARefSetList
+Vcde609c6 42fbdffe 1 0 12 32 RefSetList_^%#%^__0001M
+Xinit RefSetList.Init
+XfromArray RefSetList.FromArray
+Xcopy RefSetList.Copy
+Xmember RefSetList.Member
+Xinsert RefSetList.Insert
+Xdelete RefSetList.Delete
+Xsize RefSetList.Size
+Xintersection RefSetList.Intersection
+Xdiff RefSetList.Diff
+XintersectionD RefSetList.IntersectionD
+XdiffD RefSetList.DiffD
+Xiterate RefSetList.Iterate
+Ll 0 32 b95a4f1b
+Vef53f27b 28efd1f6 1 0 1 32 RefSetList_^%#%^__0002M
+Xnext RefSetList.Next
+Ll 0 32 b95a4f1b
+R1f9fe91f 1 42fbdffd 0
+Ss 42fbdffd
+Q0529a257 fad65da8
+R2c0f4bff 2 903e3aa6 0
+Ss 42fbdffd
+Sa 0529a257
+Refea401c 1 903e3aa6 0
+Ss 42fbdffd
+Ra7e5be98 2 1e59237d 0
+Ss 42fbdffd
+Se 1c1c45e6
+Rb2d6fed7 1 97e237e2 0
+Ss 42fbdffd
+R31982922 2 903e3aa6 0
+Ss1 42fbdffd
+Ss2 903e3aa6
+R711a1ad3 1 28efd1f6 0
+Ss 42fbdffd
+Qe3e3ba19 1c1c45e6
+Rd0880caf 2 1e59237d 0
+Siter 5616d67d
+Se e3e3ba19
+DRefSetList
+CRTHooks
+CRefList
+CRefSet
+CRefany
+Z5616d67d ef53f27b
+Z42fbdffd cde609c6
+@RefSet.m3
+ARefSet
+V64372afc 903e3aa5 0 0 10 0 RefSet_^%#%^__0001M
+XisEmpty RefSet.IsEmpty
+Xsubset RefSet.Subset
+Xequal RefSet.Equal
+Xintersect RefSet.Intersect
+Xunion RefSet.Union
+Xintersection RefSet.Intersection
+Xdiff RefSet.Diff
+XunionD RefSet.UnionD
+XintersectionD RefSet.IntersectionD
+XdiffD RefSet.DiffD
+Rd6cb74a4 1 1e59237d 0
+Ss 903e3aa6
+Raa5e2d1c 2 1e59237d 0
+Ss 903e3aa6
+Ss2 903e3aa6
+R070f719f 2 903e3aa6 0
+Ss1 903e3aa6
+Ss2 903e3aa6
+DRefSet
+CRTHooks
+CRefany
+Z903e3aa6 64372afc
+@TextSetList.m3
+ATextSetList
+V99df824a f5ee5f6f 1 0 12 32 TextSetList_^%#%^__0001M
+Xinit TextSetList.Init
+XfromArray TextSetList.FromArray
+Xcopy TextSetList.Copy
+Xmember TextSetList.Member
+Xinsert TextSetList.Insert
+Xdelete TextSetList.Delete
+Xsize TextSetList.Size
+Xintersection TextSetList.Intersection
+Xdiff TextSetList.Diff
+XintersectionD TextSetList.IntersectionD
+XdiffD TextSetList.DiffD
+Xiterate TextSetList.Iterate
+Ll 0 32 de95f194
+V32129cc5 a69b314e 1 0 1 32 TextSetList_^%#%^__0002M
+Xnext TextSetList.Next
+Ll 0 32 de95f194
+Raeb4719e 1 f5ee5f6c 0
+Ss f5ee5f6c
+Q62e61cd8 9d19e327
+Rd1ba1341 2 7ecc1386 0
+Ss f5ee5f6c
+Sa 62e61cd8
+R9bc422d3 1 7ecc1386 0
+Ss f5ee5f6c
+R92d66fcb 2 1e59237d 0
+Ss f5ee5f6c
+Se 50f86574
+Rd34440b6 1 97e237e2 0
+Ss f5ee5f6c
+R99d87d39 2 7ecc1386 0
+Ss1 f5ee5f6c
+Ss2 7ecc1386
+R7136bc90 1 a69b314e 0
+Ss f5ee5f6c
+Qaf079a8b 50f86574
+Rf980766b 2 1e59237d 0
+Siter ec0d7089
+Se af079a8b
+DTextSetList
+CRTHooks
+CTextList
+CTextSet
+CText
+Zec0d7089 32129cc5
+Zf5ee5f6c 99df824a
+@TextSetDef.m3
+ATextSetDef
+Vcdbb3ed9 3de8b0e5 1 0 11 32 TextSetDef_^%#%^__0001M
+Xinit TextSetDef.Init
+XfromArray TextSetDef.FromArray
+Xcopy TextSetDef.Copy
+Xmember TextSetDef.Member
+Xinsert TextSetDef.Insert
+Xdelete TextSetDef.Delete
+Xsize TextSetDef.Size
+Xintersection TextSetDef.Intersection
+Xdiff TextSetDef.Diff
+XintersectionD TextSetDef.IntersectionD
+Xiterate TextSetDef.Iterate
+Lt 0 32 df52947b
+V93c3ace5 a69b314e 1 0 1 32 TextSetDef_^%#%^__0002M
+Xnext TextSetDef.Next
+LtIter 0 32 b4d5c2bd
+R5e23cb57 2 3de8b0e6 0
+Ss 3de8b0e6
+SsizeHint 97e237e2
+Q62e61cd8 9d19e327
+R8235f6de 2 7ecc1386 0
+Ss 3de8b0e6
+Sa 62e61cd8
+Rfbb761a4 1 7ecc1386 0
+Ss 3de8b0e6
+Rc1598a54 2 1e59237d 0
+Ss 3de8b0e6
+Se 50f86574
+Rb33703c1 1 97e237e2 0
+Ss 3de8b0e6
+Rca5798a6 2 7ecc1386 0
+Ss1 3de8b0e6
+Ss2 7ecc1386
+R1145ffe7 1 a69b314e 0
+Ss 3de8b0e6
+Qaf079a8b 50f86574
+R3943a9d0 2 1e59237d 0
+Siter 47e7dfe6
+Se af079a8b
+Ra62a3496 2 7ecc1386 0
+S_self_ 7ecc1386
+Ss2 7ecc1386
+DTextSetDef
+CRTHooks
+CTextRefTbl
+CTextSet
+CText
+Z47e7dfe6 93c3ace5
+Z3de8b0e6 cdbb3ed9
+@TextSet.m3
+ATextSet
+Vb7d7da20 7ecc1385 0 0 10 0 TextSet_^%#%^__0001M
+XisEmpty TextSet.IsEmpty
+Xsubset TextSet.Subset
+Xequal TextSet.Equal
+Xintersect TextSet.Intersect
+Xunion TextSet.Union
+Xintersection TextSet.Intersection
+Xdiff TextSet.Diff
+XunionD TextSet.UnionD
+XintersectionD TextSet.IntersectionD
+XdiffD TextSet.DiffD
+Rbcdf781f 1 1e59237d 0
+Ss 7ecc1386
+R9d74b422 2 1e59237d 0
+Ss 7ecc1386
+Ss2 7ecc1386
+R2599340f 2 7ecc1386 0
+Ss1 7ecc1386
+Ss2 7ecc1386
+DTextSet
+CRTHooks
+CText
+Z7ecc1386 b7d7da20
+@IntSetList.m3
+AIntSetList
+V1458f61d d474c7bb 1 0 12 32 IntSetList_^%#%^__0001M
+Xinit IntSetList.Init
+XfromArray IntSetList.FromArray
+Xcopy IntSetList.Copy
+Xmember IntSetList.Member
+Xinsert IntSetList.Insert
+Xdelete IntSetList.Delete
+Xsize IntSetList.Size
+Xintersection IntSetList.Intersection
+Xdiff IntSetList.Diff
+XintersectionD IntSetList.IntersectionD
+XdiffD IntSetList.DiffD
+Xiterate IntSetList.Iterate
+Ll 0 32 b78ce168
+V6ffb9723 850a54c5 1 0 1 32 IntSetList_^%#%^__0002M
+Xnext IntSetList.Next
+Ll 0 32 b78ce168
+R33349d56 1 d474c7b8 0
+Ss d474c7b8
+Q0bff0c24 f400f3db
+Rebd31dfb 2 6474e46c 0
+Ss d474c7b8
+Sa 0bff0c24
+Ra7e47b43 1 6474e46c 0
+Ss d474c7b8
+R3cfcd4ad 2 1e59237d 0
+Ss d474c7b8
+Se 195c2a74
+R14e9b152 1 97e237e2 0
+Ss d474c7b8
+R8f7f9942 2 6474e46c 0
+Ss1 d474c7b8
+Ss2 6474e46c
+R33cfdde0 1 850a54c5 0
+Ss d474c7b8
+Qe6a3d58b 195c2a74
+R04ad8224 2 1e59237d 0
+Siter 0972aea1
+Se e6a3d58b
+DIntSetList
+CRTHooks
+CIntList
+CIntSet
+CInteger
+Z0972aea1 6ffb9723
+Zd474c7b8 1458f61d
+@IntSetDef.m3
+AIntSetDef
+V8a8f5abf 9a4c5d4d 1 0 11 32 IntSetDef_^%#%^__0001M
+Xinit IntSetDef.Init
+XfromArray IntSetDef.FromArray
+Xcopy IntSetDef.Copy
+Xmember IntSetDef.Member
+Xinsert IntSetDef.Insert
+Xdelete IntSetDef.Delete
+Xsize IntSetDef.Size
+Xintersection IntSetDef.Intersection
+Xdiff IntSetDef.Diff
+XintersectionD IntSetDef.IntersectionD
+Xiterate IntSetDef.Iterate
+Lt 0 32 756059e2
+Vce495267 850a54c5 1 0 1 32 IntSetDef_^%#%^__0002M
+Xnext IntSetDef.Next
+LtIter 0 32 79235e62
+R2852564d 2 9a4c5d4e 0
+Ss 9a4c5d4e
+SsizeHint 97e237e2
+Q0bff0c24 f400f3db
+R2eb40552 2 6474e46c 0
+Ss 9a4c5d4e
+Sa 0bff0c24
+R1693eaab 1 6474e46c 0
+Ss 9a4c5d4e
+Rf99bcc04 2 1e59237d 0
+Ss 9a4c5d4e
+Se 195c2a74
+Ra59e20ba 1 97e237e2 0
+Ss 9a4c5d4e
+R4a1881eb 2 6474e46c 0
+Ss1 9a4c5d4e
+Ss2 6474e46c
+R82b84c08 1 850a54c5 0
+Ss 9a4c5d4e
+Qe6a3d58b 195c2a74
+Rb03c5085 2 1e59237d 0
+Siter 6500b5a8
+Se e6a3d58b
+R976ad825 2 6474e46c 0
+S_self_ 6474e46c
+Ss2 6474e46c
+DIntSetDef
+CRTHooks
+CIntRefTbl
+CIntSet
+CInteger
+Z6500b5a8 ce495267
+Z9a4c5d4e 8a8f5abf
+@IntSet.m3
+AIntSet
+V20f0d2c6 6474e46f 0 0 10 0 IntSet_^%#%^__0001M
+XisEmpty IntSet.IsEmpty
+Xsubset IntSet.Subset
+Xequal IntSet.Equal
+Xintersect IntSet.Intersect
+Xunion IntSet.Union
+Xintersection IntSet.Intersection
+Xdiff IntSet.Diff
+XunionD IntSet.UnionD
+XintersectionD IntSet.IntersectionD
+XdiffD IntSet.DiffD
+Rc137b7d1 1 1e59237d 0
+Ss 6474e46c
+R57b9f0e5 2 1e59237d 0
+Ss 6474e46c
+Ss2 6474e46c
+R14d9d8bc 2 6474e46c 0
+Ss1 6474e46c
+Ss2 6474e46c
+DIntSet
+CRTHooks
+CInteger
+Z6474e46c 20f0d2c6
+@AtomSetList.m3
+AAtomSetList
+V09c73451 98639d7e 1 0 12 32 AtomSetList_^%#%^__0001M
+Xinit AtomSetList.Init
+XfromArray AtomSetList.FromArray
+Xcopy AtomSetList.Copy
+Xmember AtomSetList.Member
+Xinsert AtomSetList.Insert
+Xdelete AtomSetList.Delete
+Xsize AtomSetList.Size
+Xintersection AtomSetList.Intersection
+Xdiff AtomSetList.Diff
+XintersectionD AtomSetList.IntersectionD
+XdiffD AtomSetList.DiffD
+Xiterate AtomSetList.Iterate
+Ll 0 32 ad398276
+V3d3bf41e 6c59028c 1 0 1 32 AtomSetList_^%#%^__0002M
+Xnext AtomSetList.Next
+Ll 0 32 ad398276
+R3daa261e 1 98639d7d 0
+Ss 98639d7d
+Q114a6f3a eeb590c5
+Rf9b64bb1 2 2eab4d9c 0
+Ss 98639d7d
+Sa 114a6f3a
+Rb40c0b06 1 2eab4d9c 0
+Ss 98639d7d
+Ra6e6d6cb 2 1e59237d 0
+Ss 98639d7d
+Se d1d9dd0e
+R1adb3643 1 97e237e2 0
+Ss 98639d7d
+Rdb05c51d 2 2eab4d9c 0
+Ss1 98639d7d
+Ss2 2eab4d9c
+Rb4a06b28 1 6c59028c 0
+Ss 98639d7d
+Q2e2622f1 d1d9dd0e
+R87c9c094 2 1e59237d 0
+Siter 24289d94
+Se 2e2622f1
+DAtomSetList
+CRTHooks
+CAtomList
+CAtomSet
+CAtom
+Z98639d7d 09c73451
+Z24289d94 3d3bf41e
+@AtomSetDef.m3
+AAtomSetDef
+Va5495561 20feed15 1 0 11 32 AtomSetDef_^%#%^__0001M
+Xinit AtomSetDef.Init
+XfromArray AtomSetDef.FromArray
+Xcopy AtomSetDef.Copy
+Xmember AtomSetDef.Member
+Xinsert AtomSetDef.Insert
+Xdelete AtomSetDef.Delete
+Xsize AtomSetDef.Size
+Xintersection AtomSetDef.Intersection
+Xdiff AtomSetDef.Diff
+XintersectionD AtomSetDef.IntersectionD
+Xiterate AtomSetDef.Iterate
+Lt 0 32 6fe64d49
+Vdd16aa0a 6c59028c 1 0 1 32 AtomSetDef_^%#%^__0002M
+Xnext AtomSetDef.Next
+LtIter 0 32 cb2e9e0b
+R1e2e4768 2 20feed16 0
+Ss 20feed16
+SsizeHint 97e237e2
+Q114a6f3a eeb590c5
+R8ea3b3ce 2 2eab4d9c 0
+Ss 20feed16
+Sa 114a6f3a
+R536490f9 1 2eab4d9c 0
+Ss 20feed16
+Rd1f32eb4 2 1e59237d 0
+Ss 20feed16
+Se d1d9dd0e
+Rfdb3adbc 1 97e237e2 0
+Ss 20feed16
+Rac103d62 2 2eab4d9c 0
+Ss1 20feed16
+Ss2 2eab4d9c
+R53c8f0d7 1 6c59028c 0
+Ss 20feed16
+Q2e2622f1 d1d9dd0e
+Rcd89fa53 2 1e59237d 0
+Siter 57e117a1
+Se 2e2622f1
+Rfbe066a3 2 2eab4d9c 0
+S_self_ 2eab4d9c
+Ss2 2eab4d9c
+DAtomSetDef
+CRTHooks
+CAtomRefTbl
+CAtomSet
+CAtom
+Z57e117a1 dd16aa0a
+Z20feed16 a5495561
+@AtomSet.m3
+AAtomSet
+Vd5853e94 2eab4d9f 0 0 10 0 AtomSet_^%#%^__0001M
+XisEmpty AtomSet.IsEmpty
+Xsubset AtomSet.Subset
+Xequal AtomSet.Equal
+Xintersect AtomSet.Intersect
+Xunion AtomSet.Union
+Xintersection AtomSet.Intersection
+Xdiff AtomSet.Diff
+XunionD AtomSet.UnionD
+XintersectionD AtomSet.IntersectionD
+XdiffD AtomSet.DiffD
+R9191ab84 1 1e59237d 0
+Ss 2eab4d9c
+R26e9b937 2 1e59237d 0
+Ss 2eab4d9c
+Ss2 2eab4d9c
+R7853663a 2 2eab4d9c 0
+Ss1 2eab4d9c
+Ss2 2eab4d9c
+DAtomSet
+CRTHooks
+CAtom
+Z2eab4d9c d5853e94
+@RefSetList.i3
+BRefSetList
+Y42fbdffd 42fbdffe
+R42fbdfff 0 42fbdffd 0
+V42fbdffe 903e3aa6 0 1 0 0
+Winit 42fbdfff
+Y5616d67d 28efd1f6
+DRefSetList
+CRTHooks
+CRefSet
+E42fbdffe RefSetList.Public
+E42fbdffd RefSetList.T
+E5616d67d RefSetList.Iterator
+@RefSet.i3
+BRefSet
+Y903e3aa6 903e3aa5
+Gfad65da8 1c1c45e6 64
+Q0529a257 fad65da8
+R903e3aa4 1 903e3aa6 0
+Sa 0529a257
+R903e3aa3 0 903e3aa6 0
+Re9b8813a 1 1e59237d 0
+Se 1c1c45e6
+R5c4c299e 0 97e237e2 0
+R52ab93a7 0 1e59237d 0
+R903e3aa2 1 1e59237d 0
+Ss2 903e3aa6
+R903e3aa1 1 903e3aa6 0
+Ss2 903e3aa6
+Qe3e3ba19 1c1c45e6
+R202fca4f 1 1e59237d 0
+Se e3e3ba19
+V28efd1f6 9d8fb489 0 1 0 0
+Wnext 202fca4f
+R9f80cd9a 0 28efd1f6 0
+V903e3aa5 9d8fb489 0 17 0 0
+WfromArray 903e3aa4
+Wcopy 903e3aa3
+Wmember e9b8813a
+Winsert e9b8813a
+Wdelete e9b8813a
+Wsize 5c4c299e
+WisEmpty 52ab93a7
+Wsubset 903e3aa2
+Wequal 903e3aa2
+Wintersect 903e3aa2
+Wunion 903e3aa1
+Wintersection 903e3aa1
+Wdiff 903e3aa1
+WunionD 903e3aa1
+WintersectionD 903e3aa1
+WdiffD 903e3aa1
+Witerate 9f80cd9a
+R54d4756d 2 1e59237d 0
+Ss1 903e3aa6
+Ss2 903e3aa6
+DRefSet
+CRTHooks
+CRefany
+E903e3aa5 RefSet.Public
+E903e3aa6 RefSet.T
+E28efd1f6 RefSet.Iterator
+@TextSetList.i3
+BTextSetList
+Yf5ee5f6c f5ee5f6f
+Rf5ee5f6e 0 f5ee5f6c 0
+Vf5ee5f6f 7ecc1386 0 1 0 0
+Winit f5ee5f6e
+Yec0d7089 a69b314e
+DTextSetList
+CRTHooks
+CTextSet
+Ef5ee5f6f TextSetList.Public
+Ef5ee5f6c TextSetList.T
+Eec0d7089 TextSetList.Iterator
+@TextSetDef.i3
+BTextSetDef
+Y3de8b0e6 3de8b0e5
+R3de8b0e4 1 3de8b0e6 0
+SsizeHint 97e237e2
+V3de8b0e5 7ecc1386 0 1 0 0
+Winit 3de8b0e4
+Y47e7dfe6 a69b314e
+DTextSetDef
+CRTHooks
+CTextSet
+E3de8b0e5 TextSetDef.Public
+E3de8b0e6 TextSetDef.T
+E47e7dfe6 TextSetDef.Iterator
+@TextSet.i3
+BTextSet
+Y7ecc1386 7ecc1385
+G9d19e327 50f86574 64
+Q62e61cd8 9d19e327
+R7ecc1384 1 7ecc1386 0
+Sa 62e61cd8
+R7ecc1383 0 7ecc1386 0
+R0b63d467 1 1e59237d 0
+Se 50f86574
+R5c4c299e 0 97e237e2 0
+R52ab93a7 0 1e59237d 0
+R7ecc1382 1 1e59237d 0
+Ss2 7ecc1386
+R7ecc1381 1 7ecc1386 0
+Ss2 7ecc1386
+Qaf079a8b 50f86574
+Rc2f49f12 1 1e59237d 0
+Se af079a8b
+Va69b314e 9d8fb489 0 1 0 0
+Wnext c2f49f12
+Rfe3ed5b8 0 a69b314e 0
+V7ecc1385 9d8fb489 0 17 0 0
+WfromArray 7ecc1384
+Wcopy 7ecc1383
+Wmember 0b63d467
+Winsert 0b63d467
+Wdelete 0b63d467
+Wsize 5c4c299e
+WisEmpty 52ab93a7
+Wsubset 7ecc1382
+Wequal 7ecc1382
+Wintersect 7ecc1382
+Wunion 7ecc1381
+Wintersection 7ecc1381
+Wdiff 7ecc1381
+WunionD 7ecc1381
+WintersectionD 7ecc1381
+WdiffD 7ecc1381
+Witerate fe3ed5b8
+R63feec53 2 1e59237d 0
+Ss1 7ecc1386
+Ss2 7ecc1386
+DTextSet
+CRTHooks
+CText
+E7ecc1385 TextSet.Public
+E7ecc1386 TextSet.T
+Ea69b314e TextSet.Iterator
+@IntSetList.i3
+BIntSetList
+Yd474c7b8 d474c7bb
+Rd474c7ba 0 d474c7b8 0
+Vd474c7bb 6474e46c 0 1 0 0
+Winit d474c7ba
+Y0972aea1 850a54c5
+DIntSetList
+CRTHooks
+CIntSet
+Ed474c7bb IntSetList.Public
+Ed474c7b8 IntSetList.T
+E0972aea1 IntSetList.Iterator
+@IntSetDef.i3
+BIntSetDef
+Y9a4c5d4e 9a4c5d4d
+R9a4c5d4c 1 9a4c5d4e 0
+SsizeHint 97e237e2
+V9a4c5d4d 6474e46c 0 1 0 0
+Winit 9a4c5d4c
+Y6500b5a8 850a54c5
+DIntSetDef
+CRTHooks
+CIntSet
+E9a4c5d4d IntSetDef.Public
+E9a4c5d4e IntSetDef.T
+E6500b5a8 IntSetDef.Iterator
+@IntSet.i3
+BIntSet
+Y6474e46c 6474e46f
+Q0bff0c24 f400f3db
+R6474e46e 1 6474e46c 0
+Sa 0bff0c24
+R6474e469 0 6474e46c 0
+R358becc0 1 1e59237d 0
+Se 195c2a74
+R5c4c299e 0 97e237e2 0
+R52ab93a7 0 1e59237d 0
+R6474e468 1 1e59237d 0
+Ss2 6474e46c
+R6474e46b 1 6474e46c 0
+Ss2 6474e46c
+Qe6a3d58b 195c2a74
+Rfc1ca7b5 1 1e59237d 0
+Se e6a3d58b
+V850a54c5 9d8fb489 0 1 0 0
+Wnext fc1ca7b5
+R7b6a452c 0 850a54c5 0
+V6474e46f 9d8fb489 0 17 0 0
+WfromArray 6474e46e
+Wcopy 6474e469
+Wmember 358becc0
+Winsert 358becc0
+Wdelete 358becc0
+Wsize 5c4c299e
+WisEmpty 52ab93a7
+Wsubset 6474e468
+Wequal 6474e468
+Wintersect 6474e468
+Wunion 6474e46b
+Wintersection 6474e46b
+Wdiff 6474e46b
+WunionD 6474e46b
+WintersectionD 6474e46b
+WdiffD 6474e46b
+Witerate 7b6a452c
+Ra933a894 2 1e59237d 0
+Ss1 6474e46c
+Ss2 6474e46c
+DIntSet
+CRTHooks
+CInteger
+E6474e46f IntSet.Public
+E6474e46c IntSet.T
+E850a54c5 IntSet.Iterator
+@AtomSetList.i3
+BAtomSetList
+Y98639d7d 98639d7e
+R98639d7f 0 98639d7d 0
+V98639d7e 2eab4d9c 0 1 0 0
+Winit 98639d7f
+Y24289d94 6c59028c
+DAtomSetList
+CRTHooks
+CAtomSet
+E98639d7e AtomSetList.Public
+E98639d7d AtomSetList.T
+E24289d94 AtomSetList.Iterator
+@AtomSetDef.i3
+BAtomSetDef
+Y20feed16 20feed15
+R20feed14 1 20feed16 0
+SsizeHint 97e237e2
+V20feed15 2eab4d9c 0 1 0 0
+Winit 20feed14
+Y57e117a1 6c59028c
+DAtomSetDef
+CRTHooks
+CAtomSet
+E20feed15 AtomSetDef.Public
+E20feed16 AtomSetDef.T
+E57e117a1 AtomSetDef.Iterator
+@AtomSet.i3
+BAtomSet
+Y2eab4d9c 2eab4d9f
+Geeb590c5 d1d9dd0e 64
+Q114a6f3a eeb590c5
+R2eab4d9e 1 2eab4d9c 0
+Sa 114a6f3a
+R2eab4d99 0 2eab4d9c 0
+Rb69759f8 1 1e59237d 0
+Se d1d9dd0e
+R5c4c299e 0 97e237e2 0
+R52ab93a7 0 1e59237d 0
+R2eab4d98 1 1e59237d 0
+Ss2 2eab4d9c
+R2eab4d9b 1 2eab4d9c 0
+Ss2 2eab4d9c
+Q2e2622f1 d1d9dd0e
+R7f00128d 1 1e59237d 0
+Se 2e2622f1
+V6c59028c 9d8fb489 0 1 0 0
+Wnext 7f00128d
+Rf23774f5 0 6c59028c 0
+V2eab4d9f 9d8fb489 0 17 0 0
+WfromArray 2eab4d9e
+Wcopy 2eab4d99
+Wmember b69759f8
+Winsert b69759f8
+Wdelete b69759f8
+Wsize 5c4c299e
+WisEmpty 52ab93a7
+Wsubset 2eab4d98
+Wequal 2eab4d98
+Wintersect 2eab4d98
+Wunion 2eab4d9b
+Wintersection 2eab4d9b
+Wdiff 2eab4d9b
+WunionD 2eab4d9b
+WintersectionD 2eab4d9b
+WdiffD 2eab4d9b
+Witerate f23774f5
+Rd863e146 2 1e59237d 0
+Ss1 2eab4d9c
+Ss2 2eab4d9c
+DAtomSet
+CRTHooks
+CAtom
+E2eab4d9f AtomSet.Public
+E2eab4d9c AtomSet.T
+E6c59028c AtomSet.Iterator

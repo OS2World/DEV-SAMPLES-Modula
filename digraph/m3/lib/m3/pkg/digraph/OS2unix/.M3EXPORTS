@@ -1,0 +1,12 @@
+% exports of digraph
+_define_lib("DiGraph")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_import_m3lib("DiGraph", "digraph", "OS2unix")
+_map_add_interface("NullEdgeType.i3", "digraph", "src", "")
+_map_add_interface("POEdgeType.i3", "digraph", "src", "")
+_map_add_generic_interface("DiGraph.ig", "digraph", "src", "")
+_map_add_generic_module("DiGraph.mg", "digraph", "src", "")
+_map_add_module("POEdgeType.m3", "digraph", "src", "hidden")
+_map_add_module("NullEdgeType.m3", "digraph", "src", "hidden")
+_import_template("digraph.tmpl", "digraph", "src")

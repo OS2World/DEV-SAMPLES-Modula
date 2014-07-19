@@ -1,0 +1,8 @@
+
+import (libm3)
+
+%m3_option ("-v")
+
+implementation (Threads)
+program (Threads)
+

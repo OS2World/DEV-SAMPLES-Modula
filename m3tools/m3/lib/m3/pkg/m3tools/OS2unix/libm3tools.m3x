@@ -1,0 +1,163 @@
+M3 v4.2
+N0 M3ID
+
+M0 1 3 0 0 0 1 2 0 0 4 0 0
+A0
+N1 M3Token
+B1
+N2 RTHooks
+B2
+B0
+N3 Classify
+V0 0 3 2015ea5af4a00843
+J0
+N4 ReportFault
+V1 2 4 0d3292e6ba1d83b9
+i1
+N5 T
+V2 1 5 100193f7deb291a9
+i2
+tdeff46c0
+t04de9609
+t89cd34bd
+ta6a06b63
+
+I0 1 2 0 0 0 0 1 0 1 2 1 0
+A0
+B1
+B2
+i2
+e0
+tdeff46c0
+t89cd34bd
+T04de9609
+N6 M3Scanner
+
+M6 1 7 0 0 1 0 14 0 0 17 0 0
+A6
+B0
+B1
+N7 Fmt
+B7
+N8 Thread
+B8
+N9 Rd
+B9
+B2
+B6
+D6
+V3 6 5 01faccaf1952db98
+i3
+N10 Buf
+V4 6 10 77e0293ae857e7ca
+i4
+N11 Default
+V5 6 11 8d79a6550a034a80
+i5
+N12 Failure
+V6 9 12 16faceaa3a5426b8
+i6
+N13 Alerted
+V7 8 13 3ae605d9dcac0a20
+i7
+N14 Length
+V8 9 14 a5b51a66b5d82dcc
+i8
+N15 AllocateOpenArray
+V9 2 15 db2df1609bb1bb57
+i9
+N16 GetSub
+V10 9 16 96a8851e99d9fe2d
+i10
+i1
+i0
+N17 Int
+V11 7 17 c841c285fe2842b2
+i11
+N18 Concat
+V12 2 18 a7c87e88a25211fd
+i12
+i2
+V13 9 5 2ddda687a60c6245
+i13
+tdeff46c0
+t24decf49
+t623f6384
+t4d6c404c
+tfa67ef2f
+t1b5b3b58
+t878be988
+tbde708a0
+tad398276
+t0ad58a50
+t983b02e7
+t89cd34bd
+t508283d6
+ta6a06b63
+t04de9609
+tf2a35a9d
+t97f166d3
+O8fdab54e 623f6384 160 32 0
+Obde708a0 623f6384 160 32 0
+R6 bde708a0 8fdab54e
+
+I6 1 3 0 0 0 0 2 3 0 4 6 0
+A6
+B1
+B9
+B2
+i2
+i13
+E3
+E4
+E5
+tdeff46c0
+t878be988
+t89cd34bd
+tfa67ef2f
+T7b78c34f
+T24decf49
+T4d6c404c
+T1b5b3b58
+T623f6384
+Tbde708a0
+Qbde708a0 623f6384
+O24decf49 9d8fb489 256 32 32
+O623f6384 24decf49 0 8 64
+
+M1 1 2 0 0 0 0 2 0 0 2 0 0
+A1
+B2
+B1
+i2
+N19 name
+V14 1 19 7dfb9d472a0aaa0a
+i14
+tdeff46c0
+t7fef2536
+
+I1 1 1 0 0 0 0 0 8 0 0 2 0
+A1
+B2
+E2
+N20 First_Literal
+V15 1 20 b60d14d8199a64a0
+E15
+N21 Last_Literal
+V16 1 21 6a3f12dc0c128874
+E16
+N22 First_Operator
+V17 1 22 331e945df947b9f6
+E17
+N23 Last_Operator
+V18 1 23 9e1ffb6275e70531
+E18
+N24 First_Keyword
+V19 1 24 1019ffd2c5a0cd6e
+E19
+N25 Last_Keyword
+V20 1 25 4b5cf64236b9d402
+E20
+E14
+Tdeff46c0
+T7fef2536

@@ -1,0 +1,191 @@
+Web.m3 1468
+Web.i3 1649
+$ 0
+@Web.m3
+AWeb
+Ha5b94b9b 4 8
+IHead
+IGet
+IGetDebug
+IPost
+Vd5c2fbbd 9d8fb489 3 0 0 96 Web_^%#%^__0001M
+Lhost 0 32 50f86574
+Lport 32 32 195c2a74
+LnoProxy 64 32 de95f194
+R1f691a7b 2 00000000 2
+Schannel 14f94bfb
+Stext 50f86574
+TThread.Alerted
+TWr.Failure
+N493573bb 195c2a74 0 2047 16
+F3093c470 493573bb 56e16863 16384
+R46ced83d 2 1e59237d 0
+Shost 50f86574
+Ssuffix 50f86574
+Qaf079a8b 50f86574
+Rfa00daf3 2 14f94bfb 3
+Sserver 44fb0990
+Surl af079a8b
+TIP.Error
+TThread.Alerted
+TWeb.Error
+Qe6a3d58b 195c2a74
+R13ff20a0 4 00000000 2
+Surl 50f86574
+Shost af079a8b
+Sport e6a3d58b
+Spath af079a8b
+TThread.Alerted
+TWeb.Error
+Q1c18717f e3e78e80
+Q62e61cd8 9d19e327
+Rfd67e39b 7 fa67ef2f 3
+Smethod a5b94b9b
+Surl 50f86574
+SpostMethodArgs 50f86574
+Sheader 1c18717f
+SrequestFields 62e61cd8
+SforceCache 1e59237d
+Sserver 44fb0990
+TIP.Error
+TThread.Alerted
+TWeb.Error
+R49b3f582 2 00000000 1
+Srd fa67ef2f
+Sh 1c18717f
+TThread.Alerted
+Qc5fc13b7 3a03ec48
+R6300b1d5 3 00000000 2
+Srd fa67ef2f
+Stype c5fc13b7
+Ssubtype af079a8b
+TThread.Alerted
+TWeb.Error
+Ra1f5e976 1 0a33463a 1
+St 50f86574
+TWeb.Error
+R899df4ef 1 2a65ec03 1
+St 50f86574
+TWeb.Error
+Q216a0e6b de95f194
+R1fc6b7f4 1 50f86574 0
+Slist 216a0e6b
+N2da4581d 195c2a74 0 11 8
+Fab7ca241 2da4581d 50f86574 384
+N8c2831d7 195c2a74 0 6 8
+F8e1a86b8 8c2831d7 50f86574 224
+DWeb
+CWr
+CThread
+CTextWr
+CTextRd
+CTextF
+CText
+CTCP
+CTextList
+CRd
+CLex
+CIP
+CFmt
+CFloatMode
+CEnv
+CDate
+CConnRW
+CASCII
+CRTHooks
+Qd6b82b7c 2947d483
+Ea5b94b9b Web.MethodType
+Z44fb0990 d5c2fbbd
+@Web.i3
+BWeb
+Y44fb0990 9d8fb489
+Ra118b966 2 44fb0990 1
+SproxyURL 50f86574
+SnoProxyList 50f86574
+TWeb.Error
+N8a2831d7 195c2a74 0 0 8
+F263a9a52 8a2831d7 50f86574 32
+H3a03ec48 8 8
+IApplication
+IAudio
+IImage
+IMessage
+IMultipart
+IText
+IVideo
+IXperimental
+Ke3e78e80 512 16
+LhttpVersion 0 32 50f86574
+LstatusCode 32 32 195c2a74
+Lreason 64 32 50f86574
+LcontentType 96 8 3a03ec48
+LcontentSubType 128 32 50f86574
+Lallowed 160 32 50f86574
+Lpublic 192 32 50f86574
+LcontentLength 224 32 195c2a74
+Lencoding 256 32 50f86574
+Ldate 288 32 50f86574
+Lexpires 320 32 50f86574
+LlastModified 352 32 50f86574
+Lserver 384 32 50f86574
+LMIMEVersion 416 32 50f86574
+Ltitle 448 32 50f86574
+Llocation 480 32 50f86574
+Vb3a0bef5 9d8fb489 2 0 0 544
+Lheader 0 512 e3e78e80
+Lcontents 512 32 50f86574
+Q1c18717f e3e78e80
+G9d19e327 50f86574 64
+Q62e61cd8 9d19e327
+R34f86723 6 fa67ef2f 3
+Surl 50f86574
+Sheader 1c18717f
+SrequestFields 62e61cd8
+SforceCache 1e59237d
+Sdebug 1e59237d
+Sserver 44fb0990
+TIP.Error
+TThread.Alerted
+TWeb.Error
+R2673a889 4 fa67ef2f 3
+Surl 50f86574
+SrequestFields 62e61cd8
+SforceCache 1e59237d
+Sserver 44fb0990
+TIP.Error
+TThread.Alerted
+TWeb.Error
+Re12ff02f 5 fa67ef2f 3
+Surl 50f86574
+SargString 50f86574
+Sheader 1c18717f
+SrequestFields 62e61cd8
+Sserver 44fb0990
+TIP.Error
+TThread.Alerted
+TWeb.Error
+Re2683bc8 1 00000000 2
+Srd fa67ef2f
+TThread.Alerted
+TWeb.Error
+Rbaff67a4 1 00000000 2
+St 50f86574
+TThread.Alerted
+TWeb.Error
+Rf7195695 2 50f86574 0
+Surl 50f86574
+Sbase 50f86574
+Rfa8e51c0 1 50f86574 1
+St 50f86574
+TThread.Alerted
+DWeb
+CThread
+CRd
+CIP
+CDate
+CRTHooks
+E44fb0990 Web.T
+E3a03ec48 Web.MIMEType
+E50f86574 Web.HTMLDate
+Ee3e78e80 Web.Header
+Eb3a0bef5 Web.Page

@@ -1,0 +1,7 @@
+% exports of formsvbtpixmaps
+_define_lib("m3formsvbtpixmaps")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_import_m3lib("m3formsvbtpixmaps", "formsvbtpixmaps", "OS2unix")
+_map_add_interface("FormsVBTPixmapsBundle.i3", "formsvbtpixmaps", "OS2unix", "")
+_map_add_module("FormsVBTPixmapsBundle.m3", "formsvbtpixmaps", "OS2unix", "hidden")

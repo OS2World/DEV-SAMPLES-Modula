@@ -1,0 +1,525 @@
+SLispMath.m3 1729
+SLisp.m3 4850
+SLispMath.i3 92
+SLispClass.i3 1412
+SLisp.i3 1587
+$ 0
+@SLispMath.m3
+ASLispMath
+Rf7235fb1 1 00000000 0
+Sself 18f0e438
+Qe1a6dc82 1e59237d
+Qe6a3d58b 195c2a74
+Qb71e9a8d 48e16572
+Raf795ef1 7 00000000 1
+Sinterp 18f0e438
+Sarg 1c1c45e6
+Sreal e1a6dc82
+Soldi e6a3d58b
+Si e6a3d58b
+Soldr b71e9a8d
+Sr b71e9a8d
+TSLisp.Error
+H0e7b1393 6 8
+IEq
+INe
+IGt
+ILt
+IGe
+ILe
+V1aea0202 18f0e43f 1 0 0 32
+Lcomp 0 8 0e7b1393
+F55a13a75 0e7b1393 50f86574 192
+M00dd1b35 0e7b1393 32
+R674b19b6 4 1c1c45e6 1
+Sinterp 18f0e438
+Scomp 0e7b1393
+Ss1 1c1c45e6
+Ss2 1c1c45e6
+TSLisp.Error
+Rf464abd6 3 1c1c45e6 1
+Sself 1aea0202
+Sinterp 18f0e438
+Sargs b95a4f1b
+TSLisp.Error
+R74b1c19d 3 1c1c45e6 1
+Sself 18f0e43f
+Sinterp 18f0e438
+Sargs b95a4f1b
+TSLisp.Error
+R296b5638 3 1c1c45e6 0
+Sself 18f0e43f
+Sinterp 18f0e438
+Sargs b95a4f1b
+V508ecd5b 1aea0202 0 0 0 0
+Xapply SLispMath.Comparison
+V16b53bf3 18f0e43f 0 0 0 0
+Xapply SLispMath.Or
+V14cae48f 18f0e43f 0 0 0 0
+Xapply SLispMath.And
+Vc630f341 18f0e43f 0 0 0 0
+Xapply SLispMath.Not
+Vf056d280 18f0e43f 0 0 0 0
+Xapply SLispMath.Plus
+Ve37aa264 18f0e43f 0 0 0 0
+Xapply SLispMath.Times
+Vfbd8a2b6 18f0e43f 0 0 0 0
+Xapply SLispMath.Sub
+V342a0776 18f0e43f 0 0 0 0
+Xapply SLispMath.Div
+Vad72cf6c 18f0e43f 0 0 0 0
+Xapply SLispMath.FloatFun
+V2606937a 18f0e43f 0 0 0 0
+Xapply SLispMath.Round
+V1fce3b19 18f0e43f 0 0 0 0
+Xapply SLispMath.Truncate
+Ve56a19f0 18f0e43f 0 0 0 0
+Xapply SLispMath.Sqrt
+V974ea9e0 18f0e43f 0 0 0 0
+Xapply SLispMath.Sin
+Vb45f1f4f 18f0e43f 0 0 0 0
+Xapply SLispMath.Cos
+Vdaebf00a 18f0e43f 0 0 0 0
+Xapply SLispMath.RandomFun
+V1ceec27d 18f0e43f 0 0 0 0
+Xapply SLispMath.RandomGen
+V3b8f52fe 18f0e43f 0 0 0 0
+Xapply SLispMath.RandomNext
+DSLispMath
+DSLisp
+CText
+CSx
+CSLispClass
+CRefList
+CRandom
+CMath
+CFmt
+CAtom
+CRTHooks
+E1aea0202 SLispMath.BuiltinComp
+E0e7b1393 SLispMath.Comparisons
+@SLisp.m3
+ASLisp
+V5d8b28e8 3c78c0a4 1 0 23 32 SLisp_^%#%^__0001M
+Xnew SLisp.new
+Xinit SLisp.init
+Xerror SLisp.error
+Xload SLisp.load1
+XdefineVar SLisp.defineVar
+XdefineFun SLisp.defineFun
+XcheckSymbol SLisp.checkSymbol
+XcheckList SLisp.checkList
+XcheckInt SLisp.checkInt
+XcheckFloat SLisp.checkFloat
+XcheckString SLisp.checkString
+Xeval SLisp.eval
+XevalSymbol SLisp.evalSymbol
+XevalList SLisp.evalList
+XevalInt SLisp.evalInt
+XevalFloat SLisp.evalFloat
+XevalString SLisp.evalString
+XsEval SLisp.sEval
+XvarEval SLisp.varEval
+Xlookup SLisp.lookup
+XlookupAtom SLisp.lookupAtom
+XpushScope SLisp.PushScope
+XpopScope SLisp.PopScope
+Lprops 0 32 b95a4f1b
+R78ed60a5 1 18f0e438 0
+Sself 18f0e438
+R07ab4d9d 2 1c1c45e6 1
+Sself 18f0e438
+Smsg 50f86574
+TSLisp.Error
+Rd603074c 3 8f2ba72a 0
+Sself 18f0e438
+Ss d1d9dd0e
+Screate 1bb638f1
+Rc3bb0662 2 d1d9dd0e 0
+Sself 18f0e438
+Satom 8f2ba72a
+R0c623b83 3 00000000 0
+Sframe 64f1c66f
+Ssymbol d1d9dd0e
+Satom 8f2ba72a
+R4bdccb54 3 00000000 0
+Sself 18f0e438
+Sname 50f86574
+Sval 1c1c45e6
+Rdce0bf9c 2 00000000 0
+Sself 18f0e438
+Scl 18f0e43f
+Rbf287fe1 2 1c1c45e6 1
+Sself 18f0e438
+Se 1c1c45e6
+TSLisp.Error
+R52540d20 2 1c1c45e6 0
+Sself 18f0e438
+Sname 50f86574
+Ra583ba57 2 50f86574 1
+Sself 18f0e438
+Ss 50f86574
+TSLisp.Error
+Rab4bb28c 2 d1d9dd0e 1
+Sself 18f0e438
+Se 1c1c45e6
+TSLisp.Error
+R8bc650ac 2 b95a4f1b 1
+Sself 18f0e438
+Se 1c1c45e6
+TSLisp.Error
+Rb1fed192 2 195c2a74 1
+Sself 18f0e438
+Se 1c1c45e6
+TSLisp.Error
+R7958e17f 2 48e16572 1
+Sself 18f0e438
+Se 1c1c45e6
+TSLisp.Error
+Rd8e7c16e 2 50f86574 1
+Sself 18f0e438
+Se 1c1c45e6
+TSLisp.Error
+R4f6bc27a 3 1c1c45e6 1
+Sself 18f0e438
+Sfun 1c1c45e6
+Sargs b95a4f1b
+TSLisp.Error
+R74b1c19d 3 1c1c45e6 1
+Sself 18f0e43f
+Sinterp 18f0e438
+Sargs b95a4f1b
+TSLisp.Error
+R296b5638 3 1c1c45e6 0
+Sself 18f0e43f
+Sinterp 18f0e438
+Sargs b95a4f1b
+Rc2e8db2a 3 1c1c45e6 1
+Sinterp 18f0e438
+Sargs b95a4f1b
+SletStar 1e59237d
+TSLisp.Error
+R454e9267 2 1c1c45e6 1
+Sinterp 18f0e438
+Sname 50f86574
+TSLisp.Error
+R4894d76b 3 b95a4f1b 2
+Sself d61dea16
+Srd fa67ef2f
+Ssyntax a6aa7593
+TSx.ReadError
+TThread.Alerted
+R98374039 1 1c1c45e6 0
+Ss 1c1c45e6
+K944108cb 32 1
+Lform 0 32 1c1c45e6
+P1d821d09 944108cb SLisp_^%#%^__0002M
+R3abb80f8 2 00000000 0
+Sl b95a4f1b
+Srest b95a4f1b
+P699e9cba 944108cb SLisp_^%#%^__0003M
+K478faa75 256 8
+LampersandRest 0 32 d1d9dd0e
+LampersandEval 32 32 d1d9dd0e
+LampersandNoEval 64 32 d1d9dd0e
+Llist 96 32 d1d9dd0e
+Lappend 128 32 d1d9dd0e
+Lquote 160 32 d1d9dd0e
+Lt 192 32 d1d9dd0e
+Lnil 224 32 d1d9dd0e
+V96d25491 d61dea16 1 0 1 32
+Xread SLisp.ReadList
+Ltable 0 32 5ad3ba2b
+R6a5ba369 3 b95a4f1b 2
+Srm 96d25491
+Srd fa67ef2f
+Ss a6aa7593
+TSx.ReadError
+TThread.Alerted
+Rf66c032e 1 b95a4f1b 0
+Sx b95a4f1b
+M330ebcd7 56e16863 256
+Rcb6daf25 3 00000000 2
+Swr 62761487
+Sch 56e16863
+Sdelim 56e16863
+TThread.Alerted
+TWr.Failure
+R07c776a1 1 1e59237d 0
+Sch 56e16863
+V477d4f1d d61dea16 0 0 0 0
+Xread SLisp.QuoteParser
+Vfec10e2c d61dea16 0 0 0 0
+Xread SLisp.BackQuoteParser
+V8a74f25e d61dea16 0 0 0 0
+Xread SLisp.ComaParser
+V81f235ee 18f0e43f 0 0 0 0
+Xapply SLisp.Abort
+V6ee6e686 18f0e43f 0 0 0 0
+Xapply SLisp.Setq
+V51584aed 18f0e43f 0 0 0 0
+Xapply SLisp.Quote
+Vae22052a 18f0e43f 0 0 0 0
+Xapply SLisp.Intern
+V45f8bab6 18f0e43f 0 0 0 0
+Xapply SLisp.EvalBI
+Vb03a0ce9 18f0e43f 0 0 0 0
+Xapply SLisp.Printname
+V8d638d8e 18f0e43f 0 0 0 0
+Xapply SLisp.Cond
+V391dd9ef 18f0e43f 0 0 0 0
+Xapply SLisp.If
+Vaedffd34 18f0e43f 0 0 0 0
+Xapply SLisp.While
+Vb404ab72 18f0e43f 0 0 0 0
+Xapply SLisp.Listp
+V9ee10de3 18f0e43f 0 0 0 0
+Xapply SLisp.Integerp
+V822294e0 18f0e43f 0 0 0 0
+Xapply SLisp.Floatp
+V4d8d6aaf 18f0e43f 0 0 0 0
+Xapply SLisp.Stringp
+Vceee8f43 18f0e43f 0 0 0 0
+Xapply SLisp.Symbolp
+V6cc93251 18f0e43f 0 0 0 0
+Xapply SLisp.Defun
+Vc6d22139 18f0e43f 0 0 0 0
+Xapply SLisp.UApply
+V814ab38a 18f0e43f 0 0 0 0
+Xapply SLisp.Defmacro
+V0cef5d61 18f0e43f 0 0 0 0
+Xapply SLisp.Progn
+V92529e3e 18f0e43f 0 0 0 0
+Xapply SLisp.Let
+Vd456be28 18f0e43f 0 0 0 0
+Xapply SLisp.LetStar
+Vf1d85526 18f0e43f 0 0 0 0
+Xapply SLisp.Backtrace
+V82638d81 18f0e43f 0 0 0 0
+Xapply SLisp.Load
+Vf8e4e59b 18f0e43f 0 0 0 0
+Xapply SLisp.Print
+V80fc12a1 18f0e43f 0 0 0 0
+Xapply SLisp.Cons
+V3c2b976c 18f0e43f 0 0 0 0
+Xapply SLisp.Car
+V392b976c 18f0e43f 0 0 0 0
+Xapply SLisp.Cdr
+Vbfd7ad9c 18f0e43f 0 0 0 0
+Xapply SLisp.Caar
+Vbad7ad9c 18f0e43f 0 0 0 0
+Xapply SLisp.Cadr
+V31c65634 18f0e43f 0 0 0 0
+Xapply SLisp.Cdar
+V34c65634 18f0e43f 0 0 0 0
+Xapply SLisp.Cddr
+V0a0baf3e 18f0e43f 0 0 0 0
+Xapply SLisp.Concat
+Va125b434 18f0e43f 0 0 0 0
+Xapply SLisp.Append
+Vdbbd3d17 18f0e43f 0 0 0 0
+Xapply SLisp.LIst
+V33da6b74 18f0e43f 0 0 0 0
+Xapply SLisp.Length
+V6c7cd034 18f0e43f 0 0 0 0
+Xapply SLisp.GetProp
+V30b293b2 18f0e43f 0 0 0 0
+Xapply SLisp.SetProp
+DSLispClass
+DSLisp
+CWord
+CRTTypeSRC
+CTextWr
+CTextRd
+CFmt
+CThread
+CStdio
+CSLispMath
+CIntRefTbl
+CAtom
+CIO
+CRefList
+CWr
+CRd
+CSx
+CText
+CRTHooks
+E1d821d09 SLisp.Coma
+E699e9cba SLisp.ComaAt
+E96d25491 SLisp.ReadMacro
+Z18f0e438 5d8b28e8
+@SLispMath.i3
+BSLispMath
+R4dca1690 1 00000000 0
+Sinterp 18f0e438
+DSLispMath
+CSLisp
+CRTHooks
+@SLispClass.i3
+BSLispClass
+K8c96cdb1 160 6
+Lval 0 32 1c1c45e6
+LfunDefined 32 8 1e59237d
+Lmacro 40 8 1e59237d
+LfunFormals 64 32 b95a4f1b
+LfunBody 96 32 b95a4f1b
+Lbuiltin 128 32 18f0e43f
+P8f2ba72a 8c96cdb1
+K69057cca 64 2
+Lsymbol 0 32 d1d9dd0e
+Latom 32 32 8f2ba72a
+P8ac9c00c 69057cca
+P64f1c66f 64f1c66c
+Gea81c45a 8ac9c00c 64
+Pb462f6b6 ea81c45a
+K64f1c66c 160 5
+Lnext 0 32 64f1c66f
+Lsize 32 32 195c2a74
+Ltable 64 32 b462f6b6
+LprocName 96 32 50f86574
+LendScope 128 8 1e59237d
+H1bb638f1 3 8
+ICreateLocal
+ICreateGlobal
+ILookupOnly
+R82b8d496 2 8f2ba72a 0
+Ss d1d9dd0e
+Screate 1bb638f1
+R62d654b3 1 d1d9dd0e 0
+Sat 8f2ba72a
+R7b78c34f 0 00000000 0
+V3c78c0a4 18f0e43b 5 4 0 160
+Wlookup 82b8d496
+WlookupAtom 62d654b3
+WpushScope 7b78c34f
+WpopScope 7b78c34f
+LtopFrame 0 32 64f1c66f
+Lframe 32 32 64f1c66f
+Ldepth 64 32 195c2a74
+LunderEval 96 32 b95a4f1b
+LevalStack 128 32 b95a4f1b
+K971992bc 96 3
+Lstart 0 32 195c2a74
+Lend 32 32 195c2a74
+Lform 64 32 1c1c45e6
+P736dd828 971992bc
+R93d234a2 2 1c1c45e6 2
+Srd fa67ef2f
+Stable 5ad3ba2b
+TRd.EndOfFile
+TSx.ReadError
+R2fb53af6 1 50f86574 1
+Ssx 1c1c45e6
+TSx.PrintError
+R04eb38c1 4 00000000 1
+Swr 62761487
+Ssx 1c1c45e6
+SmaxDepth 97e237e2
+SmaxLength 97e237e2
+TSx.PrintError
+DSLispClass
+CWr
+CSx
+CSLisp
+CIntRefTbl
+CRd
+CRTHooks
+E8f2ba72a SLispClass.Atom
+E8ac9c00c SLispClass.Binding
+E64f1c66f SLispClass.Frame
+E1bb638f1 SLispClass.LookupMode
+E3c78c0a4 SLispClass.TPublic
+E736dd828 SLispClass.Range
+@SLisp.i3
+BSLisp
+Y18f0e438 18f0e43b
+R18f0e43e 2 1c1c45e6 1
+Sinterp 18f0e438
+Sargs b95a4f1b
+TSLisp.Error
+V18f0e43f 9d8fb489 3 1 0 96
+Wapply 18f0e43e
+Lname 0 32 50f86574
+LminArgs 32 32 195c2a74
+LmaxArgs 64 32 195c2a74
+R18f0e43a 0 18f0e438 1
+TSLisp.Error
+R18f0e43d 0 18f0e438 0
+R3d11a979 1 1c1c45e6 1
+Smsg 50f86574
+TSLisp.Error
+R26887e4f 1 1c1c45e6 1
+Sname 50f86574
+TSLisp.Error
+R557545c2 2 00000000 0
+Sname 50f86574
+Sval 1c1c45e6
+R18f0e43c 1 00000000 0
+Scl 18f0e43f
+R9d723e4e 1 d1d9dd0e 1
+Se 1c1c45e6
+TSLisp.Error
+Rbdffdc6e 1 b95a4f1b 1
+Se 1c1c45e6
+TSLisp.Error
+R87c75d50 1 195c2a74 1
+Se 1c1c45e6
+TSLisp.Error
+R4f616dbd 1 48e16572 1
+Se 1c1c45e6
+TSLisp.Error
+Reede4dac 1 50f86574 1
+Se 1c1c45e6
+TSLisp.Error
+R8911f323 1 1c1c45e6 1
+Se 1c1c45e6
+TSLisp.Error
+Rae69a1ef 1 50f86574 1
+St 50f86574
+TSLisp.Error
+V18f0e43b 9d8fb489 0 19 0 0
+Wnew 18f0e43a
+Winit 18f0e43d
+Werror 3d11a979
+Wload 26887e4f
+WdefineVar 557545c2
+WdefineFun 18f0e43c
+WcheckSymbol 9d723e4e
+WcheckList bdffdc6e
+WcheckInt 87c75d50
+WcheckFloat 4f616dbd
+WcheckString eede4dac
+Weval 8911f323
+WevalSymbol 9d723e4e
+WevalList bdffdc6e
+WevalInt 87c75d50
+WevalFloat 4f616dbd
+WevalString eede4dac
+WsEval ae69a1ef
+WvarEval 26887e4f
+R0a633b62 1 1c1c45e6 2
+Srd fa67ef2f
+TRd.EndOfFile
+TSx.ReadError
+Rc91076b8 2 00000000 0
+Swr 62761487
+Ss 1c1c45e6
+DSLisp
+CWr
+CSx
+CRd
+CText
+CRefList
+CAtom
+CRTHooks
+E1c1c45e6 SLisp.Sexp
+Ed1d9dd0e SLisp.Symbol
+Eb95a4f1b SLisp.List
+E50c57d3a SLisp.Integer
+E98634dd7 SLisp.Float
+E50f86574 SLisp.String
+Efa67ef2f SLisp.Reader
+E62761487 SLisp.Writer
+E18f0e43f SLisp.Builtin
+E18f0e438 SLisp.T
+E18f0e43b SLisp.PublicT

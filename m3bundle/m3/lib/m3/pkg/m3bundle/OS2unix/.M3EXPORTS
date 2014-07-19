@@ -1,0 +1,5 @@
+% exports of m3bundle
+_define_pgm("m3bundle")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_map_add_module("m3bundle.m3", "m3bundle", "src", "hidden")

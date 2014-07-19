@@ -1,0 +1,7 @@
+% exports of tempfiles
+_define_lib("TempFiles")
+import_version("m3core", "OS2unix")
+import_version("libm3", "OS2unix")
+_import_m3lib("TempFiles", "tempfiles", "OS2unix")
+_map_add_interface("TempFiles.i3", "tempfiles", "src", "")
+_map_add_module("TempFiles.m3", "tempfiles", "src", "hidden")
